@@ -1,0 +1,1564 @@
+GO ID	GO Category	GO Description	Copies per Million (CPM)	Relative Abundance
+GO:0016021	Cellular_Components	integral component of membrane	123298	12.352280426928658
+GO:0003677	Molecular_Functions	DNA binding	96665.8	9.68420468534283
+GO:0006313	Biological_Processes	transposition, DNA-mediated	60161.4	6.027108985357636
+GO:0004803	Molecular_Functions	transposase activity	59943	6.00522916536671
+GO:0005524	Molecular_Functions	ATP binding	44547.9	4.46291223889094
+GO:0005737	Cellular_Components	cytoplasm	30462.7	3.0518241411977454
+GO:0005886	Cellular_Components	plasma membrane	14601.4	1.4628022143567299
+GO:0006355	Biological_Processes	regulation of transcription, DNA-templated	12911.1	1.2934640287767731
+GO:0016787	Molecular_Functions	hydrolase activity	11937.1	1.1958864432861043
+GO:0006412	Biological_Processes	translation	11688.5	1.1709811170510116
+GO:0003735	Molecular_Functions	structural constituent of ribosome	10619.6	1.06389622882619
+GO:0055085	Biological_Processes	transmembrane transport	10017	1.0035263591992114
+GO:0046872	Molecular_Functions	metal ion binding	10000.2	1.0018432961229864
+GO:0043565	Molecular_Functions	sequence-specific DNA binding	9624.37	0.9641917725552676
+GO:0016887	Molecular_Functions	ATPase activity	9077.1	0.9093649910239754
+GO:0005975	Biological_Processes	carbohydrate metabolic process	8604.15	0.8619837599584601
+GO:0005840	Cellular_Components	ribosome	8576.77	0.859240767873517
+GO:0016740	Molecular_Functions	transferase activity	8453.81	0.8469223490727648
+GO:0015074	Biological_Processes	DNA integration	7686.23	0.7700243993079519
+GO:0003700	Molecular_Functions	DNA-binding transcription factor activity	7600.58	0.7614437830889829
+GO:0008270	Molecular_Functions	zinc ion binding	7504.75	0.7518433107916823
+GO:0022857	Molecular_Functions	transmembrane transporter activity	7153.26	0.7166302250379705
+GO:0016301	Molecular_Functions	kinase activity	7108.19	0.7121150076066928
+GO:0019843	Molecular_Functions	rRNA binding	6889.1	0.6901660618108503
+GO:0009401	Biological_Processes	phosphoenolpyruvate-dependent sugar phosphotransferase system	6806.51	0.6818920035093365
+GO:0003676	Molecular_Functions	nucleic acid binding	6308.32	0.6319821705364449
+GO:0016491	Molecular_Functions	oxidoreductase activity	6141.76	0.6152958023235847
+GO:0003723	Molecular_Functions	RNA binding	5863.78	0.5874471193516173
+GO:0006260	Biological_Processes	DNA replication	5790.03	0.5800586728116411
+GO:0000287	Molecular_Functions	magnesium ion binding	4930.65	0.4939639855231697
+GO:0042626	Molecular_Functions	ATPase-coupled transmembrane transporter activity	4330.68	0.4338575954134812
+GO:0005525	Molecular_Functions	GTP binding	4152.22	0.41597905752162817
+GO:0008982	Molecular_Functions	protein-N(PI)-phosphohistidine-sugar phosphotransferase activity	4094.21	0.4101674807923533
+GO:0006281	Biological_Processes	DNA repair	4075.24	0.40826702206878246
+GO:0006310	Biological_Processes	DNA recombination	3661.09	0.366776511770055
+GO:0000049	Molecular_Functions	tRNA binding	3539.64	0.3546093682815111
+GO:0003824	Molecular_Functions	catalytic activity	3407.81	0.3414023322494424
+GO:0016020	Cellular_Components	membrane	3374.07	0.338022180571357
+GO:0051301	Biological_Processes	cell division	3191.04	0.31968580944984043
+GO:0043190	Cellular_Components	ATP-binding cassette (ABC) transporter complex	2917.72	0.2923039761168736
+GO:0004519	Molecular_Functions	endonuclease activity	2708.1	0.27130375694792697
+GO:0000150	Molecular_Functions	recombinase activity	2659.85	0.2664699597200781
+GO:0000166	Molecular_Functions	nucleotide binding	2579.21	0.2583912569541977
+GO:0008233	Molecular_Functions	peptidase activity	2574.37	0.25790637449652326
+GO:0030246	Molecular_Functions	carbohydrate binding	2428.27	0.24326973667292293
+GO:0003887	Molecular_Functions	DNA-directed DNA polymerase activity	2382.09	0.23864331685982323
+GO:0071555	Biological_Processes	cell wall organization	2317.51	0.23217354224895323
+GO:0003924	Molecular_Functions	GTPase activity	2258.41	0.22625276678437561
+GO:0005887	Cellular_Components	integral component of plasma membrane	2254.43	0.22585404112703183
+GO:0007049	Biological_Processes	cell cycle	2221.57	0.22256204989579637
+GO:0008168	Molecular_Functions	methyltransferase activity	2203.57	0.22075876802841232
+GO:0006265	Biological_Processes	DNA topological change	2182.48	0.21864592277379405
+GO:0008360	Biological_Processes	regulation of cell shape	2155.93	0.21598608201940256
+GO:0006633	Biological_Processes	fatty acid biosynthetic process	2132.17	0.2136057499544557
+GO:0005623	Cellular_Components	cell	2081.49	0.20852850967450995
+GO:0097367	Molecular_Functions	carbohydrate derivative binding	1978.81	0.19824178844434376
+GO:0000160	Biological_Processes	phosphorelay signal transduction system	1951.79	0.1955348619967484
+GO:0016757	Molecular_Functions	transferase activity, transferring glycosyl groups	1936.16	0.19396901224190327
+GO:0004386	Molecular_Functions	helicase activity	1898.64	0.19021017137166724
+GO:0032196	Biological_Processes	transposition	1851.44	0.18548156558608245
+GO:0030170	Molecular_Functions	pyridoxal phosphate binding	1806	0.18092928069419742
+GO:0004553	Molecular_Functions	hydrolase activity, hydrolyzing O-glycosyl compounds	1793.53	0.17968000708940415
+GO:0003746	Molecular_Functions	translation elongation factor activity	1731.69	0.17348473205168038
+GO:0008152	Biological_Processes	metabolic process	1684.41	0.16874811168001835
+GO:0010181	Molecular_Functions	FMN binding	1681.92	0.16849865768836356
+GO:0003899	Molecular_Functions	DNA-directed 5'-3' RNA polymerase activity	1671.22	0.1674267068005297
+GO:0009252	Biological_Processes	peptidoglycan biosynthetic process	1629.75	0.16327214574272883
+GO:0045454	Biological_Processes	cell redox homeostasis	1619.77	0.16227232612959036
+GO:0004222	Molecular_Functions	metalloendopeptidase activity	1612.93	0.16158707901998443
+GO:0016798	Molecular_Functions	hydrolase activity, acting on glycosyl bonds	1607.09	0.16100201423634428
+GO:0003743	Molecular_Functions	translation initiation factor activity	1604.8	0.16077259670988264
+GO:1901135	Biological_Processes	carbohydrate derivative metabolic process	1587.34	0.15902341329852013
+GO:0004177	Molecular_Functions	aminopeptidase activity	1555.49	0.15583260621651007
+GO:0006270	Biological_Processes	DNA replication initiation	1526.17	0.1528952604191934
+GO:0005576	Cellular_Components	extracellular region	1470.88	0.14735617961654549
+GO:0016853	Molecular_Functions	isomerase activity	1451.58	0.1454226607254059
+GO:0003916	Molecular_Functions	DNA topoisomerase activity	1439.12	0.1441743889438723
+GO:0006094	Biological_Processes	gluconeogenesis	1418.19	0.14207757286140857
+GO:0006351	Biological_Processes	transcription, DNA-templated	1416.83	0.14194132489809508
+GO:0004040	Molecular_Functions	amidase activity	1412.48	0.14150553178014397
+GO:0009058	Biological_Processes	biosynthetic process	1368.27	0.13707647114919685
+GO:0003697	Molecular_Functions	single-stranded DNA binding	1363.43	0.1365915886915225
+GO:0015935	Cellular_Components	small ribosomal subunit	1341.35	0.13437956293419806
+GO:0050661	Molecular_Functions	NADP binding	1329.53	0.13319540784128256
+GO:0015934	Cellular_Components	large ribosomal subunit	1319.43	0.1321835663490282
+GO:0006096	Biological_Processes	glycolytic process	1295.42	0.12977818870258984
+GO:0000155	Molecular_Functions	phosphorelay sensor kinase activity	1290.06	0.12924121143541326
+GO:0006605	Biological_Processes	protein targeting	1281.54	0.1283876580181848
+GO:0004748	Molecular_Functions	ribonucleoside-diphosphate reductase activity, thioredoxin disulfide as acceptor	1269.48	0.12717945916703752
+GO:0009432	Biological_Processes	SOS response	1257.76	0.1260053223067186
+GO:0006304	Biological_Processes	DNA modification	1252.66	0.1254943924442931
+GO:0003918	Molecular_Functions	DNA topoisomerase type II (double strand cut, ATP-hydrolyzing) activity	1215.82	0.1218036755557138
+GO:0044205	Biological_Processes	'de novo' UMP biosynthetic process	1210.76	0.12129675298632694
+GO:0016829	Molecular_Functions	lyase activity	1173.14	0.11752789388349434
+GO:0008408	Molecular_Functions	3'-5' exonuclease activity	1168.37	0.11705002418863757
+GO:0003964	Molecular_Functions	RNA-directed DNA polymerase activity	1158.74	0.11608526838958712
+GO:0005215	Molecular_Functions	transporter activity	1139.48	0.11415575679148621
+GO:0050660	Molecular_Functions	flavin adenine dinucleotide binding	1131	0.1133062106672964
+GO:0008237	Molecular_Functions	metallopeptidase activity	1129.94	0.11320001740177268
+GO:0009253	Biological_Processes	peptidoglycan catabolic process	1121.6	0.11236449680321807
+GO:0045892	Biological_Processes	negative regulation of transcription, DNA-templated	1115.77	0.11178043384283759
+GO:0070395	Biological_Processes	lipoteichoic acid biosynthetic process	1074.66	0.10766193842238439
+GO:0071949	Molecular_Functions	FAD binding	1069.93	0.10718807602056626
+GO:0009116	Biological_Processes	nucleoside metabolic process	1054.64	0.10565628825654952
+GO:0009089	Biological_Processes	lysine biosynthetic process via diaminopimelate	1015.25	0.10171010643675744
+GO:0006541	Biological_Processes	glutamine metabolic process	1009.89	0.10117312916958086
+GO:0003684	Molecular_Functions	damaged DNA binding	1009.7	0.10115409452764738
+GO:0103111	Molecular_Functions	D-glucosamine PTS permease activity	1003	0.10048287294367665
+GO:0009274	Cellular_Components	peptidoglycan-based cell wall	992.176	0.09939849944742307
+GO:0005694	Cellular_Components	chromosome	988.817	0.09906198701450401
+GO:0005199	Molecular_Functions	structural constituent of cell wall	986.708	0.09885070248904218
+GO:0030115	Cellular_Components	S-layer	986.708	0.09885070248904218
+GO:0005247	Molecular_Functions	voltage-gated chloride channel activity	980.264	0.09820512758051869
+GO:0003989	Molecular_Functions	acetyl-CoA carboxylase activity	979.671	0.09814571946122098
+GO:0071705	Biological_Processes	nitrogen compound transport	978.873	0.0980657739651003
+GO:0006207	Biological_Processes	'de novo' pyrimidine nucleobase biosynthetic process	974.08	0.09758560007674631
+GO:0065002	Biological_Processes	intracellular protein transmembrane transport	965.41	0.096717019310623
+GO:0003917	Molecular_Functions	DNA topoisomerase type I (single strand cut, ATP-independent) activity	962.608	0.09643630843326689
+GO:0015444	Molecular_Functions	magnesium transmembrane transporter activity, phosphorylative mechanism	923.867	0.09255514494302662
+GO:0008483	Molecular_Functions	transaminase activity	923.834	0.09255183892626975
+GO:0006284	Biological_Processes	base-excision repair	918.915	0.09205904206484408
+GO:0008033	Biological_Processes	tRNA processing	913.943	0.09156093554014225
+GO:0006364	Biological_Processes	rRNA processing	910.96	0.09126209166178632
+GO:0006520	Biological_Processes	cellular amino acid metabolic process	900.8	0.090244239229974
+GO:0016805	Molecular_Functions	dipeptidase activity	897.978	0.08996152470609857
+GO:0046933	Molecular_Functions	proton-transporting ATP synthase activity, rotational mechanism	896.208	0.08978420198913914
+GO:0008654	Biological_Processes	phospholipid biosynthetic process	877.874	0.08794745922488255
+GO:0051287	Molecular_Functions	NAD binding	877.275	0.08788745001162905
+GO:0003796	Molecular_Functions	lysozyme activity	869.065	0.08706495311545001
+GO:0016998	Biological_Processes	cell wall macromolecule catabolic process	869.065	0.08706495311545001
+GO:0006098	Biological_Processes	pentose-phosphate shunt	866.902	0.08684825874438602
+GO:0008658	Molecular_Functions	penicillin binding	855.286	0.08568454084596752
+GO:0006457	Biological_Processes	protein folding	832.002	0.08335189556818032
+GO:0004252	Molecular_Functions	serine-type endopeptidase activity	830.473	0.08319871679177863
+GO:0001522	Biological_Processes	pseudouridine synthesis	825.058	0.08265622949667395
+GO:0009982	Molecular_Functions	pseudouridine synthase activity	825.058	0.08265622949667395
+GO:0015986	Biological_Processes	ATP synthesis coupled proton transport	822.7	0.08241999957204664
+GO:0008299	Biological_Processes	isoprenoid biosynthetic process	815.022	0.08165079967328139
+GO:0015424	Molecular_Functions	ATPase-coupled amino acid transmembrane transporter activity	811.922	0.08134023446278747
+GO:0005315	Molecular_Functions	inorganic phosphate transmembrane transporter activity	810.831	0.08123093554515881
+GO:0009263	Biological_Processes	deoxyribonucleotide biosynthetic process	804.531	0.08059978689157439
+GO:0009360	Cellular_Components	DNA polymerase III complex	804.318	0.08057844805614368
+GO:0050662	Molecular_Functions	coenzyme binding	799.52	0.08009777325615988
+GO:0006298	Biological_Processes	mismatch repair	798.854	0.08003105182706667
+GO:0042742	Biological_Processes	defense response to bacterium	794.021	0.07954687064567405
+GO:1990077	Cellular_Components	primosome complex	785.319	0.07867508404511983
+GO:0030983	Molecular_Functions	mismatched DNA binding	782.515	0.0783941728031118
+GO:0016747	Molecular_Functions	transferase activity, transferring acyl groups other than amino-acyl groups	778.022	0.07794405361254755
+GO:0006629	Biological_Processes	lipid metabolic process	775.618	0.07770321530092582
+GO:0004725	Molecular_Functions	protein tyrosine phosphatase activity	771.894	0.07733013631902926
+GO:0006166	Biological_Processes	purine ribonucleoside salvage	770.923	0.07723285928051649
+GO:0015299	Molecular_Functions	solute:proton antiporter activity	767.822	0.0769221938876966
+GO:0008289	Molecular_Functions	lipid binding	767.541	0.07689404265410023
+GO:0003729	Molecular_Functions	mRNA binding	758.73	0.07601133618001574
+GO:0055114	Biological_Processes	oxidation-reduction process	754.095	0.07554699109916435
+GO:0008236	Molecular_Functions	serine-type peptidase activity	752.31	0.07536816564731542
+GO:0002161	Molecular_Functions	aminoacyl-tRNA editing activity	751.097	0.07524664448591895
+GO:0043093	Biological_Processes	FtsZ-dependent cytokinesis	739.215	0.07405627808879356
+GO:0009317	Cellular_Components	acetyl-CoA carboxylase complex	737.87	0.07392153286036958
+GO:0008889	Molecular_Functions	glycerophosphodiester phosphodiesterase activity	736.347	0.07376895517792369
+GO:0032784	Biological_Processes	regulation of DNA-templated transcription, elongation	735.805	0.07371465635725025
+GO:0006865	Biological_Processes	amino acid transport	730.653	0.07319851701387456
+GO:0043022	Molecular_Functions	ribosome binding	727.742	0.07290688626298816
+GO:0009306	Biological_Processes	protein secretion	724.41	0.0725730787528702
+GO:0015450	Molecular_Functions	P-P-bond-hydrolysis-driven protein transmembrane transporter activity	722.09	0.07234065575662958
+GO:0004527	Molecular_Functions	exonuclease activity	712.518	0.07138171053248514
+GO:0015937	Biological_Processes	coenzyme A biosynthetic process	711.414	0.07127110924461892
+GO:0004197	Molecular_Functions	cysteine-type endopeptidase activity	703.298	0.07045802948708066
+GO:0016746	Molecular_Functions	transferase activity, transferring acyl groups	700.3	0.07015768287383524
+GO:0030261	Biological_Processes	chromosome condensation	686.199	0.0687450118953918
+GO:0009435	Biological_Processes	NAD biosynthetic process	679.916	0.06811556634134881
+GO:0006353	Biological_Processes	DNA-templated transcription, termination	674.065	0.06752939955212303
+GO:0006396	Biological_Processes	RNA processing	662.011	0.06632180179493152
+GO:0016616	Molecular_Functions	oxidoreductase activity, acting on the CH-OH group of donors, NAD or NADP as acceptor	658.927	0.06601283950165306
+GO:0009086	Biological_Processes	methionine biosynthetic process	657.388	0.06585865890199173
+GO:0006400	Biological_Processes	tRNA modification	657.056	0.0658253983697711
+GO:0043952	Biological_Processes	protein transport by the Sec complex	653.497	0.06546884947165889
+GO:0006261	Biological_Processes	DNA-dependent DNA replication	642.229	0.0643399950226765
+GO:0008173	Molecular_Functions	RNA methyltransferase activity	640.507	0.0641674810573634
+GO:0015129	Molecular_Functions	lactate transmembrane transporter activity	637.61	0.06387725285904056
+GO:0006631	Biological_Processes	fatty acid metabolic process	636.679	0.06378398311356641
+GO:0007059	Biological_Processes	chromosome segregation	635.001	0.06361587717059583
+GO:0032153	Cellular_Components	cell division site	622.891	0.06240266920315024
+GO:0015833	Biological_Processes	peptide transport	622.431	0.06235658533320598
+GO:0050151	Molecular_Functions	oleate hydratase activity	622.224	0.062335847591731074
+GO:0009055	Molecular_Functions	electron transfer activity	620.984	0.06221162150753351
+GO:0008170	Molecular_Functions	N-methyltransferase activity	612.384	0.06135005350422779
+GO:0006012	Biological_Processes	galactose metabolic process	610.584	0.0611697253174894
+GO:0030001	Biological_Processes	metal ion transport	604.918	0.06060209225856729
+GO:0006306	Biological_Processes	DNA methylation	603.636	0.06047365851667916
+GO:0009231	Biological_Processes	riboflavin biosynthetic process	590.392	0.05914684379158838
+GO:0008643	Biological_Processes	carbohydrate transport	584.847	0.05859133279410813
+GO:0006886	Biological_Processes	intracellular protein transport	577.935	0.05789887255703266
+GO:0006888	Biological_Processes	endoplasmic reticulum to Golgi vesicle-mediated transport	577.935	0.05789887255703266
+GO:0030127	Cellular_Components	COPII vesicle coat	577.935	0.05789887255703266
+GO:0009088	Biological_Processes	threonine biosynthetic process	576.238	0.05772886314986875
+GO:0005388	Molecular_Functions	calcium transmembrane transporter activity, phosphorylative mechanism	574.347	0.05753941837146745
+GO:0004521	Molecular_Functions	endoribonuclease activity	569.356	0.05703940838257224
+GO:0016773	Molecular_Functions	phosphotransferase activity, alcohol group as acceptor	568.317	0.0569353189458938
+GO:0016788	Molecular_Functions	hydrolase activity, acting on ester bonds	568.208	0.056924399072363525
+GO:0004659	Molecular_Functions	prenyltransferase activity	563.716	0.05647438006412526
+GO:0045261	Cellular_Components	proton-transporting ATP synthase complex, catalytic core F(1)	561.804	0.05628283145687867
+GO:0006817	Biological_Processes	phosphate ion transport	554.767	0.05557784842905749
+GO:0008234	Molecular_Functions	cysteine-type peptidase activity	553.398	0.055440698824810335
+GO:0070063	Molecular_Functions	RNA polymerase binding	547.426	0.054842409974142706
+GO:0003951	Molecular_Functions	NAD+ kinase activity	546.617	0.05476136247243639
+GO:0006352	Biological_Processes	DNA-templated transcription, initiation	544.138	0.054513010486367225
+GO:0046983	Molecular_Functions	protein dimerization activity	539.015	0.053999776430444534
+GO:0015297	Molecular_Functions	antiporter activity	537.193	0.05381724423253488
+GO:0030976	Molecular_Functions	thiamine pyrophosphate binding	536.188	0.05371656099493928
+GO:0004497	Molecular_Functions	monooxygenase activity	535.683	0.05366596892032656
+GO:0009405	Biological_Processes	pathogenesis	523.524	0.05244785201890865
+GO:0042274	Biological_Processes	ribosomal small subunit biogenesis	520.054	0.0521002193478074
+GO:0006813	Biological_Processes	potassium ion transport	518.686	0.051963169925886205
+GO:0000917	Biological_Processes	division septum assembly	513.589	0.05145254061043864
+GO:0005506	Molecular_Functions	iron ion binding	512.488	0.05134223986955032
+GO:0004565	Molecular_Functions	beta-galactosidase activity	512.107	0.05130407040335734
+GO:0009378	Molecular_Functions	four-way junction helicase activity	511.784	0.0512717115120704
+GO:0036370	Molecular_Functions	D-alanyl carrier activity	506.96	0.05078843197161148
+GO:0031071	Molecular_Functions	cysteine desulfurase activity	502.819	0.05037357695978719
+GO:0016874	Molecular_Functions	ligase activity	493.062	0.049396098005339076
+GO:0008324	Molecular_Functions	cation transmembrane transporter activity	491.898	0.04927948577791491
+GO:0009291	Biological_Processes	unidirectional conjugation	489.903	0.04907962203761319
+GO:0009341	Cellular_Components	beta-galactosidase complex	489.458	0.04903504090255841
+GO:0051082	Molecular_Functions	unfolded protein binding	488.788	0.048967918744161336
+GO:0016832	Molecular_Functions	aldehyde-lyase activity	488.455	0.04893455802961474
+GO:0009166	Biological_Processes	nucleotide catabolic process	488.438	0.04893285493007332
+GO:2001295	Biological_Processes	malonyl-CoA biosynthetic process	484.366	0.048524912498740656
+GO:0016597	Molecular_Functions	amino acid binding	484.31	0.04851930228848658
+GO:0004088	Molecular_Functions	carbamoyl-phosphate synthase (glutamine-hydrolyzing) activity	484.038	0.048492052695823885
+GO:0019877	Biological_Processes	diaminopimelate biosynthetic process	483.799	0.048468109119918064
+GO:0003678	Molecular_Functions	DNA helicase activity	475.012	0.04758780702165676
+GO:0051539	Molecular_Functions	4 iron, 4 sulfur cluster binding	473.916	0.04747800719239827
+GO:0006099	Biological_Processes	tricarboxylic acid cycle	472.764	0.04736259715288569
+GO:0004674	Molecular_Functions	protein serine/threonine kinase activity	472.005	0.047286558767477664
+GO:0008484	Molecular_Functions	sulfuric ester hydrolase activity	466.376	0.04672263245461629
+GO:0016987	Molecular_Functions	sigma factor activity	462.991	0.04638351528122213
+GO:0004316	Molecular_Functions	3-oxoacyl-acyl-carrier-protein reductase (NADPH) activity	460.561	0.046140072229125285
+GO:0102131	Molecular_Functions	3-oxo-glutaryl-acp methyl ester reductase activity	456.998	0.04578312260170921
+GO:0102132	Molecular_Functions	3-oxo-pimeloyl-acp methyl ester reductase activity	456.998	0.04578312260170921
+GO:0035999	Biological_Processes	tetrahydrofolate interconversion	456.422	0.04572541758195293
+GO:0004422	Molecular_Functions	hypoxanthine phosphoribosyltransferase activity	451.77	0.04525936940156012
+GO:0032264	Biological_Processes	IMP salvage	451.77	0.04525936940156012
+GO:0052657	Molecular_Functions	guanine phosphoribosyltransferase activity	451.77	0.04525936940156012
+GO:0016226	Biological_Processes	iron-sulfur cluster assembly	444.658	0.0445468726992915
+GO:0006814	Biological_Processes	sodium ion transport	442.43	0.044323666477039746
+GO:0005727	Cellular_Components	extrachromosomal circular DNA	441.672	0.04424772827395768
+GO:0006269	Biological_Processes	DNA replication, synthesis of RNA primer	439.45	0.04402512314566172
+GO:0017038	Biological_Processes	protein import	438.298	0.04390971310614914
+GO:0002949	Biological_Processes	tRNA threonylcarbamoyladenosine modification	434.022	0.04348133348031947
+GO:0000902	Biological_Processes	cell morphogenesis	431.321	0.043210741017885905
+GO:0006289	Biological_Processes	nucleotide-excision repair	429.35	0.04301328165340735
+GO:0044208	Biological_Processes	'de novo' AMP biosynthetic process	429.334	0.0430116787361919
+GO:0032977	Molecular_Functions	membrane insertase activity	429.128	0.042991041177042943
+GO:0007155	Biological_Processes	cell adhesion	427.52	0.04282994799688997
+GO:0004526	Molecular_Functions	ribonuclease P activity	425.853	0.04266294405950502
+GO:0046873	Molecular_Functions	metal ion transmembrane transporter activity	422.983	0.04237542078398323
+GO:0004590	Molecular_Functions	orotidine-5'-phosphate decarboxylase activity	420.103	0.04208689568520179
+GO:0004970	Molecular_Functions	ionotropic glutamate receptor activity	418.27	0.04190326148170651
+GO:0000036	Molecular_Functions	acyl carrier activity	415.985	0.041674344866874706
+GO:0008776	Molecular_Functions	acetate kinase activity	415.569	0.04163266901927294
+GO:0015035	Molecular_Functions	protein disulfide oxidoreductase activity	414.695	0.04154510966637885
+GO:0003896	Molecular_Functions	DNA primase activity	412.748	0.04135005467772348
+GO:0015415	Molecular_Functions	ATPase-coupled phosphate ion transmembrane transporter activity	412.308	0.04130597445429853
+GO:0004845	Molecular_Functions	uracil phosphoribosyltransferase activity	412.107	0.04128583780677942
+GO:0006401	Biological_Processes	RNA catabolic process	409.872	0.041061930308245904
+GO:0030145	Molecular_Functions	manganese ion binding	408.597	0.040934197842639526
+GO:0032549	Molecular_Functions	ribonucleoside binding	403.348	0.04040834081364516
+GO:0004559	Molecular_Functions	alpha-mannosidase activity	401.094	0.04018252985091829
+GO:0006013	Biological_Processes	mannose metabolic process	401.094	0.04018252985091829
+GO:0022877	Molecular_Functions	protein-N(PI)-phosphohistidine-fructose phosphotransferase system transporter activity	400.313	0.04010428745433901
+GO:0070180	Molecular_Functions	large ribosomal subunit rRNA binding	399.165	0.0399892781441303
+GO:0050567	Molecular_Functions	glutaminyl-tRNA synthase (glutamine-hydrolyzing) activity	397.199	0.03979231969128157
+GO:0006662	Biological_Processes	glycerol ether metabolic process	394.845	0.039556490495958135
+GO:0016407	Molecular_Functions	acetyltransferase activity	392.989	0.039370552098965644
+GO:0006417	Biological_Processes	regulation of translation	388.806	0.038951489429450786
+GO:0042254	Biological_Processes	ribosome biogenesis	388.757	0.038946580495478465
+GO:0004514	Molecular_Functions	nicotinate-nucleotide diphosphorylase (carboxylating) activity	388.152	0.03888597018826917
+GO:0004801	Molecular_Functions	sedoheptulose-7-phosphate:D-glyceraldehyde-3-phosphate glyceronetransferase activity	385.558	0.03862609723471394
+GO:0009228	Biological_Processes	thiamine biosynthetic process	384.091	0.03847912976252214
+GO:0008808	Molecular_Functions	cardiolipin synthase activity	383.682	0.03843815519120214
+GO:0032049	Biological_Processes	cardiolipin biosynthetic process	383.682	0.03843815519120214
+GO:0043772	Molecular_Functions	acyl-phosphate glycerol-3-phosphate acyltransferase activity	380.767	0.03814612371101189
+GO:0016149	Molecular_Functions	translation release factor activity, codon specific	377.718	0.03784066779914223
+GO:0006464	Biological_Processes	cellular protein modification process	376.237	0.037692297774386915
+GO:0031564	Biological_Processes	transcription antitermination	374.329	0.03750114989644421
+GO:0031119	Biological_Processes	tRNA pseudouridine synthesis	369.622	0.03702959168812328
+GO:0106029	Molecular_Functions	tRNA pseudouridine synthase activity	369.622	0.03702959168812328
+GO:0045910	Biological_Processes	negative regulation of DNA recombination	368.9	0.03695726004877599
+GO:0008094	Molecular_Functions	DNA-dependent ATPase activity	366.532	0.036720028300889024
+GO:0016791	Molecular_Functions	phosphatase activity	365.236	0.03659019200643737
+GO:0016743	Molecular_Functions	carboxyl- or carbamoyltransferase activity	362.913	0.03635746846321887
+GO:0004826	Molecular_Functions	phenylalanine-tRNA ligase activity	356.737	0.03573874241805422
+GO:0004849	Molecular_Functions	uridine kinase activity	355.066	0.035571337751365395
+GO:0045263	Cellular_Components	proton-transporting ATP synthase complex, coupling factor F(o)	354.079	0.03547245779563717
+GO:0042586	Molecular_Functions	peptide deformylase activity	350.764	0.035140353385060615
+GO:0008108	Molecular_Functions	UDP-glucose:hexose-1-phosphate uridylyltransferase activity	348.934	0.03495701972854324
+GO:0015969	Biological_Processes	guanosine tetraphosphate metabolic process	347.832	0.03484661880532895
+GO:0004749	Molecular_Functions	ribose phosphate diphosphokinase activity	346.331	0.03469624513405432
+GO:0009165	Biological_Processes	nucleotide biosynthetic process	346.331	0.03469624513405432
+GO:0042301	Molecular_Functions	phosphate ion binding	343.9	0.034452701899631503
+GO:0004825	Molecular_Functions	methionine-tRNA ligase activity	343.608	0.034423448660449496
+GO:0022885	Molecular_Functions	bacteriocin transmembrane transporter activity	343.472	0.03440982386411815
+GO:0006006	Biological_Processes	glucose metabolic process	343.35	0.03439760162035033
+GO:0043571	Biological_Processes	maintenance of CRISPR repeat elements	342.467	0.034309140626522544
+GO:0051607	Biological_Processes	defense response to virus	342.467	0.034309140626522544
+GO:0034257	Molecular_Functions	nicotinamide riboside transmembrane transporter activity	341.414	0.03420364863728058
+GO:0004523	Molecular_Functions	RNA-DNA hybrid ribonuclease activity	338.705	0.03393225471623928
+GO:0006235	Biological_Processes	dTTP biosynthetic process	338.141	0.03387575188439459
+GO:0005351	Molecular_Functions	carbohydrate:proton symporter activity	335.917	0.033652946391446684
+GO:0005829	Cellular_Components	cytosol	332.326	0.03329319165890358
+GO:0048037	Molecular_Functions	cofactor binding	330.208	0.03308100549250806
+GO:0045148	Molecular_Functions	tripeptide aminopeptidase activity	329.327	0.0329927448633322
+GO:0000104	Molecular_Functions	succinate dehydrogenase activity	328.638	0.032923719240741785
+GO:0015079	Molecular_Functions	potassium ion transmembrane transporter activity	327.337	0.0327933820346603
+GO:0004612	Molecular_Functions	phosphoenolpyruvate carboxykinase (ATP) activity	326.819	0.03274148758981003
+GO:0006614	Biological_Processes	SRP-dependent cotranslational protein targeting to membrane	325.082	0.032567470889607465
+GO:0006518	Biological_Processes	peptide metabolic process	324.284	0.03248752539348678
+GO:0008276	Molecular_Functions	protein methyltransferase activity	324.225	0.032481614636254805
+GO:0047473	Molecular_Functions	D-alanine D-alanyl carrier protein ligase activity	323.06	0.03236490222650466
+GO:0047429	Molecular_Functions	nucleoside-triphosphate diphosphatase activity	321.803	0.03223897304276568
+GO:0009229	Biological_Processes	thiamine diphosphate biosynthetic process	319.26	0.0319842093878347
+GO:0052906	Molecular_Functions	tRNA (guanine(37)-N(1))-methyltransferase activity	318.78	0.031936121871371126
+GO:0006526	Biological_Processes	arginine biosynthetic process	315.728	0.03163036541252357
+GO:0004750	Molecular_Functions	ribulose-phosphate 3-epimerase activity	314.28	0.03148530140452512
+GO:0004072	Molecular_Functions	aspartate kinase activity	314.039	0.03146115746396737
+GO:0019350	Biological_Processes	teichoic acid biosynthetic process	313.866	0.03144382592157529
+GO:0003755	Molecular_Functions	peptidyl-prolyl cis-trans isomerase activity	311.303	0.031187058620124997
+GO:0032300	Cellular_Components	mismatch repair complex	307.147	0.030770700873411216
+GO:0015658	Molecular_Functions	branched-chain amino acid transmembrane transporter activity	306.334	0.030689252642401042
+GO:0046677	Biological_Processes	response to antibiotic	304.081	0.030463541862000138
+GO:0140078	Molecular_Functions	class I DNA-(apurinic or apyrimidinic site) endonuclease activity	299.969	0.030051592137628855
+GO:0033608	Molecular_Functions	formyl-CoA transferase activity	297.722	0.029826482451183745
+GO:0046538	Molecular_Functions	2,3-bisphosphoglycerate-dependent phosphoglycerate mutase activity	297.578	0.02981205619624467
+GO:0006308	Biological_Processes	DNA catabolic process	295.353	0.029589150520970817
+GO:0000271	Biological_Processes	polysaccharide biosynthetic process	294.367	0.02949037074756856
+GO:0006189	Biological_Processes	'de novo' IMP biosynthetic process	293.75	0.02942855825244767
+GO:0008113	Molecular_Functions	peptide-methionine (S)-S-oxide reductase activity	293.625	0.02941603546170195
+GO:0006082	Biological_Processes	organic acid metabolic process	292.465	0.029299823963581644
+GO:0035435	Biological_Processes	phosphate ion transmembrane transport	292.239	0.02927718275791338
+GO:0005971	Cellular_Components	ribonucleoside-diphosphate reductase complex	291.511	0.029204250024610294
+GO:0030420	Biological_Processes	establishment of competence for transformation	290.664	0.029119395594517275
+GO:0016990	Molecular_Functions	arginine deiminase activity	289.61	0.029013803422949347
+GO:0019547	Biological_Processes	arginine catabolic process to ornithine	289.61	0.029013803422949347
+GO:0008855	Molecular_Functions	exodeoxyribonuclease VII activity	289.153	0.028968020099982984
+GO:0009318	Cellular_Components	exodeoxyribonuclease VII complex	289.153	0.028968020099982984
+GO:0004315	Molecular_Functions	3-oxoacyl-acyl-carrier-protein synthase activity	288.252	0.028877755824287817
+GO:0016620	Molecular_Functions	oxidoreductase activity, acting on the aldehyde or oxo group of donors, NAD or NADP as acceptor	287.134	0.028765751983858077
+GO:0050144	Molecular_Functions	nucleoside deoxyribosyltransferase activity	286.697	0.028721972307411033
+GO:0070403	Molecular_Functions	NAD+ binding	286.036	0.02865575178994765
+GO:0030643	Biological_Processes	cellular phosphate ion homeostasis	285.092	0.028561179674235954
+GO:0045936	Biological_Processes	negative regulation of phosphate metabolic process	285.092	0.028561179674235954
+GO:0033818	Molecular_Functions	beta-ketoacyl-acyl-carrier-protein synthase III activity	284.71	0.028522910025717024
+GO:0004518	Molecular_Functions	nuclease activity	284.122	0.028464002818049155
+GO:0008239	Molecular_Functions	dipeptidyl-peptidase activity	283.612	0.028412909831806603
+GO:0009103	Biological_Processes	lipopolysaccharide biosynthetic process	283.322	0.028383856957276528
+GO:0044209	Biological_Processes	AMP salvage	277.604	0.0278110144174042
+GO:0008964	Molecular_Functions	phosphoenolpyruvate carboxylase activity	276.778	0.02772826381615647
+GO:0015977	Biological_Processes	carbon fixation	276.778	0.02772826381615647
+GO:0043365	Molecular_Functions	formate-C-acetyltransferase-activating enzyme activity	276.614	0.027711833914698076
+GO:0016861	Molecular_Functions	intramolecular oxidoreductase activity, interconverting aldoses and ketoses	275.035	0.027553646021998116
+GO:0003941	Molecular_Functions	L-serine ammonia-lyase activity	274.663	0.027516378196738845
+GO:0015407	Molecular_Functions	ATPase-coupled monosaccharide transmembrane transporter activity	273.919	0.027441842546220303
+GO:0009376	Cellular_Components	HslUV protease complex	272.849	0.027334647457436915
+GO:0043531	Molecular_Functions	ADP binding	272.546	0.027304292212669286
+GO:0009380	Cellular_Components	excinuclease repair complex	272.305	0.027280148272111535
+GO:0030163	Biological_Processes	protein catabolic process	270.343	0.02708359054856668
+GO:0070043	Molecular_Functions	rRNA (guanine-N7-)-methyltransferase activity	269.749	0.027024082246943006
+GO:0020037	Molecular_Functions	heme binding	269.157	0.02696477430997126
+GO:0004823	Molecular_Functions	leucine-tRNA ligase activity	268.536	0.02690256108554651
+GO:0006429	Biological_Processes	leucyl-tRNA aminoacylation	268.536	0.02690256108554651
+GO:0006107	Biological_Processes	oxaloacetate metabolic process	268.185	0.026867397089132525
+GO:0043822	Molecular_Functions	ribonuclease M5 activity	266.815	0.026730147302559407
+GO:0017013	Biological_Processes	protein flavinylation	265.743	0.02662275184912409
+GO:0044206	Biological_Processes	UMP salvage	264.154	0.026463562133164465
+GO:0009381	Molecular_Functions	excinuclease ABC activity	264.085	0.026456649552672826
+GO:0017111	Molecular_Functions	nucleoside-triphosphatase activity	263.429	0.026390929946839274
+GO:0004616	Molecular_Functions	phosphogluconate dehydrogenase (decarboxylating) activity	262.778	0.026325711252635556
+GO:0019646	Biological_Processes	aerobic electron transport chain	262.003	0.026248069950012075
+GO:0008409	Molecular_Functions	5'-3' exonuclease activity	261.897	0.026237450623459706
+GO:0006432	Biological_Processes	phenylalanyl-tRNA aminoacylation	261.535	0.026201184621460094
+GO:0008661	Molecular_Functions	1-deoxy-D-xylulose-5-phosphate synthase activity	261.374	0.026185055266979604
+GO:0016114	Biological_Processes	terpenoid biosynthetic process	261.374	0.026185055266979604
+GO:0033817	Molecular_Functions	beta-ketoacyl-acyl-carrier-protein synthase II activity	260.984	0.026145984159852944
+GO:0004318	Molecular_Functions	enoyl-acyl-carrier-protein reductase (NADH) activity	257.965	0.025843533717762258
+GO:0019829	Molecular_Functions	ATPase-coupled cation transmembrane transporter activity	257.29	0.02577591064773536
+GO:0004018	Molecular_Functions	N6-(1,2-dicarboxyethyl)AMP AMP-lyase (fumarate-forming) activity	257.259	0.02577280499563042
+GO:0070626	Molecular_Functions	(S)-2-(5-amino-1-(5-phospho-D-ribosyl)imidazole-4-carboxamido)succinate AMP-lyase (fumarate-forming) activity	257.259	0.02577280499563042
+GO:0016631	Molecular_Functions	enoyl-acyl-carrier-protein reductase activity	257.124	0.025759280381625043
+GO:0008725	Molecular_Functions	DNA-3-methyladenine glycosylase activity	256.934	0.025740245739691543
+GO:0019521	Biological_Processes	D-gluconate metabolic process	256.762	0.025723014379625427
+GO:0016783	Molecular_Functions	sulfurtransferase activity	256.688	0.025715600887503957
+GO:0015103	Molecular_Functions	inorganic anion transmembrane transporter activity	256.616	0.025708387760034423
+GO:0004360	Molecular_Functions	glutamine-fructose-6-phosphate transaminase (isomerizing) activity	254.476	0.02549399758246766
+GO:1901137	Biological_Processes	carbohydrate derivative biosynthetic process	254.476	0.02549399758246766
+GO:0015267	Molecular_Functions	channel activity	253.822	0.02542847834128604
+GO:0006730	Biological_Processes	one-carbon metabolic process	253.193	0.02536546365825356
+GO:0008745	Molecular_Functions	N-acetylmuramoyl-L-alanine amidase activity	252.536	0.025299643870094046
+GO:0008784	Molecular_Functions	alanine racemase activity	251.699	0.02521579126326069
+GO:0006072	Biological_Processes	glycerol-3-phosphate metabolic process	251.527	0.02519855990319457
+GO:0006084	Biological_Processes	acetyl-CoA metabolic process	250.933	0.0251390516015709
+GO:0009403	Biological_Processes	toxin biosynthetic process	250.732	0.02511891495405178
+GO:0006220	Biological_Processes	pyrimidine nucleotide metabolic process	250.063	0.02505189297798067
+GO:0030632	Biological_Processes	D-alanine biosynthetic process	250.03	0.0250485869612238
+GO:0070069	Cellular_Components	cytochrome complex	248.399	0.024885189587573613
+GO:0090529	Biological_Processes	cell septum assembly	246.953	0.0247403259442271
+GO:0009346	Cellular_Components	citrate lyase complex	246.872	0.02473221117582387
+GO:0004314	Molecular_Functions	acyl-carrier-protein S-malonyltransferase activity	246.161	0.024660981542062203
+GO:0003908	Molecular_Functions	methylated-DNA-protein-cysteine S-methyltransferase activity	246.14	0.024658877713216915
+GO:0003983	Molecular_Functions	UTP:glucose-1-phosphate uridylyltransferase activity	245.687	0.02461349511955442
+GO:0006011	Biological_Processes	UDP-glucose metabolic process	245.687	0.02461349511955442
+GO:0008821	Molecular_Functions	crossover junction endodeoxyribonuclease activity	244.638	0.024508403859616317
+GO:0004075	Molecular_Functions	biotin carboxylase activity	241.801	0.0242241866008514
+GO:0031012	Cellular_Components	extracellular matrix	241.404	0.02418441421744299
+GO:0004077	Molecular_Functions	biotin-acetyl-CoA-carboxylase ligase activity	241.303	0.024174295802520444
+GO:0003920	Molecular_Functions	GMP reductase activity	240.676	0.024111481484139902
+GO:0009279	Cellular_Components	cell outer membrane	240.454	0.0240892410077755
+GO:0051920	Molecular_Functions	peroxiredoxin activity	240.11	0.02405477828764327
+GO:0001123	Biological_Processes	transcription initiation from bacterial-type RNA polymerase promoter	239.743	0.02401801137401383
+GO:0003690	Molecular_Functions	double-stranded DNA binding	239.306	0.023974231697566788
+GO:0061634	Molecular_Functions	alpha-D-xyloside xylohydrolase	238.855	0.02392904946855622
+GO:0004370	Molecular_Functions	glycerol kinase activity	238.641	0.02390761045079954
+GO:0006048	Biological_Processes	UDP-N-acetylglucosamine biosynthetic process	238.237	0.023867136791109366
+GO:0043023	Molecular_Functions	ribosomal large subunit binding	237.689	0.023812236876480118
+GO:0003871	Molecular_Functions	5-methyltetrahydropteroyltriglutamate-homocysteine S-methyltransferase activity	236.12	0.023655050807039814
+GO:0004070	Molecular_Functions	aspartate carbamoyltransferase activity	235.841	0.02362709993809536
+GO:0016881	Molecular_Functions	acid-amino acid ligase activity	235.699	0.023612874047808218
+GO:0000724	Biological_Processes	double-strand break repair via homologous recombination	235.25	0.023567892183449582
+GO:0004798	Molecular_Functions	thymidylate kinase activity	230.359	0.02307790042715096
+GO:0006233	Biological_Processes	dTDP biosynthetic process	230.359	0.02307790042715096
+GO:0009758	Biological_Processes	carbohydrate utilization	229.94	0.023035924032571292
+GO:0050053	Molecular_Functions	levansucrase activity	229.94	0.023035924032571292
+GO:0052381	Molecular_Functions	tRNA dimethylallyltransferase activity	229.77	0.023018893037157113
+GO:0002100	Biological_Processes	tRNA wobble adenosine to inosine editing	229.436	0.022985432140284544
+GO:0052717	Molecular_Functions	tRNA-specific adenosine-34 deaminase activity	229.436	0.022985432140284544
+GO:1904680	Molecular_Functions	peptide transmembrane transporter activity	229.227	0.022964494034157693
+GO:0004324	Molecular_Functions	ferredoxin-NADP+ reductase activity	228.269	0.022868519365882477
+GO:0033982	Molecular_Functions	3-dehydro-L-gulonate-6-phosphate decarboxylase activity	227.363	0.022777754178557482
+GO:0016879	Molecular_Functions	ligase activity, forming carbon-nitrogen bonds	226.782	0.022719548247171366
+GO:0006979	Biological_Processes	response to oxidative stress	223.994	0.02244023992237877
+GO:0003724	Molecular_Functions	RNA helicase activity	223.734	0.02241419251762767
+GO:0004151	Molecular_Functions	dihydroorotase activity	223.248	0.0223655039072083
+GO:0004817	Molecular_Functions	cysteine-tRNA ligase activity	222.963	0.022336951944308053
+GO:0006423	Biological_Processes	cysteinyl-tRNA aminoacylation	222.963	0.022336951944308053
+GO:0004140	Molecular_Functions	dephospho-CoA kinase activity	221.717	0.022212124766154695
+GO:0033499	Biological_Processes	galactose catabolic process via UDP-galactose	221.188	0.02215912831571879
+GO:0047112	Molecular_Functions	pyruvate oxidase activity	220.496	0.022089802146150476
+GO:0015293	Molecular_Functions	symporter activity	219.833	0.022023381264035163
+GO:0006282	Biological_Processes	regulation of DNA repair	219.343	0.02197429192431193
+GO:0009037	Molecular_Functions	tyrosine-based site-specific recombinase activity	218.381	0.021877916526732853
+GO:0004152	Molecular_Functions	dihydroorotate dehydrogenase activity	218	0.02183974706053989
+GO:0006431	Biological_Processes	methionyl-tRNA aminoacylation	216.566	0.021696085605104963
+GO:0008381	Molecular_Functions	mechanosensitive ion channel activity	215.681	0.021607424246625248
+GO:0009234	Biological_Processes	menaquinone biosynthetic process	215.521	0.02159139507447072
+GO:0004632	Molecular_Functions	phosphopantothenate--cysteine ligase activity	214.23	0.0214620596916489
+GO:0004633	Molecular_Functions	phosphopantothenoylcysteine decarboxylase activity	214.23	0.0214620596916489
+GO:0015941	Biological_Processes	pantothenate catabolic process	214.23	0.0214620596916489
+GO:0004421	Molecular_Functions	hydroxymethylglutaryl-CoA synthase activity	214.009	0.021439919397610464
+GO:0030091	Biological_Processes	protein repair	213.458	0.02138471893600332
+GO:0008706	Molecular_Functions	6-phospho-beta-glucosidase activity	213.022	0.02134103944188224
+GO:0103047	Molecular_Functions	methyl beta-D-glucoside 6-phosphate glucohydrolase activity	213.022	0.02134103944188224
+GO:0006857	Biological_Processes	oligopeptide transport	212.963	0.021335128684650262
+GO:0036361	Molecular_Functions	racemase activity, acting on amino acids and derivatives	212.701	0.021308880915247224
+GO:0015144	Molecular_Functions	carbohydrate transmembrane transporter activity	212.201	0.021258789752264334
+GO:0003883	Molecular_Functions	CTP synthase activity	212.193	0.02125798829365661
+GO:0034220	Biological_Processes	ion transmembrane transport	212.089	0.02124756933175617
+GO:0015416	Molecular_Functions	ATPase-coupled organic phosphonate transmembrane transporter activity	211.877	0.021226330678651425
+GO:0019303	Biological_Processes	D-ribose catabolic process	211.77	0.021215611169773087
+GO:0004412	Molecular_Functions	homoserine dehydrogenase activity	210.895	0.021127951634553027
+GO:0006741	Biological_Processes	NADP biosynthetic process	210.482	0.02108657633392916
+GO:0019674	Biological_Processes	NAD metabolic process	210.482	0.02108657633392916
+GO:0006090	Biological_Processes	pyruvate metabolic process	210.424	0.021080765759023144
+GO:0033743	Molecular_Functions	peptide-methionine (R)-S-oxide reductase activity	210.298	0.021068142785951458
+GO:0016920	Molecular_Functions	pyroglutamyl-peptidase activity	209.926	0.021030874960692187
+GO:0008959	Molecular_Functions	phosphate acetyltransferase activity	209.438	0.020981985985620885
+GO:0042158	Biological_Processes	lipoprotein biosynthetic process	208.518	0.02088981824573237
+GO:0051191	Biological_Processes	prosthetic group biosynthetic process	208.082	0.02084613875161129
+GO:0004132	Molecular_Functions	dCMP deaminase activity	206.942	0.020731930900010305
+GO:0006268	Biological_Processes	DNA unwinding involved in DNA replication	206.77	0.02071469953994419
+GO:0019538	Biological_Processes	protein metabolic process	206.609	0.0206985701854637
+GO:0000105	Biological_Processes	histidine biosynthetic process	206.282	0.020665810564872888
+GO:0008986	Molecular_Functions	pyruvate, water dikinase activity	204.721	0.020509425954040306
+GO:0004536	Molecular_Functions	deoxyribonuclease activity	204.457	0.02048297781998534
+GO:0004066	Molecular_Functions	asparagine synthase (glutamine-hydrolyzing) activity	204.192	0.02045642950360441
+GO:0006529	Biological_Processes	asparagine biosynthetic process	204.192	0.02045642950360441
+GO:0009245	Biological_Processes	lipid A biosynthetic process	204.114	0.02044861528217908
+GO:0044210	Biological_Processes	'de novo' CTP biosynthetic process	203.295	0.020366565957213104
+GO:0008774	Molecular_Functions	acetaldehyde dehydrogenase (acetylating) activity	202.766	0.020313569506777207
+GO:0050519	Molecular_Functions	holo-citrate lyase synthase activity	202.749	0.020311866407235788
+GO:0009097	Biological_Processes	isoleucine biosynthetic process	202.732	0.020310163307694373
+GO:0051537	Molecular_Functions	2 iron, 2 sulfur cluster binding	202.543	0.02029122884808684
+GO:0004019	Molecular_Functions	adenylosuccinate synthase activity	201.895	0.020226310700861012
+GO:0004525	Molecular_Functions	ribonuclease III activity	201.68	0.020204771500778373
+GO:0102955	Molecular_Functions	S-adenosylmethionine:2-demethylmenaquinol-7 methyltransferase activity	201.619	0.02019866037889446
+GO:0016462	Molecular_Functions	pyrophosphatase activity	201.571	0.020193851627248103
+GO:0042883	Biological_Processes	cysteine transport	201.298	0.020166501852259443
+GO:0000453	Biological_Processes	enzyme-directed rRNA 2'-O-methylation	201.257	0.020162394376894845
+GO:0070677	Molecular_Functions	rRNA (cytosine-2'-O-)-methyltransferase activity	201.257	0.020162394376894845
+GO:0006177	Biological_Processes	GMP biosynthetic process	201.187	0.020155381614077244
+GO:0004427	Molecular_Functions	inorganic diphosphatase activity	200.983	0.020134944419580223
+GO:0004747	Molecular_Functions	ribokinase activity	200.722	0.020108796832503155
+GO:0004067	Molecular_Functions	asparaginase activity	200.187	0.020055199288111464
+GO:0009379	Cellular_Components	Holliday junction helicase complex	199.624	0.019998796638592727
+GO:0070038	Molecular_Functions	rRNA (pseudouridine-N3-)-methyltransferase activity	199.338	0.019970144493366516
+GO:0051536	Molecular_Functions	iron-sulfur cluster binding	199.252	0.01996152881333346
+GO:0003905	Molecular_Functions	alkylbase DNA N-glycosylase activity	199.227	0.019959024255184313
+GO:0006164	Biological_Processes	purine nucleotide biosynthetic process	198.827	0.019918951324798005
+GO:0045226	Biological_Processes	extracellular polysaccharide biosynthetic process	198.806	0.01991684749595272
+GO:0003922	Molecular_Functions	GMP synthase (glutamine-hydrolyzing) activity	198.417	0.01987787657115203
+GO:0004420	Molecular_Functions	hydroxymethylglutaryl-CoA reductase (NADPH) activity	198.226	0.01985874174689257
+GO:0015936	Biological_Processes	coenzyme A metabolic process	198.226	0.01985874174689257
+GO:0042282	Molecular_Functions	hydroxymethylglutaryl-CoA reductase activity	198.226	0.01985874174689257
+GO:0000310	Molecular_Functions	xanthine phosphoribosyltransferase activity	197.919	0.019827985772821077
+GO:0032265	Biological_Processes	XMP salvage	197.919	0.019827985772821077
+GO:0046110	Biological_Processes	xanthine metabolic process	197.919	0.019827985772821077
+GO:0036422	Molecular_Functions	heptaprenyl diphosphate synthase activity	197.864	0.01982247574489296
+GO:0004820	Molecular_Functions	glycine-tRNA ligase activity	197.728	0.01980885094856161
+GO:0048500	Cellular_Components	signal recognition particle	197.391	0.019775089504711144
+GO:0016810	Molecular_Functions	hydrolase activity, acting on carbon-nitrogen (but not peptide) bonds	197.279	0.019763869084202978
+GO:0019239	Molecular_Functions	deaminase activity	197.248	0.01976076343209804
+GO:0004791	Molecular_Functions	thioredoxin-disulfide reductase activity	196.781	0.01971397828587202
+GO:0019430	Biological_Processes	removal of superoxide radicals	196.781	0.01971397828587202
+GO:0008881	Molecular_Functions	glutamate racemase activity	196.77	0.019712876280286395
+GO:0004459	Molecular_Functions	L-lactate dehydrogenase activity	196.625	0.019698349843021358
+GO:0005618	Cellular_Components	cell wall	196.191	0.01965487071355221
+GO:0004345	Molecular_Functions	glucose-6-phosphate dehydrogenase activity	196.121	0.019647857950734607
+GO:0009294	Biological_Processes	DNA mediated transformation	196.082	0.019643950840021938
+GO:0047355	Molecular_Functions	CDP-glycerol glycerophosphotransferase activity	196.031	0.019638841541397684
+GO:0006426	Biological_Processes	glycyl-tRNA aminoacylation	195.918	0.019627520938563552
+GO:0004347	Molecular_Functions	glucose-6-phosphate isomerase activity	195.772	0.019612894318972545
+GO:0004488	Molecular_Functions	methylenetetrahydrofolate dehydrogenase (NADP+) activity	195.587	0.019594360588668876
+GO:0008926	Molecular_Functions	mannitol-1-phosphate 5-dehydrogenase activity	195.548	0.019590453477956214
+GO:0030255	Biological_Processes	protein secretion by the type IV secretion system	195.416	0.01957722941092873
+GO:0008998	Molecular_Functions	ribonucleoside-triphosphate reductase activity	195.183	0.019553886928978702
+GO:0008859	Molecular_Functions	exoribonuclease II activity	194.448	0.019480252919393856
+GO:0004332	Molecular_Functions	fructose-bisphosphate aldolase activity	194.374	0.019472839427272386
+GO:0047244	Molecular_Functions	N-acetylglucosaminyldiphosphoundecaprenol N-acetyl-beta-D-mannosaminyltransferase activity	191.983	0.019233303485888212
+GO:0004824	Molecular_Functions	lysine-tRNA ligase activity	191.593	0.019194232378761555
+GO:0004830	Molecular_Functions	tryptophan-tRNA ligase activity	191.021	0.01913692808830913
+GO:0030490	Biological_Processes	maturation of SSU-rRNA	190.72	0.019106773208193432
+GO:0004807	Molecular_Functions	triose-phosphate isomerase activity	190.632	0.01909795716350844
+GO:0008761	Molecular_Functions	UDP-N-acetylglucosamine 2-epimerase activity	190.529	0.019087638383933965
+GO:0009013	Molecular_Functions	succinate-semialdehyde dehydrogenase NAD(P)+ activity	190.422	0.019076918875055627
+GO:0004814	Molecular_Functions	arginine-tRNA ligase activity	190.219	0.019056581862884576
+GO:0006420	Biological_Processes	arginyl-tRNA aminoacylation	190.219	0.019056581862884576
+GO:0004329	Molecular_Functions	formate-tetrahydrofolate ligase activity	190.093	0.019043958889812886
+GO:0006430	Biological_Processes	lysyl-tRNA aminoacylation	189.869	0.01902151804879655
+GO:0006436	Biological_Processes	tryptophanyl-tRNA aminoacylation	188.97	0.018931454137753316
+GO:0004672	Molecular_Functions	protein kinase activity	188.732	0.01890761074417346
+GO:0006354	Biological_Processes	DNA-templated transcription, elongation	188.379	0.01887224638310754
+GO:0006474	Biological_Processes	N-terminal protein amino acid acetylation	186.734	0.018707446456893834
+GO:0042597	Cellular_Components	periplasmic space	185.434	0.01857720943313832
+GO:0030272	Molecular_Functions	5-formyltetrahydrofolate cyclo-ligase activity	184.844	0.018518101860818512
+GO:0102710	Molecular_Functions	D-inositol-3-phosphate glycosyltransferase activity	183.557	0.018389167207300553
+GO:0017148	Biological_Processes	negative regulation of translation	183.414	0.018374841134687448
+GO:0042256	Biological_Processes	mature ribosome assembly	183.414	0.018374841134687448
+GO:0090071	Biological_Processes	negative regulation of ribosome biogenesis	183.414	0.018374841134687448
+GO:0004788	Molecular_Functions	thiamine diphosphokinase activity	183.053	0.0183386753150138
+GO:0006772	Biological_Processes	thiamine metabolic process	183.053	0.0183386753150138
+GO:0030975	Molecular_Functions	thiamine binding	183.053	0.0183386753150138
+GO:0000027	Biological_Processes	ribosomal large subunit assembly	182.785	0.01831182645165497
+GO:0004564	Molecular_Functions	beta-fructofuranosidase activity	182.679	0.0183012071251026
+GO:0005985	Biological_Processes	sucrose metabolic process	182.679	0.0183012071251026
+GO:0030259	Biological_Processes	lipid glycosylation	182.388	0.018272054068246557
+GO:0050511	Molecular_Functions	undecaprenyldiphospho-muramoylpentapeptide beta-N-acetylglucosaminyltransferase activity	182.388	0.018272054068246557
+GO:0051991	Molecular_Functions	UDP-N-acetyl-D-glucosamine:N-acetylmuramoyl-L-alanyl-D-glutamyl-meso-2,6-diaminopimelyl-D-alanyl-D-alanine-diphosphoundecaprenol 4-beta-N-acetylglucosaminlytransferase activity	182.388	0.018272054068246557
+GO:0008519	Molecular_Functions	ammonium transmembrane transporter activity	182.074	0.018240596817893303
+GO:0003688	Molecular_Functions	DNA replication origin binding	181.886	0.018221762540611735
+GO:0006275	Biological_Processes	regulation of DNA replication	181.886	0.018221762540611735
+GO:0009002	Molecular_Functions	serine-type D-Ala-D-Ala carboxypeptidase activity	181.129	0.01814592451985564
+GO:0005507	Molecular_Functions	copper ion binding	180.462	0.018079102908436465
+GO:0019563	Biological_Processes	glycerol catabolic process	180.454	0.018078301449828738
+GO:0015846	Biological_Processes	polyamine transport	180.228	0.018055660244160474
+GO:0019808	Molecular_Functions	polyamine binding	180.228	0.018055660244160474
+GO:0009117	Biological_Processes	nucleotide metabolic process	179.595	0.017992244831824135
+GO:0008703	Molecular_Functions	5-amino-6-(5-phosphoribosylamino)uracil reductase activity	179.365	0.017969202896852006
+GO:0018467	Molecular_Functions	formaldehyde dehydrogenase activity	178.593	0.017891862141206423
+GO:0016310	Biological_Processes	phosphorylation	178.378	0.01787032294112378
+GO:0046917	Molecular_Functions	triphosphoribosyl-dephospho-CoA synthase activity	178.378	0.01787032294112378
+GO:0061711	Molecular_Functions	N(6)-L-threonylcarbamoyladenine synthase activity	177.658	0.01779819166642842
+GO:0016835	Molecular_Functions	carbon-oxygen lyase activity	177.598	0.017792180726870475
+GO:0097173	Biological_Processes	N-acetylmuramic acid catabolic process	177.598	0.017792180726870475
+GO:0004335	Molecular_Functions	galactokinase activity	177.419	0.0177742480905226
+GO:0005534	Molecular_Functions	galactose binding	177.419	0.0177742480905226
+GO:0008965	Molecular_Functions	phosphoenolpyruvate-protein phosphotransferase activity	176.73	0.01770522246793218
+GO:0046654	Biological_Processes	tetrahydrofolate biosynthetic process	176.06	0.017638100309535106
+GO:0015604	Molecular_Functions	organic phosphonate transmembrane transporter activity	175.972	0.017629284264850116
+GO:0008835	Molecular_Functions	diaminohydroxyphosphoribosylaminopyrimidine deaminase activity	175.926	0.01762467587785569
+GO:0009146	Biological_Processes	purine nucleoside triphosphate catabolic process	175.537	0.017585704953055004
+GO:0004828	Molecular_Functions	serine-tRNA ligase activity	175.35	0.017566970858099402
+GO:0006434	Biological_Processes	seryl-tRNA aminoacylation	175.35	0.017566970858099402
+GO:0008762	Molecular_Functions	UDP-N-acetylmuramate dehydrogenase activity	174.85	0.017516879695116512
+GO:0004477	Molecular_Functions	methenyltetrahydrofolate cyclohydrolase activity	173.654	0.01739706163326144
+GO:0006488	Biological_Processes	dolichol-linked oligosaccharide biosynthetic process	173.439	0.017375522433178796
+GO:0006415	Biological_Processes	translational termination	173.096	0.01734115989537254
+GO:0008760	Molecular_Functions	UDP-N-acetylglucosamine 1-carboxyvinyltransferase activity	172.661	0.017297580583577422
+GO:0016260	Biological_Processes	selenocysteine biosynthetic process	172.112	0.017242580486622208
+GO:0097056	Biological_Processes	selenocysteinyl-tRNA(Sec) biosynthetic process	172.112	0.017242580486622208
+GO:0008312	Molecular_Functions	7S RNA binding	171.426	0.017173855411009683
+GO:0004588	Molecular_Functions	orotate phosphoribosyltransferase activity	171.303	0.017161532984915892
+GO:0043800	Molecular_Functions	hexulose-6-phosphate isomerase activity	171.216	0.01715281712255687
+GO:0004413	Molecular_Functions	homoserine kinase activity	171.203	0.017151514752319318
+GO:0019277	Biological_Processes	UDP-N-acetylgalactosamine biosynthetic process	171.021	0.01713328156899354
+GO:0044238	Biological_Processes	primary metabolic process	170.6	0.017091104809761948
+GO:0008815	Molecular_Functions	citrate (pro-3S)-lyase activity	169.893	0.017020275905304146
+GO:0031176	Molecular_Functions	endo-1,4-beta-xylanase activity	169.747	0.017005649285713145
+GO:0045493	Biological_Processes	xylan catabolic process	169.747	0.017005649285713145
+GO:0008782	Molecular_Functions	adenosylhomocysteine nucleosidase activity	168.655	0.01689625018575851
+GO:0008930	Molecular_Functions	methylthioadenosine nucleosidase activity	168.655	0.01689625018575851
+GO:0009164	Biological_Processes	nucleoside catabolic process	168.655	0.01689625018575851
+GO:0019509	Biological_Processes	L-methionine salvage from methylthioadenosine	168.655	0.01689625018575851
+GO:0004534	Molecular_Functions	5'-3' exoribonuclease activity	168.505	0.016881222836863642
+GO:0015886	Biological_Processes	heme transport	168.432	0.01687390952706814
+GO:0006534	Biological_Processes	cysteine metabolic process	168.058	0.01683644133715694
+GO:0000921	Biological_Processes	septin ring assembly	167.927	0.01682331745245542
+GO:0005940	Cellular_Components	septin ring	167.927	0.01682331745245542
+GO:0004326	Molecular_Functions	tetrahydrofolylpolyglutamate synthase activity	167.643	0.016794865671881144
+GO:0004520	Molecular_Functions	endodeoxyribonuclease activity	167.457	0.016776231759251508
+GO:0004822	Molecular_Functions	isoleucine-tRNA ligase activity	167.278	0.016758299122903633
+GO:0044262	Biological_Processes	cellular carbohydrate metabolic process	166.957	0.01672614059626862
+GO:0006428	Biological_Processes	isoleucyl-tRNA aminoacylation	166.56	0.0166863682128602
+GO:0008720	Molecular_Functions	D-lactate dehydrogenase activity	165.909	0.016621149518656477
+GO:0004797	Molecular_Functions	thymidine kinase activity	164.894	0.016519464457801215
+GO:0000716	Biological_Processes	transcription-coupled nucleotide-excision repair, DNA damage recognition	164.638	0.016493817782353974
+GO:0050501	Molecular_Functions	hyaluronan synthase activity	164.061	0.01643601258027172
+GO:0009236	Biological_Processes	cobalamin biosynthetic process	164.015	0.01643140419327729
+GO:0004180	Molecular_Functions	carboxypeptidase activity	163.986	0.016428498905824287
+GO:0050040	Molecular_Functions	lactate 2-monooxygenase activity	163.54	0.01638381758844355
+GO:0051304	Biological_Processes	chromosome separation	163.531	0.016382915947509857
+GO:0004333	Molecular_Functions	fumarate hydratase activity	163.26	0.01635576653717313
+GO:0006106	Biological_Processes	fumarate metabolic process	163.26	0.01635576653717313
+GO:0045239	Cellular_Components	tricarboxylic acid cycle enzyme complex	163.26	0.01635576653717313
+GO:0016036	Biological_Processes	cellular response to phosphate starvation	163.134	0.01634314356410144
+GO:0004831	Molecular_Functions	tyrosine-tRNA ligase activity	161.837	0.016213207087323826
+GO:0006437	Biological_Processes	tyrosyl-tRNA aminoacylation	161.837	0.016213207087323826
+GO:0004813	Molecular_Functions	alanine-tRNA ligase activity	161.464	0.016175839079738588
+GO:0006419	Biological_Processes	alanyl-tRNA aminoacylation	161.464	0.016175839079738588
+GO:0046496	Biological_Processes	nicotinamide nucleotide metabolic process	161.42	0.016171431057396095
+GO:0052855	Molecular_Functions	ADP-dependent NAD(P)H-hydrate dehydratase activity	161.42	0.016171431057396095
+GO:0004367	Molecular_Functions	glycerol-3-phosphate dehydrogenase NAD+ activity	160.551	0.016084372616131833
+GO:0009331	Cellular_Components	glycerol-3-phosphate dehydrogenase complex	160.551	0.016084372616131833
+GO:0004452	Molecular_Functions	isopentenyl-diphosphate delta-isomerase activity	160.366	0.016065838885828167
+GO:0009898	Cellular_Components	cytoplasmic side of plasma membrane	160.305	0.016059727763944254
+GO:0006044	Biological_Processes	N-acetylglucosamine metabolic process	160.177	0.016046904426220632
+GO:0019206	Molecular_Functions	nucleoside kinase activity	160.091	0.016038288746187575
+GO:0008949	Molecular_Functions	oxalyl-CoA decarboxylase activity	160.058	0.016034982729430703
+GO:0008686	Molecular_Functions	3,4-dihydroxy-2-butanone-4-phosphate synthase activity	159.893	0.01601845264564635
+GO:0003977	Molecular_Functions	UDP-N-acetylglucosamine diphosphorylase activity	159.516	0.015980683908757252
+GO:0019134	Molecular_Functions	glucosamine-1-phosphate N-acetyltransferase activity	159.516	0.015980683908757252
+GO:0016818	Molecular_Functions	hydrolase activity, acting on acid anhydrides, in phosphorus-containing anhydrides	159.495	0.015978580079911972
+GO:0015577	Molecular_Functions	galactitol transmembrane transporter activity	159.217	0.015950729393293485
+GO:0004170	Molecular_Functions	dUTP diphosphatase activity	158.975	0.015926485270409765
+GO:0046080	Biological_Processes	dUTP metabolic process	158.975	0.015926485270409765
+GO:0008444	Molecular_Functions	CDP-diacylglycerol-glycerol-3-phosphate 3-phosphatidyltransferase activity	158.735	0.01590244151217798
+GO:0003952	Molecular_Functions	NAD+ synthase (glutamine-hydrolyzing) activity	158.629	0.015891822185625605
+GO:0008795	Molecular_Functions	NAD+ synthase activity	158.629	0.015891822185625605
+GO:0102009	Molecular_Functions	proline dipeptidase activity	158.477	0.015876594472078807
+GO:0047480	Molecular_Functions	UDP-N-acetylmuramoyl-tripeptide-D-alanyl-D-alanine ligase activity	158.155	0.015844335763117827
+GO:0006163	Biological_Processes	purine nucleotide metabolic process	158.05	0.01583381661889142
+GO:1902560	Cellular_Components	GMP reductase complex	158.05	0.01583381661889142
+GO:0008534	Molecular_Functions	oxidized purine nucleobase lesion DNA N-glycosylase activity	157.046	0.015733233563621777
+GO:0051775	Biological_Processes	response to redox state	157.032	0.015731831011058257
+GO:0015417	Molecular_Functions	ATPase-coupled polyamine transmembrane transporter activity	156.793	0.01570788743515244
+GO:0004017	Molecular_Functions	adenylate kinase activity	156.37	0.01566551031126891
+GO:0004146	Molecular_Functions	dihydrofolate reductase activity	155.958	0.015624235192971011
+GO:0006545	Biological_Processes	glycine biosynthetic process	155.958	0.015624235192971011
+GO:0003998	Molecular_Functions	acylphosphatase activity	155.641	0.015592477395639856
+GO:0003935	Molecular_Functions	GTP cyclohydrolase II activity	155.528	0.015581156792805723
+GO:0007062	Biological_Processes	sister chromatid cohesion	155.445	0.015572841659750565
+GO:0009156	Biological_Processes	ribonucleoside monophosphate biosynthetic process	155.348	0.015563123974131884
+GO:0006085	Biological_Processes	acetyl-CoA biosynthetic process	155.045	0.015532768729364252
+GO:0052692	Molecular_Functions	raffinose alpha-galactosidase activity	154.872	0.015515437186972174
+GO:0004618	Molecular_Functions	phosphoglycerate kinase activity	154.444	0.015472559151458818
+GO:0008836	Molecular_Functions	diaminopimelate decarboxylase activity	153.178	0.015345728326786144
+GO:0008966	Molecular_Functions	phosphoglucosamine mutase activity	153.166	0.015344526138874555
+GO:0008840	Molecular_Functions	4-hydroxy-tetrahydrodipicolinate synthase activity	153.144	0.015342322127703307
+GO:0008199	Molecular_Functions	ferric iron binding	152.737	0.015301547921035233
+GO:0047151	Molecular_Functions	methylenetetrahydrofolate-tRNA-(uracil-5-)-methyltransferase (FADH2-oxidizing) activity	152.655	0.01529333297030604
+GO:0000062	Molecular_Functions	fatty-acyl-CoA binding	152.435	0.01527129285859357
+GO:0047265	Molecular_Functions	poly(glycerol-phosphate) alpha-glucosyltransferase activity	152.046	0.015232321933792882
+GO:0070402	Molecular_Functions	NADPH binding	151.591	0.015186738975478451
+GO:0004844	Molecular_Functions	uracil DNA N-glycosylase activity	151.525	0.015180126941964711
+GO:0004496	Molecular_Functions	mevalonate kinase activity	150.68	0.015095472876523627
+GO:0006449	Biological_Processes	regulation of translational termination	150.65	0.015092467406744654
+GO:0045302	Molecular_Functions	choloylglycine hydrolase activity	150.111	0.015038469133049097
+GO:0004829	Molecular_Functions	threonine-tRNA ligase activity	149.761	0.015003405318961077
+GO:0006435	Biological_Processes	threonyl-tRNA aminoacylation	149.761	0.015003405318961077
+GO:0009018	Molecular_Functions	sucrose phosphorylase activity	149.755	0.015002804225005282
+GO:0008837	Molecular_Functions	diaminopimelate epimerase activity	149.733	0.015000600213834033
+GO:0008253	Molecular_Functions	5'-nucleotidase activity	149.613	0.014988578334718141
+GO:0016831	Molecular_Functions	carboxy-lyase activity	149.44	0.014971246792326061
+GO:0071897	Biological_Processes	DNA biosynthetic process	149.431	0.014970345151392369
+GO:0004298	Molecular_Functions	threonine-type endopeptidase activity	149.146	0.01494179318849212
+GO:0005839	Cellular_Components	proteasome core complex	149.146	0.01494179318849212
+GO:0051603	Biological_Processes	proteolysis involved in cellular protein catabolic process	149.146	0.01494179318849212
+GO:0006402	Biological_Processes	mRNA catabolic process	149.087	0.01493588243126014
+GO:0006879	Biological_Processes	cellular iron ion homeostasis	149.087	0.01493588243126014
+GO:0005249	Molecular_Functions	voltage-gated potassium channel activity	148.909	0.01491804997723823
+GO:0008076	Cellular_Components	voltage-gated potassium channel complex	148.909	0.01491804997723823
+GO:0006015	Biological_Processes	5-phosphoribose 1-diphosphate biosynthetic process	148.132	0.01484020830996282
+GO:0051060	Molecular_Functions	pullulanase activity	148.016	0.014828587160150791
+GO:0019104	Molecular_Functions	DNA N-glycosylase activity	147.99	0.01482598241967568
+GO:0000015	Cellular_Components	phosphopyruvate hydratase complex	147.203	0.014747138929140612
+GO:0004634	Molecular_Functions	phosphopyruvate hydratase activity	147.203	0.014747138929140612
+GO:0006424	Biological_Processes	glutamyl-tRNA aminoacylation	146.926	0.014719388424848089
+GO:0019217	Biological_Processes	regulation of fatty acid metabolic process	146.758	0.01470255779408584
+GO:0008887	Molecular_Functions	glycerate kinase activity	146.459	0.014672603278622073
+GO:0031388	Biological_Processes	organic acid phosphorylation	146.459	0.014672603278622073
+GO:0003919	Molecular_Functions	FMN adenylyltransferase activity	145.928	0.014619406463534242
+GO:0006747	Biological_Processes	FAD biosynthetic process	145.928	0.014619406463534242
+GO:0008531	Molecular_Functions	riboflavin kinase activity	145.928	0.014619406463534242
+GO:0009398	Biological_Processes	FMN biosynthetic process	145.928	0.014619406463534242
+GO:0008771	Molecular_Functions	citrate (pro-3S)-lyase ligase activity	145.903	0.014616901905385098
+GO:0016758	Molecular_Functions	transferase activity, transferring hexosyl groups	145.015	0.014527939999927486
+GO:0006508	Biological_Processes	proteolysis	144.762	0.014502593871458145
+GO:0004190	Molecular_Functions	aspartic-type endopeptidase activity	143.988	0.014425052751160633
+GO:0000774	Molecular_Functions	adenyl-nucleotide exchange factor activity	143.938	0.014420043634862342
+GO:0042803	Molecular_Functions	protein homodimerization activity	143.938	0.014420043634862342
+GO:0051087	Molecular_Functions	chaperone binding	143.938	0.014420043634862342
+GO:0042781	Molecular_Functions	3'-tRNA processing endoribonuclease activity	143.868	0.014413030872044737
+GO:0070929	Biological_Processes	trans-translation	143.652	0.01439139148963613
+GO:0004609	Molecular_Functions	phosphatidylserine decarboxylase activity	143.082	0.014334287563835634
+GO:0001680	Biological_Processes	tRNA 3'-terminal Cellular_ComponentsA addition	142.892	0.014315252921902138
+GO:0016437	Molecular_Functions	tRNA cytidylyltransferase activity	142.892	0.014315252921902138
+GO:0042245	Biological_Processes	RNA repair	142.892	0.014315252921902138
+GO:0052927	Molecular_Functions	CTP:tRNA cytidylyltransferase activity	142.892	0.014315252921902138
+GO:0052928	Molecular_Functions	CTP:3'-cytidine-tRNA cytidylyltransferase activity	142.892	0.014315252921902138
+GO:0052929	Molecular_Functions	ATP:3'-cytidine-cytidine-tRNA adenylyltransferase activity	142.892	0.014315252921902138
+GO:0004818	Molecular_Functions	glutamate-tRNA ligase activity	142.33	0.01425895045470937
+GO:0008814	Molecular_Functions	citrate CoA-transferase activity	141.743	0.014200143429367457
+GO:0004795	Molecular_Functions	threonine synthase activity	141.353	0.014161072322240804
+GO:0000725	Biological_Processes	recombinational repair	140.91	0.014116691551837963
+GO:0016156	Molecular_Functions	fumarate reductase (NADH) activity	140.802	0.014105871860633657
+GO:0016722	Molecular_Functions	oxidoreductase activity, oxidizing metal ions	140.519	0.014077520262385342
+GO:0050118	Molecular_Functions	N-acetyldiaminopimelate deacetylase activity	140.054	0.014030935480811255
+GO:0008652	Biological_Processes	cellular amino acid biosynthetic process	139.848	0.014010297921662307
+GO:0004479	Molecular_Functions	methionyl-tRNA formyltransferase activity	139.402	0.013965616604281566
+GO:0004594	Molecular_Functions	pantothenate kinase activity	138.398	0.013865033549011925
+GO:0008810	Molecular_Functions	cellulase activity	138.034	0.01382856718236038
+GO:0033611	Biological_Processes	oxalate catabolic process	137.889	0.013814040745095346
+GO:0030956	Cellular_Components	glutamyl-tRNA(Gln) amidotransferase complex	137.7	0.01379510628548781
+GO:0004045	Molecular_Functions	aminoacyl-tRNA hydrolase activity	137.434	0.013768457786780914
+GO:0004516	Molecular_Functions	nicotinate phosphoribosyltransferase activity	137.214	0.01374641767506844
+GO:0019358	Biological_Processes	nicotinate nucleotide salvage	137.214	0.01374641767506844
+GO:0004595	Molecular_Functions	pantetheine-phosphate adenylyltransferase activity	137.068	0.01373179105547744
+GO:0004176	Molecular_Functions	ATP-dependent peptidase activity	136.248	0.013649641548185498
+GO:0015821	Biological_Processes	methionine transport	136.125	0.013637319122091707
+GO:0009143	Biological_Processes	nucleoside triphosphate catabolic process	135.687	0.013593439263318699
+GO:0047631	Molecular_Functions	ADP-ribose diphosphatase activity	134.453	0.013469814273076926
+GO:0016429	Molecular_Functions	tRNA (adenine-N1-)-methyltransferase activity	134.25	0.013449477260905875
+GO:0008839	Molecular_Functions	4-hydroxy-tetrahydrodipicolinate reductase	132.356	0.013259731935526688
+GO:0008925	Molecular_Functions	maltose O-acetyltransferase activity	131.994	0.013223465933527074
+GO:0032217	Molecular_Functions	riboflavin transmembrane transporter activity	131.653	0.013189303760372743
+GO:0016042	Biological_Processes	lipid catabolic process	131.367	0.01316065161514653
+GO:0009372	Biological_Processes	quorum sensing	131.297	0.013153638852328925
+GO:0043768	Molecular_Functions	S-ribosylhomocysteine lyase activity	131.297	0.013153638852328925
+GO:0008757	Molecular_Functions	S-adenosylmethionine-dependent methyltransferase activity	131.194	0.01314332007275445
+GO:0004356	Molecular_Functions	glutamate-ammonia ligase activity	130.914	0.013115269021484032
+GO:0042026	Biological_Processes	protein refolding	130.689	0.013092727998141731
+GO:0005988	Biological_Processes	lactose metabolic process	130.594	0.013083210677174982
+GO:0008662	Molecular_Functions	1-phosphofructokinase activity	130.594	0.013083210677174982
+GO:0009024	Molecular_Functions	tagatose-6-phosphate kinase activity	130.594	0.013083210677174982
+GO:2001059	Biological_Processes	D-tagatose 6-phosphate catabolic process	130.594	0.013083210677174982
+GO:0004385	Molecular_Functions	guanylate kinase activity	130.347	0.013058465642661436
+GO:0006323	Biological_Processes	DNA packaging	130.145	0.013038228812816348
+GO:0008897	Molecular_Functions	holo-acyl-carrier-protein synthase activity	129.76	0.012999658617319523
+GO:0008610	Biological_Processes	lipid biosynthetic process	129.308	0.01295437620598299
+GO:0006807	Biological_Processes	nitrogen compound metabolic process	128.674	0.012890860611320689
+GO:0019897	Cellular_Components	extrinsic component of plasma membrane	128.246	0.012847982575807335
+GO:0004585	Molecular_Functions	ornithine carbamoyltransferase activity	128.121	0.012835459785061612
+GO:0008553	Molecular_Functions	proton-exporting ATPase activity, phosphorylative mechanism	127.718	0.012795086307697403
+GO:0120029	Biological_Processes	proton export across plasma membrane	127.718	0.012795086307697403
+GO:0004827	Molecular_Functions	proline-tRNA ligase activity	127.687	0.012791980655592464
+GO:0003886	Molecular_Functions	DNA (cytosine-5-)-methyltransferase activity	127.193	0.012742490586565368
+GO:0016726	Molecular_Functions	oxidoreductase activity, acting on CH or CH2 groups, NAD or NADP as acceptor	126.861	0.012709230054344729
+GO:0006542	Biological_Processes	glutamine biosynthetic process	126.808	0.012703920391068544
+GO:0009399	Biological_Processes	nitrogen fixation	126.808	0.012703920391068544
+GO:0015430	Molecular_Functions	ATPase-coupled glycerol-3-phosphate transmembrane transporter activity	126.793	0.012702417656179058
+GO:0006433	Biological_Processes	prolyl-tRNA aminoacylation	126.484	0.01267146131745563
+GO:0002098	Biological_Processes	tRNA wobble uridine modification	125.697	0.012592617826920564
+GO:0016884	Molecular_Functions	carbon-nitrogen ligase activity, with glutamine as amido-N-donor	125.248	0.01254763596256193
+GO:0047150	Molecular_Functions	betaine-homocysteine S-methyltransferase activity	124.907	0.012513473789407597
+GO:0008801	Molecular_Functions	beta-phosphoglucomutase activity	124.906	0.012513373607081631
+GO:0008963	Molecular_Functions	phospho-N-acetylmuramoyl-pentapeptide-transferase activity	124.778	0.012500550269358012
+GO:0004515	Molecular_Functions	nicotinate-nucleotide adenylyltransferase activity	124.731	0.01249584170003762
+GO:0031226	Cellular_Components	intrinsic component of plasma membrane	124.554	0.012478109428341676
+GO:0006071	Biological_Processes	glycerol metabolic process	124.478	0.012470495571568275
+GO:0003978	Molecular_Functions	UDP-glucose 4-epimerase activity	124.381	0.012460777885949596
+GO:0043335	Biological_Processes	protein unfolding	123.703	0.012392854268944799
+GO:0070011	Molecular_Functions	peptidase activity, acting on L-amino acid peptides	123.703	0.012392854268944799
+GO:0047200	Molecular_Functions	tetrahydrodipicolinate N-acetyltransferase activity	123.511	0.01237361926235937
+GO:0051258	Biological_Processes	protein polymerization	123.37	0.012359493554398195
+GO:0008972	Molecular_Functions	phosphomethylpyrimidine kinase activity	123.087	0.01233114195614988
+GO:0046353	Molecular_Functions	aminoglycoside 3-N-acetyltransferase activity	122.623	0.012284657356901757
+GO:0047348	Molecular_Functions	glycerol-3-phosphate cytidylyltransferase activity	121.882	0.012210422253361114
+GO:0016790	Molecular_Functions	thiolester hydrolase activity	121.465	0.012168646223433385
+GO:0006525	Biological_Processes	arginine metabolic process	121.423	0.01216443856574282
+GO:0008804	Molecular_Functions	carbamate kinase activity	121.423	0.01216443856574282
+GO:0003999	Molecular_Functions	adenine phosphoribosyltransferase activity	121.234	0.012145504106135288
+GO:0006168	Biological_Processes	adenine salvage	121.234	0.012145504106135288
+GO:0052865	Biological_Processes	1-deoxy-D-xylulose 5-phosphate biosynthetic process	121.059	0.012127972199091277
+GO:0030955	Molecular_Functions	potassium ion binding	120.531	0.012075075930981347
+GO:0005993	Biological_Processes	trehalose catabolic process	120.431	0.012065057698384769
+GO:0008788	Molecular_Functions	alpha,alpha-phosphotrehalase activity	120.431	0.012065057698384769
+GO:0004371	Molecular_Functions	glycerone kinase activity	120.113	0.01203319971872765
+GO:0008175	Molecular_Functions	tRNA methyltransferase activity	119.811	0.012002944656285987
+GO:0000179	Molecular_Functions	rRNA (adenine-N6,N6-)-dimethyltransferase activity	119.491	0.011970886311976936
+GO:0019262	Biological_Processes	N-acetylneuraminate catabolic process	119.21	0.011942735078380552
+GO:0008478	Molecular_Functions	pyridoxal kinase activity	118.147	0.011836241265878929
+GO:0009443	Biological_Processes	pyridoxal 5'-phosphate salvage	118.147	0.011836241265878929
+GO:0008649	Molecular_Functions	rRNA methyltransferase activity	117.299	0.011751286653459949
+GO:0004743	Molecular_Functions	pyruvate kinase activity	117.013	0.011722634508233734
+GO:0004810	Molecular_Functions	tRNA adenylyltransferase activity	116.892	0.011710512446791874
+GO:0034227	Biological_Processes	tRNA thio-modification	116.892	0.011710512446791874
+GO:0004073	Molecular_Functions	aspartate-semialdehyde dehydrogenase activity	116.569	0.011678153555504929
+GO:0006450	Biological_Processes	regulation of translational fidelity	115.981	0.01161924634783705
+GO:0006223	Biological_Processes	uracil salvage	115.814	0.011602515899400765
+GO:0016868	Molecular_Functions	intramolecular transferase activity, phosphotransferases	115.799	0.011601013164511278
+GO:0052908	Molecular_Functions	16S rRNA (adenine(1518)-N(6)/adenine(1519)-N(6))-dimethyltransferase activity	115.102	0.011531186083313131
+GO:0015210	Molecular_Functions	uracil transmembrane transporter activity	114.664	0.011487306224540118
+GO:0003872	Molecular_Functions	6-phosphofructokinase activity	113.962	0.011416978231712142
+GO:0006002	Biological_Processes	fructose 6-phosphate metabolic process	113.962	0.011416978231712142
+GO:0008825	Molecular_Functions	cyclopropane-fatty-acyl-phospholipid synthase activity	113.929	0.011413672214955272
+GO:0004163	Molecular_Functions	diphosphomevalonate decarboxylase activity	112.434	0.01126389963763643
+GO:0019287	Biological_Processes	isopentenyl diphosphate biosynthetic process, mevalonate pathway	112.434	0.01126389963763643
+GO:0004342	Molecular_Functions	glucosamine-6-phosphate deaminase activity	109.996	0.01101965512693186
+GO:0004478	Molecular_Functions	methionine adenosyltransferase activity	109.935	0.011013544005047948
+GO:0006556	Biological_Processes	S-adenosylmethionine biosynthetic process	109.935	0.011013544005047948
+GO:0001682	Biological_Processes	tRNA 5'-leader removal	107.991	0.010818789563370474
+GO:0004476	Molecular_Functions	mannose-6-phosphate isomerase activity	107.925	0.010812177529856732
+GO:0004799	Molecular_Functions	thymidylate synthase activity	107.782	0.010797851457243626
+GO:0006231	Biological_Processes	dTMP biosynthetic process	107.782	0.010797851457243626
+GO:0034775	Biological_Processes	glutathione transmembrane transport	105.837	0.010602996833240185
+GO:0000906	Molecular_Functions	6,7-dimethyl-8-ribityllumazine synthase activity	105.206	0.010539781785555778
+GO:0009349	Cellular_Components	riboflavin synthase complex	105.206	0.010539781785555778
+GO:0008816	Molecular_Functions	citryl-CoA lyase activity	105.129	0.010532067746456415
+GO:0015031	Biological_Processes	protein transport	102.899	0.010308661159552725
+GO:0043937	Biological_Processes	regulation of sporulation	102.548	0.010273497163138738
+GO:0009295	Cellular_Components	nucleoid	102.544	0.010273096433834873
+GO:0009020	Molecular_Functions	tRNA (guanosine-2'-O-)-methyltransferase activity	101.988	0.0102173950605979
+GO:0019752	Biological_Processes	carboxylic acid metabolic process	100.554	0.010073733605162973
+GO:0004619	Molecular_Functions	phosphoglycerate mutase activity	100.068	0.010025044994743604
+GO:0004071	Molecular_Functions	aspartate-ammonia ligase activity	99.8335	0.010001552239304629
+GO:0070981	Biological_Processes	L-asparagine biosynthetic process	99.8335	0.010001552239304629
+GO:0008999	Molecular_Functions	ribosomal-protein-alanine N-acetyltransferase activity	99.7291	0.009991093204473802
+GO:0016765	Molecular_Functions	transferase activity, transferring alkyl or aryl (other than methyl) groups	98.8133	0.009899346230354341
+GO:0016705	Molecular_Functions	oxidoreductase activity, acting on paired donors, with incorporation or reduction of molecular oxygen	97.2133	0.009739054508809094
+GO:0004751	Molecular_Functions	ribose-5-phosphate isomerase activity	96.857	0.009703359546067488
+GO:0015422	Molecular_Functions	ATPase-coupled oligosaccharide transmembrane transporter activity	96.7741	0.009695054431244923
+GO:0004022	Molecular_Functions	alcohol dehydrogenase (NAD+) activity	96.6163	0.009679245660207524
+GO:0016692	Molecular_Functions	NADH peroxidase activity	96.4579	0.009663376779774543
+GO:0008176	Molecular_Functions	tRNA (guanine-N7-)-methyltransferase activity	95.9918	0.009616681797641894
+GO:0006302	Biological_Processes	double-strand break repair	95.7981	0.009597276481102323
+GO:0070475	Biological_Processes	rRNA base methylation	95.2659	0.009543959447223336
+GO:0004832	Molecular_Functions	valine-tRNA ligase activity	93.5667	0.009373729638942282
+GO:0051669	Molecular_Functions	fructan beta-fructosidase activity	93.3365	0.009350667667504961
+GO:0004372	Molecular_Functions	glycine hydroxymethyltransferase activity	93.0763	0.009324600226288665
+GO:0019264	Biological_Processes	glycine biosynthetic process from serine	93.0763	0.009324600226288665
+GO:0004673	Molecular_Functions	protein histidine kinase activity	93.0401	0.009320973626088703
+GO:0006438	Biological_Processes	valyl-tRNA aminoacylation	92.8196	0.009298883423213248
+GO:0008763	Molecular_Functions	UDP-N-acetylmuramate-L-alanine ligase activity	92.5247	0.009269339655285942
+GO:0022872	Molecular_Functions	protein-N(PI)-phosphohistidine-mannitol phosphotransferase system transmembrane transporter activity	91.9254	0.009209300387334649
+GO:0045727	Biological_Processes	positive regulation of translation	91.0328	0.009119877643177595
+GO:0006221	Biological_Processes	pyrimidine nucleotide biosynthetic process	90.2654	0.009042997726231456
+GO:0071424	Molecular_Functions	rRNA (cytosine-N4-)-methyltransferase activity	89.8246	0.008998837356945741
+GO:0019478	Biological_Processes	D-amino acid catabolic process	89.8045	0.00899682369219383
+GO:0043908	Molecular_Functions	Ser(Gly)-tRNA(Ala) hydrolase activity	89.8045	0.00899682369219383
+GO:0051499	Molecular_Functions	D-aminoacyl-tRNA deacylase activity	89.8045	0.00899682369219383
+GO:0106026	Molecular_Functions	Gly-tRNA(Ala) hydrolase activity	89.8045	0.00899682369219383
+GO:0005267	Molecular_Functions	potassium channel activity	89.4901	0.008965326368910188
+GO:0004815	Molecular_Functions	aspartate-tRNA ligase activity	89.3812	0.008954416513612515
+GO:0006422	Biological_Processes	aspartyl-tRNA aminoacylation	89.3812	0.008954416513612515
+GO:0009052	Biological_Processes	pentose-phosphate shunt, non-oxidative branch	88.7959	0.008895779798224744
+GO:0050081	Molecular_Functions	maltose-6'-phosphate glucosidase activity	88.67	0.008883166843385651
+GO:0043590	Cellular_Components	bacterial nucleoid	88.0074	0.008816786034200727
+GO:0009986	Cellular_Components	cell surface	87.6328	0.008779257734893945
+GO:0008716	Molecular_Functions	D-alanine-D-alanine ligase activity	87.3464	0.008750565516737346
+GO:0004605	Molecular_Functions	phosphatidate cytidylyltransferase activity	85.7018	0.008585805663454026
+GO:0042777	Biological_Processes	plasma membrane ATP synthesis coupled proton transport	85.0039	0.008515888418162507
+GO:0006650	Biological_Processes	glycerophospholipid metabolic process	84.8139	0.00849685377622901
+GO:0046168	Biological_Processes	glycerol-3-phosphate catabolic process	84.8139	0.00849685377622901
+GO:0047952	Molecular_Functions	glycerol-3-phosphate dehydrogenase NAD(P)+ activity	84.8139	0.00849685377622901
+GO:0006397	Biological_Processes	mRNA processing	84.7399	0.008489440284107542
+GO:0016075	Biological_Processes	rRNA catabolic process	84.7399	0.008489440284107542
+GO:0102483	Molecular_Functions	scopolin beta-glucosidase activity	84.7096	0.008486404759630778
+GO:0004589	Molecular_Functions	orotate reductase (NADH) activity	84.2253	0.008437886459165553
+GO:0003725	Molecular_Functions	double-stranded RNA binding	83.8137	0.008396651413798037
+GO:0003911	Molecular_Functions	DNA ligase (NAD+) activity	82.9013	0.00830524505958686
+GO:0016776	Molecular_Functions	phosphotransferase activity, phosphate group as acceptor	82.4568	0.008260714015695073
+GO:0045982	Biological_Processes	negative regulation of purine nucleobase metabolic process	82.3583	0.008250846056587442
+GO:0004712	Molecular_Functions	protein serine/threonine/tyrosine kinase activity	82.257	0.008240697586967109
+GO:0006109	Biological_Processes	regulation of carbohydrate metabolic process	82.257	0.008240697586967109
+GO:0017150	Molecular_Functions	tRNA dihydrouridine synthase activity	81.8792	0.008202848704217237
+GO:0050580	Molecular_Functions	2,5-didehydrogluconate reductase activity	81.6624	0.008181129175947858
+GO:0000967	Biological_Processes	rRNA 5'-end processing	80.2071	0.008035333836969857
+GO:0044211	Biological_Processes	CTP salvage	79.0464	0.007919052211221378
+GO:0004343	Molecular_Functions	glucosamine 6-phosphate N-acetyltransferase activity	78.7215	0.007886502973515097
+GO:0019594	Biological_Processes	mannitol metabolic process	78.6816	0.00788250569870906
+GO:0070006	Molecular_Functions	metalloaminopeptidase activity	77.8884	0.007803041077753006
+GO:0070084	Biological_Processes	protein initiator methionine removal	77.8884	0.007803041077753006
+GO:0033862	Molecular_Functions	UMP kinase activity	77.1916	0.0077332340330200505
+GO:0046167	Biological_Processes	glycerol-3-phosphate biosynthetic process	77.062	0.007720250403574884
+GO:0006470	Biological_Processes	protein dephosphorylation	76.9958	0.0077136183335959506
+GO:0004816	Molecular_Functions	asparagine-tRNA ligase activity	76.4941	0.007663356860658919
+GO:0006421	Biological_Processes	asparaginyl-tRNA aminoacylation	76.4941	0.007663356860658919
+GO:0004821	Molecular_Functions	histidine-tRNA ligase activity	76.4358	0.007657516231055114
+GO:0006427	Biological_Processes	histidyl-tRNA aminoacylation	76.4358	0.007657516231055114
+GO:0004136	Molecular_Functions	deoxyadenosine kinase activity	75.6484	0.007578632667589659
+GO:0006725	Biological_Processes	cellular aromatic compound metabolic process	75.171	0.007530805625173597
+GO:0006796	Biological_Processes	phosphate-containing compound metabolic process	74.3489	0.007448445734997129
+GO:0070181	Molecular_Functions	small ribosomal subunit rRNA binding	73.7259	0.007386032145920448
+GO:0004614	Molecular_Functions	phosphoglucomutase activity	73.147	0.00732803659741886
+GO:0015594	Molecular_Functions	ATPase-coupled putrescine transmembrane transporter activity	72.9448	0.0073077797311085785
+GO:0015595	Molecular_Functions	ATPase-coupled spermidine transmembrane transporter activity	72.9448	0.0073077797311085785
+GO:0006139	Biological_Processes	nucleobase-containing compound metabolic process	71.7988	0.007192970785551795
+GO:0051992	Molecular_Functions	UDP-N-acetylmuramoyl-L-alanyl-D-glutamyl-meso-2,6-diaminopimelyl-D-alanyl-D-alanine:undecaprenyl-phosphate transferase activity	71.6873	0.007181800456206611
+GO:0061710	Molecular_Functions	L-threonylcarbamoyladenylate synthase	71.6717	0.0071802376119215455
+GO:0004138	Molecular_Functions	deoxyguanosine kinase activity	71.5867	0.007171722114214453
+GO:0031167	Biological_Processes	rRNA methylation	71.2683	0.0071398240616269495
+GO:0008961	Molecular_Functions	phosphatidylglycerol-prolipoprotein diacylglyceryl transferase activity	68.4415	0.0068566286625868856
+GO:0031975	Cellular_Components	envelope	66.7715	0.006689324178224033
+GO:0004365	Molecular_Functions	glyceraldehyde-3-phosphate dehydrogenase (NAD+) (phosphorylating) activity	65.8845	0.006600462455092388
+GO:0009408	Biological_Processes	response to heat	65.8121	0.006593209254692465
+GO:0019835	Biological_Processes	cytolysis	64.8031	0.006492125287792994
+GO:0033969	Molecular_Functions	gamma-glutamyl-gamma-aminobutyrate hydrolase activity	64.3209	0.006443817370212294
+GO:0071266	Biological_Processes	'de novo' L-methionine biosynthetic process	62.8876	0.0063002260424055425
+GO:0031072	Molecular_Functions	heat shock protein binding	61.4455	0.006155753110130293
+GO:0008764	Molecular_Functions	UDP-N-acetylmuramoylalanine-D-glutamate ligase activity	58.3891	0.0058495558490484845
+GO:0043236	Molecular_Functions	laminin binding	58.1363	0.005824229757044336
+GO:0004722	Molecular_Functions	protein serine/threonine phosphatase activity	57.578	0.005768297964457641
+GO:0016857	Molecular_Functions	racemase and epimerase activity, acting on carbohydrates and derivatives	55.2752	0.005537598104223645
+GO:0004611	Molecular_Functions	phosphoenolpyruvate carboxykinase activity	53.8054	0.005390350121519142
+GO:0017076	Molecular_Functions	purine nucleotide binding	53.8054	0.005390350121519142
+GO:0004309	Molecular_Functions	exopolyphosphatase activity	52.9142	0.00530106763261844
+GO:0015562	Molecular_Functions	efflux transmembrane transporter activity	52.8331	0.005292942845982615
+GO:0004812	Molecular_Functions	aminoacyl-tRNA ligase activity	50.6374	0.005072972512859553
+GO:0008448	Molecular_Functions	N-acetylglucosamine-6-phosphate deacetylase activity	50.1805	0.005027199208125789
+GO:0005198	Molecular_Functions	structural molecule activity	47.3113	0.004739756078464775
+GO:0043039	Biological_Processes	tRNA aminoacylation	46.2343	0.0046318597133996305
+GO:0004127	Molecular_Functions	cytidylate kinase activity	45.2616	0.0045344123649327175
+GO:0030698	Molecular_Functions	5,10-methylenetetrahydrofolate-dependent tRNA (m5U54) methyltransferase activity	44.8653	0.004494710109152478
+GO:0009073	Biological_Processes	aromatic amino acid family biosynthetic process	44.7902	0.004487186416472448
+GO:0009423	Biological_Processes	chorismate biosynthetic process	44.7902	0.004487186416472448
+GO:0050193	Molecular_Functions	phosphoketolase activity	44.7613	0.0044842911472520374
+GO:0004114	Molecular_Functions	3',5'-cyclic-nucleotide phosphodiesterase activity	44.4696	0.0044550679627678195
+GO:0047739	Molecular_Functions	cephalosporin-C deacetylase activity	44.2762	0.004435692700926038
+GO:0051213	Molecular_Functions	dioxygenase activity	41.1669	0.00412419579480064
+GO:0047134	Molecular_Functions	protein-disulfide reductase activity	40.5116	0.004058546316595265
+GO:0016779	Molecular_Functions	nucleotidyltransferase activity	39.4404	0.003951231009020722
+GO:0017108	Molecular_Functions	5'-flap endonuclease activity	38.9217	0.003899266436542273
+GO:0033567	Biological_Processes	DNA replication, Okazaki fragment processing	38.9217	0.003899266436542273
+GO:0047419	Molecular_Functions	N-acetylgalactosamine-6-phosphate deacetylase activity	38.35	0.0038419922007876363
+GO:0008379	Molecular_Functions	thioredoxin peroxidase activity	35.9264	0.0035991903155769738
+GO:0009307	Biological_Processes	DNA restriction-modification system	34.9946	0.003505840424242061
+GO:0008410	Molecular_Functions	CoA-transferase activity	32.7469	0.0032806606101687783
+GO:0050082	Molecular_Functions	maltose phosphorylase activity	30.8718	0.0030928087307503455
+GO:0006782	Biological_Processes	protoporphyrinogen IX biosynthetic process	30.441	0.003049650184724288
+GO:0003938	Molecular_Functions	IMP dehydrogenase activity	30.3079	0.003036315917138243
+GO:0016209	Molecular_Functions	antioxidant activity	29.9177	0.0029972247735463955
+GO:0004129	Molecular_Functions	cytochrome-c oxidase activity	29.5874	0.0029641345512798987
+GO:0008134	Molecular_Functions	transcription factor binding	28.9822	0.002903504207605409
+GO:0031216	Molecular_Functions	neopullulanase activity	28.5559	0.0028607964820461977
+GO:0018580	Molecular_Functions	nitronate monooxygenase activity	28.3076	0.0028359212105088945
+GO:0045127	Molecular_Functions	N-acetylglucosamine kinase activity	27.8077	0.002785840065758601
+GO:0010501	Biological_Processes	RNA secondary structure unwinding	27.437	0.002748702477523087
+GO:0015441	Molecular_Functions	ATPase-coupled beta-glucan transporter activity	26.1815	0.002622923567273051
+GO:0017004	Biological_Processes	cytochrome complex assembly	26.1241	0.0026171731017626152
+GO:0016655	Molecular_Functions	oxidoreductase activity, acting on NAD(P)H, quinone or similar compound as acceptor	25.2338	0.0025279807769552818
+GO:0005509	Molecular_Functions	calcium ion binding	25.1058	0.0025151574392316624
+GO:0031419	Molecular_Functions	cobalamin binding	24.6252	0.0024670098133725087
+GO:0008853	Molecular_Functions	exodeoxyribonuclease III activity	23.5551	0.002359804706356528
+GO:0015940	Biological_Processes	pantothenate biosynthetic process	23.2571	0.0023299503732187262
+GO:0019867	Cellular_Components	outer membrane	22.783	0.0022824539324783504
+GO:0016639	Molecular_Functions	oxidoreductase activity, acting on the CH-NH2 group of donors, NAD or NADP as acceptor	22.5741	0.0022615258445840987
+GO:0016888	Molecular_Functions	endodeoxyribonuclease activity, producing 5'-phosphomonoesters	21.752	0.0021791659544076313
+GO:0009396	Biological_Processes	folic acid-containing compound biosynthetic process	21.7467	0.0021786349880800132
+GO:0008728	Molecular_Functions	GTP diphosphokinase activity	21.2058	0.002124446367965123
+GO:0004574	Molecular_Functions	oligo-1,6-glucosidase activity	21.0559	0.0021094290373028526
+GO:0050071	Molecular_Functions	lysyltransferase activity	20.8532	0.0020891220798295892
+GO:0004601	Molecular_Functions	peroxidase activity	20.2958	0.0020332804513362637
+GO:0004181	Molecular_Functions	metallocarboxypeptidase activity	20.0117	0.002004818652529386
+GO:0008616	Biological_Processes	queuosine biosynthetic process	19.7878	0.001982387829745648
+GO:0005996	Biological_Processes	monosaccharide metabolic process	19.3821	0.0019417438601013314
+GO:0004563	Molecular_Functions	beta-N-acetylhexosaminidase activity	18.9487	0.0018983248400277623
+GO:0003995	Molecular_Functions	acyl-CoA dehydrogenase activity	18.9271	0.0018961609017869017
+GO:0003857	Molecular_Functions	3-hydroxyacyl-CoA dehydrogenase activity	18.7208	0.0018754932879401613
+GO:0006811	Biological_Processes	ion transport	18.4394	0.0018473019814133909
+GO:0030600	Molecular_Functions	feruloyl esterase activity	18.0559	0.0018088820594055147
+GO:0004016	Molecular_Functions	adenylate cyclase activity	18.0288	0.001806167118371842
+GO:0006171	Biological_Processes	cAMP biosynthetic process	18.0288	0.001806167118371842
+GO:0019932	Biological_Processes	second-messenger-mediated signaling	18.0288	0.001806167118371842
+GO:0055129	Biological_Processes	L-proline biosynthetic process	18.0176	0.0018050450763210254
+GO:0009035	Molecular_Functions	type I site-specific deoxyribonuclease activity	17.8431	0.0017875632604399969
+GO:0033711	Molecular_Functions	4-phosphoerythronate dehydrogenase activity	17.7499	0.0017782262676599863
+GO:0004764	Molecular_Functions	shikimate 3-dehydrogenase (NADP+) activity	17.3484	0.0017380030637847259
+GO:0008551	Molecular_Functions	cadmium transmembrane transporter activity, phosphorylative mechanism	17.3104	0.0017341961353980265
+GO:0019464	Biological_Processes	glycine decarboxylation via glycine cleavage system	17.3027	0.0017334247314880898
+GO:0004325	Molecular_Functions	ferrochelatase activity	17.283	0.0017314511396665639
+GO:0004586	Molecular_Functions	ornithine decarboxylase activity	17.2052	0.0017236569547064264
+GO:0004645	Molecular_Functions	1,4-alpha-oligoglucan phosphorylase activity	17.2016	0.001723296298332949
+GO:0006754	Biological_Processes	ATP biosynthetic process	17.021	0.0017052033702635297
+GO:0047115	Molecular_Functions	trans-1,2-dihydrobenzene-1,2-diol dehydrogenase activity	16.7138	0.001674427359726842
+GO:0008742	Molecular_Functions	L-ribulose-phosphate 4-epimerase activity	16.6033	0.0016633572127076235
+GO:0016872	Molecular_Functions	intramolecular lyase activity	16.4949	0.0016524974485729333
+GO:0047689	Molecular_Functions	aspartate racemase activity	16.417	0.0016446932453801993
+GO:0008747	Molecular_Functions	N-acetylneuraminate lyase activity	16.2695	0.0016299163523002466
+GO:0004471	Molecular_Functions	malate dehydrogenase (decarboxylating) (NAD+) activity	16.1731	0.0016202587760771455
+GO:0008948	Molecular_Functions	oxaloacetate decarboxylase activity	16.1731	0.0016202587760771455
+GO:0009007	Molecular_Functions	site-specific DNA-methyltransferase (adenine-specific) activity	16.1568	0.001618625804163903
+GO:0016052	Biological_Processes	carbohydrate catabolic process	15.8987	0.0015927687458321357
+GO:0008422	Molecular_Functions	beta-glucosidase activity	15.4137	0.0015441803177387327
+GO:0006569	Biological_Processes	tryptophan catabolic process	15.0384	0.0015065818908037757
+GO:0019805	Biological_Processes	quinolinate biosynthetic process	15.0384	0.0015065818908037757
+GO:0034354	Biological_Processes	'de novo' NAD biosynthetic process from tryptophan	15.0384	0.0015065818908037757
+GO:0043420	Biological_Processes	anthranilate metabolic process	15.0384	0.0015065818908037757
+GO:0009072	Biological_Processes	aromatic amino acid family metabolic process	14.7534	0.0014780299279035284
+GO:0015095	Molecular_Functions	magnesium ion transmembrane transporter activity	14.7373	0.0014764169924554793
+GO:0009099	Biological_Processes	valine biosynthetic process	14.6183	0.0014644952956655518
+GO:0004560	Molecular_Functions	alpha-L-fucosidase activity	14.6117	0.0014638340923141776
+GO:0004126	Molecular_Functions	cytidine deaminase activity	14.3877	0.001441393251297843
+GO:0008615	Biological_Processes	pyridoxine biosynthetic process	14.3705	0.0014396701152912315
+GO:0046914	Molecular_Functions	transition metal ion binding	14.3563	0.0014382475262625174
+GO:0009102	Biological_Processes	biotin biosynthetic process	14.1009	0.0014126609602108575
+GO:0000162	Biological_Processes	tryptophan biosynthetic process	14.0224	0.0014047966476225437
+GO:0005186	Molecular_Functions	pheromone activity	13.968	0.0013993467290900055
+GO:0004109	Molecular_Functions	coproporphyrinogen oxidase activity	13.7066	0.0013731590690825505
+GO:0019354	Biological_Processes	siroheme biosynthetic process	13.6135	0.0013638320945351368
+GO:0052852	Molecular_Functions	very-long-chain-(S)-2-hydroxy-acid oxidase activity	13.5999	0.001362469614902002
+GO:0052853	Molecular_Functions	long-chain-(S)-2-hydroxy-long-chain-acid oxidase activity	13.5999	0.001362469614902002
+GO:0052854	Molecular_Functions	medium-chain-(S)-2-hydroxy-acid oxidase activity	13.5999	0.001362469614902002
+GO:0006051	Biological_Processes	N-acetylmannosamine metabolic process	13.5756	0.0013600351843810336
+GO:0047465	Molecular_Functions	N-acylglucosamine-6-phosphate 2-epimerase activity	13.5756	0.0013600351843810336
+GO:0000272	Biological_Processes	polysaccharide catabolic process	13.523	0.0013547655940352337
+GO:0000107	Molecular_Functions	imidazoleglycerol-phosphate synthase activity	13.386	0.0013410406153779217
+GO:0003855	Molecular_Functions	3-dehydroquinate dehydratase activity	13.2782	0.0013302409606388108
+GO:0019305	Biological_Processes	dTDP-rhamnose biosynthetic process	13.2568	0.0013280970588631432
+GO:0004784	Molecular_Functions	superoxide dismutase activity	13.1207	0.0013144622442992006
+GO:0015209	Molecular_Functions	cytosine transmembrane transporter activity	13.1177	0.0013141616973213032
+GO:0043231	Cellular_Components	intracellular membrane-bounded organelle	12.9864	0.0013010077579219963
+GO:0015976	Biological_Processes	carbon utilization	12.5167	0.00125395211941587
+GO:0030060	Molecular_Functions	L-malate dehydrogenase activity	12.5019	0.0012524694209915762
+GO:0042450	Biological_Processes	arginine biosynthetic process via ornithine	12.2336	0.0012255905029349577
+GO:0033920	Molecular_Functions	6-phospho-beta-galactosidase activity	12.2091	0.0012231360359487961
+GO:0008320	Molecular_Functions	protein transmembrane transporter activity	12.1504	0.001217255333414605
+GO:0033281	Cellular_Components	TAT protein transport complex	12.1504	0.001217255333414605
+GO:0043953	Biological_Processes	protein transport by the Tat complex	12.1504	0.001217255333414605
+GO:0003979	Molecular_Functions	UDP-glucose 6-dehydrogenase activity	11.8996	0.0011921296060623874
+GO:0019632	Biological_Processes	shikimate metabolic process	11.8835	0.0011905166706143386
+GO:0006537	Biological_Processes	glutamate biosynthetic process	11.7332	0.0011754592670216817
+GO:0008935	Molecular_Functions	1,4-dihydroxy-2-naphthoyl-CoA synthase activity	11.7178	0.0011739164592018088
+GO:0031219	Molecular_Functions	levanase activity	11.6533	0.001167454699177016
+GO:0070008	Molecular_Functions	serine-type exopeptidase activity	11.5757	0.0011596805506820715
+GO:0016410	Molecular_Functions	N-acyltransferase activity	11.541	0.001156204223971059
+GO:0004156	Molecular_Functions	dihydropteroate synthase activity	11.3157	0.001133633145930969
+GO:0019441	Biological_Processes	tryptophan catabolic process to kynurenine	11.3133	0.001133392708348651
+GO:0019556	Biological_Processes	histidine catabolic process to glutamate and formamide	11.3132	0.0011333826901160546
+GO:0019557	Biological_Processes	histidine catabolic process to glutamate and formate	11.3132	0.0011333826901160546
+GO:0003934	Molecular_Functions	GTP cyclohydrolase I activity	11.3039	0.0011324509944845727
+GO:0035998	Biological_Processes	7,8-dihydroneopterin 3'-triphosphate biosynthetic process	11.3039	0.0011324509944845727
+GO:0009098	Biological_Processes	leucine biosynthetic process	11.2582	0.0011278726621879367
+GO:0008559	Molecular_Functions	ATPase-coupled xenobiotic transmembrane transporter activity	11.2202	0.001124065733801237
+GO:0006535	Biological_Processes	cysteine biosynthetic process from serine	11.133	0.001115329834977021
+GO:0097428	Biological_Processes	protein maturation by iron-sulfur cluster transfer	11.1133	0.0011133562431554953
+GO:0048029	Molecular_Functions	monosaccharide binding	11.0479	0.0011068043190373333
+GO:0008962	Molecular_Functions	phosphatidylglycerophosphatase activity	10.9664	0.0010986394594711224
+GO:0009060	Biological_Processes	aerobic respiration	10.9364	0.001095633989692149
+GO:0009082	Biological_Processes	branched-chain amino acid biosynthetic process	10.9357	0.0010955638620639729
+GO:0008271	Molecular_Functions	secondary active sulfate transmembrane transporter activity	10.8665	0.001088631245107141
+GO:0042834	Molecular_Functions	peptidoglycan binding	10.8578	0.0010877596588712386
+GO:0070469	Cellular_Components	respirasome	10.7977	0.0010817387010806953
+GO:0006799	Biological_Processes	polyphosphate biosynthetic process	10.744	0.0010763589101763329
+GO:0008976	Molecular_Functions	polyphosphate kinase activity	10.744	0.0010763589101763329
+GO:0009358	Cellular_Components	polyphosphate kinase complex	10.744	0.0010763589101763329
+GO:0004148	Molecular_Functions	dihydrolipoyl dehydrogenase activity	10.5434	0.0010562623355875975
+GO:0004089	Molecular_Functions	carbonate dehydratase activity	10.524	0.0010543187984638613
+GO:0003848	Molecular_Functions	2-amino-4-hydroxy-6-hydroxymethyldihydropteridine diphosphokinase activity	10.431	0.001045001842149044
+GO:0070814	Biological_Processes	hydrogen sulfide biosynthetic process	10.3809	0.0010399827076181586
+GO:0004781	Molecular_Functions	sulfate adenylyltransferase (ATP) activity	10.348	0.0010366867090938843
+GO:0016311	Biological_Processes	dephosphorylation	10.2887	0.0010307458971641136
+GO:0050380	Molecular_Functions	undecaprenyl-diphosphatase activity	10.2887	0.0010307458971641136
+GO:0008641	Molecular_Functions	ubiquitin-like modifier activating enzyme activity	10.2732	0.0010291930711116438
+GO:0004735	Molecular_Functions	pyrroline-5-carboxylate reductase activity	10.1357	0.0010154180012913493
+GO:0004739	Molecular_Functions	pyruvate dehydrogenase (acetyl-transferring) activity	10.0851	0.001010348775597481
+GO:0006808	Biological_Processes	regulation of nitrogen utilization	10.0416	0.0010059908444179696
+GO:0030234	Molecular_Functions	enzyme regulator activity	10.0416	0.0010059908444179696
+GO:0004489	Molecular_Functions	methylenetetrahydrofolate reductase (NAD(P)H) activity	9.96712	0.0009985292647800381
+GO:0008775	Molecular_Functions	acetate CoA-transferase activity	9.92803	0.0009946131376580359
+GO:0015810	Biological_Processes	aspartate transmembrane transport	9.85185	0.000986981248065963
+GO:0015813	Biological_Processes	L-glutamate transmembrane transport	9.85185	0.000986981248065963
+GO:0004642	Molecular_Functions	phosphoribosylformylglycinamidine synthase activity	9.85154	0.0009869501915449135
+GO:0030288	Cellular_Components	outer membrane-bounded periplasmic space	9.80723	0.0009825111126813698
+GO:0008915	Molecular_Functions	lipid-A-disaccharide synthase activity	9.79942	0.000981728688715577
+GO:0009249	Biological_Processes	protein lipoylation	9.78638	0.0009804223111849833
+GO:0022904	Biological_Processes	respiratory electron transport chain	9.72614	0.0009743873278688048
+GO:0008831	Molecular_Functions	dTDP-4-dehydrorhamnose reductase activity	9.65737	0.0009674977893121382
+GO:0008691	Molecular_Functions	3-hydroxybutyryl-CoA dehydrogenase activity	9.63136	0.0009648920470137684
+GO:0003984	Molecular_Functions	acetolactate synthase activity	9.55043	0.0009567842913733579
+GO:0034605	Biological_Processes	cellular response to heat	9.48507	0.0009502363745482345
+GO:0005960	Cellular_Components	glycine cleavage complex	9.44332	0.0009460537624391631
+GO:0008865	Molecular_Functions	fructokinase activity	9.43876	0.0009455969310327592
+GO:0008171	Molecular_Functions	O-methyltransferase activity	9.13796	0.0009154620873822527
+GO:0046417	Biological_Processes	chorismate metabolic process	9.09315	0.000910972917355726
+GO:0047372	Molecular_Functions	acylglycerol lipase activity	9.00141	0.0009017821907716256
+GO:0015655	Molecular_Functions	alanine:sodium symporter activity	8.97072	0.0008987075951877358
+GO:0071793	Biological_Processes	bacillithiol biosynthetic process	8.93965	0.0008955949303199791
+GO:0008218	Biological_Processes	bioluminescence	8.9255	0.0008941773504075631
+GO:0019069	Biological_Processes	viral capsid assembly	8.90827	0.0008924512089311729
+GO:0008186	Molecular_Functions	RNA-dependent ATPase activity	8.81076	0.0008826824303262497
+GO:0004150	Molecular_Functions	dihydroneopterin aldolase activity	8.79756	0.0008813600236235016
+GO:0046656	Biological_Processes	folic acid biosynthetic process	8.79756	0.0008813600236235016
+GO:0043115	Molecular_Functions	precorrin-2 dehydrogenase activity	8.68435	0.0008700183825009156
+GO:0009067	Biological_Processes	aspartate family amino acid biosynthetic process	8.64693	0.000866269559863276
+GO:0006783	Biological_Processes	heme biosynthetic process	8.59869	0.0008614367644586868
+GO:0004852	Molecular_Functions	uroporphyrinogen-III synthase activity	8.55997	0.0008575577047972919
+GO:0006780	Biological_Processes	uroporphyrinogen III biosynthetic process	8.55997	0.0008575577047972919
+GO:0015137	Molecular_Functions	citrate transmembrane transporter activity	8.5483	0.0008563885770532713
+GO:0008460	Molecular_Functions	dTDP-glucose 4,6-dehydratase activity	8.47471	0.0008490161596854496
+GO:0009225	Biological_Processes	nucleotide-sugar metabolic process	8.47471	0.0008490161596854496
+GO:0003993	Molecular_Functions	acid phosphatase activity	8.46342	0.0008478851012252959
+GO:0004726	Molecular_Functions	non-membrane spanning protein tyrosine phosphatase activity	8.46342	0.0008478851012252959
+GO:0004359	Molecular_Functions	glutaminase activity	8.43505	0.0008450429286376469
+GO:0004746	Molecular_Functions	riboflavin synthase activity	8.35337	0.0008368600362527619
+GO:0004834	Molecular_Functions	tryptophan synthase activity	8.29748	0.0008312608460545345
+GO:0004337	Molecular_Functions	geranyltranstransferase activity	8.24187	0.0008256897069075776
+GO:0008883	Molecular_Functions	glutamyl-tRNA reductase activity	8.21893	0.0008233915243499227
+GO:0015891	Biological_Processes	siderophore transport	8.21558	0.0008230559135579371
+GO:0003937	Molecular_Functions	IMP cyclohydrolase activity	8.14774	0.0008162595445644188
+GO:0004643	Molecular_Functions	phosphoribosylaminoimidazolecarboxamide formyltransferase activity	8.14774	0.0008162595445644188
+GO:0003861	Molecular_Functions	3-isopropylmalate dehydratase activity	8.06216	0.0008076859411082674
+GO:0004064	Molecular_Functions	arylesterase activity	8.03876	0.0008053416746806681
+GO:0016780	Molecular_Functions	phosphotransferase activity, for other substituted phosphate groups	7.97454	0.0007989079657071457
+GO:0004639	Molecular_Functions	phosphoribosylaminoimidazolesuccinocarboxamide synthase activity	7.68958	0.0007703600100999374
+GO:0004056	Molecular_Functions	argininosuccinate lyase activity	7.61479	0.0007628673739409566
+GO:0009113	Biological_Processes	purine nucleobase biosynthetic process	7.52807	0.0007541795626332042
+GO:0009691	Biological_Processes	cytokinin biosynthetic process	7.51162	0.0007525315633710672
+GO:0008767	Molecular_Functions	UDP-galactopyranose mutase activity	7.50245	0.000751612891441961
+GO:0008198	Molecular_Functions	ferrous iron binding	7.43452	0.0007448075060391056
+GO:0008677	Molecular_Functions	2-dehydropantoate 2-reductase activity	7.41606	0.0007429581403017773
+GO:0004640	Molecular_Functions	phosphoribosylanthranilate isomerase activity	7.39447	0.0007407952038841762
+GO:2001070	Molecular_Functions	starch binding	7.36492	0.0007378348161518873
+GO:0008890	Molecular_Functions	glycine C-acetyltransferase activity	7.33321	0.0007346580345955126
+GO:0052856	Molecular_Functions	NADHX epimerase activity	7.31359	0.0007326924573600638
+GO:0043897	Molecular_Functions	glucan 1,4-alpha-maltohydrolase activity	7.26965	0.0007282904459571276
+GO:0047798	Molecular_Functions	cyclomaltodextrinase activity	7.26965	0.0007282904459571276
+GO:0003842	Molecular_Functions	1-pyrroline-5-carboxylate dehydrogenase activity	7.2571	0.0007270331577662571
+GO:0010133	Biological_Processes	proline catabolic process to glutamate	7.2571	0.0007270331577662571
+GO:0004631	Molecular_Functions	phosphomevalonate kinase activity	7.11424	0.0007127211106787858
+GO:0015159	Molecular_Functions	polysaccharide transmembrane transporter activity	7.01965	0.0007032448644656827
+GO:0046952	Biological_Processes	ketone body catabolic process	6.99127	0.0007004016900547739
+GO:0030435	Biological_Processes	sporulation resulting in formation of a cellular spore	6.98343	0.0006996162606192022
+GO:0004731	Molecular_Functions	purine-nucleoside phosphorylase activity	6.79464	0.0006807028393001227
+GO:0016813	Molecular_Functions	hydrolase activity, acting on carbon-nitrogen (but not peptide) bonds, in linear amidines	6.77909	0.0006791450041313549
+GO:0004794	Molecular_Functions	L-threonine ammonia-lyase activity	6.75951	0.0006771834341889449
+GO:0006241	Biological_Processes	CTP biosynthetic process	6.75922	0.0006771543813144148
+GO:0038023	Molecular_Functions	signaling receptor activity	6.71807	0.000673031878600923
+GO:0019512	Biological_Processes	lactose catabolic process via tagatose-6-phosphate	6.67485	0.0006687019984726821
+GO:0004300	Molecular_Functions	enoyl-CoA hydratase activity	6.67196	0.0006684124715506409
+GO:0004591	Molecular_Functions	oxoglutarate dehydrogenase (succinyl-transferring) activity	6.66499	0.0006677142007386594
+GO:0006826	Biological_Processes	iron ion transport	6.63249	0.0006644582751447716
+GO:0004635	Molecular_Functions	phosphoribosyl-AMP cyclohydrolase activity	6.61785	0.0006629916058926325
+GO:0004636	Molecular_Functions	phosphoribosyl-ATP diphosphatase activity	6.61785	0.0006629916058926325
+GO:0019825	Molecular_Functions	oxygen binding	6.61637	0.0006628433360502033
+GO:0004664	Molecular_Functions	prephenate dehydratase activity	6.60388	0.0006615920587988907
+GO:0009094	Biological_Processes	L-phenylalanine biosynthetic process	6.60388	0.0006615920587988907
+GO:0034023	Molecular_Functions	5-(carboxyamino)imidazole ribonucleotide mutase activity	6.5353	0.0006547215548841575
+GO:0004587	Molecular_Functions	ornithine-oxo-acid transaminase activity	6.53519	0.0006547105348283013
+GO:0009029	Molecular_Functions	tetraacyldisaccharide 4'-kinase activity	6.52801	0.000653991225727867
+GO:1990397	Biological_Processes	queuosine salvage	6.48425	0.0006496072471436045
+GO:0000103	Biological_Processes	sulfate assimilation	6.4332	0.0006444929394030515
+GO:0004020	Molecular_Functions	adenylylsulfate kinase activity	6.4332	0.0006444929394030515
+GO:0019419	Biological_Processes	sulfate reduction	6.40024	0.0006411909299392193
+GO:0006418	Biological_Processes	tRNA aminoacylation for protein translation	6.39739	0.0006409054103102169
+GO:0015221	Molecular_Functions	lipopolysaccharide transmembrane transporter activity	6.35744	0.0006369031263878841
+GO:0006515	Biological_Processes	protein quality control for misfolded or incompletely synthesized proteins	6.32577	0.0006337303521245478
+GO:0043799	Molecular_Functions	glycine oxidase activity	6.28353	0.0006294986506757532
+GO:0008770	Molecular_Functions	acyl-carrier-protein phosphodiesterase activity	6.28269	0.0006294144975219421
+GO:0008659	Molecular_Functions	(3R)-hydroxymyristoyl-acyl-carrier-protein dehydratase activity	6.25603	0.0006267436367116944
+GO:0047451	Molecular_Functions	3-hydroxyoctanoyl-acyl-carrier-protein dehydratase activity	6.25603	0.0006267436367116944
+GO:0004139	Molecular_Functions	deoxyribose-phosphate aldolase activity	6.21114	0.0006222464520990905
+GO:0009264	Biological_Processes	deoxyribonucleotide catabolic process	6.21114	0.0006222464520990905
+GO:0046386	Biological_Processes	deoxyribose phosphate catabolic process	6.21114	0.0006222464520990905
+GO:0022900	Biological_Processes	electron transport chain	6.20818	0.0006219499124142317
+GO:0052654	Molecular_Functions	L-leucine transaminase activity	6.16542	0.000617666116155935
+GO:0052655	Molecular_Functions	L-valine transaminase activity	6.16542	0.000617666116155935
+GO:0052656	Molecular_Functions	L-isoleucine transaminase activity	6.16542	0.000617666116155935
+GO:0004068	Molecular_Functions	aspartate 1-decarboxylase activity	6.14629	0.0006157496282602097
+GO:0006523	Biological_Processes	alanine biosynthetic process	6.14629	0.0006157496282602097
+GO:0004540	Molecular_Functions	ribonuclease activity	6.12334	0.0006134504438792951
+GO:0015116	Molecular_Functions	sulfate transmembrane transporter activity	6.10136	0.0006112484363545673
+GO:0004061	Molecular_Functions	arylformamidase activity	6.10062	0.0006111743014333526
+GO:0008870	Molecular_Functions	galactoside O-acetyltransferase activity	6.08007	0.0006091155546347559
+GO:0004035	Molecular_Functions	alkaline phosphatase activity	6.06872	0.0006079784852350442
+GO:0004308	Molecular_Functions	exo-alpha-sialidase activity	6.06175	0.0006072802144230627
+GO:0006144	Biological_Processes	purine nucleobase metabolic process	6.05079	0.0006061822161304778
+GO:0033971	Molecular_Functions	hydroxyisourate hydrolase activity	6.05079	0.0006061822161304778
+GO:0006226	Biological_Processes	dUMP biosynthetic process	6.03209	0.0006043088066349177
+GO:0004641	Molecular_Functions	phosphoribosylformylglycinamidine cyclo-ligase activity	6.01646	0.0006027429568800727
+GO:0019318	Biological_Processes	hexose metabolic process	5.99978	0.0006010719156829635
+GO:0018364	Biological_Processes	peptidyl-glutamine methylation	5.99143	0.0006002353932611491
+GO:0036009	Molecular_Functions	protein-glutamine N-methyltransferase activity	5.99143	0.0006002353932611491
+GO:0102559	Molecular_Functions	protein-(glutamine-N5) methyltransferase activity	5.99143	0.0006002353932611491
+GO:0016024	Biological_Processes	CDP-diacylglycerol biosynthetic process	5.98994	0.0006000861215954602
+GO:0008473	Molecular_Functions	ornithine cyclodeaminase activity	5.96941	0.0005980293784433827
+GO:0016866	Molecular_Functions	intramolecular transferase activity	5.96692	0.0005977799244517278
+GO:0003856	Molecular_Functions	3-dehydroquinate synthase activity	5.93782	0.0005948646187661237
+GO:0004765	Molecular_Functions	shikimate kinase activity	5.92417	0.0005934971300166908
+GO:0006885	Biological_Processes	regulation of pH	5.92238	0.0005933178036532121
+GO:0015081	Molecular_Functions	sodium ion transmembrane transporter activity	5.92238	0.0005933178036532121
+GO:0016793	Molecular_Functions	triphosphoric monoester hydrolase activity	5.92158	0.0005932376577924395
+GO:0008780	Molecular_Functions	acyl-acyl-carrier-protein-UDP-N-acetylglucosamine O-acyltransferase activity	5.89516	0.0005905908407404236
+GO:0071709	Biological_Processes	membrane assembly	5.83422	0.000584485729796069
+GO:0001681	Molecular_Functions	sialate O-acetylesterase activity	5.83326	0.0005843895547631418
+GO:0008987	Molecular_Functions	quinolinate synthetase A activity	5.81758	0.0005828186958919985
+GO:0042121	Biological_Processes	alginic acid biosynthetic process	5.81297	0.0005823568553692961
+GO:0000334	Molecular_Functions	3-hydroxyanthranilate 3,4-dioxygenase activity	5.81143	0.0005822025745873088
+GO:0004185	Molecular_Functions	serine-type carboxypeptidase activity	5.78781	0.0005798362680479971
+GO:0018339	Biological_Processes	peptidyl-L-beta-methylthioaspartic acid biosynthetic process from peptidyl-aspartic acid	5.77686	0.0005787392715786719
+GO:0103039	Molecular_Functions	protein methylthiotransferase activity	5.77686	0.0005787392715786719
+GO:0004399	Molecular_Functions	histidinol dehydrogenase activity	5.7257	0.0005736139437822626
+GO:0008854	Molecular_Functions	exodeoxyribonuclease V activity	5.71252	0.0005722935407260336
+GO:0016117	Biological_Processes	carotenoid biosynthetic process	5.70522	0.0005715622097464834
+GO:0004742	Molecular_Functions	dihydrolipoyllysine-residue acetyltransferase activity	5.7032	0.0005713598414480326
+GO:0045254	Cellular_Components	pyruvate dehydrogenase complex	5.7032	0.0005713598414480326
+GO:0008879	Molecular_Functions	glucose-1-phosphate thymidylyltransferase activity	5.68783	0.0005698200390979385
+GO:0004754	Molecular_Functions	saccharopine dehydrogenase (NAD+, L-lysine-forming) activity	5.62906	0.0005639323238009297
+GO:0009085	Biological_Processes	lysine biosynthetic process	5.62906	0.0005639323238009297
+GO:0001216	Molecular_Functions	DNA-binding transcription activator activity	5.61737	0.0005627611924103898
+GO:0004637	Molecular_Functions	phosphoribosylamine-glycine ligase activity	5.61516	0.0005625397894700053
+GO:0008773	Molecular_Functions	protein-PII uridylyltransferase activity	5.56936	0.0005579514389407726
+GO:0042286	Molecular_Functions	glutamate-1-semialdehyde 2,1-aminomutase activity	5.53816	0.0005548257503706404
+GO:0004715	Molecular_Functions	non-membrane spanning protein tyrosine kinase activity	5.52745	0.0005537527976595468
+GO:0006790	Biological_Processes	sulfur compound metabolic process	5.52659	0.0005536666408592162
+GO:0008441	Molecular_Functions	3'(2'),5'-bisphosphate nucleotidase activity	5.52659	0.0005536666408592162
+GO:0046854	Biological_Processes	phosphatidylinositol phosphorylation	5.52659	0.0005536666408592162
+GO:0070009	Molecular_Functions	serine-type aminopeptidase activity	5.51405	0.0005524103544916055
+GO:0004055	Molecular_Functions	argininosuccinate synthase activity	5.5093	0.000551934488443268
+GO:0008955	Molecular_Functions	peptidoglycan glycosyltransferase activity	5.46847	0.0005478440440740851
+GO:0016763	Molecular_Functions	transferase activity, transferring pentosyl groups	5.46847	0.0005478440440740851
+GO:0006797	Biological_Processes	polyphosphate metabolic process	5.46092	0.0005470876675130436
+GO:0071586	Biological_Processes	CAAX-box protein processing	5.46073	0.0005470686328711101
+GO:0002935	Molecular_Functions	tRNA (adenine-C2-)-methyltransferase activity	5.44126	0.0005451180829845563
+GO:0070040	Molecular_Functions	rRNA (adenine-C2-)-methyltransferase activity	5.44126	0.0005451180829845563
+GO:0016628	Molecular_Functions	oxidoreductase activity, acting on the CH-CH group of donors, NAD or NADP as acceptor	5.43629	0.0005446201768245063
+GO:0016855	Molecular_Functions	racemase and epimerase activity, acting on amino acids and derivatives	5.4288	0.0005438698112030227
+GO:0004775	Molecular_Functions	succinate-CoA ligase (ADP-forming) activity	5.42117	0.0005431054200559039
+GO:0008705	Molecular_Functions	methionine synthase activity	5.38294	0.000539275449734232
+GO:0042558	Biological_Processes	pteridine-containing compound metabolic process	5.38294	0.000539275449734232
+GO:0004638	Molecular_Functions	phosphoribosylaminoimidazole carboxylase activity	5.38275	0.0005392564150922986
+GO:0034028	Molecular_Functions	5-(carboxyamino)imidazole ribonucleotide synthase activity	5.38275	0.0005392564150922986
+GO:0018298	Biological_Processes	protein-chromophore linkage	5.36799	0.0005377777239610437
+GO:0004349	Molecular_Functions	glutamate 5-kinase activity	5.36762	0.0005377406565004364
+GO:0004592	Molecular_Functions	pantoate-beta-alanine ligase activity	5.36562	0.0005375402918485048
+GO:0004602	Molecular_Functions	glutathione peroxidase activity	5.34513	0.000535487555989466
+GO:0003866	Molecular_Functions	3-phosphoshikimate 1-carboxyvinyltransferase activity	5.34487	0.0005354615085847149
+GO:0004076	Molecular_Functions	biotin synthase activity	5.33484	0.0005344566798552781
+GO:0033856	Molecular_Functions	pyridoxine 5'-phosphate synthase activity	5.24991	0.0005259481949110045
+GO:0019518	Biological_Processes	L-threonine catabolic process to glycine	5.24498	0.0005254542960439931
+GO:0006229	Biological_Processes	dUTP biosynthetic process	5.24411	0.000525367137420403
+GO:0008829	Molecular_Functions	dCTP deaminase activity	5.24411	0.000525367137420403
+GO:0004096	Molecular_Functions	catalase activity	5.24293	0.0005252489222757634
+GO:0042744	Biological_Processes	hydrogen peroxide catabolic process	5.24293	0.0005252489222757634
+GO:0015109	Molecular_Functions	chromate transmembrane transporter activity	5.2381	0.0005247650416413486
+GO:0004657	Molecular_Functions	proline dehydrogenase activity	5.23648	0.000524602746273284
+GO:0006562	Biological_Processes	proline catabolic process	5.23648	0.000524602746273284
+GO:0006004	Biological_Processes	fucose metabolic process	5.22005	0.0005229567506576663
+GO:0016603	Molecular_Functions	glutaminyl-peptide cyclotransferase activity	5.21534	0.0005224848919023675
+GO:0017186	Biological_Processes	peptidyl-pyroglutamic acid biosynthetic process, using glutaminyl-peptide cyclotransferase	5.21534	0.0005224848919023675
+GO:0004833	Molecular_Functions	tryptophan 2,3-dioxygenase activity	5.21269	0.0005222194087385582
+GO:0042128	Biological_Processes	nitrate assimilation	5.20609	0.0005215582053871839
+GO:0042279	Molecular_Functions	nitrite reductase (cytochrome, ammonia-forming) activity	5.20609	0.0005215582053871839
+GO:0008759	Molecular_Functions	UDP-3-O-3-hydroxymyristoyl N-acetylglucosamine deacetylase activity	5.18857	0.0005198030110362636
+GO:0103117	Molecular_Functions	UDP-3-O-acyl-N-acetylglucosamine deacetylase activity	5.18857	0.0005198030110362636
+GO:0045278	Cellular_Components	plasma membrane respiratory chain complex IV	5.18612	0.0005195575643376474
+GO:0045301	Molecular_Functions	tRNA-(2-methylthio-N-6-(cis-hydroxy)isopentenyl adenosine)-hydroxylase activity	5.15104	0.0005160431683427679
+GO:0006784	Biological_Processes	heme A biosynthetic process	5.15053	0.0005159920753565253
+GO:0016627	Molecular_Functions	oxidoreductase activity, acting on the CH-CH group of donors	5.15053	0.0005159920753565253
+GO:0004502	Molecular_Functions	kynurenine 3-monooxygenase activity	5.1385	0.000514786881975157
+GO:0015150	Molecular_Functions	fucose transmembrane transporter activity	5.12729	0.0005136638381010806
+GO:0004455	Molecular_Functions	ketol-acid reductoisomerase activity	5.12447	0.0005133813239418571
+GO:0004654	Molecular_Functions	polyribonucleotide nucleotidyltransferase activity	5.11064	0.0005119958023737503
+GO:0008495	Molecular_Functions	protoheme IX farnesyltransferase activity	5.10904	0.0005118355106522052
+GO:0048034	Biological_Processes	heme O biosynthetic process	5.10904	0.0005118355106522052
+GO:0008690	Molecular_Functions	3-deoxy-manno-octulosonate cytidylyltransferase activity	5.09587	0.0005105161094192359
+GO:0033468	Biological_Processes	CMP-keto-3-deoxy-D-manno-octulosonic acid biosynthetic process	5.09587	0.0005105161094192359
+GO:0008765	Molecular_Functions	UDP-N-acetylmuramoylalanyl-D-glutamate-2,6-diaminopimelate ligase activity	5.09548	0.0005104770383121092
+GO:0015930	Molecular_Functions	glutamate synthase activity	5.05024	0.0005059447898854173
+GO:0043171	Biological_Processes	peptide catabolic process	5.04297	0.0005052164643756462
+GO:0004334	Molecular_Functions	fumarylacetoacetase activity	5.02766	0.00050368267296511
+GO:0003949	Molecular_Functions	1-(5-phosphoribosyl)-5-(5-phosphoribosylamino)methylideneaminoimidazole-4-carboxamide isomerase activity	5.02135	0.000503050522488266
+GO:0003868	Molecular_Functions	4-hydroxyphenylpyruvate dioxygenase activity	5.0133	0.0005022440547642414
+GO:0006878	Biological_Processes	cellular copper ion homeostasis	4.99509	0.0005004197346084046
+GO:0102148	Molecular_Functions	N-acetyl-beta-D-galactosaminidase activity	4.95353	0.0004962561571412668
+GO:0009030	Molecular_Functions	thiamine-phosphate kinase activity	4.95046	0.0004959485974005518
+GO:0004555	Molecular_Functions	alpha,alpha-trehalase activity	4.94748	0.0004956500540691738
+GO:0005991	Biological_Processes	trehalose metabolic process	4.94748	0.0004956500540691738
+GO:0006086	Biological_Processes	acetyl-CoA biosynthetic process from pyruvate	4.89963	0.0004908563297717114
+GO:0004411	Molecular_Functions	homogentisate 1,2-dioxygenase activity	4.89796	0.0004906890252873484
+GO:0006559	Biological_Processes	L-phenylalanine catabolic process	4.89796	0.0004906890252873484
+GO:0006570	Biological_Processes	tyrosine metabolic process	4.89796	0.0004906890252873484
+GO:0016051	Biological_Processes	carbohydrate biosynthetic process	4.88898	0.0004897893880001757
+GO:0042132	Molecular_Functions	fructose 1,6-bisphosphate 1-phosphatase activity	4.88898	0.0004897893880001757
+GO:0006566	Biological_Processes	threonine metabolic process	4.86116	0.00048700231569180776
+GO:0016153	Molecular_Functions	urocanate hydratase activity	4.84866	0.00048575003661723546
+GO:0004644	Molecular_Functions	phosphoribosylglycinamide formyltransferase activity	4.84641	0.00048552462638381253
+GO:0008909	Molecular_Functions	isochorismate synthase activity	4.79871	0.0004807459294352448
+GO:0004648	Molecular_Functions	O-phospho-L-serine:2-oxoglutarate aminotransferase activity	4.79476	0.00048035020924768
+GO:0006564	Biological_Processes	L-serine biosynthetic process	4.79476	0.00048035020924768
+GO:1902600	Biological_Processes	proton transmembrane transport	4.77912	0.0004787833576695752
+GO:0004550	Molecular_Functions	nucleoside diphosphate kinase activity	4.7597	0.00047683781689931976
+GO:0006183	Biological_Processes	GTP biosynthetic process	4.7597	0.00047683781689931976
+GO:0006228	Biological_Processes	UTP biosynthetic process	4.7597	0.00047683781689931976
+GO:0009190	Biological_Processes	cyclic nucleotide biosynthetic process	4.72982	0.0004738443689994623
+GO:0016849	Molecular_Functions	phosphorus-oxygen lyase activity	4.72982	0.0004738443689994623
+GO:0035556	Biological_Processes	intracellular signal transduction	4.72982	0.0004738443689994623
+GO:0015087	Molecular_Functions	cobalt ion transmembrane transporter activity	4.71628	0.0004724879003058857
+GO:0004160	Molecular_Functions	dihydroxy-acid dehydratase activity	4.71374	0.0004722334371979325
+GO:0004505	Molecular_Functions	phenylalanine 4-monooxygenase activity	4.71243	0.00047210219835091747
+GO:0047474	Molecular_Functions	long-chain fatty acid luciferin component ligase activity	4.7064	0.00047149809892534376
+GO:0004473	Molecular_Functions	malate dehydrogenase (decarboxylating) (NADP+) activity	4.6693	0.0004677813346320133
+GO:0006108	Biological_Processes	malate metabolic process	4.6693	0.0004677813346320133
+GO:0047324	Molecular_Functions	phosphoenolpyruvate-glycerone phosphotransferase activity	4.66391	0.0004672413518950577
+GO:0002938	Biological_Processes	tRNA guanine ribose methylation	4.64659	0.0004655061940093305
+GO:0016715	Molecular_Functions	oxidoreductase activity, acting on paired donors, with incorporation or reduction of molecular oxygen, reduced ascorbate as one donor, and incorporation of one atom of oxygen	4.6449	0.00046533688587844824
+GO:0071268	Biological_Processes	homocysteine biosynthetic process	4.64214	0.0004650603826587828
+GO:0004108	Molecular_Functions	citrate (Si)-synthase activity	4.64081	0.00046492714016524824
+GO:0003991	Molecular_Functions	acetylglutamate kinase activity	4.61881	0.00046272312899400114
+GO:0004819	Molecular_Functions	glutamine-tRNA ligase activity	4.59566	0.0004604039081478933
+GO:0006425	Biological_Processes	glutaminyl-tRNA aminoacylation	4.59566	0.0004604039081478933
+GO:0015379	Molecular_Functions	potassium:chloride symporter activity	4.58084	0.00045891920607708055
+GO:0033819	Molecular_Functions	lipoyl(octanoyl) transferase activity	4.56434	0.00045726619769864506
+GO:0102555	Molecular_Functions	octanoyl transferase activity (acting on glycine-cleavage complex H protein)	4.56434	0.00045726619769864506
+GO:0016624	Molecular_Functions	oxidoreductase activity, acting on the aldehyde or oxo group of donors, disulfide as acceptor	4.56308	0.00045713996796792827
+GO:0004141	Molecular_Functions	dethiobiotin synthase activity	4.55779	0.00045661000346356926
+GO:0006081	Biological_Processes	cellular aldehyde metabolic process	4.54126	0.000454953989615355
+GO:0004034	Molecular_Functions	aldose 1-epimerase activity	4.5289	0.00045371573606641793
+GO:0000302	Biological_Processes	response to reactive oxygen species	4.51897	0.0004527209255695778
+GO:0008785	Molecular_Functions	alkyl hydroperoxide reductase activity	4.51897	0.0004527209255695778
+GO:0008932	Molecular_Functions	lytic endotransglycosylase activity	4.50518	0.0004513394112945096
+GO:0015093	Molecular_Functions	ferrous iron transmembrane transporter activity	4.46526	0.00044734013284195576
+GO:0055072	Biological_Processes	iron ion homeostasis	4.46526	0.00044734013284195576
+GO:0043173	Biological_Processes	nucleotide salvage	4.45476	0.00044628821841931506
+GO:0004375	Molecular_Functions	glycine dehydrogenase (decarboxylating) activity	4.4489	0.0004457011499891556
+GO:0016430	Molecular_Functions	tRNA (adenine-N6-)-methyltransferase activity	4.38832	0.00043963210468214866
+GO:0015343	Molecular_Functions	siderophore transmembrane transporter activity	4.38169	0.0004389678958609955
+GO:0031992	Molecular_Functions	energy transducer activity	4.38169	0.0004389678958609955
+GO:0006040	Biological_Processes	amino sugar metabolic process	4.37173	0.00043797007989437647
+GO:0009254	Biological_Processes	peptidoglycan turnover	4.37173	0.00043797007989437647
+GO:0097175	Biological_Processes	1,6-anhydro-N-acetyl-beta-muramic acid catabolic process	4.37173	0.00043797007989437647
+GO:0000270	Biological_Processes	peptidoglycan metabolic process	4.36523	0.00043731889477559885
+GO:0008933	Molecular_Functions	lytic transglycosylase activity	4.36523	0.00043731889477559885
+GO:0008914	Molecular_Functions	leucyltransferase activity	4.36514	0.000437309878366262
+GO:0003864	Molecular_Functions	3-methyl-2-oxobutanoate hydroxymethyltransferase activity	4.32908	0.00043369730369193594
+GO:0004733	Molecular_Functions	pyridoxamine-phosphate oxidase activity	4.3258	0.00043336870566276813
+GO:0008676	Molecular_Functions	3-deoxy-8-phosphooctulonate synthase activity	4.31777	0.000432564241585263
+GO:0019213	Molecular_Functions	deacetylase activity	4.30604	0.0004313891029016844
+GO:0004048	Molecular_Functions	anthranilate phosphoribosyltransferase activity	4.27927	0.00042870722203558053
+GO:0006635	Biological_Processes	fatty acid beta-oxidation	4.26663	0.000427440917435373
+GO:0046912	Molecular_Functions	transferase activity, transferring acyl groups, acyl groups converted into alkyl on transfer	4.26168	0.00042694501492184243
+GO:0003879	Molecular_Functions	ATP phosphoribosyltransferase activity	4.23806	0.00042457870838253064
+GO:0006465	Biological_Processes	signal peptide processing	4.22947	0.00042371814220248466
+GO:0004106	Molecular_Functions	chorismate mutase activity	4.22292	0.0004230619479674088
+GO:0005451	Molecular_Functions	monovalent cation:proton antiporter activity	4.21971	0.00042274036270105865
+GO:0004015	Molecular_Functions	adenosylmethionine-8-amino-7-oxononanoate transaminase activity	4.20824	0.0004215912714222311
+GO:0006007	Biological_Processes	glucose catabolic process	4.19996	0.0004207617617632345
+GO:0046537	Molecular_Functions	2,3-bisphosphoglycerate-independent phosphoglycerate mutase activity	4.19996	0.0004207617617632345
+GO:0009036	Molecular_Functions	type II site-specific deoxyribonuclease activity	4.15109	0.00041586585149328687
+GO:0003994	Molecular_Functions	aconitate hydratase activity	4.1147	0.0004122202166513922
+GO:0050421	Molecular_Functions	nitrite reductase (NO-forming) activity	4.0968	0.00041042695301660463
+GO:0030429	Molecular_Functions	kynureninase activity	4.08848	0.00040959343606456936
+GO:0097053	Biological_Processes	L-kynurenine catabolic process	4.08848	0.00040959343606456936
+GO:0008097	Molecular_Functions	5S rRNA binding	4.06496	0.0004072371477578543
+GO:0004401	Molecular_Functions	histidinol-phosphatase activity	4.06307	0.00040704780316177895
+GO:0004424	Molecular_Functions	imidazoleglycerol-phosphate dehydratase activity	4.06307	0.00040704780316177895
+GO:0000034	Molecular_Functions	adenine deaminase activity	4.05816	0.000406555907941287
+GO:0006146	Biological_Processes	adenine catabolic process	4.05816	0.000406555907941287
+GO:0043103	Biological_Processes	hypoxanthine salvage	4.05816	0.000406555907941287
+GO:0016840	Molecular_Functions	carbon-nitrogen lyase activity	4.03282	0.00040401728780131414
+GO:1904047	Molecular_Functions	S-adenosyl-L-methionine binding	4.03282	0.00040401728780131414
+GO:0009316	Cellular_Components	3-isopropylmalate dehydratase complex	4.02128	0.000402861183759669
+GO:0034618	Molecular_Functions	arginine binding	4.0207	0.0004028030780106089
+GO:0051259	Biological_Processes	protein complex oligomerization	4.0207	0.0004028030780106089
+GO:0004149	Molecular_Functions	dihydrolipoyllysine-residue succinyltransferase activity	4.01528	0.00040226008980387434
+GO:0033512	Biological_Processes	L-lysine catabolic process to acetyl-CoA via saccharopine	4.01528	0.00040226008980387434
+GO:0045252	Cellular_Components	oxoglutarate dehydrogenase complex	4.01528	0.00040226008980387434
+GO:0009001	Molecular_Functions	serine O-acetyltransferase activity	4.01118	0.00040184934226741474
+GO:0006307	Biological_Processes	DNA dealkylation involved in DNA repair	3.9877	0.0003994970612537382
+GO:0031418	Molecular_Functions	L-ascorbic acid binding	3.96711	0.0003974343071621028
+GO:0006527	Biological_Processes	arginine catabolic process	3.95724	0.0003964455076048205
+GO:0008295	Biological_Processes	spermidine biosynthetic process	3.95724	0.0003964455076048205
+GO:0008792	Molecular_Functions	arginine decarboxylase activity	3.95724	0.0003964455076048205
+GO:0016614	Molecular_Functions	oxidoreductase activity, acting on CH-OH group of donors	3.9497	0.0003956901328670386
+GO:0004400	Molecular_Functions	histidinol-phosphate transaminase activity	3.94448	0.0003951671811254971
+GO:0004134	Molecular_Functions	4-alpha-glucanotransferase activity	3.89069	0.00038977837381179794
+GO:0102500	Molecular_Functions	beta-maltose 4-alpha-glucanotransferase activity	3.89069	0.00038977837381179794
+GO:0042954	Molecular_Functions	obsolete lipoprotein transporter activity	3.8216	0.00038285677691082224
+GO:0004310	Molecular_Functions	farnesyl-diphosphate farnesyltransferase activity	3.8098	0.00038167462546442605
+GO:0006696	Biological_Processes	ergosterol biosynthetic process	3.8098	0.00038167462546442605
+GO:0051996	Molecular_Functions	squalene synthase activity	3.8098	0.00038167462546442605
+GO:0003942	Molecular_Functions	N-acetyl-gamma-glutamyl-phosphate reductase activity	3.79264	0.00037995549675085325
+GO:0004789	Molecular_Functions	thiamine-phosphate diphosphorylase activity	3.76958	0.00037764529231408236
+GO:0008861	Molecular_Functions	formate C-acetyltransferase activity	3.76779	0.00037746596595060363
+GO:0003987	Molecular_Functions	acetate-CoA ligase activity	3.73151	0.0003738313511645652
+GO:0016208	Molecular_Functions	AMP binding	3.73151	0.0003738313511645652
+GO:0019427	Biological_Processes	acetyl-CoA biosynthetic process from acetate	3.73151	0.0003738313511645652
+GO:0046428	Molecular_Functions	1,4-dihydroxy-2-naphthoate octaprenyltransferase activity	3.72068	0.00037274637657435576
+GO:0008479	Molecular_Functions	queuine tRNA-ribosyltransferase activity	3.71598	0.0003722755196423166
+GO:0070204	Molecular_Functions	2-succinyl-5-enolpyruvyl-6-hydroxy-3-cyclohexene-1-carboxylic-acid synthase activity	3.70174	0.0003708489233205639
+GO:0005337	Molecular_Functions	nucleoside transmembrane transporter activity	3.70001	0.0003706756078966431
+GO:0004107	Molecular_Functions	chorismate synthase activity	3.69608	0.0003702818913555976
+GO:0008177	Molecular_Functions	succinate dehydrogenase (ubiquinone) activity	3.69098	0.00036977096149317214
+GO:0071973	Biological_Processes	bacterial-type flagellum-dependent cell motility	3.67561	0.00036823115914307806
+GO:0016702	Molecular_Functions	oxidoreductase activity, acting on single donors with incorporation of molecular oxygen, incorporation of two atoms of oxygen	3.65062	0.0003657276028171933
+GO:0007165	Biological_Processes	signal transduction	3.64964	0.0003656294241377468
+GO:0008184	Molecular_Functions	glycogen phosphorylase activity	3.60274	0.00036093087304995175
+GO:0102250	Molecular_Functions	linear malto-oligosaccharide phosphorylase activity	3.60274	0.00036093087304995175
+GO:0102499	Molecular_Functions	SHG alpha-glucan phosphorylase activity	3.60274	0.00036093087304995175
+GO:0101030	Biological_Processes	tRNA-guanine transglycosylation	3.59968	0.00036062431513249647
+GO:0008830	Molecular_Functions	dTDP-4-dehydrorhamnose 3,5-epimerase activity	3.59941	0.00036059726590448576
+GO:0071470	Biological_Processes	cellular response to osmotic stress	3.59125	0.00035977977812460496
+GO:0036524	Molecular_Functions	protein deglycase activity	3.56832	0.0003574825973902096
+GO:0003826	Molecular_Functions	alpha-ketoacid dehydrogenase activity	3.5666	0.0003573102837895485
+GO:0003863	Molecular_Functions	3-methyl-2-oxobutanoate dehydrogenase (2-methylpropanoyl-transferring) activity	3.5666	0.0003573102837895485
+GO:0009083	Biological_Processes	branched-chain amino acid catabolic process	3.5666	0.0003573102837895485
+GO:0009276	Cellular_Components	Gram-negative-bacterium-type cell wall	3.52744	0.00035338714390472856
+GO:0009678	Molecular_Functions	pyrophosphate hydrolysis-driven proton transmembrane transporter activity	3.51758	0.00035239934617070596
+GO:0007154	Biological_Processes	cell communication	3.50593	0.0003512322220732047
+GO:0009507	Cellular_Components	chloroplast	3.49573	0.00035021036234835374
+GO:0001004	Molecular_Functions	obsolete RNA polymerase III transcription regulator recruiting activity	3.46013	0.00034664387154397197
+GO:0015250	Molecular_Functions	water channel activity	3.41724	0.0003423470515832997
+GO:0004655	Molecular_Functions	porphobilinogen synthase activity	3.41317	0.00034193930951661897
+GO:0006779	Biological_Processes	porphyrin-containing compound biosynthetic process	3.41317	0.00034193930951661897
+GO:0004047	Molecular_Functions	aminomethyltransferase activity	3.41052	0.00034167382635280966
+GO:0000286	Molecular_Functions	alanine dehydrogenase activity	3.40209	0.0003408292893449181
+GO:0042853	Biological_Processes	L-alanine catabolic process	3.40209	0.0003408292893449181
+GO:0016645	Molecular_Functions	oxidoreductase activity, acting on the CH-NH group of donors	3.38519	0.00033913620803609646
+GO:0006751	Biological_Processes	glutathione catabolic process	3.38067	0.00033868338392273117
+GO:0036374	Molecular_Functions	glutathione hydrolase activity	3.38067	0.00033868338392273117
+GO:0000986	Molecular_Functions	bacterial-type cis-regulatory region sequence-specific DNA binding	3.28813	0.0003294125114778579
+GO:0015643	Molecular_Functions	toxic substance binding	3.28813	0.0003294125114778579
+GO:0044010	Biological_Processes	single-species biofilm formation	3.28813	0.0003294125114778579
+GO:0004397	Molecular_Functions	histidine ammonia-lyase activity	3.27872	0.0003284697957905199
+GO:0004494	Molecular_Functions	methylmalonyl-CoA mutase activity	3.2563	0.00032622370804236714
+GO:0004665	Molecular_Functions	prephenate dehydrogenase (NADP+) activity	3.22823	0.00032341159015250777
+GO:0006571	Biological_Processes	tyrosine biosynthetic process	3.22823	0.00032341159015250777
+GO:0008977	Molecular_Functions	prephenate dehydrogenase (NAD+) activity	3.22823	0.00032341159015250777
+GO:0003862	Molecular_Functions	3-isopropylmalate dehydrogenase activity	3.19607	0.0003201897265494483
+GO:0043165	Biological_Processes	Gram-negative-bacterium-type cell outer membrane assembly	3.19243	0.00031982506288293284
+GO:0050480	Molecular_Functions	imidazolonepropionase activity	3.18582	0.00031916285770829903
+GO:0004719	Molecular_Functions	protein-L-isoaspartate (D-aspartate) O-methyltransferase activity	3.15973	0.0003165491008238519
+GO:0003727	Molecular_Functions	single-stranded RNA binding	3.1593	0.0003165060224236866
+GO:0047571	Molecular_Functions	3-oxosteroid 1-dehydrogenase activity	3.14804	0.0003153779694333119
+GO:0004124	Molecular_Functions	cysteine synthase activity	3.1435	0.00031492314167342727
+GO:0034386	Molecular_Functions	4-aminobutyrate:2-oxoglutarate transaminase activity	3.1394	0.00031451239413696756
+GO:0004450	Molecular_Functions	isocitrate dehydrogenase (NADP+) activity	3.05822	0.0003063795929150656
+GO:0004418	Molecular_Functions	hydroxymethylbilane synthase activity	2.97734	0.00029827684639095335
+GO:0018160	Biological_Processes	peptidyl-pyrromethane cofactor linkage	2.97734	0.00029827684639095335
+GO:0008794	Molecular_Functions	arsenate reductase (glutaredoxin) activity	2.97704	0.00029824679169316367
+GO:0052693	Molecular_Functions	epoxyqueuosine reductase activity	2.93609	0.000294144325444865
+GO:0035731	Molecular_Functions	dinitrosyl-iron complex binding	2.82261	0.00028277563509426833
+GO:0042895	Molecular_Functions	obsolete antibiotic transmembrane transporter activity	2.78688	0.00027919612058751106
+GO:0033973	Molecular_Functions	dCTP deaminase (dUMP-forming) activity	2.71611	0.00027210621737891287
+GO:0003954	Molecular_Functions	NADH dehydrogenase activity	2.68695	0.0002691849007537507
+GO:0006855	Biological_Processes	drug transmembrane transport	2.66376	0.0002668616726146043
+GO:0015078	Molecular_Functions	proton transmembrane transporter activity	2.65355	0.0002658388110664937
+GO:0047516	Molecular_Functions	1,3-propanediol dehydrogenase activity	2.63488	0.0002639684070407126
+GO:0006637	Biological_Processes	acyl-CoA metabolic process	2.58949	0.00025942113126512585
+GO:0034784	Molecular_Functions	pivalyl-CoA mutase activity	2.58949	0.00025942113126512585
+GO:0047727	Molecular_Functions	isobutyryl-CoA mutase activity	2.58949	0.00025942113126512585
+GO:0008734	Molecular_Functions	L-aspartate oxidase activity	2.5859	0.00025906147671490875
+GO:0044318	Molecular_Functions	L-aspartate:fumarate oxidoreductase activity	2.5859	0.00025906147671490875
+GO:0004357	Molecular_Functions	glutamate-cysteine ligase activity	2.57979	0.0002584493627032578
+GO:0006750	Biological_Processes	glutathione biosynthetic process	2.57979	0.0002584493627032578
+GO:0000256	Biological_Processes	allantoin catabolic process	2.57042	0.00025751065430895843
+GO:0000175	Molecular_Functions	3'-5'-exoribonuclease activity	2.54569	0.0002550331453878247
+GO:0004350	Molecular_Functions	glutamate-5-semialdehyde dehydrogenase activity	2.51434	0.0002518924294687975
+GO:0006147	Biological_Processes	guanine catabolic process	2.49335	0.00024978960244677583
+GO:0008892	Molecular_Functions	guanine deaminase activity	2.49335	0.00024978960244677583
+GO:0003747	Molecular_Functions	translation release factor activity	2.42231	0.0002426726500101669
+GO:0034979	Molecular_Functions	NAD-dependent protein deacetylase activity	2.35442	0.00023587127190035013
+GO:0036054	Molecular_Functions	protein-malonyllysine demalonylase activity	2.35442	0.00023587127190035013
+GO:0036055	Molecular_Functions	protein-succinyllysine desuccinylase activity	2.35442	0.00023587127190035013
+GO:0004425	Molecular_Functions	indole-3-glycerol-phosphate synthase activity	2.34863	0.00023529121623300827
+GO:0008800	Molecular_Functions	beta-lactamase activity	2.34848	0.00023527618888411338
+GO:0017001	Biological_Processes	antibiotic catabolic process	2.34848	0.00023527618888411338
+GO:0003961	Molecular_Functions	O-acetylhomoserine aminocarboxypropyltransferase activity	2.34398	0.00023482536841726743
+GO:0019152	Molecular_Functions	acetoin dehydrogenase activity	2.24885	0.0002252950237481428
+GO:0045150	Biological_Processes	acetoin catabolic process	2.24885	0.0002252950237481428
+GO:0008869	Molecular_Functions	galactonate dehydratase activity	2.21791	0.00022219538258276157
+GO:0017057	Molecular_Functions	6-phosphogluconolactonase activity	2.1928	0.0002196798043777609
+GO:0006188	Biological_Processes	IMP biosynthetic process	2.13473	0.00021386221670892803
+GO:0016830	Molecular_Functions	carbon-carbon lyase activity	2.09648	0.00021003024274073704
+GO:0006567	Biological_Processes	threonine catabolic process	2.08823	0.0002092037385515193
+GO:0008612	Biological_Processes	peptidyl-lysine modification to peptidyl-hypusine	2.031	0.00020347030403649778
+GO:0006066	Biological_Processes	alcohol metabolic process	1.99267	0.00019963031548222946
+GO:0004131	Molecular_Functions	cytosine deaminase activity	1.92312	0.0001926626347113095
+GO:0102480	Molecular_Functions	5-fluorocytosine deaminase activity	1.92312	0.0001926626347113095
+GO:0030416	Biological_Processes	methylamine metabolic process	1.92311	0.00019266163288804986
+GO:0004044	Molecular_Functions	amidophosphoribosyltransferase activity	1.9129	0.00019163877133993924
+GO:0009063	Biological_Processes	cellular amino acid catabolic process	1.89772	0.00019011800363177871
+GO:0004398	Molecular_Functions	histidine decarboxylase activity	1.88022	0.00018836481292737757
+GO:0006547	Biological_Processes	histidine metabolic process	1.88022	0.00018836481292737757
+GO:0050109	Molecular_Functions	morphine 6-dehydrogenase activity	1.86225	0.00018656453652977253
+GO:0015105	Molecular_Functions	arsenite transmembrane transporter activity	1.85439	0.0001857771034476815
+GO:0042823	Biological_Processes	pyridoxal phosphate biosynthetic process	1.8346	0.00018379449521681873
+GO:0006777	Biological_Processes	Mo-molybdopterin cofactor biosynthetic process	1.82595	0.00018292791809721473
+GO:0003844	Molecular_Functions	1,4-alpha-glucan branching enzyme activity	1.82095	0.00018242700646738585
+GO:0043169	Molecular_Functions	cation binding	1.82095	0.00018242700646738585
+GO:0102752	Molecular_Functions	1,4-alpha-glucan branching enzyme activity (using a glucosylated glycogenin as primer for glycogen synthesis)	1.82095	0.00018242700646738585
+GO:0045340	Molecular_Functions	mercury ion binding	1.77746	0.00017807007711113408
+GO:0046689	Biological_Processes	response to mercury ion	1.77746	0.00017807007711113408
+GO:0004038	Molecular_Functions	allantoinase activity	1.72427	0.0001727413791930143
+GO:0050897	Molecular_Functions	cobalt ion binding	1.72427	0.0001727413791930143
+GO:0009275	Cellular_Components	Gram-positive-bacterium-type cell wall	1.6543	0.00016573162184518872
+GO:0010339	Cellular_Components	external side of cell wall	1.6543	0.00016573162184518872
+GO:0044068	Biological_Processes	modulation by symbiont of host cellular process	1.6543	0.00016573162184518872
+GO:0044651	Biological_Processes	adhesion of symbiont to host epithelial cell	1.6543	0.00016573162184518872
+GO:2000484	Biological_Processes	positive regulation of interleukin-8 secretion	1.6543	0.00016573162184518872
+GO:0016701	Molecular_Functions	oxidoreductase activity, acting on single donors with incorporation of molecular oxygen	1.62309	0.00016260493145179675
+GO:0000014	Molecular_Functions	single-stranded DNA endodeoxyribonuclease activity	1.5939	0.00015968060935685565
+GO:0015169	Molecular_Functions	glycerol-3-phosphate transmembrane transporter activity	1.58836	0.00015912559927100522
+GO:0008666	Molecular_Functions	2,3,4,5-tetrahydropyridine-2,6-dicarboxylate N-succinyltransferase activity	1.56601	0.00015688652428567007
+GO:0015419	Molecular_Functions	ATPase-coupled sulfate transmembrane transporter activity	1.51398	0.00015167403786567056
+GO:0102025	Molecular_Functions	ATPase-coupled thiosulfate transmembrane transporter activity	1.51398	0.00015167403786567056
+GO:0008741	Molecular_Functions	ribulokinase activity	1.4757	0.00014783905842770054
+GO:0050558	Molecular_Functions	maltose epimerase activity	1.47088	0.00014735617961654545
+GO:0043815	Molecular_Functions	phosphoribosylglycinamide formyltransferase 2 activity	1.46647	0.0001469143755590364
+GO:0000723	Biological_Processes	telomere maintenance	1.3919	0.00013944377951176823
+GO:0009409	Biological_Processes	response to cold	1.37683	0.00013793403185946394
+GO:0003962	Molecular_Functions	cystathionine gamma-synthase activity	1.3629	0.0001365384920587606
+GO:0036381	Molecular_Functions	pyridoxal 5'-phosphate synthase (glutamine hydrolysing) activity	1.339	0.0001341441344681785
+GO:0045900	Biological_Processes	negative regulation of translational elongation	1.27484	0.0001277164364342141
+GO:0046034	Biological_Processes	ATP metabolic process	1.26154	0.00012638401149886924
+GO:0004414	Molecular_Functions	homoserine O-acetyltransferase activity	1.23974	0.00012420003679281525
+GO:0008899	Molecular_Functions	homoserine O-succinyltransferase activity	1.23974	0.00012420003679281525
+GO:0019281	Biological_Processes	L-methionine biosynthetic process from homoserine via O-succinyl-L-homoserine and cystathionine	1.23974	0.00012420003679281525
+GO:0004615	Molecular_Functions	phosphomannomutase activity	1.19725	0.00011994328976252928
+GO:0009298	Biological_Processes	GDP-mannose biosynthetic process	1.19725	0.00011994328976252928
+GO:0005381	Molecular_Functions	iron ion transmembrane transporter activity	1.18814	0.00011903062877298103
+GO:0033573	Cellular_Components	high-affinity iron permease complex	1.18814	0.00011903062877298103
+GO:0004517	Molecular_Functions	nitric-oxide synthase activity	1.15821	0.00011603217175682526
+GO:0008936	Molecular_Functions	nicotinamidase activity	1.05032	0.00010522350060837732
+GO:0008375	Molecular_Functions	acetylglucosaminyltransferase activity	1.02728	0.00010291529981812576
+GO:0004647	Molecular_Functions	phosphoserine phosphatase activity	1.00074	0.00010025646088699397
+GO:0003774	Molecular_Functions	motor activity	0.98696	0.00009887594843518555
+GO:0006935	Biological_Processes	chemotaxis	0.98696	0.00009887594843518555
+GO:0009288	Cellular_Components	bacterial-type flagellum	0.98696	0.00009887594843518555
+GO:0008882	Molecular_Functions	glutamate-ammonia-ligase adenylyltransferase activity	0.973235	0.00009750094601130522
+GO:0004069	Molecular_Functions	L-aspartate:2-oxoglutarate aminotransferase activity	0.959924	0.00009616741907037473
+GO:0016772	Molecular_Functions	transferase activity, transferring phosphorus-containing groups	0.952915	0.00009546524114768058
+GO:0030436	Biological_Processes	asexual sporulation	0.938254	0.00009399646806669631
+GO:0052689	Molecular_Functions	carboxylic ester hydrolase activity	0.916516	0.00009181870466485219
+GO:0004802	Molecular_Functions	transketolase activity	0.91605	0.00009177201970095213
+GO:0004467	Molecular_Functions	long-chain fatty acid-CoA ligase activity	0.863611	0.00008651855870963264
+GO:0102391	Molecular_Functions	decanoate-CoA ligase activity	0.863611	0.00008651855870963264
+GO:0004848	Molecular_Functions	ureidoglycolate hydrolase activity	0.846154	0.00008476967584524803
+GO:0006145	Biological_Processes	purine nucleobase catabolic process	0.846154	0.00008476967584524803
+GO:0050385	Molecular_Functions	ureidoglycolate lyase activity	0.846154	0.00008476967584524803
+GO:0008756	Molecular_Functions	o-succinylbenzoate-CoA ligase activity	0.844696	0.00008462361001398992
+GO:0005835	Cellular_Components	fatty acid synthase complex	0.840878	0.00008424111389345258
+GO:0005978	Biological_Processes	glycogen biosynthetic process	0.807297	0.00008087689120519574
+GO:0031515	Cellular_Components	tRNA (m1A) methyltransferase complex	0.611908	0.00006130236671706808
+GO:0016836	Molecular_Functions	hydro-lyase activity	0.589773	0.000059084830931815554
+GO:0022625	Cellular_Components	cytosolic large ribosomal subunit	0.215168	0.000021556030713404803

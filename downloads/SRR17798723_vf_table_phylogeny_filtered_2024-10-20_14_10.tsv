@@ -1,0 +1,27 @@
+Name	Accession ID	Class	Abundance Score	Relative Abundance	% Unique Matches	% Total Matches	Unique Matches Frequency
+Proteus mirabilis GENE tnpA		-	11286556.33	18.632	1	1	110298
+Haemophilus parasuis GENE tetB		-	5316540.55	8.777	0.970021	0.970021	997064
+Escherichia coli GENE draD		-	4227753.2	6.979	0.986755	0.986755	285010
+Escherichia coli GENE draC		-	4051742.2	6.689	0.847682	0.847682	983576
+Escherichia coli GENE draA		-	4011479.99	6.622	0.754545	0.754545	203249
+Escherichia coli GENE draP		-	3679157.85	6.074	1	1	94740
+Escherichia coli GENE nfaE		-	2768051.53	4.569999999999999	0.697368	0.75813	264541
+Escherichia coli GENE vat		-	2486014.29	4.104	0.660688	0.875564	389195
+Yersinia pestis GENE irp1		-	1916769.78	3.164	0.932656	0.937742	1664468
+Yersinia pestis GENE irp2		-	1864860	3.079	0.916773	0.933941	1100873
+Yersinia pestis GENE ybtP		-	1794135.69	2.962	0.92489	0.92489	514978
+Escherichia coli GENE ompA		-	1786323.64	2.949	0.861017	0.861017	238511
+Yersinia pestis GENE ybtS		-	1785353.12	2.947	0.958824	0.958824	393845
+Yersinia pestis GENE fyuA		-	1757364.62	2.9010000000000002	0.941176	0.941176	575371
+Yersinia pestis GENE ybtE		-	1737755.25	2.869	0.960644	0.960644	417940
+Yersinia pestis GENE ybtQ		-	1639137.02	2.706	0.911504	0.911504	473033
+Yersinia pestis GENE ybtU		-	1619266.13	2.673	0.964865	0.964865	268017
+Yersinia pestis GENE ybtA		-	1599048.79	2.64	0.9	0.9	265025
+Yersinia pestis GENE ybtT		-	1597777.88	2.638	0.905263	0.905263	208499
+Yersinia pestis GENE ybtX		-	1560578.99	2.576	0.91048	0.91048	315157
+Escherichia coli GeneID ECC2364		-	1311377.3	2.165	0.65	0.944938	9107
+Escherichia coli GENE lacY		-	759361.05	1.254	0.595238	0.595238	50344
+Bacteroides vulgatus GI 33413459		-	7442.8	0.012	1	1	307
+Parabacteroides distasonis GI 32395282		-	4920.24	0.008	0.73913	0.73913	202
+Parabacteroides distasonis GI 32395281		-	4236.72	0.006999999999999999	1	1	45
+Bacteroides fragilis GENE tetQ		-	2965.82	0.005	0.409859	0.409859	570

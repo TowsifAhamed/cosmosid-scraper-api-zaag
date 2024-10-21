@@ -1,0 +1,17 @@
+Name	Tax ID	Relative Abundance	Reads Frequency	Normalized Reads Frequency
+Bifidobacterium	1678	97.71	11911394	11960797
+Allobacillus	1400133	0.45	57895	55085
+Imtechella	1165076	0.4099999999999999	65059	50189
+Enterococcus	1350	0.39	55545	47740
+Veillonella	29465	0.36	37142	44068
+Staphylococcus	1279	0.17	18919	20809
+Enterococcus_A	1350	0.15	31239	18362
+Haemophilus_D	724	0.12	11201	14688
+Propionimicrobium	203133	0.07	7259	8569
+Bradyrhizobium	374	0.06999999999999999	32580	8568
+Actinobaculum	76833	0.05	4730	6121
+Corynebacterium	1716	0.02	2041	2448
+Varibaculum	184869	0.01	1272	1224
+Cutibacterium	1912216	0.01	773	1224
+Klebsiella	570	0.01	2310	1224
+Proteus	210425	0.01	1760	1224

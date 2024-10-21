@@ -1,0 +1,30 @@
+ID	Name	Copies per Million (CPM)	Relative Abundance
+PANTO-PWY	phosphopantothenate biosynthesis I	51530.1	5.153011030602207
+PWY-6703	preQ0 biosynthesis	50712.6	5.071261014252204
+PWY-6124	inosine-5'-phosphate biosynthesis II	44054.6	4.405460881092177
+PWY-7220	adenosine deoxyribonucleotides de novo biosynthesis II	41941.7	4.194170838834168
+PWY-7222	guanosine deoxyribonucleotides de novo biosynthesis II	41941.7	4.194170838834168
+PWY-6123	inosine-5'-phosphate biosynthesis I	40463.3	4.046330809266163
+PANTOSYN-PWY	superpathway of coenzyme A biosynthesis I (bacteria)	40033.2	4.00332080066416
+PWY-7228	superpathway of guanosine nucleotides de novo biosynthesis I	39813.7	3.98137079627416
+PWY-7199	pyrimidine deoxyribonucleosides salvage	38786.4	3.878640775728156
+DTDPRHAMSYN-PWY	dTDP-β-L-rhamnose biosynthesis	38408.1	3.840810768162154
+COA-PWY	coenzyme A biosynthesis I (prokaryotic)	37731.3	3.773130754626152
+PWY-7221	guanosine ribonucleotides de novo biosynthesis	37168.1	3.7168107433621493
+COA-PWY-1	superpathway of coenzyme A biosynthesis III (mammals)	37115.5	3.7115507423101493
+PWY-7851	coenzyme A biosynthesis II (eukaryotic)	33902.9	3.3902906780581366
+PWY-3841	folate transformations II (plants)	33719.1	3.371910674382135
+PWY-7234	inosine-5'-phosphate biosynthesis III	33317.6	3.3317606663521335
+1CMET2-PWY	folate transformations III (E. coli)	33298.5	3.329850665970134
+VALSYN-PWY	L-valine biosynthesis	33069	3.3069006613801326
+PWY-5695	inosine 5'-phosphate degradation	32375.2	3.2375206475041303
+ILEUSYN-PWY	L-isoleucine biosynthesis I (from threonine)	32157.2	3.215720643144129
+TRNA-CHARGING-PWY	tRNA charging	31599.2	3.159920631984127
+PWY-5103	L-isoleucine biosynthesis III	31492.6	3.1492606298521264
+PWY-6527	stachyose degradation	29409.9	2.9409905881981184
+PWY-1042	glycolysis IV	29254.4	2.925440585088118
+HISTSYN-PWY	L-histidine biosynthesis	25179.7	2.5179705035941016
+PWY-5686	UMP biosynthesis I	25011.5	2.5011505002301004
+PWY-6608	guanosine nucleotides degradation III	21718.3	2.171830434366087
+PWY-7953	UDP-N-acetylmuramoyl-pentapeptide biosynthesis III (meso-diaminopimelate containing)	21005.2	2.1005204201040844
+PWY-6147	6-hydroxymethyl-dihydropterin diphosphate biosynthesis I	13789.2	1.3789202757840555

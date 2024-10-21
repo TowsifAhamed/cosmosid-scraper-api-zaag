@@ -1,0 +1,2417 @@
+Pfam ID	Name	Copies per Million (CPM)	Relative Abundance
+PF00005	ABC transporter	22930.1	2.293010299182816
+PF00528	Binding-protein-dependent transport system inner membrane component	22681.6	2.268160295940487
+PF00356	Bacterial regulatory proteins, lacI family	13377.1	1.3377101745390754
+PF07690	Major Facilitator Superfamily	11779.2	1.1779201536903123
+PF00440	Bacterial regulatory proteins, tetR family	6829.25	0.6829250891053352
+PF00155	Aminotransferase class I and II	5846.31	0.5846310762803254
+PF00128	Alpha amylase, catalytic domain	5605.91	0.5605910731436818
+PF00072	Response regulator receiver domain	5581.83	0.5581830728294956
+PF13635	Domain of unknown function (DUF4143)	5501.02	0.5501020717751189
+PF02687	FtsX-like permease family	5200.94	0.5200940678597945
+PF01610	Transposase	4954.23	0.4954230646408207
+PF00293	NUDIX domain	4866.27	0.48662706349315366
+PF00498	FHA domain	4700.23	0.4700230613267298
+PF00300	Histidine phosphatase superfamily (branch 1)	4200.97	0.4200970548125842
+PF00248	Aldo/keto reductase family	4050.42	0.40504205284826766
+PF01053	Cys/Met metabolism PLP-dependent enzyme	4020.55	0.4020550524585358
+PF00069	Protein kinase domain	3613.92	0.3613920471529894
+PF00271	Helicase conserved C-terminal domain	3605.88	0.3605880470480867
+PF02661	Fic/DOC family	3406.61	0.3406610444480911
+PF07944	Beta-L-arabinofuranosidase, GH127	3348.65	0.3348650436918521
+PF13416	Bacterial extracellular solute-binding protein	3344.69	0.3344690436401836
+PF02518	Histidine kinase-, DNA gyrase B-, and HSP90-like ATPase	3339.51	0.33395104357259703
+PF07992	Pyridine nucleotide-disulphide oxidoreductase	3291.7	0.3291700429487911
+PF00324	Amino acid permease	3001.29	0.30012903915963707
+PF00270	DEAD/DEAH box helicase	2950.43	0.295043038496036
+PF01614	Bacterial transcriptional regulator	2943.46	0.29434603840509427
+PF00083	Sugar (and other) transporter	2930.61	0.29306103823743257
+PF00156	Phosphoribosyl transferase domain	2920.56	0.2920560381063042
+PF01061	ABC-2 type transporter	2870.96	0.28709603745914314
+PF00480	ROK family	2867.51	0.28675103741412894
+PF00117	Glutamine amidotransferase class-I	2838.33	0.28383303703339985
+PF00149	Calcineurin-like phosphoesterase	2822.67	0.28226703682907445
+PF00664	ABC transporter transmembrane region	2719.15	0.2719150354783867
+PF01547	Bacterial extracellular solute-binding protein	2704.86	0.2704860352919365
+PF06013	Proteins of 100 residues with WXG	2695.26	0.2695260351666795
+PF00588	SpoU rRNA Methylase family	2628.81	0.2628810342996663
+PF01527	Transposase	2613.43	0.2613430340989942
+PF09339	IclR helix-turn-helix domain	2600.51	0.26005103393041923
+PF01966	HD domain	2567.13	0.2567130334948902
+PF00145	C-5 cytosine-specific DNA methylase	2554.72	0.2554720333329695
+PF00933	Glycosyl hydrolase family 3 N terminal domain	2535.62	0.2535620330837603
+PF00535	Glycosyl transferase family 2	2503.11	0.25031103265958277
+PF00486	Transcriptional regulatory protein, C terminal	2481.58	0.2481580323786679
+PF02653	Branched-chain amino acid transport system / permease component	2458.54	0.24585403207805115
+PF00004	ATPase family associated with various cellular activities (AAA)	2448.71	0.24487103194979323
+PF00892	EamA-like transporter family	2447.34	0.244734031931918
+PF01842	ACT domain	2435.94	0.24359403178317537
+PF08245	Mur ligase middle domain	2423.1	0.24231003161564413
+PF13749	Putative ATP-dependent DNA helicase recG C-terminal	2323.67	0.23236703031832112
+PF01926	50S ribosome-binding GTPase	2320.74	0.23207403028009158
+PF01451	Low molecular weight phosphotyrosine protein phosphatase	2314.2	0.2314200301947603
+PF00583	Acetyltransferase (GNAT) family	2295.03	0.22950302994463778
+PF08264	Anticodon-binding domain of tRNA	2241.35	0.2241350292442425
+PF00587	tRNA synthetase class II core domain (G, H, P, S and T)	2227.67	0.2227670290657513
+PF00905	Penicillin binding protein transpeptidase domain	2215.05	0.2215050289010906
+PF02537	CrcB-like protein, Camphor Resistance (CrcB)	2184.97	0.21849702850861868
+PF13542	Helix-turn-helix domain of transposase family ISL3	2166.06	0.21660602826188854
+PF02782	FGGY family of carbohydrate kinases, C-terminal domain	2164.6	0.21646002824283905
+PF01156	Inosine-uridine preferring nucleoside hydrolase	2122.53	0.21225302769392645
+PF00009	Elongation factor Tu GTP binding domain	2112.76	0.21127602756645136
+PF04055	Radical SAM superfamily	2112.7	0.21127002756566848
+PF01580	FtsK/SpoIIIE family	2103.53	0.21035302744602202
+PF01915	Glycosyl hydrolase family 3 C-terminal domain	2098.96	0.20989602738639446
+PF00206	Lyase	2095.35	0.2095350273392926
+PF04138	GtrA-like protein	2089.25	0.20892502725970227
+PF00496	Bacterial extracellular solute-binding proteins, family 5 Middle	2077.54	0.20775402710691482
+PF00251	Glycosyl hydrolases family 32 N-terminal domain	2075.86	0.2075860270849949
+PF00589	Phage integrase family	2065.24	0.20652402694642932
+PF00204	DNA gyrase B	2063.07	0.20630702691811606
+PF02388	FemAB family	2057	0.20570002683891708
+PF01751	Toprim domain	2039.57	0.2039570266114974
+PF13240	zinc-ribbon domain	2032.66	0.20326602652133846
+PF01381	Helix-turn-helix	2024.21	0.20242102641108622
+PF03129	Anticodon binding domain	2023.1	0.2023100263966034
+PF07991	Acetohydroxy acid isomeroreductase, NADPH-binding domain	1925.54	0.19255402512367933
+PF00579	tRNA synthetases class I (W and Y)	1905.72	0.19057202486507588
+PF07859	alpha/beta hydrolase fold	1905.14	0.19051402485750826
+PF00872	Transposase, Mutator family	1892.91	0.1892910246979361
+PF00006	ATP synthase alpha/beta family, nucleotide-binding domain	1889.65	0.18896502465540094
+PF01450	Acetohydroxy acid isomeroreductase, catalytic domain	1857.36	0.18573602423409383
+PF01479	S4 domain	1834.28	0.1834280239329552
+PF00497	Bacterial extracellular solute-binding proteins, family 3	1791.32	0.17913202337243023
+PF08544	GHMP kinases C terminal	1786.67	0.17866702331175888
+PF00370	FGGY family of carbohydrate kinases, N-terminal domain	1784.9	0.17849002328866462
+PF08532	Beta-galactosidase trimerisation domain	1782.32	0.1782320232550018
+PF00532	Periplasmic binding proteins and sugar binding domain of LacI family	1770.88	0.17708802310573726
+PF03793	PASTA domain	1763.14	0.1763140230047488
+PF00291	Pyridoxal-phosphate dependent enzyme	1755.13	0.17551302290023751
+PF03577	Peptidase family C69	1747.33	0.1747330227984662
+PF00294	pfkB family carbohydrate kinase	1726.11	0.1726110225215961
+PF00717	Peptidase S24-like	1715.27	0.1715270223801601
+PF00749	tRNA synthetases class I (E and Q), catalytic domain	1681.79	0.16817902194332637
+PF02449	Beta-galactosidase	1680.04	0.16800402192049307
+PF00501	AMP-binding enzyme	1674.92	0.1674920218536894
+PF00696	Amino acid kinase family	1673.46	0.16734602183463987
+PF00326	Prolyl oligopeptidase family	1668	0.16680002176339995
+PF01546	Peptidase family M20/M25/M40	1658.93	0.1658930216450582
+PF04221	RelB antitoxin	1657.29	0.16572902162366013
+PF07687	Peptidase dimerisation domain	1636.8	0.16368002135631476
+PF00196	Bacterial regulatory proteins, luxR family	1633.99	0.16339902131965103
+PF01336	OB-fold nucleic acid binding domain	1614.26	0.16142602106222181
+PF02096	60Kd inner membrane protein	1600.39	0.1600390208812516
+PF02361	Cobalt transport protein	1590.14	0.15901402074751367
+PF01554	MatE	1587.91	0.15879102071841752
+PF03167	Uracil DNA glycosylase superfamily	1583.75	0.15837502066413947
+PF09334	tRNA synthetases class I (M)	1575.76	0.15757602055988915
+PF05949	Bacterial protein of unknown function (DUF881)	1557.93	0.15579302032725043
+PF13276	HTH-like domain	1555.76	0.1555760202989371
+PF14310	Fibronectin type III-like domain	1549.25	0.15492502021399723
+PF00665	Integrase core domain	1545.4	0.15454002016376397
+PF04326	Putative DNA-binding domain	1539.48	0.15394802008652217
+PF03466	LysR substrate binding domain	1538.13	0.1538130200689079
+PF13302	Acetyltransferase (GNAT) domain	1525.21	0.1525210199003329
+PF12833	Helix-turn-helix domain	1522.57	0.15225701986588722
+PF01138	3' exoribonuclease family, domain 1	1521.51	0.15215101985205676
+PF00133	tRNA synthetases class I (I, L, M and V)	1519.39	0.15193901982439584
+PF00830	Ribosomal L28 family	1515.01	0.15150101976724734
+PF00288	GHMP kinases N terminal domain	1512.13	0.15121301972967027
+PF13361	UvrD-like helicase C-terminal domain	1501.37	0.15013701958927805
+PF02852	Pyridine nucleotide-disulphide oxidoreductase, dimerisation domain	1496.98	0.14969801953199907
+PF05257	CHAP domain	1490.14	0.1490140194427535
+PF04203	Sortase domain	1478.17	0.14781701928657368
+PF00571	CBS domain	1465.87	0.14658701912608818
+PF02446	4-alpha-glucanotransferase	1437.69	0.14376901875840678
+PF02467	Transcription factor WhiB	1423.54	0.1423540185737832
+PF00860	Permease family	1405.45	0.14054501833775207
+PF04073	Aminoacyl-tRNA editing domain	1395.78	0.13957801821158175
+PF00580	UvrD/REP helicase N-terminal domain	1386.91	0.13869101809584955
+PF14690	zinc-finger of transposase IS204/IS1001/IS1096/IS1165	1382.24	0.13822401803491724
+PF00343	Carbohydrate phosphorylase	1374.53	0.13745301793432024
+PF00701	Dihydrodipicolinate synthetase family	1371.3	0.13713001789217646
+PF14278	Transcriptional regulator C-terminal region	1346.87	0.13468701757342355
+PF12697	Alpha/beta hydrolase family	1346.71	0.13467101757133595
+PF13662	Toprim domain	1343.05	0.1343050175235817
+PF00330	Aconitase family (aconitate hydratase)	1341.66	0.13416601750544557
+PF02875	Mur ligase family, glutamate ligase domain	1341.43	0.13414301750244462
+PF07724	AAA domain (Cdc48 subfamily)	1336.96	0.13369601744412182
+PF13407	Periplasmic binding protein domain	1323.06	0.13230601726276014
+PF02463	RecF/RecN/SMC N terminal domain	1320.48	0.13204801722909734
+PF01327	Polypeptide deformylase	1317.18	0.13171801718604026
+PF00478	IMP dehydrogenase / GMP reductase domain	1316.52	0.13165201717742883
+PF00912	Transglycosylase	1315.72	0.13157201716699077
+PF00512	His Kinase A (phospho-acceptor) domain	1314.65	0.13146501715302983
+PF00311	Phosphoenolpyruvate carboxylase	1313.4	0.13134001713672033
+PF08244	Glycosyl hydrolases family 32 C terminal	1309.93	0.13099301709144515
+PF12704	MacB-like periplasmic core domain	1309.77	0.13097701708935755
+PF13333	Integrase core domain	1307.06	0.1307060170539985
+PF03947	Ribosomal Proteins L2, C-terminal domain	1306.96	0.13069601705269376
+PF00575	S1 RNA binding domain	1303.27	0.13032701700454813
+PF02786	Carbamoyl-phosphate synthase L chain, ATP binding domain	1302.91	0.130291016999851
+PF01757	Acyltransferase family	1287.89	0.128789016803876
+PF00679	Elongation factor G C-terminus	1284.24	0.12842401675625226
+PF00266	Aminotransferase class-V	1282.95	0.12829501673942084
+PF02922	Carbohydrate-binding module 48 (Isoamylase N-terminal domain)	1281.79	0.1281790167242856
+PF13460	NAD(P)H-binding	1280.22	0.1280220167038009
+PF00436	Single-strand binding protein family	1272.37	0.1272370166013772
+PF00171	Aldehyde dehydrogenase family	1270.66	0.12706601657906583
+PF14602	Hexapeptide repeat of succinyl-transferase	1268.72	0.12687201655375346
+PF10431	C-terminal, D2-small domain, of ClpB protein	1259.86	0.12598601643815172
+PF06964	Alpha-L-arabinofuranosidase C-terminal domain	1255.26	0.12552601637813274
+PF01180	Dihydroorotate dehydrogenase	1249.03	0.12490301629684618
+PF03372	Endonuclease/Exonuclease/phosphatase family	1240.87	0.12408701619037775
+PF02230	Phospholipase/Carboxylesterase	1240.7	0.12407001618815966
+PF14572	Phosphoribosyl synthetase-associated domain	1233.8	0.1233800160981312
+PF00462	Glutaredoxin	1227.66	0.12276601601801894
+PF01168	Alanine racemase, N-terminal domain	1227.56	0.12275601601671417
+PF00152	tRNA synthetases class II (D, K and N)	1218.49	0.12184901589837242
+PF00012	Hsp70 protein	1210.1	0.12101001578890304
+PF14659	Phage integrase, N-terminal SAM-like domain	1208.5	0.1208500157680269
+PF11238	Protein of unknown function (DUF3039)	1208.07	0.1208070157624164
+PF02929	Beta galactosidase small chain	1206.94	0.12069401574767265
+PF00226	DnaJ domain	1195.96	0.11959601560440995
+PF07650	KH domain	1171.91	0.11719101529061515
+PF13597	Anaerobic ribonucleoside-triphosphate reductase	1171.36	0.11713601528343895
+PF13520	Amino acid permease	1168.8	0.11688001525003708
+PF00521	DNA gyrase/topoisomerase IV, subunit A	1161.87	0.1161870151596172
+PF04607	Region found in RelA / SpoT proteins	1158.2	0.11582001511173251
+PF11175	Protein of unknown function (DUF2961)	1150.01	0.11500101500487264
+PF00132	Bacterial transferase hexapeptide (six repeats)	1149.62	0.11496201499978408
+PF00392	Bacterial regulatory proteins, gntR family	1144.96	0.11449601493898226
+PF02311	AraC-like ligand binding domain	1139.88	0.11398801487270045
+PF00471	Ribosomal protein L33	1135.74	0.11357401481868337
+PF00694	Aconitase C-terminal domain	1133.79	0.11337901479324054
+PF13793	N-terminal domain of ribose phosphate pyrophosphokinase	1132.59	0.11325901477758343
+PF01098	Cell cycle protein	1125.56	0.11255601468585878
+PF13458	Periplasmic binding protein	1122.7	0.11227001464854265
+PF00986	DNA gyrase B subunit, carboxyl terminus	1122.09	0.11220901464058358
+PF00795	Carbon-nitrogen hydrolase	1121.94	0.11219401463862648
+PF00793	DAHP synthetase I family	1117.33	0.11173301457847701
+PF02541	Ppx/GppA phosphatase family	1117.24	0.11172401457730273
+PF03591	AzlC protein	1113.34	0.11133401452641709
+PF00849	RNA pseudouridylate synthase	1101.51	0.11015101437206395
+PF09335	SNARE associated Golgi protein	1099.46	0.10994601434531638
+PF01694	Rhomboid family	1095.82	0.1095820142978231
+PF02517	CPBP intramembrane metalloprotease	1093.13	0.10931301426272506
+PF14029	Protein of unknown function (DUF4244)	1091.44	0.1091440142406746
+PF13651	Adenine-specific methyltransferase EcoRI	1091.35	0.10913501423950031
+PF09244	Domain of unknown function (DUF1964)	1090.97	0.10909701423454225
+PF00448	SRP54-type protein, GTPase domain	1089.43	0.10894301421444892
+PF02976	DNA mismatch repair enzyme MutH	1087.09	0.10870901418391754
+PF02811	PHP domain	1087	0.10870001418274325
+PF04854	Protein of unknown function, DUF624	1086.17	0.10861701417191376
+PF05258	Dna[CI] antecedent, DciA	1085.25	0.10852501415990995
+PF02866	lactate/malate dehydrogenase, alpha/beta C-terminal domain	1084.5	0.10845001415012426
+PF00929	Exonuclease	1083.31	0.1083310141345976
+PF03734	L,D-transpeptidase catalytic domain	1082.88	0.10828801412898716
+PF00230	Major intrinsic protein	1077.32	0.10773201405644246
+PF00703	Glycosyl hydrolases family 2	1073.5	0.10735001400660063
+PF02836	Glycosyl hydrolases family 2, TIM barrel domain	1073.5	0.10735001400660063
+PF00472	RF-1 domain	1070.67	0.10706701396967593
+PF13614	AAA domain	1070.19	0.10701901396341308
+PF01380	SIS domain	1068.41	0.10684101394018834
+PF16363	GDP-mannose 4,6 dehydratase	1068.32	0.10683201393901405
+PF01556	DnaJ C terminal domain	1068	0.10680001393483882
+PF00308	Bacterial dnaA  protein	1065.45	0.10654501390156743
+PF08299	Bacterial dnaA protein helix-turn-helix	1061.51	0.10615101385015988
+PF03477	ATP cone domain	1057.61	0.10576101379927423
+PF09479	Listeria-Bacteroides repeat domain (List_Bact_rpt)	1051.01	0.10510101371316005
+PF02527	rRNA small subunit methyltransferase G	1047.57	0.1047570136682763
+PF01467	Cytidylyltransferase-like	1046.45	0.10464501365366301
+PF00126	Bacterial regulatory helix-turn-helix protein, lysR family	1045	0.10450001363474398
+PF01695	IstB-like ATP binding protein	1044.5	0.10445001362822018
+PF00254	FKBP-type peptidyl-prolyl cis-trans isomerase	1041.66	0.10416601359116501
+PF13399	LytR cell envelope-related transcriptional attenuator	1038.97	0.10389701355606694
+PF03649	Uncharacterised protein family (UPF0014)	1034.97	0.10349701350387654
+PF00781	Diacylglycerol kinase catalytic domain	1034.17	0.10341701349343844
+PF00410	Ribosomal protein S8	1033.55	0.10335501348534894
+PF07804	HipA-like C-terminal domain	1033.38	0.10333801348313085
+PF02826	D-isomer specific 2-hydroxyacid dehydrogenase, NAD binding domain	1028.97	0.10289701342559093
+PF13683	Integrase core domain	1026.49	0.10264901339323287
+PF13411	MerR HTH family regulatory protein	1025.54	0.10255401338083764
+PF01176	Translation initiation factor 1A / IF-1	1022.86	0.10228601334587006
+PF03462	PCRF domain	1022.45	0.10224501334052055
+PF01250	Ribosomal protein S6	1017.27	0.10172701327293397
+PF01435	Peptidase family M48	1011.02	0.10110201319138647
+PF02686	Glu-tRNAGln amidotransferase C subunit	1008.03	0.10080301315237414
+PF00253	Ribosomal protein S14p/S29e	1005.68	0.10056801312171226
+PF07751	Abi-like protein	1005.41	0.10054101311818942
+PF01037	Lrp/AsnC ligand binding domain	1003.97	0.10039701309940087
+PF01470	Pyroglutamyl peptidase	1003.58	0.1003580130943123
+PF08533	Beta-galactosidase C-terminal domain	1001.58	0.1001580130682171
+PF01197	Ribosomal protein L31	998.401	0.09984011302673877
+PF04397	LytTr DNA-binding domain	997.119	0.09971191301001175
+PF04205	FMN-binding domain	996.435	0.09964351300108718
+PF00275	EPSP synthase (3-phosphoshikimate 1-carboxyvinyltransferase)	995.755	0.09957551299221482
+PF01758	Sodium Bile acid symporter family	993.41	0.09934101296161818
+PF00582	Universal stress protein family	991.927	0.0991927129422686
+PF00574	Clp protease	987.923	0.09879231289002599
+PF03144	Elongation factor Tu domain 2	978.012	0.0978012127607112
+PF01281	Ribosomal protein L9, N-terminal domain	977.343	0.09773431275198238
+PF01702	Queuine tRNA-ribosyltransferase	976.988	0.09769881274735048
+PF00338	Ribosomal protein S10p/S20e	976.216	0.09762161273727772
+PF00817	impB/mucB/samB family	974.089	0.09740891270952548
+PF01850	PIN domain	968.925	0.09689251264214767
+PF00877	NlpC/P60 family	968.822	0.09688221264080377
+PF03989	DNA gyrase C-terminal domain, beta-propeller	949.132	0.09491321238389647
+PF02705	K+ potassium transporter	948.857	0.09488571238030839
+PF02879	Phosphoglucomutase/phosphomannomutase, alpha/beta/alpha domain II	947.566	0.09475661236346394
+PF02880	Phosphoglucomutase/phosphomannomutase, alpha/beta/alpha domain III	947.566	0.09475661236346394
+PF00814	Glycoprotease family	945.145	0.09451451233187569
+PF03389	MobA/MobL family	945.056	0.09450561233071446
+PF00297	Ribosomal protein L3	940.692	0.09406921227377472
+PF01906	Putative heavy-metal-binding	939.94	0.09399401226396292
+PF05496	Holliday junction DNA helicase RuvB P-loop domain	937.941	0.09379411223788077
+PF00953	Glycosyl transferase family 4	937.172	0.09371721222784717
+PF02065	Melibiase	936.689	0.09366891222154516
+PF00542	Ribosomal protein L7/L12 C-terminal domain	936.25	0.09362501221581727
+PF16320	Ribosomal protein L7/L12 dimerisation domain	936.25	0.09362501221581727
+PF01084	Ribosomal protein S18	935.985	0.09359851221235965
+PF03099	Biotin/lipoate A/B protein ligase family	935.253	0.09352531220280882
+PF00408	Phosphoglucomutase/phosphomannomutase, C-terminal domain	934.26	0.09342601218985254
+PF00977	Histidine biosynthesis protein	932.805	0.09328051217086827
+PF06781	Cell division protein CrgA	931.646	0.0931646121557461
+PF01565	FAD binding domain	929.487	0.09294871212757633
+PF00312	Ribosomal protein S15	928.521	0.09285211211497235
+PF02590	Predicted SPOUT methyltransferase	926.161	0.09261611208418001
+PF12892	Spy0128-like isopeptide containing domain	926.024	0.0926024120823925
+PF13840	ACT domain	924.897	0.09248971206768784
+PF01553	Acyltransferase	924.568	0.09245681206339518
+PF03553	Na+/H+ antiporter family	921.923	0.09219231202888427
+PF03109	ABC1 family	921.178	0.09211781201916382
+PF00474	Sodium:solute symporter family	921.138	0.09211381201864191
+PF12705	PD-(D/E)XK nuclease superfamily	920.884	0.09208841201532783
+PF02632	BioY family	918.395	0.09183951198285233
+PF00465	Iron-containing alcohol dehydrogenase	916.763	0.09167631196155865
+PF02881	SRP54-type protein, helical bundle domain	914.508	0.0914508119321363
+PF02874	ATP synthase alpha/beta family, beta-barrel domain	914.118	0.09141181192704775
+PF02779	Transketolase, pyrimidine binding domain	911.598	0.09115981189416777
+PF00689	Cation transporting ATPase, C-terminus	911.31	0.09113101189041008
+PF02812	Glu/Leu/Phe/Val dehydrogenase, dimerisation domain	907.585	0.09075851184180776
+PF00208	Glutamate/Leucine/Phenylalanine/Valine dehydrogenase	907.579	0.09075791184172947
+PF00466	Ribosomal protein L10	906.236	0.09062361182420654
+PF03051	Peptidase C1-like family	903.629	0.09036291179019146
+PF00203	Ribosomal protein S19	899.882	0.08998821174130207
+PF03990	G5-linked-Ubiquitin-like domain	897.826	0.08978261171447623
+PF07501	G5 domain	897.826	0.08978261171447623
+PF07730	Histidine kinase	891.395	0.08913951163056709
+PF03547	Membrane transport protein	891.363	0.08913631163014957
+PF01118	Semialdehyde dehydrogenase, NAD binding domain	890.126	0.08901261161400968
+PF02774	Semialdehyde dehydrogenase, dimerisation domain	890.126	0.08901261161400968
+PF00557	Metallopeptidase family M24	889.576	0.0889576116068335
+PF00313	'Cold-shock' DNA-binding domain	889.532	0.08895321160625941
+PF08032	RNA 2'-O ribose methyltransferase substrate binding	889.503	0.08895031160588103
+PF00692	dUTPase	883.056	0.08830561152176314
+PF02503	Polyphosphate kinase middle domain	880.243	0.08802431148506024
+PF13090	Polyphosphate kinase C-terminal domain 2	880.243	0.08802431148506024
+PF03471	Transporter associated domain	879.141	0.08791411147068176
+PF01817	Chorismate mutase type II	877.064	0.0877064114435819
+PF02082	Transcriptional regulator	876.909	0.08769091144155952
+PF01113	Dihydrodipicolinate reductase, N-terminus	875.013	0.08750131141682127
+PF01131	DNA topoisomerase	874.856	0.08748561141477279
+PF01569	PAP2 superfamily	865.712	0.08657121129546554
+PF00398	Ribosomal RNA adenine dimethylase	865.583	0.08655831129378239
+PF00672	HAMP domain	864.654	0.08646541128166116
+PF00890	FAD binding domain	864.53	0.08645301128004326
+PF03869	Arc-like DNA binding domain	864.113	0.08641131127460243
+PF00828	Ribosomal proteins 50S-L15, 50S-L18e, 60S-L27A	864.022	0.08640221127341509
+PF00180	Isocitrate/isopropylmalate dehydrogenase	862.631	0.08626311125526585
+PF13224	Domain of unknown function (DUF4032)	860.72	0.0860720112303319
+PF01743	Poly A polymerase head domain	859.043	0.08590431120845107
+PF12627	Probable RNA and SrmB- binding site of polymerase A	859.043	0.08590431120845107
+PF00268	Ribonucleotide reductase, small chain	858.506	0.08585061120144451
+PF00186	Dihydrofolate reductase	857.313	0.08573131118587872
+PF07726	ATPase family associated with various cellular activities (AAA)	855.97	0.0855970111683558
+PF13280	WYL domain	849.288	0.08492881108117172
+PF05857	TraX protein	849.257	0.08492571108076724
+PF00210	Ferritin-like domain	846.595	0.08465951104603453
+PF02867	Ribonucleotide reductase, barrel domain	846.525	0.08465251104512118
+PF07532	Bacterial Ig-like domain (group 4)	845.425	0.08454251103076882
+PF00120	Glutamine synthetase, catalytic domain	844.078	0.08440781101319371
+PF00590	Tetrapyrrole (Corrin/Porphyrin) Methylases	843.567	0.08435671100652638
+PF01225	Mur ligase family, catalytic domain	841.676	0.08416761098185337
+PF07685	CobB/CobQ-like glutamine amidotransferase domain	841.593	0.08415931098077041
+PF11799	impB/mucB/samB family C-terminal domain	841.583	0.08415831098063993
+PF00871	Acetokinase family	840.314	0.08403141096408252
+PF00289	Biotin carboxylase, N-terminal domain	839.91	0.0839910109588113
+PF02785	Biotin carboxylase C-terminal domain	839.91	0.0839910109588113
+PF07969	Amidohydrolase family	833.921	0.08339211088066922
+PF00881	Nitroreductase family	832.491	0.08324911086201114
+PF13476	AAA domain	829.55	0.08295501082363814
+PF02861	Clp amino terminal domain, pathogenicity island component	827.964	0.08279641080294466
+PF05362	Lon protease (S16) C-terminal proteolytic domain	826.858	0.082685810788514
+PF11187	Protein of unknown function (DUF2974)	821.974	0.08219741072478952
+PF01841	Transglutaminase-like superfamily	821.647	0.08216471072052295
+PF00578	AhpC/TSA family	821.329	0.08213291071637381
+PF01116	Fructose-bisphosphate aldolase class-II	820.043	0.0820043106995946
+PF02729	Aspartate/ornithine carbamoyltransferase, carbamoyl-P binding domain	819.433	0.08194331069163556
+PF00092	von Willebrand factor type A domain	818.761	0.08187611068286757
+PF05738	Cna protein B-type domain	818.761	0.08187611068286757
+PF01025	GrpE	817.775	0.08177751067000263
+PF00185	Aspartate/ornithine carbamoyltransferase, Asp/Orn binding domain	814.364	0.08143641062549728
+PF10370	Domain of unknown function (DUF2437)	814.267	0.08142671062423165
+PF06114	IrrE N-terminal-like domain	812.662	0.08126621060329026
+PF02424	ApbE family	812.437	0.08124371060035454
+PF02780	Transketolase, C-terminal domain	811.519	0.08115191058837684
+PF00366	Ribosomal protein S17	811.374	0.08113741058648494
+PF04565	RNA polymerase Rpb2, domain 3	811.242	0.08112421058476264
+PF02540	NAD synthase	810.519	0.08105191057532923
+PF06262	Zincin-like metallopeptidase	810.225	0.08102251057149323
+PF01016	Ribosomal L27 protein	809.087	0.08090871055664507
+PF02934	GatB/GatE catalytic domain	809.082	0.08090821055657983
+PF00687	Ribosomal protein L1p/L10e family	808.804	0.0808804105529526
+PF01475	Ferric uptake regulator family	808.046	0.08080461054306252
+PF00056	lactate/malate dehydrogenase, NAD binding domain	806.725	0.08067251052582664
+PF00742	Homoserine dehydrogenase	806.39	0.08063901052145568
+PF02637	GatB domain	805.2	0.08052001050592904
+PF00455	DeoR C terminal sensor domain	803.514	0.08035141048393078
+PF06541	Putative ABC-transporter type IV	801.874	0.08018741046253272
+PF02223	Thymidylate kinase	799.266	0.07992661042850457
+PF08220	DeoR-like helix-turn-helix domain	799.163	0.07991631042716067
+PF01545	Cation efflux family	796.492	0.07964921039231053
+PF09269	Domain of unknown function (DUF1967)	796.196	0.07961961038844843
+PF14256	YwiC-like protein	792.713	0.07927131034300364
+PF02806	Alpha amylase, C-terminal all-beta domain	791.811	0.0791811103312347
+PF03136	Pup-ligase protein	791.612	0.07916121032863822
+PF13089	Polyphosphate kinase N-terminal domain	791.202	0.07912021032328871
+PF01882	Protein of unknown function DUF58	790.453	0.07904531031351605
+PF09587	Bacterial capsule synthesis protein PGA_cap	789.843	0.07898431030555701
+PF07973	Threonyl and Alanyl tRNA synthetase second additional domain	789.43	0.07894301030016836
+PF02583	Metal-sensitive transcriptional repressor	787.135	0.07871351027022411
+PF00825	Ribonuclease P	778.348	0.07783481015557484
+PF02978	Signal peptide binding domain	777.946	0.07779461015032971
+PF01210	NAD-dependent glycerol-3-phosphate dehydrogenase N-terminus	777.798	0.07777981014839866
+PF01055	Glycosyl hydrolases family 31	777.592	0.07775921014571084
+PF00673	ribosomal L5P family C-terminus	777.087	0.07770871013912181
+PF02620	Large ribosomal RNA subunit accumulation protein YceD	774.622	0.07746221010695946
+PF02878	Phosphoglucomutase/phosphomannomutase, alpha/beta/alpha domain I	773.387	0.07733871009084568
+PF02823	ATP synthase, Delta/Epsilon chain, beta-sandwich domain	772.077	0.07720771007375332
+PF00281	Ribosomal protein L5	770.919	0.0770919100586442
+PF01268	Formate--tetrahydrofolate ligase	769.75	0.07697501004339155
+PF12848	ABC transporter	769.64	0.07696401004195633
+PF02142	MGS-like domain	767.475	0.07674751001370826
+PF00861	Ribosomal L18 of archaea, bacteria, mitoch. and chloroplast	766.478	0.0766478100006998
+PF12089	Transmembrane domain of unknown function (DUF3566)	766.286	0.07662860999819465
+PF08543	Phosphomethylpyrimidine kinase	765.786	0.07657860999167085
+PF00391	PEP-utilising enzyme, mobile domain	761.25	0.07612500993248694
+PF02896	PEP-utilising enzyme, TIM barrel domain	761.25	0.07612500993248694
+PF05524	PEP-utilising enzyme, N-terminal	761.25	0.07612500993248694
+PF01406	tRNA synthetases class I (C) catalytic domain	759.759	0.07597590991303296
+PF00237	Ribosomal protein L22p/L17e	757.46	0.07574600988303652
+PF09190	DALR domain	756.552	0.07565520987118932
+PF00682	HMGL-like	755.985	0.07559850986379132
+PF10150	Ribonuclease E/G family	755.519	0.07555190985771114
+PF11941	Domain of unknown function (DUF3459)	754.553	0.07545530984510715
+PF00709	Adenylosuccinate synthetase	754.443	0.07544430984367191
+PF08502	LeuA allosteric (dimerisation) domain	752.929	0.07529290982391784
+PF02646	RmuC family	752.55	0.0752550098189728
+PF02403	Seryl-tRNA synthetase N-terminal domain	751.466	0.0751466098048292
+PF01557	Fumarylacetoacetate (FAA) hydrolase family	750.878	0.0750878097971572
+PF11896	Domain of unknown function (DUF3416)	750.26	0.0750260097890938
+PF00303	Thymidylate synthase	749.404	0.07494040977792504
+PF12146	Serine aminopeptidase, S33	748.806	0.07488060977012259
+PF01782	RimM N-terminal domain	746.403	0.0746403097387692
+PF03948	Ribosomal protein L9, C-terminal domain	746.298	0.07462980973739919
+PF02113	D-Ala-D-Ala carboxypeptidase 3 (S13) family	746.172	0.07461720973575521
+PF03652	Holliday junction resolvase	745.163	0.07451630972259017
+PF13286	Phosphohydrolase-associated domain	743.434	0.07434340970003085
+PF05495	CHY zinc finger	742.539	0.07425390968835326
+PF03725	3' exoribonuclease family, domain 2	739.64	0.07396400965052825
+PF00216	Bacterial DNA-binding protein	739.362	0.07393620964690102
+PF00085	Thioredoxin	738.31	0.07383100963317495
+PF01978	Sugar-specific transcriptional regulator TrmB	737.807	0.07378070962661201
+PF01925	Sulfite exporter TauE/SafE	735.068	0.07350680959087463
+PF12674	Putative zinc ribbon domain	734.637	0.0734637095852511
+PF00411	Ribosomal protein S11	731.157	0.07311570953984546
+PF08798	CRISPR associated protein	730.595	0.07305950953251271
+PF00534	Glycosyl transferases group 1	730.024	0.07300240952506253
+PF03729	Short repeat of unknown function (DUF308)	728.632	0.07286320950690026
+PF02559	CarD-like/TRCF domain	727.983	0.07279830949843237
+PF02033	Ribosome-binding factor A	727.76	0.07277600949552275
+PF01725	Ham1 family	727.354	0.07273540949022543
+PF01939	Endonuclease NucS	727.173	0.0727173094878638
+PF00903	Glyoxalase/Bleomycin resistance protein/Dioxygenase superfamily	725.201	0.07252010946213394
+PF13184	NusA-like KH domain	724.62	0.07246200945455328
+PF04909	Amidohydrolase	724.437	0.07244370945216556
+PF01867	CRISPR associated protein Cas1	724.406	0.07244060945176109
+PF12169	DNA polymerase III subunits gamma and tau domain III	723.853	0.07238530944454577
+PF00239	Resolvase, N terminal domain	723.738	0.0723738094430453
+PF01863	Protein of unknown function DUF45	723.109	0.07231090943483835
+PF01641	SelR domain	721.87	0.07218700941867237
+PF02578	Multi-copper polyphenol oxidoreductase laccase	721.654	0.0721654094158541
+PF04542	Sigma-70 region 2	719.456	0.07194560938717547
+PF02659	Putative manganese efflux pump	718.802	0.07188020937864234
+PF00584	SecE/Sec61-gamma subunits of protein translocation complex	718.254	0.07182540937149225
+PF02222	ATP-grasp domain	717.473	0.07174730936130207
+PF01196	Ribosomal protein L17	716.976	0.07169760935481741
+PF09972	Predicted membrane protein (DUF2207)	715.526	0.07155260933589838
+PF01187	Macrophage migration inhibitory factor (MIF)	714.273	0.07142730931954976
+PF16326	ABC transporter C-terminal domain	714.066	0.07140660931684889
+PF00166	Chaperonin 10 Kd subunit	711.984	0.0711984092896838
+PF00013	KH domain	711.774	0.0711774092869438
+PF00181	Ribosomal Proteins L2, RNA binding domain	711.592	0.07115920928456912
+PF00035	Double-stranded RNA binding motif	710.556	0.07105560927105181
+PF14622	Ribonuclease-III-like	710.556	0.07105560927105181
+PF00327	Ribosomal protein L30p/L7e	709.735	0.07097350926033973
+PF00999	Sodium/hydrogen exchanger family	708.754	0.07087540924754003
+PF02801	Beta-ketoacyl synthase, C-terminal domain	708.693	0.07086930924674413
+PF02151	UvrB/uvrC motif	708.612	0.07086120924568726
+PF07722	Peptidase C26	708.277	0.07082770924131633
+PF02132	RecR protein	707.966	0.07079660923725853
+PF03006	Haemolysin-III related	707.501	0.07075010923119138
+PF13439	Glycosyltransferase Family 4	706.778	0.07067780922175797
+PF10128	Glucose-6-phosphate dehydrogenase subunit	706.113	0.07061130921308131
+PF14437	MafB19-like deaminase	701.906	0.07019060915819005
+PF01595	Cyclin M transmembrane N-terminal domain	699.455	0.06994550912621039
+PF07282	Putative transposase DNA-binding domain	698.577	0.06985770911475458
+PF00389	D-isomer specific 2-hydroxyacid dehydrogenase, catalytic domain	695.178	0.06951780907040578
+PF00750	tRNA synthetases class I (R)	694.797	0.06947970906543466
+PF05746	DALR anticodon binding domain	694.797	0.06947970906543466
+PF03485	Arginyl tRNA synthetase N terminal domain	692.402	0.06924020903418565
+PF00562	RNA polymerase Rpb2, domain 6	692.056	0.06920560902967117
+PF01128	2-C-methyl-D-erythritol 4-phosphate cytidylyltransferase	691.33	0.06913300902019862
+PF01820	D-ala D-ala ligase N-terminus	690.696	0.06906960901192644
+PF00317	Ribonucleotide reductase, all-alpha domain	690.055	0.06900550900356292
+PF00690	Cation transporter/ATPase, N-terminus	688.995	0.06889950898973247
+PF13228	Domain of unknown function (DUF4037)	688.611	0.06886110898472218
+PF01909	Nucleotidyltransferase domain	686.236	0.06862360895373414
+PF00342	Phosphoglucose isomerase	684.751	0.06847510893435844
+PF01066	CDP-alcohol phosphatidyltransferase	684.546	0.06845460893168369
+PF08343	Ribonucleotide reductase N-terminal	684.028	0.06840280892492503
+PF07478	D-ala D-ala ligase C-terminus	683.585	0.06835850891914494
+PF14501	GHKL domain	683.529	0.06835290891841427
+PF03726	Polyribonucleotide nucleotidyltransferase, RNA binding domain	682.937	0.06829370891069009
+PF02233	NAD(P) transhydrogenase beta subunit	680.103	0.06801030887371318
+PF01416	tRNA pseudouridine synthase	680.064	0.06800640887320433
+PF01668	SmpB protein	679.278	0.06792780886294893
+PF09344	CT1975-like protein	678.764	0.06787640885624245
+PF00909	Ammonium Transporter Family	678.743	0.06787430885596846
+PF01087	Galactose-1-phosphate uridyl transferase, N-terminal domain	678.562	0.06785620885360683
+PF02744	Galactose-1-phosphate uridyl transferase, C-terminal domain	678.562	0.06785620885360683
+PF09485	CRISPR-associated protein Cse2 (CRISPR_cse2)	675.261	0.0675261088105367
+PF02610	L-arabinose isomerase	674.765	0.06747650880406508
+PF11762	L-arabinose isomerase C-terminal domain	674.765	0.06747650880406508
+PF05167	Uncharacterised ACR (DUF711)	674.36	0.06743600879878081
+PF00189	Ribosomal protein S3, C-terminal domain	672.51	0.06725100877464275
+PF13545	Crp-like helix-turn-helix domain	671.374	0.06713740875982067
+PF02357	Transcription termination factor nusG	671.113	0.06711130875641526
+PF10385	RNA polymerase beta subunit external 1 domain	670.742	0.06707420875157459
+PF13936	Helix-turn-helix domain	668.703	0.06687030872497053
+PF08275	DNA primase catalytic core, N-terminal domain	666.361	0.06663610869441304
+PF03946	Ribosomal protein L11, N-terminal domain	665.639	0.06656390868499268
+PF07733	Bacterial DNA polymerase III alpha NTPase domain	665.165	0.06651650867880811
+PF09481	CRISPR-associated protein Cse1 (CRISPR_cse1)	662.823	0.06628230864825063
+PF00380	Ribosomal protein S9/S16	662.702	0.06627020864667187
+PF00573	Ribosomal protein L4/L1 family	661.837	0.06618370863538568
+PF11838	ERAP1-like C-terminal domain	661.691	0.06616910863348074
+PF01883	Iron-sulfur cluster assembly protein	661.67	0.06616700863320674
+PF03764	Elongation factor G, domain IV	659.903	0.06599030861015164
+PF00298	Ribosomal protein L11, RNA binding domain	659.572	0.06595720860583287
+PF00118	TCP-1/cpn60 chaperonin family	659.214	0.06592140860116184
+PF07568	Histidine kinase	659.18	0.06591800860071821
+PF00923	Transaldolase/Fructose-6-phosphate aldolase	658.922	0.06589220859735194
+PF00215	Orotidine 5'-phosphate decarboxylase / HUMPS family	658.801	0.06588010859577317
+PF08924	Domain of unknown function (DUF1906)	657.266	0.06572660857574511
+PF00920	Dehydratase family	656.047	0.06560470855984007
+PF10609	NUBPL iron-transfer P-loop NTPase	655.795	0.06557950855655208
+PF00347	Ribosomal protein L6	653.8	0.0653800085305221
+PF09297	NADH pyrophosphatase zinc ribbon domain	652.205	0.0652205085097112
+PF01018	GTP1/OBG	651.264	0.0651264084974334
+PF02872	5'-nucleotidase, C-terminal domain	650.738	0.06507380849057037
+PF00831	Ribosomal L29 protein	650.585	0.06505850848857407
+PF00416	Ribosomal protein S13/S18	649.858	0.06498580847908846
+PF13526	Protein of unknown function (DUF4125)	644.044	0.06440440840322971
+PF01205	Uncharacterized protein family UPF0029	643.687	0.06436870839857173
+PF09186	Domain of unknown function (DUF1949)	643.687	0.06436870839857173
+PF03894	D-xylulose 5-phosphate/D-fructose 6-phosphate phosphoketolase	643.453	0.06434530839551858
+PF00430	ATP synthase B/B' CF(0)	640.961	0.06409610836300396
+PF00591	Glycosyl transferase family, a/b domain	640.092	0.0640092083516656
+PF04024	PspC domain	639.567	0.0639567083448156
+PF01192	RNA polymerase Rpb6	634.958	0.0634958082846792
+PF04551	GcpE protein	634.795	0.06347950828255244
+PF03446	NAD binding domain of 6-phosphogluconate dehydrogenase	634.704	0.0634704082813651
+PF03852	DNA mismatch endonuclease Vsr	632.788	0.0632788082563659
+PF00393	6-phosphogluconate dehydrogenase, C-terminal domain	632.709	0.06327090825533514
+PF04851	Type III restriction enzyme, res subunit	632.448	0.06324480825192971
+PF00930	Dipeptidyl peptidase IV (DPP IV) N-terminal region	630.554	0.06305540822721756
+PF02899	Phage integrase, N-terminal SAM-like domain	628.699	0.06286990820301426
+PF00119	ATP synthase A chain	628.396	0.06283960819906083
+PF03699	Uncharacterised protein family (UPF0182)	626.969	0.06269690818044192
+PF00772	DnaB-like helicase N terminal domain	625.716	0.06257160816409327
+PF03796	DnaB-like helicase C terminal domain	625.716	0.06257160816409327
+PF09989	CoA enzyme activase uncharacterised domain (DUF2229)	624.267	0.0624267081451873
+PF04997	RNA polymerase Rpb1, domain 1	622.918	0.06229180812758608
+PF05690	Thiazole biosynthesis protein ThiG	622.595	0.0622595081233717
+PF06050	2-hydroxyglutaryl-CoA dehydratase, D-component	622.517	0.06225170812235399
+PF01472	PUA domain	621.868	0.0621868081138861
+PF00107	Zinc-binding dehydrogenase	621.541	0.06215410810961953
+PF01597	Glycine cleavage H-protein	621.41	0.06214100810791028
+PF13368	Topoisomerase C-terminal repeat	620.83	0.06208300810034269
+PF02545	Maf-like protein	619.973	0.06199730808916089
+PF12401	Protein of unknown function (DUF2662)	619.348	0.06193480808100614
+PF01425	Amidase	618.155	0.06181550806544034
+PF08240	Alcohol dehydrogenase GroES-like domain	617.618	0.061761808058433794
+PF00364	Biotin-requiring enzyme	617.202	0.06172020805300598
+PF14789	Tetrahydrodipicolinate N-succinyltransferase middle	616.277	0.06162770804093695
+PF01458	Uncharacterized protein family (UPF0051)	616.215	0.061621508040128004
+PF00730	HhH-GPD superfamily base excision DNA repair protein	614.982	0.0614982080240403
+PF00109	Beta-ketoacyl synthase, N-terminal domain	612.722	0.06127220799455272
+PF01544	CorA-like Mg2+ transporter protein	612.062	0.061206207985941306
+PF01816	Leucine rich repeat variant	611.915	0.061191507984023306
+PF01979	Amidohydrolase family	611.87	0.06118700798343617
+PF01136	Peptidase family U32	610.405	0.06104050796432143
+PF00829	Ribosomal prokaryotic L21 protein	605.323	0.06053230789801352
+PF00886	Ribosomal protein S16	605.246	0.06052460789700885
+PF01807	CHC2 zinc finger	604.787	0.06047870789102001
+PF16325	Peptidase family U32 C-terminal domain	604.224	0.060422407883674215
+PF02146	Sir2 family	603.021	0.06030210786797794
+PF01636	Phosphotransferase enzyme family	601.584	0.06015840784922853
+PF01227	GTP cyclohydrolase I	601.192	0.06011920784411388
+PF00475	Imidazoleglycerol-phosphate dehydratase	599.064	0.059906407816348574
+PF01566	Natural resistance-associated macrophage protein	598.816	0.059881607813112775
+PF09383	NIL domain	598.246	0.05982460780567563
+PF02901	Pyruvate formate lyase-like	597.814	0.05978140780003908
+PF16262	Domain of unknown function (DUF4916)	597.168	0.05971680779161033
+PF10415	Fumarase C C-terminus	596.032	0.05960320777678826
+PF03600	Citrate transporter	596.01	0.0596010077765012
+PF10009	Uncharacterized protein conserved in bacteria (DUF2252)	595.437	0.05954370776902493
+PF00202	Aminotransferase class-III	595.338	0.059533807767733204
+PF01182	Glucosamine-6-phosphate isomerases/6-phosphogluconolactonase	594.901	0.059490107762031404
+PF01301	Glycosyl hydrolases family 35	594.553	0.05945530775749085
+PF00633	Helix-hairpin-helix motif	594.29	0.05942900775405932
+PF00318	Ribosomal protein S2	593.225	0.059322507740163635
+PF04095	Nicotinate phosphoribosyltransferase (NAPRTase) family	592.518	0.05925180773093898
+PF05437	Branched-chain amino acid transport protein (AzlD)	588.242	0.058824207675147434
+PF02781	Glucose-6-phosphate dehydrogenase, C-terminal domain	588.135	0.05881350767375134
+PF00719	Inorganic pyrophosphatase	585.242	0.058524207636004626
+PF13335	Magnesium chelatase, subunit ChlI C-terminal	584.626	0.058462607627967296
+PF01476	LysM domain	584.595	0.05845950762756283
+PF09819	ABC-type cobalt transport system, permease component	583.621	0.05836210761485446
+PF02664	S-Ribosylhomocysteinase (LuxS)	582.264	0.058226407597148866
+PF03741	Integral membrane protein TerC family	581.271	0.05812710758419259
+PF08448	PAS fold	581.15	0.058115007582613835
+PF01678	Diaminopimelate epimerase	579.103	0.057910307555905385
+PF11700	Vacuole effluxer Atg22 like	579.01	0.05790100755469196
+PF02737	3-hydroxyacyl-CoA dehydrogenase, NAD binding domain	578.263	0.057826307544945416
+PF02873	UDP-N-acetylenolpyruvoylglucosamine reductase, C-terminal domain	577.165	0.057716507530619146
+PF00453	Ribosomal protein L20	575.422	0.057542207507877176
+PF01632	Ribosomal protein L35	575.329	0.05753290750666375
+PF00482	Type II secretion system (T2SS), protein F	574.857	0.05748570750050527
+PF07479	NAD-dependent glycerol-3-phosphate dehydrogenase C-terminus	572.18	0.05721800746557685
+PF02080	TrkA-C domain	571.276	0.05712760745378181
+PF13304	AAA domain, putative AbiEii toxin, Type IV TA system	571.025	0.057102507450506865
+PF12282	Signal transduction histidine kinase	570.946	0.05709460744947611
+PF01351	Ribonuclease HII	570.426	0.05704260744269136
+PF00764	Arginosuccinate synthase	570.014	0.05700140743731574
+PF00479	Glucose-6-phosphate dehydrogenase, NAD binding domain	569.96	0.05699600743661118
+PF01230	HIT domain	569.343	0.0569343074285608
+PF03951	Glutamine synthetase, beta-Grasp domain	567.7	0.056770007407123596
+PF01177	Asp/Glu/Hydantoin racemase	567.663	0.056766307406640834
+PF02910	Fumarate reductase flavoprotein C-term	567.499	0.05674990740450103
+PF02195	ParB-like nuclease domain	566.881	0.056688107396437606
+PF01112	Asparaginase	566.453	0.05664530739085324
+PF01145	SPFH domain / Band 7 family	565.28	0.056528007375548396
+PF05958	tRNA (Uracil-5-)-methyltransferase	563.739	0.056373907355442045
+PF00176	SNF2 family N-terminal domain	563.668	0.056366807354515665
+PF08455	Bacterial SNF2 helicase associated	563.668	0.056366807354515665
+PF01048	Phosphorylase superfamily	563.496	0.05634960735227147
+PF00177	Ribosomal protein S7p/S5e	563.41	0.05634100735114937
+PF00164	Ribosomal protein S12/S23	563.085	0.05630850734690892
+PF00276	Ribosomal protein L23	563.006	0.05630060734587815
+PF09084	NMT1/THI5 like	562.238	0.0562238073358576
+PF00464	Serine hydroxymethyltransferase	561.916	0.05619160733165626
+PF03009	Glycerophosphoryl diester phosphodiesterase family	561.562	0.05615620732703742
+PF01687	Riboflavin kinase	561.013	0.05610130731987428
+PF06574	FAD synthetase	561.013	0.05610130731987428
+PF08529	NusA N-terminal domain	559.182	0.055918207295984124
+PF11228	Protein of unknown function (DUF3027)	559.057	0.05590570729435317
+PF13180	PDZ domain	558.563	0.05585630728790766
+PF01869	BadF/BadG/BcrA/BcrD ATPase family	557.261	0.05572610727091967
+PF01047	MarR family	556.781	0.05567810726465682
+PF00306	ATP synthase alpha/beta chain, C terminal domain	556.205	0.05562050725714141
+PF08352	Oligopeptide/dipeptide transporter, C-terminal region	556.084	0.05560840725556264
+PF08436	1-deoxy-D-xylulose 5-phosphate reductoisomerase C-terminal domain	555.216	0.05552160724423734
+PF13288	DXP reductoisomerase C-terminal domain	555.216	0.05552160724423734
+PF00707	Translation initiation factor IF-3, C-terminal domain	554.9	0.05549000724011429
+PF01306	LacY proton/sugar symporter	554.475	0.055447507234569066
+PF11987	Translation-initiation factor 2	553.42	0.05534200722080384
+PF02055	Glycosyl hydrolase family 30 TIM-barrel domain	552.09	0.05520900720345053
+PF17189	Glycosyl hydrolase family 30 beta sandwich domain	552.09	0.05520900720345053
+PF00842	Alanine racemase, C-terminal domain	550.381	0.05503810718115217
+PF02938	GAD domain	549.459	0.05494590716912228
+PF01910	Thiamine-binding protein	549.166	0.05491660716529934
+PF03023	Lipid II flippase MurJ	549.044	0.054904407163707536
+PF00238	Ribosomal protein L14p/L23e	548.98	0.05489800716287249
+PF01594	AI-2E family transporter	546.327	0.0546327071282572
+PF11798	IMS family HHH motif	545.944	0.05459440712325996
+PF01588	Putative tRNA binding domain	542.939	0.05429390708405192
+PF00231	ATP synthase	542.456	0.054245607077749926
+PF01161	Phosphatidylethanolamine-binding protein	539.706	0.053970607041869026
+PF00333	Ribosomal protein S5, N-terminal domain	538.661	0.05386610702823427
+PF12051	Protein of unknown function (DUF3533)	537.851	0.05378510701766572
+PF05065	Phage capsid family	537.557	0.053755707013829736
+PF00756	Putative esterase	536.649	0.0536649070019825
+PF01039	Carboxyl transferase domain	535.781	0.05357810699065718
+PF03719	Ribosomal protein S5, C-terminal domain	535.608	0.05356080698839994
+PF16874	Glycosyl hydrolase family 36 C-terminal domain	535.133	0.05351330698220235
+PF08353	Domain of unknown function (DUF1727)	533.962	0.0533962069669236
+PF04760	Translation initiation factor IF-2, N-terminal region	533.107	0.053310706955767895
+PF01297	Zinc-uptake complex component A periplasmic	533.079	0.053307906955402565
+PF01746	tRNA (Guanine-1)-methyltransferase	532.374	0.05323740694620401
+PF13802	Galactose mutarotase-like	529.302	0.052930206906121775
+PF13519	von Willebrand factor type A domain	529.126	0.0529126069038254
+PF00278	Pyridoxal-dependent decarboxylase, C-terminal sheet domain	528.995	0.05289950690211616
+PF05014	Nucleoside 2-deoxyribosyltransferase	527.857	0.05278570688726799
+PF00224	Pyruvate kinase, barrel domain	527.141	0.0527141068779259
+PF03483	B3/4 domain	526.905	0.05269050687484667
+PF03484	tRNA synthetase B5 domain	526.905	0.05269050687484667
+PF00381	PTS HPr component phosphorylation site	526.489	0.05264890686941888
+PF00623	RNA polymerase Rpb1, domain 2	525.458	0.0525458068559668
+PF02784	Pyridoxal-dependent decarboxylase, pyridoxal binding domain	523.917	0.05239170683586044
+PF06418	CTP synthase N-terminus	523.762	0.05237620683383805
+PF08267	Cobalamin-independent synthase, N-terminal domain	523.589	0.05235890683158083
+PF12849	PBP superfamily domain	523.213	0.05232130682667493
+PF03309	Type III pantothenate kinase	521.773	0.05217730680788638
+PF03239	Iron permease FTR1 family	521.759	0.05217590680770372
+PF01728	FtsJ-like methyltransferase	521.695	0.052169506806868673
+PF01424	R3H domain	520.579	0.05205790679230755
+PF00113	Enolase, C-terminal TIM barrel domain	520.337	0.05203370678915002
+PF00572	Ribosomal protein L13	518.491	0.05184910676506416
+PF00438	S-adenosylmethionine synthetase, N-terminal domain	518.284	0.0518284067623633
+PF02772	S-adenosylmethionine synthetase, central domain	518.284	0.0518284067623633
+PF02773	S-adenosylmethionine synthetase, C-terminal domain	518.284	0.0518284067623633
+PF00091	Tubulin/FtsZ family, GTPase domain	517.811	0.05178110675619178
+PF02670	1-deoxy-D-xylulose 5-phosphate reductoisomerase	517.606	0.05176060675351703
+PF04472	Cell division protein SepF	515.556	0.05155560672676945
+PF04983	RNA polymerase Rpb1, domain 3	515.095	0.0515095067207545
+PF00753	Metallo-beta-lactamase superfamily	513.737	0.05137370670303585
+PF01964	Radical SAM ThiC family	513.061	0.051306106694215675
+PF01809	Putative membrane protein insertion efficiency factor	512.672	0.051267206689140164
+PF02609	Exonuclease VII small subunit	512.437	0.051243706686073975
+PF04560	RNA polymerase Rpb2, domain 7	511.803	0.051180306677801796
+PF08029	HisG, C-terminal domain	510.324	0.051032406658504385
+PF01509	TruB family pseudouridylate synthase (N terminal domain)	508.122	0.05081220662977357
+PF14393	Domain of unknown function (DUF4422)	506.673	0.050667306610867595
+PF01370	NAD dependent epimerase/dehydratase family	505.705	0.05057050659823751
+PF01316	Arginine repressor, DNA binding domain	505.55	0.05055500659621513
+PF02863	Arginine repressor, C-terminal domain	505.55	0.05055500659621513
+PF09924	Uncharacterised conserved protein (DUF2156)	505.49	0.05054900659543228
+PF02565	Recombination protein O C terminal	504.607	0.05046070658391125
+PF11967	Recombination protein O N terminal	504.607	0.05046070658391125
+PF00988	Carbamoyl-phosphate synthase small chain, CPSase domain	504.42	0.05044200658147135
+PF12327	FtsZ family, C-terminal domain	504.137	0.05041370657777887
+PF16450	Proteasomal ATPase OB C-terminal domain	503.279	0.05032790656658403
+PF08780	Nucleotidyltransferase substrate binding protein like	498.693	0.04986930650674773
+PF03180	NLPA lipoprotein	498.676	0.04986760650652591
+PF08328	Adenylosuccinate lyase C-terminal	498.051	0.049805106498371166
+PF02386	Cation transport protein	497.922	0.04979220649668803
+PF00044	Glyceraldehyde 3-phosphate dehydrogenase, NAD binding domain	497.356	0.049735606489303086
+PF02800	Glyceraldehyde 3-phosphate dehydrogenase, C-terminal domain	497.356	0.049735606489303086
+PF01715	IPP transferase	496.106	0.049610606472993576
+PF01288	7,8-dihydro-6-hydroxymethylpterin-pyrophosphokinase (HPPK)	496.036	0.04960360647208026
+PF03601	Conserved hypothetical protein 698	495.967	0.04959670647117997
+PF04328	Selenoprotein, putative	495.596	0.04955960646633931
+PF09142	tRNA Pseudouridine synthase II, C terminal	495.451	0.04954510646444741
+PF16198	tRNA pseudouridylate synthase B C-terminal domain	495.451	0.04954510646444741
+PF13378	Enolase C-terminal domain-like	494.659	0.0494659064541137
+PF02152	Dihydroneopterin aldolase	492.946	0.04929460643176316
+PF05970	PIF1-like helicase	490.759	0.04907590640322806
+PF04945	YHS domain	489.727	0.04897270638976293
+PF01741	Large-conductance mechanosensitive channel, MscL	488.682	0.04886820637612819
+PF00358	phosphoenolpyruvate-dependent sugar phosphotransferase system, EIIA 1	488.072	0.048807206368169154
+PF01255	Putative undecaprenyl diphosphate synthase	486.694	0.048669406350189556
+PF00809	Pterin binding enzyme	486.328	0.04863280634541413
+PF04101	Glycosyltransferase family 28 C-terminal domain	484.728	0.04847280632453797
+PF00712	DNA polymerase III beta subunit, N-terminal domain	484.626	0.04846260632320711
+PF02767	DNA polymerase III beta subunit, central domain	484.626	0.04846260632320711
+PF00874	PRD domain	484.112	0.04841120631650065
+PF00625	Guanylate kinase	483.112	0.04831120630345304
+PF11253	Protein of unknown function (DUF3052)	482.771	0.048277106299003815
+PF01026	TatD related DNase	481.702	0.04817020628505592
+PF12804	MobA-like NTP transferase domain	480.964	0.048096406275426794
+PF02897	Prolyl oligopeptidase, N-terminal beta-propeller domain	480.489	0.04804890626922918
+PF00467	KOW motif	480.035	0.04800350626330558
+PF06947	Protein of unknown function (DUF1290)	478.961	0.04789610624929245
+PF03033	Glycosyltransferase family 28 N-terminal domain	478.717	0.04787170624610883
+PF02631	RecX family	476.849	0.047684906221735913
+PF02597	ThiS family	476.022	0.04760220621094555
+PF04998	RNA polymerase Rpb1, domain 5	475.132	0.047513206199333184
+PF03816	Cell envelope-related transcriptional attenuator domain	474.828	0.04748280619536671
+PF13667	ThiC-associated domain	474.808	0.04748080619510576
+PF08843	Nucleotidyl transferase AbiEii toxin, Type IV TA system	474.065	0.047406506185411396
+PF02824	TGS domain	473.999	0.047399906184550256
+PF16875	Glycosyl hydrolase family 36 N-terminal domain	473.59	0.04735900617921378
+PF01575	MaoC like domain	473.114	0.04731140617300312
+PF02746	Mandelate racemase / muconate lactonizing enzyme, N-terminal domain	473.076	0.047307606172507316
+PF00154	recA bacterial DNA recombination protein	473.012	0.047301206171672265
+PF01409	tRNA synthetases class II core domain (F)	469.603	0.04696030612719299
+PF13328	HD domain	468.086	0.04680860610739978
+PF00285	Citrate synthase, C-terminal domain	467.275	0.04672750609681817
+PF16193	AAA C-terminal domain	466.394	0.046639406085323236
+PF00698	Acyl transferase domain	465.963	0.04659630607969972
+PF12029	Domain of unknown function (DUF3516)	465.867	0.04658670607844715
+PF01300	Telomere recombination	464.469	0.0464469060602066
+PF01680	SOR/SNZ family	464.366	0.0464366060588627
+PF00221	Aromatic amino acid lyase	464.113	0.04641130605556166
+PF01252	Signal peptidase (SPase) II	464.037	0.04640370605457004
+PF13834	Domain of unknown function (DUF4193)	463.873	0.04638730605243023
+PF11377	Protein of unknown function (DUF3180)	463.753	0.04637530605086452
+PF08354	Domain of unknown function (DUF1729)	463.436	0.04634360604672843
+PF16073	Starter unit:ACP transacylase in aflatoxin biosynthesis	463.436	0.04634360604672843
+PF02769	AIR synthase related protein, C-terminal domain	463.152	0.04631520604302291
+PF05525	Branched-chain amino acid transport protein	463.075	0.04630750604201824
+PF01808	AICARFT/IMPCHase bienzyme	462.516	0.04625160603472464
+PF03461	TRCF domain	462.364	0.046236406032741394
+PF02381	MraZ protein, putative antitoxin-like	462.36	0.04623600603268921
+PF05173	Dihydrodipicolinate reductase, C-terminus	461.356	0.046135606019589416
+PF04563	RNA polymerase beta subunit	460.738	0.046073806011526004
+PF00533	BRCA1 C Terminus (BRCT) domain	460.38	0.046038006006854953
+PF13291	ACT domain	460.022	0.04600220600218392
+PF00561	alpha/beta hydrolase fold	458.298	0.04582980597968985
+PF08903	Domain of unknown function (DUF1846)	458.014	0.04580140597598433
+PF03123	CAT RNA binding domain	457.466	0.04574660596883425
+PF09949	Uncharacterized conserved protein (DUF2183)	457.218	0.045721805965598446
+PF02554	Carbon starvation protein CstA	456.799	0.045679905960131495
+PF02787	Carbamoyl-phosphate synthetase large chain, oligomerisation domain	455.793	0.045579305947005606
+PF09363	XFP C-terminal domain	455.737	0.045573705946274946
+PF07717	Oligonucleotide/oligosaccharide-binding (OB)-fold	453.619	0.04536190591864013
+PF02616	Segregation and condensation protein ScpA	453.407	0.045340705915874024
+PF09754	PAC2 family	453.046	0.045304605911163844
+PF01812	5-formyltetrahydrofolate cyclo-ligase family	450.831	0.04508310588226341
+PF06149	Protein of unknown function (DUF969)	449.913	0.044991305870285714
+PF10103	Zincin-like metallopeptidase	449.745	0.04497450586809371
+PF07972	NrdI Flavodoxin like	448.771	0.044877105855385346
+PF01985	CRS1 / YhbY (CRM) domain	448.713	0.04487130585462859
+PF01551	Peptidase family M23	448.596	0.044859605853102016
+PF00075	RNase H	448.362	0.04483620585004888
+PF13196	Protein of unknown function (DUF4012)	448.224	0.04482240584824831
+PF04020	Mycobacterial 4 TMS phage holin, superfamily IV	445.634	0.044563405814455025
+PF00815	Histidinol dehydrogenase	444.542	0.044454205800207036
+PF05000	RNA polymerase Rpb1, domain 4	444.324	0.04443240579736266
+PF02566	OsmC-like protein	444.287	0.0444287057968799
+PF02110	Hydroxyethylthiazole kinase family	444.226	0.044422605796084
+PF03313	Serine dehydratase alpha chain	443.574	0.044357405787576965
+PF09397	Ftsk gamma domain	442.819	0.044281905777726026
+PF02912	Aminoacyl tRNA synthetase class II, N-terminal domain	441.8	0.04418000576443052
+PF05597	Poly(hydroxyalcanoate) granule associated protein (phasin)	441.34	0.044134005758428616
+PF00763	Tetrahydrofolate dehydrogenase/cyclohydrolase, catalytic domain	441.245	0.0441245057571891
+PF02882	Tetrahydrofolate dehydrogenase/cyclohydrolase, NAD(P)-binding domain	441.245	0.0441245057571891
+PF06689	ClpX C4-type zinc finger	440.086	0.04400860574206693
+PF14579	Helix-hairpin-helix motif	439.644	0.04396440573629989
+PF12502	Protein of unknown function (DUF3710)	439.52	0.043952005734681984
+PF09364	XFP N-terminal domain	438.622	0.04386220572296524
+PF14698	Argininosuccinate lyase C-terminal	437.441	0.04374410570755601
+PF00252	Ribosomal protein L16p/L10e	437.224	0.04372240570472469
+PF01243	Pyridoxamine 5'-phosphate oxidase	436.725	0.04367250569821394
+PF02601	Exonuclease VII, large subunit	436.532	0.04365320569569575
+PF13742	OB-fold nucleic acid binding domain	436.532	0.04365320569569575
+PF01871	AMMECR1	435.27	0.04352700567922967
+PF04616	Glycosyl hydrolases family 43	433.667	0.04336670565831437
+PF00137	ATP synthase subunit C	433.424	0.0433424056551438
+PF13192	Thioredoxin domain	430.867	0.04308670562178109
+PF09821	C-terminal AAA-associated domain	430.79	0.04307900562077642
+PF01895	PhoU domain	430.418	0.04304180561592271
+PF00476	DNA polymerase family A	430.274	0.043027405614043855
+PF02562	PhoH-like protein	430.17	0.043017005612686905
+PF01035	6-O-methylguanine DNA methyltransferase, DNA binding domain	428.467	0.04284670559046684
+PF12769	4TM region of pyridine nucleotide transhydrogenase, mitoch	427.797	0.04277970558172495
+PF11898	Domain of unknown function (DUF3418)	427.504	0.042750405577902
+PF08704	tRNA methyltransferase complex GCD14 subunit	427.055	0.042705505572043626
+PF00041	Fibronectin type III domain	426.897	0.042689705569982105
+PF06445	GyrI-like small molecule binding domain	426.418	0.04264180556373231
+PF01367	5'-3' exonuclease, C-terminal SAM fold	425.423	0.04254230555074994
+PF02739	5'-3' exonuclease, N-terminal resolvase-like domain	425.423	0.04254230555074994
+PF01042	Endoribonuclease L-PSP	425.091	0.04250910554641814
+PF02021	Uncharacterised protein family UPF0102	424.91	0.04249100554405652
+PF01121	Dephospho-CoA kinase	424.846	0.042484605543221476
+PF06026	Ribose 5-phosphate isomerase A (phosphoriboisomerase A)	424.157	0.04241570553423168
+PF01592	NifU-like N terminal domain	423.755	0.04237550552898654
+PF01541	GIY-YIG catalytic domain	423.121	0.042312105520714356
+PF13344	Haloacid dehalogenase-like hydrolase	422.172	0.04221720550833219
+PF00919	Uncharacterized protein family UPF0004	422.051	0.042205105506753424
+PF04561	RNA polymerase Rpb2, domain 2	421.67	0.04216700550178229
+PF01704	UTP--glucose-1-phosphate uridylyltransferase	419.893	0.041989305478596695
+PF02870	6-O-methylguanine DNA methyltransferase, ribonuclease-like domain	418.014	0.04180140545408026
+PF01515	Phosphate acetyl/butaryl transferase	417.28	0.041728005444503315
+PF03235	Protein of unknown function DUF262	416.816	0.041681605438449225
+PF02075	Crossover junction endodeoxyribonuclease RuvC	416.7	0.041670005436935706
+PF00310	Glutamine amidotransferases class-II	415.415	0.041541505420169544
+PF06166	Protein of unknown function (DUF979)	415.287	0.04152870541849944
+PF13835	Domain of unknown function (DUF4194)	414.481	0.04144810540798308
+PF17136	Ribosomal proteins 50S L24/mitochondrial 39S L24	414.008	0.04140080540181156
+PF01875	Memo-like protein	413.885	0.04138850540020671
+PF10417	C-terminal domain of 1-Cys peroxiredoxin	413.354	0.04133540539327843
+PF03352	Methyladenine glycosylase	413.31	0.04133100539270434
+PF01330	RuvA N terminal domain	413.214	0.041321405391451765
+PF07499	RuvA, C-terminal domain	413.214	0.041321405391451765
+PF01795	MraW methylase family	411.342	0.04113420536702666
+PF00596	Class II Aldolase and Adducin N-terminal domain	411.291	0.041129105366361225
+PF02130	Uncharacterized protein family UPF0054	411.011	0.041101105362707904
+PF00344	SecY translocase	410.217	0.04102170535234811
+PF03315	Serine dehydratase beta chain	409.653	0.04096530534498926
+PF01174	SNO glutamine amidotransferase family	409.092	0.04090920533766955
+PF00549	CoA-ligase	406.373	0.04063730530219312
+PF13473	Cupredoxin-like domain	406.217	0.0406217053001577
+PF10634	Fe2+ transport protein	404.879	0.04048790528270001
+PF00899	ThiF family	404.36	0.040436005275928305
+PF00958	GMP synthase C terminal domain	403.625	0.04036250526633831
+PF06969	HemN C-terminal domain	403.131	0.0403131052598928
+PF02401	LytB protein	402.705	0.04027050525433452
+PF12002	MgsA AAA+ ATPase C terminal	401.926	0.04019260524417043
+PF05198	Translation initiation factor IF-3, N-terminal domain	401.049	0.04010490523272769
+PF01212	Beta-eliminating lyase	400.717	0.040071705228395885
+PF02254	TrkA-N domain	400.296	0.040029605222902845
+PF03458	UPF0126 domain	399.769	0.03997690521602676
+PF00551	Formyl transferase	399.696	0.03996960521507429
+PF04408	Helicase associated domain (HA2)	399.147	0.03991470520791115
+PF01965	DJ-1/PfpI family	398.959	0.03989590520545821
+PF06965	Na+/H+ antiporter 1	398.126	0.039812605194589554
+PF09019	EcoRII C terminal	397.402	0.03974020518514308
+PF06470	SMC proteins Flexible Hinge Domain	397.265	0.03972650518335556
+PF00121	Triosephosphate isomerase	396.8	0.03968000517728843
+PF01029	NusB family	396.104	0.0396104051682073
+PF10080	Predicted membrane protein (DUF2318)	394.879	0.03948790515222399
+PF08666	SAF domain	394.174	0.03941740514302543
+PF02837	Glycosyl hydrolases family 2, sugar binding domain	392.194	0.03921940511719118
+PF05649	Peptidase family M13	391.772	0.039177205111685084
+PF01865	Protein of unknown function DUF47	391.766	0.0391766051116068
+PF01503	Phosphoribosyl-ATP pyrophosphohydrolase	391.232	0.03912320510463939
+PF00213	ATP synthase delta (OSCP) subunit	391.203	0.039120305104261
+PF08281	Sigma-70, region 4	390.975	0.03909750510128615
+PF12696	TraM recognition site of TraD and TraG	390.714	0.03907140509788072
+PF07497	Rho termination factor, RNA-binding domain	390.549	0.039054905095727864
+PF16355	Domain of unknown function (DUF4982)	389.988	0.03899880508840817
+PF01040	UbiA prenyltransferase family	389.952	0.03899520508793845
+PF08459	UvrC Helix-hairpin-helix N-terminal	389.702	0.03897020508467655
+PF14714	KH-domain-like of EngA bacterial GTPase enzymes, C-terminal	389.223	0.038922305078426755
+PF03332	Eukaryotic phosphomannomutase	389.161	0.0389161050776178
+PF01634	ATP phosphoribosyltransferase	389.013	0.03890130507568675
+PF00586	AIR synthase related protein, N-terminal domain	387.932	0.0387932050615823
+PF02581	Thiamine monophosphate synthase	387.844	0.03878440506043411
+PF02618	YceG-like family	387.13	0.03871300505111812
+PF16353	Domain of unknown function(DUF4981)	386.931	0.038693105048521644
+PF16729	Domain of unknown function (DUF5067)	386.397	0.03863970504155423
+PF01726	LexA DNA binding domain	386.393	0.03863930504150204
+PF13480	Acetyltransferase (GNAT) domain	386.242	0.03862420503953185
+PF03668	P-loop ATPase protein family	386.224	0.038622405039296995
+PF02887	Pyruvate kinase, alpha/beta domain	385.861	0.03858610503456071
+PF10555	Phospho-N-acetylmuramoyl-pentapeptide-transferase signature 1	385.843	0.038584305034325854
+PF01783	Ribosomal L32p protein family	385.678	0.038567805032173
+PF02445	Quinolinate synthetase A protein	385.348	0.0385348050278673
+PF01729	Quinolinate phosphoribosyl transferase, C-terminal domain	385.017	0.038501705023548535
+PF02749	Quinolinate phosphoribosyl transferase, N-terminal domain	385.017	0.038501705023548535
+PF01202	Shikimate kinase	384.173	0.03841730501253636
+PF01502	Phosphoribosyl-AMP cyclohydrolase	384.171	0.038417105012510264
+PF01960	ArgJ family	384.005	0.03840050501034436
+PF00348	Polyprenyl synthetase	383.104	0.038310404998588475
+PF00437	Type II/IV secretion system protein	381.416	0.038141604976564124
+PF02911	Formyl transferase, C-terminal domain	381.239	0.0381239049742547
+PF16697	Inner membrane component of T3SS, cytoplasmic domain	380.566	0.03805660496547366
+PF16321	Sigma 54 modulation/S30EA ribosomal protein C terminus	380.285	0.03802850496180729
+PF05656	Protein of unknown function (DUF805)	379.556	0.03795560495229558
+PF01790	Prolipoprotein diacylglyceryl transferase	378.853	0.03788530494312312
+PF10369	Small subunit of acetolactate synthase	378.563	0.037856304939339315
+PF04417	Protein of unknown function (DUF501)	378.555	0.03785550493923494
+PF02768	DNA polymerase III beta subunit, C-terminal domain	377.64	0.037764004927296375
+PF08747	Domain of unknown function (DUF1788)	377.459	0.037745904924934764
+PF01408	Oxidoreductase family, NAD-binding Rossmann fold	376.587	0.03765870491355725
+PF07498	Rho termination factor, N-terminal domain	375.65	0.03756500490133165
+PF14821	Threonine synthase N terminus	374.771	0.037477104889862806
+PF03717	Penicillin-binding Protein dimerisation domain	374.253	0.03742530488310415
+PF00728	Glycosyl hydrolase family 20, catalytic domain	373.343	0.03733430487123083
+PF01245	Ribosomal protein L19	372.526	0.03725260486057094
+PF05175	Methyltransferase small domain	372.102	0.03721020485503876
+PF01384	Phosphate transporter family	371.48	0.037148004846923155
+PF01418	Helix-turn-helix domain, rpiR family	371.103	0.037110304842004206
+PF09285	Elongation factor P, C-terminal	370.771	0.0370771048376724
+PF06071	Protein of unknown function (DUF933)	370.66	0.037066004836224124
+PF00162	Phosphoglycerate kinase	370.513	0.03705130483430612
+PF01761	3-dehydroquinate synthase	369.751	0.03697510482436384
+PF02838	Glycosyl hydrolase family 20, domain 2	369.49	0.03694900482095843
+PF08207	Elongation factor P (EF-P) KOW-like domain	367.64	0.03676400479682036
+PF01784	NIF3 (NGG1p interacting factor 3)	366.033	0.036603304775852864
+PF03772	Competence protein	365.759	0.03657590477227782
+PF01132	Elongation factor P (EF-P) OB domain	364.602	0.036460204757181744
+PF02153	Prephenate dehydrogenase	364.365	0.036436504754089466
+PF00570	HRDC domain	364.153	0.036415304751323374
+PF09382	RQC domain	364.153	0.036415304751323374
+PF16124	RecQ zinc-binding	364.153	0.036415304751323374
+PF00425	chorismate binding enzyme	364.067	0.036406704750201274
+PF01220	Dehydroquinase class II	361.995	0.03619950472316665
+PF03952	Enolase, N-terminal domain	361.884	0.036188404721718366
+PF05697	Bacterial trigger factor protein (TF)	361.438	0.036143804715899126
+PF05698	Bacterial trigger factor protein (TF) C-terminus	361.438	0.036143804715899126
+PF10410	DnaB-helicase binding domain of primase	360.319	0.03603190470129887
+PF00037	4Fe-4S binding domain	358.763	0.0358763046809968
+PF01043	SecA preprotein cross-linking domain	358.433	0.03584330467669109
+PF02627	Carboxymuconolactone decarboxylase family	358.225	0.035822504673977185
+PF05491	RuvB C-terminal winged helix domain	358.035	0.03580350467149815
+PF01656	CobQ/CobB/MinD/ParA nucleotide binding domain	357.839	0.03578390466894081
+PF04263	Thiamin pyrophosphokinase, catalytic domain	356.811	0.03568110465552787
+PF04265	Thiamin pyrophosphokinase, vitamin B1 binding domain	356.811	0.03568110465552787
+PF02481	DNA recombination-mediator protein A	356.808	0.035680804655488736
+PF02595	Glycerate kinase family	355.547	0.03555470463903571
+PF13167	GTP-binding GTPase N-terminal	354.733	0.03547330462841496
+PF16360	GTP-binding GTPase Middle Region	354.733	0.03547330462841496
+PF01734	Patatin-like phospholipase	354.652	0.0354652046273581
+PF03976	Polyphosphate kinase 2 (PPK2)	354.444	0.0354444046246442
+PF07884	Vitamin K epoxide reductase family	353.801	0.0353801046162546
+PF07517	SecA DEAD-like domain	353.68	0.03536800461467584
+PF01513	ATP-NAD kinase	352.955	0.03529550460521633
+PF00140	Sigma-70 factor, region 1.2	352.639	0.035263904601093285
+PF04715	Anthranilate synthase component I, N terminal region	352.471	0.035247104598901284
+PF02272	DHHA1 domain	352.306	0.03523060459674843
+PF08379	Bacterial transglutaminase-like N-terminal region	351.962	0.035196204592260055
+PF10509	Galactokinase galactose-binding signature	351.363	0.03513630458444454
+PF00950	ABC 3 transport family	350.5	0.03505000457318447
+PF04343	Protein of unknown function, DUF488	350.19	0.03501900456913971
+PF12911	N-terminal TM domain of oligopeptide transport permease C	349.816	0.0349816045642599
+PF13603	Leucyl-tRNA synthetase, Domain 2	347.224	0.034722404530440516
+PF13397	RNA polymerase-binding protein	346.858	0.034685804525665095
+PF04977	Septum formation initiator	345.237	0.03452370450451494
+PF01000	RNA polymerase Rpb3/RpoA insert domain	345.104	0.0345104045027796
+PF01193	RNA polymerase Rpb3/Rpb11 dimerisation domain	345.104	0.0345104045027796
+PF00857	Isochorismatase family	344.473	0.03444730449454657
+PF13421	SPFH domain-Band 7 family	343.76	0.034376004485243625
+PF04545	Sigma-70, region 4	343.686	0.0343686044842781
+PF00456	Transketolase, thiamine diphosphate binding domain	343.555	0.03435550448256887
+PF04539	Sigma-70 region 3	343.476	0.034347604481538105
+PF03881	Fructosamine kinase	343.45	0.03434500448119887
+PF02482	Sigma 54 modulation protein / S30EA ribosomal protein	343.191	0.03431910447781954
+PF04204	Homoserine O-succinyltransferase	341.866	0.03418660446053147
+PF14512	Putative TM nitroreductase	340.267	0.034026704439668355
+PF02810	SEC-C motif	338.797	0.03387970442048838
+PF07516	SecA Wing and Scaffold domain	338.797	0.03387970442048838
+PF02748	Aspartate carbamoyltransferase regulatory chain, metal binding domain	338.696	0.03386960441917057
+PF01195	Peptidyl-tRNA hydrolase	337.356	0.03373560440168678
+PF01411	tRNA synthetases class II (A)	335.949	0.03359490438332881
+PF01256	Carbohydrate kinase	334.987	0.03349870437077702
+PF01709	Transcriptional regulator	334.972	0.0334972043705813
+PF01207	Dihydrouridine synthase (Dus)	333.541	0.033354104351910184
+PF03799	Cell division protein FtsQ	333.408	0.03334080435017485
+PF08478	POTRA domain, FtsQ-type	333.408	0.03334080435017485
+PF00444	Ribosomal protein L36	333.224	0.03332240434777409
+PF00800	Prephenate dehydratase	332.784	0.03327840434203315
+PF01628	HrcA protein C terminal domain	332.764	0.033276404341772196
+PF02542	YgbB family	332.223	0.033222304334713446
+PF01228	Glycine radical	329.39	0.03293900429774958
+PF00932	Lamin Tail Domain	329.048	0.03290480429328731
+PF03641	Possible lysine decarboxylase	328.816	0.03288160429026026
+PF03861	ANTAR domain	327.656	0.032765604275125045
+PF02775	Thiamine pyrophosphate enzyme, C-terminal TPP binding domain	327.552	0.032755204273768095
+PF00834	Ribulose-phosphate 3 epimerase family	326.772	0.03267720426359096
+PF01663	Type I phosphodiesterase / nucleotide pyrophosphatase	325.322	0.032532204244671944
+PF03447	Homoserine dehydrogenase, NAD binding domain	325.166	0.03251660424263651
+PF01264	Chorismate synthase	325.138	0.03251380424227118
+PF16499	Alpha galactosidase A	324.649	0.03246490423589091
+PF02776	Thiamine pyrophosphate enzyme, N-terminal TPP binding domain	324.375	0.03243750423231586
+PF04536	TPM domain	323.542	0.032354204221447205
+PF12822	ECF transporter, substrate-specific component	320.755	0.03207550418508354
+PF14387	Domain of unknown function (DUF4418)	320.663	0.03206630418388317
+PF00543	Nitrogen regulatory protein P-II	319.186	0.031918604164611855
+PF01478	Type IV leader peptidase family	319.141	0.031914104164024716
+PF00205	Thiamine pyrophosphate enzyme, central domain	316.798	0.031679804133454184
+PF07510	Protein of unknown function (DUF1524)	315.086	0.03150860411111669
+PF03993	Domain of Unknown Function (DUF349)	314.505	0.03145050410353603
+PF13292	1-deoxy-D-xylulose-5-phosphate synthase	314.024	0.03140240409726014
+PF03733	Inner membrane component domain	312.013	0.031201304071021403
+PF00468	Ribosomal protein L34	310.965	0.03109650405734752
+PF07929	Plasmid pRiA4b ORF-3-like protein	310.21	0.03102100404749658
+PF01078	Magnesium chelatase, subunit ChlI	310.056	0.03100560404548725
+PF00725	3-hydroxyacyl-CoA dehydrogenase, C-terminal domain	309.236	0.030923604034788214
+PF00160	Cyclophilin type peptidyl-prolyl cis-trans isomerase/CLD	308.79	0.030879004028968992
+PF00889	Elongation factor TS	308.469	0.030846904024780707
+PF00724	NADH:flavin oxidoreductase / NADH oxidase family	307.433	0.030743304011263396
+PF00654	Voltage gated chloride channel	304.526	0.030452603973334016
+PF13722	5TM C-terminal transporter carbon starvation CstA	304.245	0.030424503969667636
+PF00884	Sulfatase	301.879	0.03018790393879701
+PF01386	Ribosomal L25p family	301.466	0.03014660393340835
+PF14693	Ribosomal protein TL5, C-terminal domain	301.466	0.03014660393340835
+PF05103	DivIVA protein	301.408	0.030140803932651592
+PF06421	GTP-binding protein LepA C-terminus	301.275	0.030127503930916257
+PF00459	Inositol monophosphatase family	298.606	0.02986060389609221
+PF03807	NADP oxidoreductase coenzyme F420-dependent	298.365	0.02983650389294774
+PF16280	Domain of unknown function (DUF4928)	298.262	0.029826203891603835
+PF05639	Pup-like protein	297.738	0.029773803884766893
+PF12344	Ultra-violet resistance protein B	295.428	0.029542803854626928
+PF03819	MazG nucleotide pyrophosphohydrolase domain	291.512	0.029151203803532522
+PF14748	Pyrroline-5-carboxylate reductase dimerisation	290.851	0.029085103794908057
+PF02464	Competence-damaged protein	290.434	0.02904340378946721
+PF13830	Domain of unknown function (DUF4192)	290.203	0.02902030378645321
+PF05195	Aminopeptidase P, N-terminal domain	290.119	0.029011903785357215
+PF00581	Rhodanese-like domain	288.182	0.02881820376008401
+PF04174	A circularly permuted ATPgrasp	287.994	0.028799403757631063
+PF06559	2'-deoxycytidine 5'-triphosphate deaminase (DCD)	287.8	0.02878000375509982
+PF11268	Protein of unknown function (DUF3071)	286.921	0.02869210374363098
+PF02525	Flavodoxin-like fold	286.576	0.02865760373912956
+PF00328	Histidine phosphatase superfamily (branch 2)	285.615	0.028561503726590817
+PF04434	SWIM zinc finger	283.376	0.028337603697377232
+PF02275	Linear amide C-N hydrolases, choloylglycine hydrolase family	282.391	0.028239103684525348
+PF03143	Elongation factor Tu C-terminal domain	281.924	0.02819240367843211
+PF03840	Preprotein translocase SecG subunit	281.832	0.028183203677231736
+PF12802	MarR family	278.885	0.027888503638780454
+PF03147	Ferredoxin-fold anticodon binding domain	278.744	0.027874403636940742
+PF01717	Cobalamin-independent synthase, Catalytic domain	278.336	0.027833603631617323
+PF03773	Predicted permease	278.015	0.027801503627429038
+PF13811	Domain of unknown function (DUF4186)	277.279	0.027727903617826004
+PF03118	Bacterial RNA polymerase, alpha chain C terminal domain	275.905	0.0275905035998986
+PF08501	Shikimate dehydrogenase substrate binding domain	274	0.02740000357504292
+PF01263	Aldose 1-epimerase	273.219	0.027321903564852743
+PF01433	Peptidase family M1 domain	271.749	0.027174903545672768
+PF03070	TENA/THI-4/PQQC family	268.865	0.026886503508043485
+PF03275	UDP-galactopyranose mutase	268.46	0.026846003502759203
+PF08148	DSHCT (NUC185) domain	267.645	0.026764503492125405
+PF01596	O-methyltransferase	264.776	0.02647760345469184
+PF06738	Putative threonine/serine exporter	263.995	0.02639950344450166
+PF04079	Segregation and condensation complex subunit ScpB	262.994	0.026299403431441014
+PF02650	WhiA C-terminal HTH domain	262.869	0.026286903429810066
+PF10298	WhiA N-terminal LAGLIDADG-like domain	262.869	0.026286903429810066
+PF14527	WhiA LAGLIDADG-like domain	262.869	0.026286903429810066
+PF01765	Ribosome recycling factor	261.471	0.026147103411569513
+PF03710	Glutamate-ammonia ligase adenylyltransferase	260.807	0.026080703402905907
+PF08335	GlnD PII-uridylyltransferase	260.807	0.026080703402905907
+PF09605	Hypothetical bacterial integral membrane protein (Trep_Strep)	259.725	0.0259725033887884
+PF13305	Tetracyclin repressor-like, C-terminal domain	259.072	0.025907203380268314
+PF00924	Mechanosensitive ion channel	258.733	0.025873303375845178
+PF10502	Signal peptidase, peptidase S26	258.419	0.025841903371748232
+PF13183	4Fe-4S dicluster domain	257.77	0.025777003363280336
+PF01272	Transcription elongation factor, GreA/GreB, C-term	256.834	0.025683403351067786
+PF03706	Lysylphosphatidylglycerol synthase TM region	256.003	0.025600303340225224
+PF04892	VanZ like family	255.392	0.02553920333225314
+PF00163	Ribosomal protein S4/S9 N-terminal domain	253.915	0.025391503312981834
+PF13657	HipA N-terminal domain	253.893	0.025389303312694785
+PF13085	2Fe-2S iron-sulfur cluster binding domain	252.579	0.02525790329555024
+PF01434	Peptidase family M41	250.246	0.025024603265110183
+PF09511	RNA ligase	250.001	0.02500010326191352
+PF02378	Phosphotransferase system, EIIC	249.385	0.024938503253876195
+PF11248	Protein of unknown function (DUF3046)	248.579	0.02485790324335983
+PF03449	Transcription elongation factor, N-terminal	247.909	0.02479090323461794
+PF16364	Cell surface antigen C-terminus	246.774	0.024677403219808908
+PF06103	Bacterial protein of unknown function (DUF948)	246.047	0.024604703210323306
+PF13491	4TM region of DNA translocase FtsK/SpoIIIE	245.683	0.024568303205573974
+PF01948	Aspartate carbamoyltransferase regulatory chain, allosteric domain	245.039	0.02450390319717132
+PF01262	Alanine dehydrogenase/PNT, C-terminal domain	244.63	0.02446300319183485
+PF05222	Alanine dehydrogenase/PNT, N-terminal domain	244.63	0.02446300319183485
+PF13342	C-terminal repeat of topoisomerase	244.411	0.02444110318897743
+PF03853	YjeF-related protein N-terminus	244.342	0.024434203188077146
+PF07275	Antirestriction protein (ArdA)	244.27	0.024427003187137718
+PF01653	NAD-dependent DNA ligase adenylation domain	239.248	0.023924803121612655
+PF03119	NAD-dependent DNA ligase C4 zinc finger domain	239.248	0.023924803121612655
+PF03120	NAD-dependent DNA ligase OB-fold domain	239.248	0.023924803121612655
+PF01431	Peptidase family M13	236.399	0.02363990308444004
+PF03575	Peptidase family S51	235.727	0.023572703075672052
+PF10611	Protein of unknown function (DUF2469)	235.483	0.02354830307248844
+PF11305	Protein of unknown function (DUF3107)	235.253	0.023525303069487486
+PF06271	RDD family	234.818	0.023481803063811785
+PF01649	Ribosomal protein S20	234.417	0.02344170305857969
+PF02629	CoA binding domain	233.819	0.023381903050777225
+PF13829	Domain of unknown function (DUF4191)	229.562	0.022956202995233585
+PF16259	Domain of unknown function (DUF4913)	228.928	0.022892802986961405
+PF00708	Acylphosphatase	228.234	0.022823402977906374
+PF13346	ABC-2 family transporter protein	228.226	0.02282260297780199
+PF00684	DnaJ central domain	227.398	0.022739802966998575
+PF05154	TM2 domain	226.499	0.02264990295526878
+PF00367	phosphotransferase system, EIIB	224.438	0.022443802928377672
+PF02325	YGGT family	223.228	0.022322802912590076
+PF11855	Protein of unknown function (DUF3375)	223.16	0.022316002911702836
+PF00079	Serpin (serine protease inhibitor)	221.872	0.022187202894897527
+PF02673	Bacitracin resistance protein BacA	220.231	0.02202310287348641
+PF02699	Preprotein translocase subunit	213.466	0.021346602785219385
+PF08494	DEAD/H associated	208.672	0.020867202722669183
+PF01063	Amino-transferase class IV	208.343	0.02083430271837652
+PF04898	Glutamate synthase central domain	206.648	0.020664802696260833
+PF11361	Protein of unknown function (DUF3159)	205.086	0.020508602675880484
+PF06100	MCRA family	201.839	0.020183902633514918
+PF01493	GXGXG motif	201.105	0.020110502623937977
+PF01645	Conserved region in glutamate synthase	201.105	0.020110502623937977
+PF02219	Methylenetetrahydrofolate reductase	198.278	0.019827802587052405
+PF11452	Protein of unknown function (DUF3000)	196.638	0.01966380256565434
+PF14486	Domain of unknown function (DUF4432)	196.214	0.01962140256012216
+PF01648	4'-phosphopantetheinyl transferase superfamily	192.398	0.01923980251033251
+PF02367	Threonylcarbamoyl adenosine biosynthesis protein TsaE	189.454	0.018945402471920367
+PF00218	Indole-3-glycerol phosphate synthase	189.211	0.018921102468749805
+PF16938	Putative phage holin Dp-1	188.882	0.01888820246445714
+PF13828	Domain of unknown function (DUF4190)	185.751	0.0185751024236051
+PF16146	Domain of unknown function (DUF4854)	185.751	0.0185751024236051
+PF01171	PP-loop family	184.779	0.01847790241092283
+PF02885	Glycosyl transferase family, helical bundle domain	182.984	0.018298402387502386
+PF13537	Glutamine amidotransferase domain	182.097	0.01820970237592916
+PF04011	LemA family	179.663	0.0179663023441713
+PF03747	ADP-ribosylglycohydrolase	178.87	0.01788700233382455
+PF13337	Putative ATP-dependent Lon protease	178.63	0.017863002330693125
+PF16565	Phospholipase D-like domain at C-terminus of MIT	178.63	0.017863002330693125
+PF00106	short chain dehydrogenase	176.742	0.01767420230605925
+PF08442	ATP-grasp domain	176.02	0.017602002296638886
+PF09179	TilS substrate binding domain	175.972	0.0175972022960126
+PF11241	Protein of unknown function (DUF3043)	172.571	0.017257102251637707
+PF13310	Virulence protein RhuM family	170.189	0.017018902220558317
+PF00290	Tryptophan synthase alpha chain	169.577	0.016957702212573186
+PF00483	Nucleotidyl transferase	168.434	0.016843402197659774
+PF04168	A predicted alpha-helical domain with a conserved ER motif.	167.111	0.0167111021803978
+PF03631	Virulence factor BrkB	166.322	0.01663220217010324
+PF08849	Putative inner membrane protein (DUF1819)	159.71	0.015971002083832498
+PF06769	YoeB-like toxin of bacterial type II toxin-antitoxin system	157.977	0.015797702061221004
+PF09723	Zinc ribbon domain	157.792	0.015779202058807198
+PF12399	Branched-chain amino acid ATP-binding cassette transporter	157.221	0.015722102051357018
+PF07693	KAP family P-loop domain	154.788	0.015478802019612204
+PF04452	RNA methyltransferase	151.124	0.015112401971805788
+PF14691	Dihydroprymidine dehydrogenase domain II, 4Fe-4S cluster	149.458	0.014945801950068484
+PF12900	Pyridoxamine 5'-phosphate oxidase	143.934	0.01439340187799353
+PF16569	Gram-positive pilin backbone subunit 2, Cna-B-like domain	142.872	0.014287201864136978
+PF07715	TonB-dependent Receptor Plug Domain	137.175	0.013717501789804791
+PF01261	Xylose isomerase-like TIM barrel	134.332	0.013433201752710459
+PF01259	SAICAR synthetase	126.025	0.012602501644324028
+PF12464	Maltose acetyltransferase	125.793	0.012579301641296985
+PF13732	Domain of unknown function (DUF4162)	124.254	0.012425401621216726
+PF09223	ZinT (YodA) periplasmic lipocalin-like zinc-recruitment	120.833	0.01208330157658088
+PF01071	Phosphoribosylglycinamide synthetase, ATP-grasp (A) domain	119.782	0.01197820156286785
+PF02843	Phosphoribosylglycinamide synthetase, C domain	119.782	0.01197820156286785
+PF02844	Phosphoribosylglycinamide synthetase, N domain	119.782	0.01197820156286785
+PF04107	Glutamate-cysteine ligase family 2(GCS2)	118.259	0.011825901542996353
+PF08665	PglZ domain	100.514	0.010051401311466656
+PF13593	SBF-like CPA transporter family (DUF4137)	99.4495	0.009944951297577484
+PF00593	TonB dependent receptor	98.053	0.009805301279356507
+PF11273	Protein of unknown function (DUF3073)	95.8987	0.00958987125124806
+PF00731	AIR carboxylase	90.8019	0.009080191184747044
+PF14019	Protein of unknown function (DUF4235)	90.2031	0.009020311176934139
+PF08213	Mitochondrial domain of unknown function (DUF1713)	87.679	0.008767901144000686
+PF13443	Cro/C1-type HTH DNA-binding domain	86.5038	0.008650381128667143
+PF02302	PTS system, Lactose/Cellobiose specific IIB subunit	85.9553	0.008595531121510534
+PF11188	Protein of unknown function (DUF2975)	83.5062	0.008350621089555654
+PF14322	Starch-binding associating with outer membrane	81.6192	0.00816192106493483
+PF07980	SusD family	81.4153	0.008141531062274422
+PF01027	Inhibitor of apoptosis-promoting Bax1	81.1602	0.00811602105894598
+PF01625	Peptide methionine sulfoxide reductase	77.7504	0.007775041014456266
+PF10633	NPCBM-associated, NEW3 domain of alpha-galactosidase	76.5492	0.007654920998783486
+PF02580	D-Tyr-tRNA(Tyr) deacylase	75.9535	0.007595350991011031
+PF05713	Bacterial mobilisation protein (MobC)	75.0633	0.007506330979396056
+PF12651	Ribbon-helix-helix domain	70.5596	0.00705596092063357
+PF00027	Cyclic nucleotide-binding domain	69.8203	0.006982030910987478
+PF04480	Protein of unknown function (DUF559)	67.9308	0.006793080886334036
+PF00746	LPXTG cell wall anchor motif	64.1743	0.006417430837320718
+PF05193	Peptidase M16 inactive domain	63.6875	0.006368750830969146
+PF00144	Beta-lactamase	63.4836	0.006348360828308739
+PF02384	N-6 DNA Methylase	60.1396	0.006013960784677559
+PF08279	HTH domain	59.4325	0.005943250775451599
+PF03610	PTS system fructose IIA component	58.1302	0.005813020758459708
+PF01797	Transposase IS200 like	57.0615	0.005706150744515736
+PF07681	DoxX	55.5499	0.00555499072479298
+PF12706	Beta-lactamase superfamily domain	55.4187	0.005541870723081136
+PF02371	Transposase IS116/IS110/IS902 family	55.3327	0.005533270721959042
+PF00403	Heavy-metal-associated domain	54.1861	0.005418610706998661
+PF02224	Cytidylate kinase	52.6744	0.005267440687274601
+PF00675	Insulinase (Peptidase family M16)	49.9738	0.004997380652038247
+PF00691	OmpA family	49.9683	0.004996830651966485
+PF03830	PTS system sorbose subfamily IIB component	48.8241	0.0048824106370374196
+PF07729	FCD domain	48.2352	0.004823520629353687
+PF00873	AcrB/AcrD/AcrF family	47.8485	0.004784850624308179
+PF01593	Flavin containing amine oxidoreductase	47.5042	0.00475042061981589
+PF02321	Outer membrane efflux protein	46.2584	0.004625840603561187
+PF03061	Thioesterase superfamily	44.8056	0.004480560584605631
+PF05598	Transposase domain (DUF772)	43.3647	0.004336470565805341
+PF00359	Phosphoenolpyruvate-dependent sugar phosphotransferase system, EIIA 2	43.2412	0.004324120564193963
+PF04964	Flp/Fap pilin component	41.463	0.004146300540992717
+PF01022	Bacterial regulatory protein, arsR family	41.0231	0.004102310535253078
+PF05043	Mga helix-turn-helix domain	40.5572	0.0040557205291742
+PF13731	WxL domain surface cell wall-binding	39.3545	0.003935450513481848
+PF07883	Cupin domain	39.3536	0.003935360513470106
+PF02770	Acyl-CoA dehydrogenase, middle domain	36.8022	0.003680220480180454
+PF04226	Transglycosylase associated protein	35.4104	0.003541040462020802
+PF06580	Histidine kinase	34.2978	0.0034297804475040402
+PF16576	Barrel-sandwich domain of CusB or HlyD membrane-fusion	34.1779	0.003417790445939633
+PF08241	Methyltransferase domain	33.9786	0.0033978604433392455
+PF00034	Cytochrome c	33.8289	0.0033828904413860193
+PF01638	HxlR-like helix-turn-helix	33.0133	0.0033013304307443953
+PF01609	Transposase DDE domain	31.9229	0.0031922904165172907
+PF04773	FecR protein	31.2764	0.0031276404080820158
+PF10576	Iron-sulfur binding domain of endonuclease III	30.527	0.003052700398304143
+PF03544	Gram-negative bacterial TonB protein C-terminal	30.4991	0.0030499103979401147
+PF07589	PEP-CTERM motif	30.0683	0.003006830392319208
+PF16916	Dimerisation domain of Zinc Transporter	29.9152	0.0029915203903216198
+PF00488	MutS domain V	29.8077	0.0029807703889190027
+PF00378	Enoyl-CoA hydratase/isomerase	29.7404	0.0029740403880408996
+PF13673	Acetyltransferase (GNAT) domain	29.0739	0.002907390379344672
+PF05239	PRC-barrel domain	29.0192	0.002901920378630969
+PF01361	Tautomerase enzyme	28.8376	0.002883760376261524
+PF00296	Luciferase-like monooxygenase	28.1674	0.0028167403675170215
+PF09851	Short C-terminal domain	27.9961	0.002799610365281967
+PF10418	Iron-sulfur cluster binding domain of dihydroorotate dehydrogenase B	27.4831	0.0027483103585885476
+PF03780	Asp23 family, cell envelope-related function	27.2003	0.0027200303548986855
+PF11751	Type IX secretion system membrane protein PorP/SprF	27.0658	0.002706580353143783
+PF04131	Putative N-acetylmannosamine-6-phosphate epimerase	26.9828	0.0026982803520608323
+PF02622	Uncharacterized ACR, COG1678	26.9819	0.0026981903520490896
+PF03960	ArsC family	26.9805	0.002698050352030823
+PF01791	DeoC/LacD family aldolase	26.6042	0.00266042034712101
+PF02255	PTS system, Lactose/Cellobiose specific IIA subunit	26.5567	0.002655670346501249
+PF00111	2Fe-2S iron-sulfur cluster binding domain	26.2912	0.002629120343037111
+PF03551	Transcriptional regulator PadR-like family	25.8676	0.0025867603375101466
+PF10035	Uncharacterized protein conserved in bacteria (DUF2179)	25.7813	0.002578130336384139
+PF00441	Acyl-CoA dehydrogenase, C-terminal domain	25.124	0.0025124003278079498
+PF02771	Acyl-CoA dehydrogenase, N-terminal domain	25.124	0.0025124003278079498
+PF10031	Small integral membrane protein (DUF2273)	24.7492	0.0024749203229177084
+PF00301	Rubredoxin	24.3148	0.0024314803172498303
+PF06983	3-demethylubiquinone-9 3-methyltransferase	24.1526	0.0024152603151335094
+PF12071	Protein of unknown function (DUF3551)	23.9129	0.002391290312005999
+PF03929	PepSY-associated TM region	23.9092	0.002390920311957723
+PF12680	SnoaL-like domain	23.8463	0.002384630311137029
+PF12244	Protein of unknown function (DUF3606)	23.7382	0.002373820309726583
+PF16344	Domain of unknown function (DUF4974)	23.2637	0.002326370303535496
+PF07676	WD40-like Beta Propeller Repeat	23.2572	0.0023257203034506868
+PF00941	FAD binding domain in molybdopterin dehydrogenase	23.0293	0.0023029303004771383
+PF00375	Sodium:dicarboxylate symporter family	22.5855	0.0022585502946866126
+PF11412	Disulphide bond corrector protein DsbC	22.4395	0.0022439502927816624
+PF01368	DHH family	22.1701	0.002217010289266639
+PF13847	Methyltransferase domain	22.0828	0.002208280288127583
+PF02558	Ketopantoate reductase PanE/ApbA	21.9153	0.0021915302859421095
+PF08546	Ketopantoate reductase PanE/ApbA C terminal	21.9153	0.0021915302859421095
+PF06736	Protein of unknown function (DUF1211)	21.5706	0.0021570602814446013
+PF02534	Type IV secretory system Conjugative DNA transfer	21.4896	0.0021489602803877457
+PF00232	Glycosyl hydrolase family 1	21.4506	0.002145060279878889
+PF08327	Activator of Hsp90 ATPase homolog 1-like protein	21.4158	0.0021415802794248324
+PF13231	Dolichyl-phosphate-mannose-protein mannosyltransferase	21.2722	0.002127220277551197
+PF01226	Formate/nitrite transporter	21.2198	0.0021219802768675028
+PF03781	Sulfatase-modifying factor enzyme 1	21.2042	0.00212042027666396
+PF00376	MerR family regulatory protein	21.1726	0.0021172602762516554
+PF03895	YadA-like membrane anchor domain	21.0739	0.002107390274963857
+PF13610	DDE domain	21.0544	0.0021054402747094293
+PF01266	FAD dependent oxidoreductase	21.0226	0.0021022602742945154
+PF04023	FeoA domain	20.905	0.002090500272760118
+PF00115	Cytochrome C and Quinol oxidase polypeptide I	20.8872	0.00208872027252787
+PF08402	TOBE domain	20.7185	0.00207185027032674
+PF07411	Domain of unknown function (DUF1508)	20.4655	0.002046550267025696
+PF04389	Peptidase family M28	20.3106	0.002031060265004623
+PF05532	CsbD-like	20.0985	0.002009850262237227
+PF09424	Yqey-like protein	20.0924	0.0020092402621576366
+PF09527	Putative F0F1-ATPase subunit Ca2+/Mg2+ transporter	20.0644	0.0020064402617923035
+PF13185	GAF domain	19.9967	0.001999670260908981
+PF01507	Phosphoadenosine phosphosulfate reductase family	19.7214	0.001972140257316976
+PF08323	Starch synthase catalytic domain	19.643	0.001964300256294044
+PF11127	Protein of unknown function (DUF2892)	19.5806	0.0019580602554798736
+PF06107	Bacterial protein of unknown function (DUF951)	19.4158	0.0019415802533296288
+PF00994	Probable molybdopterin binding domain	19.4083	0.0019408302532317716
+PF03413	Peptidase propeptide and YPEB domain	19.3871	0.0019387102529551626
+PF07971	Glycosyl hydrolase family 92	19.2837	0.0019283702516060405
+PF01810	LysE type translocator	19.1225	0.001912250249502767
+PF01872	RibD C-terminal domain	19.049	0.0019049002485437684
+PF05336	L-rhamnose mutarotase	19.0151	0.0019015102481014547
+PF03992	Antibiotic biosynthesis monooxygenase	19.0084	0.001900840248014036
+PF05480	Staphylococcus haemolytic protein	18.7578	0.0018757802447443067
+PF01487	Type I 3-dehydroquinase	18.6904	0.0018690402438648983
+PF13505	Outer membrane protein beta-barrel domain	18.612	0.0018612002428419663
+PF02604	Antitoxin Phd_YefM, type II toxin-antitoxin system	18.5239	0.0018523902416924727
+PF00893	Small Multidrug Resistance protein	18.4951	0.0018495102413167018
+PF00383	Cytidine and deoxycytidylate deaminase zinc-binding region	18.4929	0.001849290241287997
+PF01738	Dienelactone hydrolase family	18.4813	0.0018481302411366449
+PF02502	Ribose/Galactose Isomerase	18.476	0.0018476002410674926
+PF13193	AMP-binding enzyme C-terminal domain	18.2535	0.0018253502381644009
+PF07494	Two component regulator propeller	18.2402	0.001824020237990868
+PF00158	Sigma-54 interaction domain	18.1676	0.0018167602370436121
+PF13442	Cytochrome C oxidase, cbb3-type, subunit III	18.0281	0.0018028102352234713
+PF00939	Sodium:sulfate symporter transmembrane region	17.756	0.0017756002316732192
+PF09917	Uncharacterized protein conserved in bacteria (DUF2147)	17.6881	0.0017688102307872869
+PF01155	Hydrogenase/urease nickel incorporation, metallochaperone, hypA	17.6286	0.0017628602300109545
+PF04264	YceI-like domain	17.5055	0.001750550228404795
+PF13858	Protein of unknown function (DUF4199)	17.4941	0.0017494102282560524
+PF13739	Deacetylase PdaC	17.4049	0.0017404902270922065
+PF02803	Thiolase, C-terminal domain	17.2998	0.0017299802257209034
+PF07963	Prokaryotic N-terminal methylation motif	17.2854	0.0017285402255330176
+PF04402	Protein of unknown function (DUF541)	17.2823	0.00172823022549257
+PF00198	2-oxoacid dehydrogenases acyltransferase (catalytic domain)	17.2134	0.0017213402245935903
+PF02645	Uncharacterised protein, DegV family COG1307	16.9298	0.0016929802208932904
+PF03450	CO dehydrogenase flavoprotein C-terminal domain	16.5069	0.0016506902153754599
+PF03186	CobD/Cbib protein	16.2254	0.0016225402117025598
+PF09693	Phage uncharacterised protein (Phage_XkdX)	16.2097	0.0016209702114977128
+PF03938	Outer membrane protein (OmpH-like)	16.1588	0.0016158802108335894
+PF03613	PTS system mannose/fructose/sorbose family IID component	16.1352	0.0016135202105256661
+PF07238	PilZ domain	15.9978	0.0015997802087329256
+PF00355	Rieske [2Fe-2S] domain	15.9665	0.0015966502083245358
+PF04828	Glutathione-dependent formaldehyde-activating enzyme	15.9352	0.0015935202079161459
+PF00082	Subtilase family	15.8185	0.0015818502063934905
+PF00875	DNA photolyase	15.7127	0.0015712702050130543
+PF14321	Domain of unknown function (DUF4382)	15.7004	0.0015700402048525685
+PF01494	FAD binding domain	15.6766	0.001567660204542036
+PF02265	S1/P1 Nuclease	15.653	0.0015653002042341124
+PF09822	ABC-type uncharacterized transport system	15.6461	0.0015646102041440841
+PF00718	Polyomavirus coat protein	15.6142	0.0015614202037278655
+PF12679	ABC-2 family transporter protein	15.5995	0.0015599502035360659
+PF09278	MerR, DNA binding	15.545	0.0015545002028249713
+PF05979	Bacterial protein of unknown function (DUF896)	15.5049	0.0015504902023017627
+PF02635	DsrE/DsrF-like family	15.4783	0.0015478302019546965
+PF01165	Ribosomal protein S21	15.4585	0.001545850201696354
+PF04392	ABC transporter substrate binding protein	15.3584	0.0015358402003902887
+PF00565	Staphylococcal nuclease homologue	15.3522	0.0015352202003093938
+PF03609	PTS system sorbose-specific iic component	15.2836	0.0015283601994143282
+PF10038	Protein of unknown function (DUF2274)	15.2064	0.0015206401984070533
+PF01464	Transglycosylase SLT domain	15.0915	0.0015091501969078838
+PF12730	ABC-2 family transporter protein	15.0495	0.0015049501963598846
+PF01613	Flavin reductase like domain	14.9634	0.0014963401952364861
+PF02817	e3 binding domain	14.9247	0.001492470194731544
+PF13102	Phage integrase SAM-like domain	14.9173	0.0014917301946349916
+PF05684	Protein of unknown function (DUF819)	14.8864	0.0014886401942318208
+PF09827	CRISPR associated protein Cas2	14.8828	0.0014882801941848494
+PF02666	Phosphatidylserine decarboxylase	14.8714	0.0014871401940361067
+PF02588	Uncharacterised 5xTM membrane BCR, YitT family COG1284	14.7454	0.001474540192392109
+PF03605	Anaerobic c4-dicarboxylate membrane transporter	14.6551	0.0014655101912139103
+PF05683	Fumarase C-terminus	14.6531	0.0014653101911878152
+PF01522	Polysaccharide deacetylase	14.5216	0.0014521601894720555
+PF03966	Trm112p-like protein	14.4834	0.001448340188973637
+PF13533	Biotin-lipoyl like	14.3713	0.001437130187511001
+PF06968	Biotin and Thiamin Synthesis associated domain	14.3659	0.0014365901874405442
+PF13493	Domain of unknown function (DUF4118)	14.3581	0.0014358101873387728
+PF00754	F5/8 type C domain	14.3056	0.0014305601866537736
+PF13556	PucR C-terminal helix-turn-helix domain	14.2693	0.0014269301861801456
+PF00677	Lumazine binding domain	14.2545	0.0014254501859870413
+PF10988	Putative auto-transporter adhesin, head GIN domain	14.2178	0.0014217801855081942
+PF01624	MutS domain I	14.1431	0.0014143101845335382
+PF11297	Protein of unknown function (DUF3098)	14.1285	0.0014128501843430434
+PF00510	Cytochrome c oxidase subunit III	14.0363	0.0014036301831400544
+PF02447	GntP family permease	14.0002	0.001400020182669036
+PF04932	O-Antigen ligase	13.889	0.0013889001812181425
+PF02411	MerT mercuric transport protein	13.7634	0.001376340179579364
+PF00246	Zinc carboxypeptidase	13.6937	0.001369370178669946
+PF01880	Desulfoferrodoxin	13.6781	0.0013678101784664035
+PF14187	Domain of unknown function (DUF4310)	13.6665	0.0013666501783150512
+PF03829	PTS system glucitol/sorbitol-specific IIA component	13.6358	0.0013635801779144899
+PF00309	Sigma-54 factor, Activator interacting domain (AID)	13.5303	0.001353030176537968
+PF04552	Sigma-54, DNA binding domain	13.5303	0.001353030176537968
+PF04963	Sigma-54 factor, core binding domain	13.5303	0.001353030176537968
+PF01208	Uroporphyrinogen decarboxylase (URO-D)	13.5228	0.0013522801764401108
+PF02585	GlcNAc-PI de-N-acetylase	13.4981	0.001349810176117835
+PF01106	NifU-like domain	13.4857	0.0013485701759560448
+PF04069	Substrate binding domain of ABC-type glycine betaine transport system	13.4842	0.0013484201759364734
+PF05662	Coiled stalk of trimeric autotransporter adhesin	13.4383	0.0013438301753375885
+PF13181	Tetratricopeptide repeat	13.4307	0.0013430701752384267
+PF08401	Domain of unknown function (DUF1738)	13.4023	0.001340230174867875
+PF07728	AAA domain (dynein-related subfamily)	13.4015	0.0013401501748574367
+PF00227	Proteasome subunit	13.3458	0.0013345801741306853
+PF00676	Dehydrogenase E1 component	13.2545	0.0013254501729394394
+PF00484	Carbonic anhydrase	13.1431	0.0013143101714859363
+PF01679	Proteolipid membrane potential modulator	13.1312	0.00131312017133067
+PF07905	Purine catabolism regulatory protein-like family	13.047	0.001304700170232062
+PF01642	Methylmalonyl-CoA mutase	13.0265	0.001302650169964586
+PF07045	Domain of unknown function (DUF1330)	13.0024	0.0013002401696501388
+PF00485	Phosphoribulokinase / Uridine kinase family	12.9853	0.001298530169427025
+PF11954	Domain of unknown function (DUF3471)	12.98	0.0012980001693578727
+PF01420	Type I restriction modification DNA specificity domain	12.9735	0.001297350169273063
+PF10604	Polyketide cyclase / dehydrase and lipid transport	12.9209	0.0012920901685867592
+PF17209	Hfq protein	12.9129	0.0012912901684823785
+PF03264	NapC/NirT cytochrome c family, N-terminal region	12.9104	0.0012910401684497594
+PF03795	YCII-related domain	12.8173	0.0012817301672350277
+PF01325	Iron dependent repressor, N-terminal DNA binding domain	12.7753	0.0012775301666870284
+PF00116	Cytochrome C oxidase subunit II, periplasmic domain	12.6507	0.0012650701650612972
+PF02790	Cytochrome C oxidase subunit II, transmembrane domain	12.6507	0.0012650701650612972
+PF01676	Metalloenzyme superfamily	12.6428	0.0012642801649582211
+PF03950	tRNA synthetases class I (E and Q), anti-codon binding domain	12.6295	0.0012629501647846882
+PF02683	Cytochrome C biogenesis protein transmembrane region	12.6143	0.0012614301645863645
+PF06257	Biofilm formation stimulator VEG	12.5156	0.0012515601632985662
+PF01323	DSBA-like thioredoxin domain	12.5154	0.0012515401632959566
+PF03802	Apo-citrate lyase phosphoribosyl-dephospho-CoA transferase	12.4084	0.0012408401618998633
+PF14542	GCN5-related N-acetyl-transferase	12.3542	0.0012354201611926834
+PF03548	Outer membrane lipoprotein carrier protein LolA	12.3517	0.0012351701611600643
+PF16313	Met-zincin	12.3465	0.0012346501610922167
+PF17148	Domain of unknown function (DUF5117)	12.3465	0.0012346501610922167
+PF17162	Domain of unknown function (DUF5118)	12.3465	0.0012346501610922167
+PF01206	Sulfurtransferase TusA	12.2345	0.0012234501596308854
+PF07661	MORN repeat variant	12.1358	0.001213580158343087
+PF01568	Molydopterin dinucleotide binding domain	12.0956	0.0012095601578185735
+PF12363	Phage tail assembly chaperone protein, TAC	12.088	0.0012088001577194116
+PF17283	SprT-like zinc ribbon domain	12.0553	0.0012055301572927552
+PF00384	Molybdopterin oxidoreductase	12.0388	0.0012038801570774696
+PF00710	Asparaginase, N-terminal	12.0096	0.0012009601566964796
+PF02492	CobW/HypB/UreG, nucleotide-binding domain	11.9885	0.0011988501564211753
+PF00550	Phosphopantetheine attachment site	11.9852	0.0011985201563781181
+PF13253	Protein of unknown function (DUF4044)	11.9332	0.001193320155699643
+PF01888	CbiD	11.8573	0.0011857301547093298
+PF07719	Tetratricopeptide repeat	11.8244	0.0011824401542800639
+PF14606	GDSL-like Lipase/Acylhydrolase family	11.8229	0.0011822901542604925
+PF14607	N-terminus of Esterase_SGNH_hydro-type	11.8229	0.0011822901542604925
+PF14667	Polysaccharide biosynthesis C-terminal domain	11.8197	0.00118197015421874
+PF03755	YicC-like family, N-terminal region	11.8095	0.0011809501540856544
+PF09586	Bacterial membrane protein YfhO	11.7793	0.001177930153691617
+PF03205	Molybdopterin guanine dinucleotide synthesis protein B	11.7415	0.0011741501531984176
+PF00854	POT family	11.6974	0.0011697401526230184
+PF13905	Thioredoxin-like	11.6846	0.001168460152456009
+PF13521	AAA domain	11.6171	0.001161710151575296
+PF02261	Aspartate decarboxylase	11.5984	0.0011598401513313056
+PF06177	QueT transporter	11.5598	0.0011559801508276683
+PF03724	META domain	11.5382	0.00115382015054584
+PF08877	MepB protein	11.5274	0.0011527401504049261
+PF14534	Domain of unknown function (DUF4440)	11.522	0.001152200150334469
+PF07947	YhhN family	11.5109	0.0011510901501896407
+PF06028	Alpha/beta hydrolase of unknown function (DUF915)	11.5008	0.00115008015005786
+PF02678	Pirin	11.4621	0.0011462101495529175
+PF02412	Thrombospondin type 3 repeat	11.4416	0.0011441601492854418
+PF01321	Creatinase/Prolidase N-terminal domain	11.4244	0.001142440149061023
+PF10074	Uncharacterized conserved protein (DUF2285)	11.3936	0.0011393601486591569
+PF01170	Putative RNA methylase family UPF0020	11.3342	0.0011334201478841292
+PF02926	THUMP domain	11.3342	0.0011334201478841292
+PF01627	Hpt domain	11.3255	0.0011325501477706152
+PF01769	Divalent cation transporter	11.3229	0.0011322901477366916
+PF03448	MgtE intracellular N domain	11.3229	0.0011322901477366916
+PF06949	Protein of unknown function (DUF1292)	11.2914	0.0011291401473256918
+PF01430	Hsp33 protein	11.2803	0.0011280301471808636
+PF02380	T-antigen specific domain	11.2562	0.0011256201468664163
+PF02665	Nitrate reductase gamma subunit	11.2556	0.0011255601468585878
+PF03606	C4-dicarboxylate anaerobic carrier	11.2378	0.0011237801466263404
+PF13474	SnoaL-like domain	11.2261	0.0011226101464736837
+PF02639	Uncharacterized BCR, YaiI/YqxD family COG1671	11.1517	0.001115170145502942
+PF04223	Citrate lyase, alpha subunit (CitF)	11.1281	0.0011128101451950187
+PF09539	Protein of unknown function (DUF2385)	11.1089	0.0011108901449445048
+PF02073	Thermophilic metalloprotease (M29)	11.1084	0.0011108401449379808
+PF07833	Copper amine oxidase N-terminal domain	11.1065	0.0011106501449131903
+PF01832	Mannosyl-glycoprotein endo-beta-N-acetylglucosaminidase	11.1057	0.0011105701449027525
+PF11950	Protein of unknown function (DUF3467)	11.0992	0.001109920144817943
+PF02602	Uroporphyrinogen-III synthase HemD	11.0863	0.0011086301446496289
+PF08000	Bacterial PH domain	11.0727	0.0011072701444721814
+PF01242	6-pyruvoyl tetrahydropterin synthase	11.0668	0.0011066801443952007
+PF09357	RteC protein	11.0568	0.0011056801442647247
+PF06282	Protein of unknown function (DUF1036)	11.0034	0.0011003401435679826
+PF01235	Sodium:alanine symporter family	10.9966	0.001099660143479259
+PF01032	FecCD transport family	10.986	0.0010986001433409545
+PF02535	ZIP Zinc transporter	10.9612	0.001096120143017374
+PF01402	Ribbon-helix-helix protein, copG family	10.9571	0.0010957101429638788
+PF12631	MnmE helical domain	10.9551	0.0010955101429377834
+PF02133	Permease for cytosine/purines, uracil, thiamine, allantoin	10.9374	0.0010937401427068409
+PF04116	Fatty acid hydroxylase superfamily	10.8825	0.0010882501419905277
+PF02441	Flavoprotein	10.8704	0.0010870401418326516
+PF13239	2TM domain	10.8349	0.0010834901413694616
+PF05199	GMC oxidoreductase	10.8315	0.0010831501413250998
+PF01119	DNA mismatch repair protein, C-terminal domain	10.827	0.0010827001412663856
+PF14815	NUDIX domain	10.7939	0.0010793901408345102
+PF02515	CoA-transferase family III	10.7723	0.0010772301405526819
+PF11154	Protein of unknown function (DUF2934)	10.7159	0.0010715901398167971
+PF04261	Dyp-type peroxidase family	10.6521	0.0010652101389843603
+PF13529	Peptidase_C39 like family	10.6274	0.0010627401386620844
+PF05991	YacP-like NYN domain	10.6021	0.00106021013833198
+PF00916	Sulfate permease family	10.5939	0.0010593901382249895
+PF01740	STAS domain	10.5939	0.0010593901382249895
+PF09861	Lactate racemase N-terminal domain	10.5935	0.0010593501382197708
+PF02575	YbaB/EbfC DNA-binding family	10.568	0.0010568001378870567
+PF16370	C terminal of Calcineurin-like phosphoesterase	10.4756	0.0010475601366814584
+PF02421	Ferrous iron transport protein B	10.4748	0.0010474801366710204
+PF07664	Ferrous iron transport protein B C terminus	10.4748	0.0010474801366710204
+PF07670	Nucleoside recognition	10.4748	0.0010474801366710204
+PF03632	Glycosyl hydrolase family 65 central catalytic domain	10.4735	0.0010473501366540584
+PF03633	Glycosyl hydrolase family 65, C-terminal domain	10.4735	0.0010473501366540584
+PF03636	Glycosyl hydrolase family 65, N-terminal domain	10.4735	0.0010473501366540584
+PF00745	Glutamyl-tRNAGlu reductase, dimerisation domain	10.3824	0.001038240135465422
+PF01488	Shikimate / quinate 5-dehydrogenase	10.3824	0.001038240135465422
+PF05201	Glutamyl-tRNAGlu reductase, N-terminal domain	10.3824	0.001038240135465422
+PF03788	LrgA family	10.3804	0.0010380401354393267
+PF01103	Surface antigen	10.3782	0.001037820135410622
+PF12867	DinB superfamily	10.334	0.001033400134833918
+PF03994	Domain of Unknown Function (DUF350)	10.2976	0.001029760134358985
+PF00282	Pyridoxal-dependent decarboxylase conserved domain	10.2553	0.0010255301338070717
+PF14114	Domain of unknown function (DUF4286)	10.2196	0.0010219601333412722
+PF01799	[2Fe-2S] binding domain	10.1831	0.0010183101328650346
+PF05168	HEPN domain	10.1611	0.0010161101325779876
+PF00183	Hsp90 protein	10.1458	0.0010145801323783593
+PF04973	Nicotinamide mononucleotide transporter	10.1223	0.0010122301320717405
+PF12072	Domain of unknown function (DUF3552)	10.107	0.0010107001318721124
+PF13640	2OG-Fe(II) oxygenase superfamily	10.0352	0.0010035201309352944
+PF01379	Porphobilinogen deaminase, dipyromethane cofactor binding domain	10.0346	0.0010034601309274658
+PF03900	Porphobilinogen deaminase, C-terminal domain	10.0346	0.0010034601309274658
+PF12645	Helix-turn-helix domain	10.0083	0.001000830130584314
+PF01183	Glycosyl hydrolases family 25	10.0062	0.001000620130556914
+PF10263	SprT-like family	9.99508	0.0009995081304118246
+PF02092	Glycyl-tRNA synthetase beta subunit	9.96993	0.0009969931300836774
+PF00108	Thiolase, N-terminal domain	9.969	0.0009969001300715432
+PF01928	CYTH domain	9.96851	0.00099685113006515
+PF08238	Sel1 repeat	9.95433	0.000995433129880135
+PF15738	Bacterial toxin of type II toxin-antitoxin system, YafQ	9.93335	0.0009933351296063963
+PF02163	Peptidase family M50	9.93311	0.0009933111296032647
+PF02606	Tetraacyldisaccharide-1-P 4'-kinase	9.92843	0.0009928431295422022
+PF14498	Glycosyl hydrolase family 65, N-terminal domain	9.89216	0.0009892161290689656
+PF04127	DNA / pantothenate metabolism flavoprotein	9.87794	0.0009877941288834288
+PF11307	Protein of unknown function (DUF3109)	9.84903	0.0009849031285062225
+PF17293	Arm DNA-binding domain	9.83101	0.0009831011282711046
+PF06134	L-rhamnose isomerase (RhaA)	9.82489	0.0009824891281912532
+PF01722	BolA-like protein	9.80782	0.0009807821279685307
+PF03255	Acetyl co-enzyme A carboxylase carboxyltransferase alpha subunit	9.76191	0.0009761911273695154
+PF08713	DNA alkylation repair enzyme	9.75028	0.0009750281272177718
+PF05973	Phage derived protein Gp49-like (DUF891)	9.7239	0.000972390126873576
+PF04413	3-Deoxy-D-manno-octulosonic-acid transferase (kdotransferase)	9.7032	0.0009703201266034907
+PF01796	DUF35 OB-fold domain, acyl-CoA-associated	9.69331	0.0009693311264744499
+PF12172	Rubredoxin-like zinc ribbon domain (DUF35_N)	9.69331	0.0009693311264744499
+PF04232	Stage V sporulation protein S (SpoVS)	9.69203	0.000969203126457749
+PF04172	LrgB-like family	9.63941	0.0009639411257711841
+PF08239	Bacterial SH3 domain	9.61726	0.0009617261254821796
+PF01654	Cytochrome bd terminal oxidase subunit I	9.6122	0.000961220125416159
+PF08712	Scaffold protein Nfu/NifU N terminal	9.60407	0.000960407125310082
+PF12625	Arabinose-binding domain of AraC transcription regulator, N-term	9.57029	0.0009570291248693339
+PF00334	Nucleoside diphosphate kinase	9.56907	0.0009569071248534158
+PF01938	TRAM domain	9.51323	0.0009513231241248377
+PF14281	PD-(D/E)XK nuclease superfamily	9.49051	0.0009490511238283963
+PF14289	Domain of unknown function (DUF4369)	9.45249	0.0009452491233323263
+PF12642	Conjugative transposon protein TcpC	9.45152	0.0009451521233196703
+PF14584	Protein of unknown function (DUF4446)	9.39666	0.0009396661226038788
+PF07977	FabA-like domain	9.37087	0.0009370871222673811
+PF06480	FtsH Extracellular	9.35319	0.0009353191220366994
+PF13127	Protein of unknown function (DUF3955)	9.3316	0.0009331601217550017
+PF01292	Prokaryotic cytochrome b561	9.30621	0.0009306211214237233
+PF06857	Malonate decarboxylase delta subunit (MdcD)	9.30089	0.0009300891213543101
+PF01852	START domain	9.28256	0.0009282561211151474
+PF07997	Protein of unknown function (DUF1694)	9.22252	0.0009222521203317693
+PF11804	Protein of unknown function (DUF3325)	9.20664	0.0009206641201245734
+PF07940	Heparinase II/III-like protein	9.15944	0.0009159441195087266
+PF00990	Diguanylate cyclase, GGDEF domain	9.1207	0.0009120701190032624
+PF02954	Bacterial regulatory protein, Fis family	9.09441	0.0009094411186602411
+PF00395	S-layer homology domain	9.08847	0.0009088471185827382
+PF16868	NMT1-like family	9.06009	0.0009060091182124475
+PF02613	Nitrate reductase delta subunit	9.05957	0.0009059571182056628
+PF00081	Iron/manganese superoxide dismutases, alpha-hairpin domain	9.05625	0.0009056251181623447
+PF02777	Iron/manganese superoxide dismutases, C-terminal domain	9.05625	0.0009056251181623447
+PF11867	Domain of unknown function (DUF3387)	9.0444	0.0009044401180077304
+PF13477	Glycosyl transferase 4-like	9.02404	0.0009024041177420813
+PF01075	Glycosyltransferase family 9 (heptosyltransferase)	8.99904	0.0008999041174158913
+PF02652	L-lactate permease	8.99126	0.0008991261173143811
+PF03572	Peptidase family S41	8.97648	0.0008976481171215375
+PF00174	Oxidoreductase molybdopterin binding domain	8.93763	0.0008937631166146382
+PF05048	Periplasmic copper-binding protein (NosD)	8.93457	0.0008934571165747126
+PF02630	SCO1/SenC	8.92733	0.0008927331164802477
+PF01548	Transposase	8.90778	0.0008907781162251672
+PF01619	Proline dehydrogenase	8.89854	0.0008898541161046074
+PF14833	NAD-binding of NADP-dependent 3-hydroxyisobutyrate dehydrogenase	8.87185	0.0008871851157563669
+PF02129	X-Pro dipeptidyl-peptidase (S15 family)	8.85002	0.0008850021154715378
+PF08530	X-Pro dipeptidyl-peptidase C-terminal non-catalytic domain	8.85002	0.0008850021154715378
+PF14134	Domain of unknown function (DUF4301)	8.84787	0.0008847871154434853
+PF01943	Polysaccharide biosynthesis protein	8.83662	0.0008836621152966998
+PF12850	Calcineurin-like phosphoesterase superfamily domain	8.829	0.0008829001151972772
+PF11457	Protein of unknown function (DUF3021)	8.82714	0.0008827141151730085
+PF17041	E domain	8.8261	0.0008826101151594391
+PF03744	6-carboxyhexanoate--CoA ligase	8.8159	0.0008815901150263534
+PF11734	TilS substrate C-terminal domain	8.80771	0.0008807711149194937
+PF05188	MutS domain II	8.7993	0.0008799301148097634
+PF05190	MutS family domain IV	8.7993	0.0008799301148097634
+PF05192	MutS domain III	8.7993	0.0008799301148097634
+PF02660	Glycerol-3-phosphate acyltransferase	8.77888	0.0008778881145433312
+PF07610	Protein of unknown function (DUF1573)	8.73892	0.0008738921140219492
+PF07578	Lipid A Biosynthesis N-terminal domain	8.73439	0.0008734391139628434
+PF13308	YARHG domain	8.67058	0.000867058113130276
+PF02615	Malate/L-lactate dehydrogenase	8.65228	0.0008652281128915049
+PF03831	PhnA domain	8.64463	0.0008644631127916907
+PF12864	Protein of unknown function (DUF3822)	8.62977	0.0008629771125978034
+PF06619	Protein of unknown function (DUF1149)	8.61733	0.0008617331124354912
+PF07155	ECF-type riboflavin transporter, S component	8.6126	0.0008612601123737762
+PF03779	SPW repeat	8.60946	0.0008609461123328066
+PF10590	Pyridoxine 5'-phosphate oxidase C-terminal dimerisation region	8.60137	0.0008601371122272513
+PF17210	SdrD B-like domain	8.59593	0.0008595931121562724
+PF16110	Domain of unknown function (DUF4828)	8.58467	0.0008584671120093565
+PF13676	TIR domain	8.56495	0.0008564951117520578
+PF02470	MlaD protein	8.54942	0.0008549421115494285
+PF03629	Carbohydrate esterase, sialic acid-specific acetylesterase	8.54401	0.0008544011114788411
+PF02472	Biopolymer transport protein ExbD/TolR	8.54207	0.0008542071114535289
+PF02091	Glycyl-tRNA synthetase alpha subunit	8.53814	0.0008538141114022516
+PF02245	Methylpurine-DNA glycosylase (MPG)	8.52773	0.000852773111266426
+PF01521	Iron-sulphur cluster biosynthesis	8.51218	0.000851218111063536
+PF04191	Phospholipid methyltransferase	8.50341	0.0008503411109491084
+PF07702	UTRA domain	8.5001	0.0008500101109059208
+PF01077	Nitrite and sulphite reductase 4Fe-4S domain	8.49502	0.000849502110839639
+PF00936	BMC domain	8.49472	0.0008494721108357246
+PF07291	Methylamine utilisation protein MauE	8.48963	0.0008489631107693124
+PF02681	Divergent PAP2 family	8.45747	0.0008457471103497017
+PF00839	Cysteine rich repeat	8.45722	0.0008457221103464397
+PF07683	Cobalamin synthesis protein cobW C-terminal domain	8.45294	0.0008452941102905959
+PF06923	Glucitol operon activator protein (GutM)	8.45044	0.0008450441102579769
+PF06778	Chlorite dismutase	8.41238	0.0008412381097613853
+PF13751	Transposase DDE domain	8.40651	0.0008406511096847958
+PF02256	Iron hydrogenase small subunit	8.39439	0.0008394391095266588
+PF01578	Cytochrome C assembly protein	8.3773	0.0008377301093036753
+PF05140	ResB-like family	8.3773	0.0008377301093036753
+PF06808	Tripartite ATP-independent periplasmic transporter, DctM component	8.3713	0.0008371301092253897
+PF10786	Glucose-6-phosphate 1-dehydrogenase (EC 1.1.1.49)	8.35974	0.0008359741090745596
+PF07009	NusG domain II	8.34617	0.0008346171088975035
+PF02229	Transcriptional Coactivator p15 (PC4)	8.33973	0.0008339731088134768
+PF00401	ATP synthase, Delta/Epsilon chain, long alpha-helix domain	8.31275	0.0008312751084614526
+PF08541	3-Oxoacyl-[acyl-carrier-protein (ACP)] synthase III C terminal	8.29993	0.0008299931082941823
+PF08545	3-Oxoacyl-[acyl-carrier-protein (ACP)] synthase III	8.29993	0.0008299931082941823
+PF10397	Adenylosuccinate lyase C-terminus	8.28372	0.0008283721080826809
+PF06855	YozE SAM-like fold	8.24406	0.0008244061075652127
+PF12741	Susd and RagB outer membrane lipoprotein	8.21527	0.0008215271071895724
+PF12852	Cupin	8.20992	0.0008209921071197678
+PF05681	Fumarate hydratase (Fumerase)	8.19243	0.0008192431068915653
+PF08796	Protein of unknown function (DUF1797)	8.17017	0.0008170171066011256
+PF03965	Penicillinase repressor	8.15352	0.000815352106383883
+PF05543	Staphopain peptidase C47	8.1534	0.0008153401063823171
+PF02625	XdhC and CoxI family	8.0964	0.0008096401056386038
+PF03918	Cytochrome C biogenesis protein	8.09391	0.0008093911056061154
+PF04290	Tripartite ATP-independent periplasmic transporters, DctQ component	8.08938	0.0008089381055470098
+PF04342	Putative member of DMT superfamily (DUF486)	8.07934	0.0008079341054160118
+PF00668	Condensation domain	8.06249	0.0008062491051961598
+PF06491	Disulphide isomerase	8.04229	0.0008042291049325983
+PF00925	GTP cyclohydrolase II	8.03936	0.0008039361048943688
+PF02457	DisA bacterial checkpoint controller nucleotide-binding	8.03026	0.0008030261047756356
+PF08125	Mannitol dehydrogenase C-terminal domain	8.0155	0.000801550104583053
+PF06750	Bacterial Peptidase A24 N-terminal domain	8.0065	0.0008006501044656246
+PF01612	3'-5' exonuclease	8.00203	0.0008002031044073017
+PF04002	RadC-like JAB domain	7.99854	0.0007998541043617657
+PF13509	S1 domain	7.99008	0.0007990081042513828
+PF03702	Anhydro-N-acetylmuramic acid kinase	7.98917	0.0007989171042395095
+PF08534	Redoxin	7.98079	0.0007980791041301707
+PF04143	Sulphur transport	7.97102	0.0007971021040026956
+PF13188	PAS domain	7.96489	0.0007964891039227139
+PF00520	Ion transport protein	7.93418	0.0007934181035220218
+PF04314	Copper chaperone PCu(A)C	7.91056	0.0007910561032138377
+PF10091	Putative glucoamylase	7.88928	0.0007889281029361847
+PF00515	Tetratricopeptide repeat	7.85337	0.0007853371024676453
+PF16347	Domain of unknown function (DUF4976)	7.83496	0.0007834961022274388
+PF02498	BRO family, N-terminal domain	7.82229	0.0007822291020621257
+PF14121	Putative porin	7.81892	0.0007818921020181554
+PF01618	MotA/TolQ/ExbB proton channel family	7.81561	0.0007815611019749678
+PF06912	Protein of unknown function (DUF1275)	7.79516	0.0007795161017081444
+PF04961	Formiminotransferase-cyclodeaminase	7.7837	0.0007783701015586188
+PF08676	MutL C terminal dimerisation domain	7.75216	0.0007752161011470974
+PF02417	Chromate transporter	7.73953	0.0007739531009823063
+PF09361	Phasin protein	7.71069	0.0007710691006060134
+PF13530	Sterol carrier protein domain	7.69996	0.0007699961004660127
+PF07766	LETM1-like protein	7.69841	0.0007698411004457889
+PF14060	Domain of unknown function (DUF4252)	7.67143	0.0007671431000937645
+PF00766	Electron transfer flavoprotein FAD-binding domain	7.67111	0.0007671111000895893
+PF07521	Zn-dependent metallo-hydrolase RNA specificity domain	7.64894	0.0007648940998003239
+PF00639	PPIC-type PPIASE domain	7.64336	0.0007643360997275184
+PF00700	Bacterial flagellin C-terminal helical region	7.64322	0.0007643220997256918
+PF04445	Putative SAM-dependent methyltransferase	7.64322	0.0007643220997256918
+PF06528	Phage P2 GpE	7.64322	0.0007643220997256918
+PF07949	YbbR-like protein	7.54405	0.0007544050984317611
+PF07695	7TM diverse intracellular signalling	7.51222	0.0007512220980164559
+PF01699	Sodium/calcium exchanger protein	7.4981	0.0007498100978322237
+PF04286	Protein of unknown function (DUF445)	7.47555	0.0007475550975380004
+PF02805	Metal binding domain of Ada	7.46299	0.0007462990973741224
+PF02702	Osmosensitive K+ channel His kinase sensor domain	7.43157	0.0007431570969641668
+PF11738	Protein of unknown function (DUF3298)	7.39197	0.0007391970964474817
+PF09500	Putative thioesterase (yiiD_Cterm)	7.35981	0.0007359810960278709
+PF13525	Outer membrane lipoprotein	7.35819	0.0007358190960067337
+PF00487	Fatty acid desaturase	7.32956	0.000732956095633181
+PF01081	KDPG and KHG aldolase	7.32857	0.0007328570956202638
+PF08765	Mor transcription activator family	7.32787	0.0007327870956111304
+PF06776	Invasion associated locus B (IalB) protein	7.27467	0.0007274670949169982
+PF01070	FMN-dependent dehydrogenase	7.27374	0.0007273740949048638
+PF05931	Staphylococcal AgrD protein	7.26855	0.0007268550948371468
+PF08363	Glucan-binding protein C	7.24354	0.0007243540945108262
+PF06146	Phosphate-starvation-inducible E	7.22745	0.0007227450943008902
+PF12367	Pyruvate ferredoxin oxidoreductase beta subunit C terminal	7.20277	0.0007202770939788755
+PF03063	Prismane/CO dehydrogenase family	7.19799	0.0007197990939165078
+PF04199	Putative cyclase	7.19772	0.0007197720939129852
+PF02310	B12 binding domain	7.19052	0.0007190520938190424
+PF02607	B12 binding domain	7.19052	0.0007190520938190424
+PF05751	FixH	7.1655	0.0007165500934925913
+PF09323	Domain of unknown function (DUF1980)	7.14586	0.0007145860932363364
+PF01258	Prokaryotic dksA/traR C4-type zinc finger	7.14585	0.000714585093236206
+PF12725	Protein of unknown function (DUF3810)	7.13669	0.0007136690931166899
+PF10396	GTP-binding protein TrmE N-terminus	7.13349	0.0007133490930749377
+PF02668	Taurine catabolism dioxygenase TauD, TfdA family	7.12747	0.0007127470929963911
+PF04018	Domain of unknown function (DUF368)	7.04228	0.0007042280918848658
+PF01008	Initiation factor 2 subunit family	7.03142	0.0007031420917431689
+PF03170	Bacterial cellulose synthase subunit	7.02241	0.0007022410916256099
+PF13670	Peptidase propeptide and YPEB domain	7.01116	0.0007011160914788245
+PF09579	Sporulation protein YtfJ (Spore_YtfJ)	6.99787	0.0006997870913054218
+PF13720	Udp N-acetylglucosamine O-acyltransferase  Domain 2	6.95577	0.0006955770907561177
+PF08904	Domain of unknown function (DUF1849)	6.93321	0.0006933210904617639
+PF14849	YidC periplasmic domain	6.92548	0.000692548090360906
+PF10134	Replication initiator protein A	6.91436	0.0006914360902158166
+PF14525	AraC-binding-like domain	6.90556	0.0006905560901009977
+PF05099	Tellurite resistance protein TerB	6.9035	0.0006903500900741197
+PF00265	Thymidine kinase	6.89568	0.0006895680899720874
+PF11209	Protein of unknown function (DUF2993)	6.86813	0.0006868130896126259
+PF16934	Two-component Enterococcus faecalis cytolysin (EFC)	6.86527	0.0006865270895753098
+PF10079	Bacillithiol biosynthesis BshC	6.85677	0.0006856770894644053
+PF12508	Conjugative transposon, TraM	6.85074	0.0006850740893857281
+PF10977	Protein of unknown function (DUF2797)	6.82415	0.0006824150890387925
+PF14235	Domain of unknown function (DUF4337)	6.82226	0.0006822260890141325
+PF07609	Protein of unknown function (DUF1572)	6.82212	0.0006822120890123058
+PF01520	N-acetylmuramoyl-L-alanine amidase	6.79743	0.0006797430886901606
+PF03880	DbpA RNA binding domain	6.78464	0.0006784640885232816
+PF01396	Topoisomerase DNA binding C4 zinc finger	6.77753	0.0006777530884305133
+PF13852	Protein of unknown function (DUF4197)	6.774	0.0006774000883844552
+PF06966	Protein of unknown function (DUF1295)	6.75359	0.0006753590881181537
+PF09148	Domain of unknown function (DUF1934)	6.74509	0.0006745090880072491
+PF02548	Ketopantoate hydroxymethyltransferase	6.73338	0.0006733380878544617
+PF04237	YjbR	6.71171	0.0006711710875717201
+PF06210	Protein of unknown function (DUF1003)	6.70965	0.000670965087544842
+PF17264	Family of unknown function (DUF5330)	6.69945	0.0006699450874117565
+PF08331	Domain of unknown function (DUF1730)	6.6932	0.000669320087330209
+PF06902	Divergent 4Fe-4S mono-cluster	6.69015	0.0006690150872904137
+PF16308	Domain of unknown function (DUF4950)	6.6728	0.0006672800870640379
+PF08020	Protein of unknown function (DUF1706)	6.66424	0.0006664240869523505
+PF08340	Domain of unknown function (DUF1732)	6.65168	0.0006651680867884725
+PF02798	Glutathione S-transferase, N-terminal domain	6.63266	0.0006632660865403072
+PF05101	Type IV secretory pathway, VirB3-like protein	6.62076	0.0006620760863850407
+PF10852	Protein of unknown function (DUF2651)	6.61395	0.0006613950862961865
+PF13277	YmdB-like protein	6.61127	0.0006611270862612189
+PF06827	Zinc finger found in FPG and IleRS	6.59694	0.0006596940860742469
+PF02556	Preprotein translocase subunit SecB	6.58947	0.0006589470859767813
+PF00175	Oxidoreductase NAD-binding domain	6.57422	0.0006574220857778054
+PF00970	Oxidoreductase FAD-binding domain	6.57422	0.0006574220857778054
+PF13492	GAF domain	6.56207	0.000656207085619277
+PF03055	Retinal pigment epithelial membrane protein	6.55838	0.0006558380855711312
+PF05872	Bacterial protein of unknown function (DUF853)	6.55821	0.0006558210855689132
+PF03321	GH3 auxin-responsive promoter	6.55218	0.0006552180854902361
+PF08751	TrwC relaxase	6.54724	0.000654724085425781
+PF13780	Domain of unknown function (DUF4176)	6.54085	0.0006540850853424067
+PF06081	Aromatic acid exporter family member 1	6.52489	0.0006524890851341671
+PF08334	Type II secretion system (T2SS), protein G	6.50992	0.0006509920849388445
+PF02436	Conserved carboxylase domain	6.50358	0.0006503580848561227
+PF10566	Glycoside hydrolase 97	6.4951	0.000649510084745479
+PF14508	Glycosyl-hydrolase 97 N-terminal	6.4951	0.000649510084745479
+PF14509	Glycosyl-hydrolase 97 C-terminal, oligomerisation	6.4951	0.000649510084745479
+PF07450	Formate hydrogenlyase maturation protein HycH	6.46902	0.0006469020844051977
+PF04303	PrpF protein	6.46286	0.0006462860843248243
+PF07075	Protein of unknown function (DUF1343)	6.45564	0.0006455640842306207
+PF12127	SigmaW regulon antibacterial	6.45048	0.000645048084163295
+PF13577	SnoaL-like domain	6.4402	0.0006440200840291657
+PF04087	Domain of unknown function (DUF389)	6.43548	0.000643548083967581
+PF00984	UDP-glucose/GDP-mannose dehydrogenase family, central domain	6.43467	0.0006434670839570125
+PF03720	UDP-glucose/GDP-mannose dehydrogenase family, UDP binding domain	6.43467	0.0006434670839570125
+PF03721	UDP-glucose/GDP-mannose dehydrogenase family, NAD binding domain	6.43467	0.0006434670839570125
+PF02617	ATP-dependent Clp protease adaptor protein ClpS	6.43366	0.0006433660839438343
+PF08889	WbqC-like protein family	6.43149	0.0006431490839155211
+PF04228	Putative neutral zinc metallopeptidase	6.42306	0.0006423060838055298
+PF00329	Respiratory-chain NADH dehydrogenase, 30 Kd subunit	6.42187	0.0006421870837900032
+PF06059	Domain of Unknown Function (DUF930)	6.36684	0.0006366840830719936
+PF01510	N-acetylmuramoyl-L-alanine amidase	6.36508	0.0006365080830490298
+PF02530	Porin subfamily	6.35125	0.0006351250828685815
+PF02754	Cysteine-rich domain	6.35099	0.0006350990828651892
+PF12838	4Fe-4S dicluster domain	6.28909	0.0006289090820575426
+PF00499	NADH-ubiquinone/plastoquinone oxidoreductase chain 6	6.28393	0.0006283930819902169
+PF13490	Putative zinc-finger	6.28299	0.0006282990819779521
+PF11604	Copper binding periplasmic protein CusF	6.26631	0.0006266310817603181
+PF03592	Terminase small subunit	6.26382	0.0006263820817278297
+PF09115	DNA polymerase III, delta subunit, C terminal	6.25308	0.0006253080815876984
+PF01969	Protein of unknown function DUF111	6.24799	0.0006247990815212861
+PF16658	Class II release factor RF3, C-terminal domain	6.243	0.0006243000814561787
+PF05726	Pirin C-terminal cupin domain	6.24141	0.000624141081435433
+PF11821	Protein of unknown function (DUF3341)	6.24033	0.0006240330814213415
+PF03883	Peroxide stress protein YaaA	6.24012	0.0006240120814186015
+PF12844	Helix-turn-helix domain	6.23345	0.000623345081331574
+PF06612	Protein of unknown function (DUF1146)	6.23019	0.0006230190812890388
+PF09112	Peptide-N-glycosidase F, N terminal	6.21841	0.0006218410811353382
+PF09113	Peptide-N-glycosidase F, C terminal	6.21841	0.0006218410811353382
+PF06545	Protein of unknown function (DUF1116)	6.21577	0.0006215770811008924
+PF14091	Domain of unknown function (DUF4269)	6.20867	0.0006208670810082545
+PF03060	Nitronate monooxygenase	6.18722	0.0006187220807283833
+PF17116	Domain of unknown function (DUF5103)	6.17128	0.0006171280805204046
+PF10119	Predicted methyltransferase regulatory domain	6.16464	0.0006164640804337685
+PF01881	CRISPR associated protein Cas6	6.16066	0.0006160660803818391
+PF14125	Domain of unknown function (DUF4292)	6.15958	0.0006159580803677476
+PF02016	LD-carboxypeptidase N-terminal domain	6.15543	0.0006155430803136
+PF02633	Creatinine amidohydrolase	6.15086	0.0006150860802539726
+PF04238	Protein of unknown function (DUF420)	6.14016	0.0006140160801143632
+PF03625	Domain of unknown function DUF302	6.13634	0.0006136340800645214
+PF16289	PIN domain	6.13419	0.0006134190800364691
+PF05016	ParE toxin of type II toxin-antitoxin system, parDE	6.12763	0.0006127630799508768
+PF03481	Putative GTP-binding controlling metal-binding	6.12721	0.0006127210799453968
+PF08007	Cupin superfamily protein	6.12721	0.0006127210799453968
+PF13406	Transglycosylase SLT domain	6.12408	0.0006124080799045577
+PF09832	Uncharacterized protein conserved in bacteria (DUF2059)	6.11625	0.000611625079802395
+PF02574	Homocysteine S-methyltransferase	6.11123	0.0006111230797368961
+PF03988	Repeat of Unknown Function (DUF347)	6.10775	0.0006107750796914905
+PF05025	RbsD / FucU transport protein family	6.10495	0.0006104950796549571
+PF13247	4Fe-4S dicluster domain	6.09635	0.0006096350795427478
+PF11159	Protein of unknown function (DUF2939)	6.09134	0.0006091340794773792
+PF09674	Protein of unknown function (DUF2400)	6.08682	0.0006086820794184042
+PF11345	Protein of unknown function (DUF3147)	6.07869	0.0006078690793123271
+PF15902	Sortilin, neurotensin receptor 3,	6.07652	0.0006076520792840139
+PF14072	DNA-sulfur modification-associated	6.06944	0.0006069440791916369
+PF00848	Ring hydroxylating alpha subunit (catalytic domain)	6.0632	0.0006063200791102198
+PF00761	Polyomavirus coat protein	6.05989	0.0006059890790670322
+PF00908	dTDP-4-dehydrorhamnose 3,5-epimerase	6.01155	0.0006011550784363112
+PF06925	Monogalactosyldiacylglycerol (MGDG) synthase	6.011	0.000601100078429135
+PF13174	Tetratricopeptide repeat	5.99502	0.0005995020782206343
+PF16067	Domain of unknown function (DUF4809)	5.99395	0.0005993950782066733
+PF08338	Domain of unknown function (DUF1731)	5.97631	0.0005976310779765136
+PF07126	Cell-division protein ZapC	5.96697	0.000596697077854649
+PF02900	Catalytic LigB subunit of aromatic ring-opening dioxygenase	5.95851	0.0005958510777442664
+PF03692	Putative zinc- or iron-chelating domain	5.95204	0.0005952040776598484
+PF11614	IG-like fold at C-terminal of FixG, putative oxidoreductase	5.95051	0.0005950510776398855
+PF12801	4Fe-4S binding domain	5.95051	0.0005950510776398855
+PF13746	4Fe-4S dicluster domain	5.95051	0.0005950510776398855
+PF01936	NYN domain	5.95003	0.0005950030776336227
+PF09844	Uncharacterized conserved protein (COG2071)	5.94563	0.0005945630775762132
+PF16407	PKD-like family	5.94433	0.0005944330775592513
+PF01935	Helicase HerA, central domain	5.9436	0.0005943600775497266
+PF12991	Domain of unknown function, B. Theta Gene description (DUF3875)	5.9436	0.0005943600775497266
+PF13562	Sugar nucleotidyl transferase	5.9377	0.0005937700774727457
+PF10694	Protein of unknown function (DUF2500)	5.93344	0.000593344077417163
+PF11747	Killing trait	5.92972	0.0005929720773686258
+PF16392	Ig-like domain	5.87396	0.0005873960766410916
+PF01371	Trp repressor protein	5.86816	0.0005868160765654155
+PF07180	CaiF/GrlA transcriptional regulator	5.85571	0.0005855710764029728
+PF14794	Domain of unknown function (DUF4479)	5.8439	0.0005843900762488806
+PF04167	Protein of unknown function (DUF402)	5.84298	0.0005842980762368769
+PF02600	Disulfide bond formation protein DsbB	5.82103	0.0005821030759504821
+PF03169	OPT oligopeptide transporter protein	5.81699	0.0005816990758977697
+PF02833	DHHA2 domain	5.81352	0.0005813520758524945
+PF01710	Transposase	5.80928	0.0005809280757971728
+PF10825	Protein of unknown function (DUF2752)	5.77362	0.0005773620753318952
+PF12320	Type 5 capsule protein repressor C-terminal domain	5.75322	0.0005753220750657241
+PF14805	Tetrahydrodipicolinate N-succinyltransferase N-terminal	5.74936	0.0005749360750153604
+PF03892	Nitrate reductase cytochrome c-type subunit (NapB)	5.74833	0.0005748330750019214
+PF13303	Phosphotransferase system, EIIC	5.74469	0.0005744690749544281
+PF14059	Domain of unknown function (DUF4251)	5.74071	0.0005740710749024987
+PF06962	Putative rRNA methylase	5.73619	0.0005736190748435235
+PF11028	Protein of unknown function (DUF2723)	5.72178	0.0005721780746555075
+PF10458	Valyl tRNA synthetase tRNA binding arm	5.71467	0.0005714670745627391
+PF04800	ETC complex I subunit conserved region	5.71454	0.000571454074561043
+PF03193	RsgA GTPase	5.71215	0.0005712150745298592
+PF16745	RsgA N-terminal domain	5.71215	0.0005712150745298592
+PF05737	Collagen binding domain	5.70306	0.0005703060744112565
+PF04556	DpnII restriction endonuclease	5.69762	0.0005697620743402774
+PF01189	16S rRNA methyltransferase RsmB/F	5.69135	0.0005691350742584691
+PF03067	Lytic polysaccharide mono-oxygenase, cellulose-degrading	5.68908	0.000568908074228851
+PF01154	Hydroxymethylglutaryl-coenzyme A synthase N terminal	5.67468	0.0005674680740409655
+PF08540	Hydroxymethylglutaryl-coenzyme A synthase C terminal	5.67468	0.0005674680740409655
+PF06412	Conjugal transfer protein TraD	5.67067	0.0005670670739886446
+PF04185	Phosphoesterase family	5.65957	0.0005659570738438163
+PF11680	Protein of unknown function (DUF3276)	5.65656	0.000565656073804543
+PF12969	Domain of Unknown Function with PDB structure (DUF3857)	5.65516	0.0005655160737862764
+PF00850	Histone deacetylase domain	5.65217	0.000565217073747264
+PF13401	AAA domain	5.64171	0.000564171073610786
+PF14031	Putative serine dehydratase domain	5.64163	0.0005641630736097422
+PF05164	Cell division protein ZapA	5.60732	0.000560732073162079
+PF16125	Domain of unknown function (DUF4837)	5.60713	0.0005607130731595999
+PF01712	Deoxynucleoside kinase	5.60569	0.0005605690731408115
+PF05572	Pregnancy-associated plasma protein-A	5.59704	0.0005597040730279496
+PF03379	CcmB protein	5.59542	0.0005595420730068125
+PF03435	Saccharopine dehydrogenase NADP binding domain	5.59384	0.0005593840729861974
+PF16653	Saccharopine dehydrogenase C-terminal domain	5.59384	0.0005593840729861974
+PF07470	Glycosyl Hydrolase Family 88	5.58583	0.000558583072881686
+PF03942	DTW domain	5.57987	0.0005579870728039223
+PF04039	Domain related to MnhB subunit of Na+/H+ antiporter	5.57438	0.0005574380727322909
+PF04474	Protein of unknown function (DUF554)	5.56768	0.0005567680726448721
+PF13584	Oxygen tolerance	5.55951	0.0005559510725382732
+PF00011	Hsp20/alpha crystallin family	5.55815	0.0005558150725205285
+PF13482	RNase_H superfamily	5.55736	0.0005557360725102208
+PF02491	SHS2 domain inserted in FTSA	5.55732	0.000555732072509699
+PF08860	Domain of unknown function (DUF1827)	5.54469	0.0005544690723449078
+PF05673	Protein of unknown function (DUF815)	5.54335	0.000554335072327424
+PF13417	Glutathione S-transferase, N-terminal domain	5.53642	0.000553642072237004
+PF11240	Protein of unknown function (DUF3042)	5.53278	0.0005532780721895108
+PF13564	DoxX-like family	5.52265	0.0005522650720573385
+PF03596	Cadmium resistance transporter	5.50247	0.000550247071794038
+PF06180	Cobalt chelatase (CbiK)	5.49922	0.0005499220717516333
+PF06338	ComK protein	5.49742	0.0005497420717281476
+PF01497	Periplasmic binding protein	5.48856	0.0005488560716125458
+PF01590	GAF domain	5.48113	0.0005481130715156022
+PF08447	PAS fold	5.48113	0.0005481130715156022
+PF01498	Transposase	5.47616	0.0005476160714507556
+PF13452	N-terminal half of MaoC dehydratase	5.46947	0.0005469470713634671
+PF08660	Oligosaccharide biosynthesis protein Alg14 like	5.46943	0.0005469430713629452
+PF01933	Uncharacterised protein family UPF0052	5.46694	0.0005466940713304566
+PF12040	Domain of unknown function (DUF3526)	5.44848	0.000544848071089598
+PF02508	Rnf-Nqr subunit, membrane protein	5.44694	0.0005446940710695046
+PF04352	ProQ/FINO family	5.44257	0.0005442570710124866
+PF06835	Lipopolysaccharide-assembly, LptC-related	5.44041	0.0005440410709843038
+PF00732	GMC oxidoreductase	5.43888	0.0005438880709643409
+PF01058	NADH ubiquinone oxidoreductase, 20 Kd subunit	5.43654	0.0005436540709338096
+PF14720	NiFe/NiFeSe hydrogenase small subunit C-terminal	5.43654	0.0005436540709338096
+PF07315	Protein of unknown function (DUF1462)	5.42154	0.0005421540707380956
+PF00743	Flavin-binding monooxygenase-like	5.41883	0.0005418830707027366
+PF15283	Domain of unknown function (DUF4595) with porin-like fold	5.41566	0.0005415660706613757
+PF06260	Protein of unknown function (DUF1024)	5.41162	0.0005411620706086633
+PF00255	Glutathione peroxidase	5.40966	0.0005409660705830901
+PF12648	TcpE family	5.39892	0.0005398920704429589
+PF06127	Protein of unknown function (DUF962)	5.39668	0.0005396680704137321
+PF04304	Protein of unknown function (DUF454)	5.37847	0.0005378470701761353
+PF14522	Cytochrome c7 and related cytochrome c	5.37784	0.0005377840701679153
+PF06007	Phosphonate metabolism protein PhnJ	5.37587	0.0005375870701422116
+PF03626	Prokaryotic Cytochrome C oxidase subunit IV	5.37194	0.0005371940700909345
+PF06276	Ferric iron reductase FhuF-like transporter	5.35948	0.0005359480699283613
+PF11575	FhuF 2Fe-2S C-terminal domain	5.35948	0.0005359480699283613
+PF01957	NfeD-like C-terminal, partner-binding	5.34873	0.0005348730697880996
+PF09928	Predicted small integral membrane protein (DUF2160)	5.34826	0.0005348260697819673
+PF14292	SusE outer membrane protein	5.3479	0.0005347900697772702
+PF16411	Outer membrane protein SusF_SusE	5.3479	0.0005347900697772702
+PF06056	Putative ATPase subunit of terminase (gpP-like)	5.34594	0.0005345940697516968
+PF07336	Putative stress-induced transcription regulator	5.33916	0.0005339160696632341
+PF11706	CGNR zinc finger	5.33916	0.0005339160696632341
+PF11772	DNA-directed RNA polymerase subunit beta	5.33376	0.0005333760695927771
+PF04966	Carbohydrate-selective porin, OprB family	5.32927	0.0005329270695341934
+PF01584	CheW-like domain	5.32776	0.0005327760695144914
+PF07310	PAS domain	5.32424	0.0005324240694685639
+PF14063	Protein of unknown function (DUF4254)	5.32354	0.0005323540694594306
+PF03232	Ubiquinone biosynthesis protein COQ7	5.30164	0.0005301640691736881
+PF06568	Domain of unknown function (DUF1127)	5.29566	0.0005295660690956634
+PF02547	Queuosine biosynthesis protein	5.29523	0.000529523069090053
+PF12889	Protein of unknown function (DUF3829)	5.28522	0.0005285220689594465
+PF04284	Protein of unknown function (DUF441)	5.28492	0.0005284920689555321
+PF05651	Putative sugar diacid recognition	5.2844	0.0005284400689487475
+PF06335	Protein of unknown function (DUF1054)	5.269	0.0005269000687478144
+PF00050	Kazal-type serine protease inhibitor domain	5.25976	0.0005259760686272545
+PF01248	Ribosomal protein L7Ae/L30e/S12e/Gadd45 family	5.25916	0.0005259160686194259
+PF06305	Lipopolysaccharide assembly protein A domain	5.25871	0.0005258710686135545
+PF00368	Hydroxymethylglutaryl-coenzyme A reductase	5.23926	0.0005239260683597786
+PF02694	Uncharacterised BCR, YnfA/UPF0060 family	5.23616	0.0005236160683193312
+PF00762	Ferrochelatase	5.23516	0.0005235160683062835
+PF04371	Porphyromonas-type peptidyl-arginine deiminase	5.23168	0.0005231680682608778
+PF04956	TrbC/VIRB2 family	5.23069	0.0005230690682479607
+PF12010	Domain of unknown function (DUF3502)	5.22972	0.0005229720682353046
+PF13932	GidA associated domain	5.22348	0.0005223480681538875
+PF06698	Protein of unknown function (DUF1192)	5.22107	0.0005221070681224428
+PF02577	Bifunctional nuclease	5.20993	0.0005209930679770926
+PF00704	Glycosyl hydrolases family 18	5.20836	0.0005208360679566078
+PF09371	Tex-like protein N-terminal domain	5.20786	0.000520786067950084
+PF05580	SpoIVB peptidase S55	5.20502	0.0005205020679130289
+PF01218	Coproporphyrinogen III oxidase	5.19759	0.0005197590678160851
+PF07697	7TM-HD extracellular	5.19733	0.0005197330678126928
+PF07698	7TM receptor with intracellular HD hydrolase	5.19733	0.0005197330678126928
+PF06831	Formamidopyrimidine-DNA glycosylase H2TH domain	5.19212	0.0005192120677447147
+PF07995	Glucose / Sorbosone dehydrogenase	5.16052	0.0005160520673324105
+PF01343	Peptidase family S49	5.15844	0.0005158440673052714
+PF06803	Protein of unknown function (DUF1232)	5.15753	0.0005157530672933983
+PF00450	Serine carboxypeptidase	5.15332	0.0005153320672384677
+PF02217	Origin of replication binding protein	5.14985	0.0005149850671931926
+PF06431	Polyomavirus large T antigen C-terminus	5.14985	0.0005149850671931926
+PF11750	Protein of unknown function (DUF3307)	5.14694	0.0005146940671552241
+PF13502	AsmA-like C-terminal region	5.14535	0.0005145350671344783
+PF10728	Domain of unknown function (DUF2520)	5.14369	0.0005143690671128194
+PF01253	Translation initiation factor SUI1	5.14207	0.0005142070670916823
+PF02920	DNA binding domain of tn916 integrase	5.13538	0.0005135380670043938
+PF04245	37-kD nucleoid-associated bacterial protein	5.12657	0.0005126570668894444
+PF14014	Protein of unknown function (DUF4230)	5.1071	0.0005107100666354076
+PF11283	Protein of unknown function (DUF3084)	5.10605	0.0005106050666217076
+PF14804	Jag N-terminus	5.08108	0.000508108066295909
+PF01385	Probable transposase	5.07499	0.0005074990662164491
+PF12323	Helix-turn-helix domain	5.07499	0.0005074990662164491
+PF07244	Surface antigen variable number repeat	5.06919	0.000506919066140773
+PF01244	Membrane dipeptidase (Peptidase family M19)	5.06523	0.0005065230660891045
+PF16371	N terminal of Calcineurin-like phosphoesterase	5.06036	0.0005060360660255627
+PF12770	CHAT domain	5.04674	0.0005046740658478543
+PF00885	6,7-dimethyl-8-ribityllumazine synthase	5.04349	0.0005043490658054497
+PF14092	Domain of unknown function (DUF4270)	5.04132	0.0005041320657771364
+PF14109	GldH lipoprotein	5.03849	0.0005038490657402117
+PF08866	Putative amino acid metabolism	5.01801	0.0005018010654729968
+PF02603	HPr Serine kinase N terminus	5.00668	0.0005006680653251675
+PF07475	HPr Serine kinase C-terminal domain	5.00668	0.0005006680653251675
+PF05284	Protein of unknown function (DUF736)	5.00098	0.0005000980652507961
+PF11756	Nitrous oxide-stimulated promoter	5.00098	0.0005000980652507961
+PF01814	Hemerythrin HHE cation binding domain	4.99815	0.0004998150652138713
+PF06838	Methionine gamma-lyase	4.98273	0.0004982730650126773
+PF14715	N-terminal domain of cytochrome oxidase-cbb3, FixP	4.98193	0.0004981930650022392
+PF12158	Protein of unknown function (DUF3592)	4.98082	0.0004980820649877563
+PF16149	Domain of unknown function (DUF4857)	4.98081	0.000498081064987626
+PF01120	Alpha-L-fucosidase	4.95691	0.0004956910646757883
+PF09512	Thiamine-precursor transporter protein (ThiW)	4.947	0.0004947000645464866
+PF00188	Cysteine-rich secretory protein family	4.94629	0.0004946290645372228
+PF06161	Protein of unknown function (DUF975)	4.94557	0.0004945570645278285
+PF03588	Leucyl/phenylalanyl-tRNA protein transferase	4.94274	0.0004942740644909037
+PF12368	Rhodanase C-terminal	4.94263	0.0004942630644894686
+PF04463	Protein of unknown function (DUF523)	4.94205	0.000494205064481901
+PF05235	CHAD domain	4.93411	0.000493411064378303
+PF02570	Precorrin-8X methylmutase	4.93281	0.0004932810643613411
+PF09087	Cyclomaltodextrinase, N-terminal	4.93148	0.0004931480643439877
+PF10438	Cyclo-malto-dextrinase C-terminal domain	4.93148	0.0004931480643439877
+PF03253	Urea transporter	4.92641	0.0004926410642778365
+PF00866	Ring hydroxylating beta subunit	4.91046	0.0004910460640697271
+PF13166	AAA domain	4.89926	0.000489926063923594
+PF03473	MOSC domain	4.88968	0.000488968063798598
+PF02674	Colicin V production protein	4.88473	0.0004884730637340124
+PF14362	Domain of unknown function (DUF4407)	4.88167	0.00048816706369408675
+PF01152	Bacterial-like globin	4.87675	0.0004876750636298925
+PF07811	TadE-like protein	4.87379	0.0004873790635912716
+PF00585	C-terminal regulatory domain of Threonine dehydratase	4.87194	0.00048719406356713364
+PF01345	Domain of unknown function DUF11	4.85966	0.000485966063406909
+PF13573	SprB repeat	4.85966	0.000485966063406909
+PF01068	ATP dependent DNA ligase domain	4.85743	0.00048574306337781283
+PF14743	DNA ligase OB-like domain	4.85743	0.00048574306337781283
+PF04879	Molybdopterin oxidoreductase Fe4S4 domain	4.84605	0.0004846050632293311
+PF14272	Glycine-rich SFCGS	4.8457	0.00048457006322476454
+PF03767	HAD superfamily, subfamily IIIB (Acid phosphatase)	4.84451	0.00048445106320923776
+PF16582	Middle domain of thiamine pyrophosphate	4.84275	0.000484275063186274
+PF04978	Protein of unknown function (DUF664)	4.84222	0.00048422206317935885
+PF06187	Protein of unknown function (DUF993)	4.84066	0.00048406606315900457
+PF03328	HpcH/HpaI aldolase/citrate lyase family	4.83543	0.0004835430630907656
+PF13538	UvrD-like helicase C-terminal domain	4.83483	0.0004834830630829371
+PF02684	Lipid-A-disaccharide synthetase	4.83307	0.0004833070630599733
+PF02742	Iron dependent repressor, metal binding and dimerisation domain	4.82422	0.0004824220629445021
+PF13499	EF-hand domain pair	4.81868	0.00048186806287221827
+PF02550	Acetyl-CoA hydrolase/transferase N-terminal domain	4.80942	0.0004809420627513975
+PF13336	Acetyl-CoA hydrolase/transferase C-terminal domain	4.80942	0.0004809420627513975
+PF00910	RNA helicase	4.80892	0.0004808920627448736
+PF12641	Flavodoxin domain	4.80394	0.00048039406267989663
+PF14307	Glycosyltransferase WbsX	4.80334	0.0004803340626720681
+PF09298	Fumarylacetoacetase N-terminal	4.77657	0.00047765706232278385
+PF03176	MMPL family	4.76961	0.0004769610622319724
+PF04443	Acyl-protein synthetase, LuxE	4.76454	0.0004764540621658211
+PF02706	Chain length determinant protein	4.75616	0.00047561606205648223
+PF13807	G-rich domain on putative tyrosine kinase	4.75616	0.00047561606205648223
+PF06452	Carbohydrate family 9 binding domain-like	4.75523	0.00047552306204434795
+PF02423	Ornithine cyclodeaminase/mu-crystallin family	4.75008	0.00047500806197715276
+PF14079	Domain of unknown function (DUF4260)	4.73753	0.0004737530618134054
+PF12161	HsdM N-terminal domain	4.73572	0.0004735720617897892
+PF06030	Bacterial protein of unknown function (DUF916)	4.73094	0.0004730940617274217
+PF11797	Protein of unknown function C-terminal (DUF3324)	4.73094	0.0004730940617274217
+PF14020	Protein of unknown function (DUF4236)	4.73025	0.00047302506171841886
+PF16736	Single Cache-like	4.72289	0.00047228906162238843
+PF06054	Competence protein CoiA-like family	4.71926	0.00047192606157502574
+PF02037	SAP domain	4.71379	0.0004713790615036554
+PF03460	Nitrite/Sulfite reductase ferredoxin-like half domain	4.7124	0.00047124006148551914
+PF02895	Signal transducing histidine kinase, homodimeric domain	4.71022	0.00047102206145707535
+PF08348	YheO-like PAS domain	4.70913	0.0004709130614428535
+PF13309	HTH domain	4.70913	0.0004709130614428535
+PF07085	DRTGG domain	4.70706	0.000470706061415845
+PF09035	Excisionase from transposon Tn916	4.69797	0.0004697970612972422
+PF10547	P22_AR N-terminal domain	4.69699	0.00046969906128445566
+PF00507	NADH-ubiquinone/plastoquinone oxidoreductase, chain 3	4.69241	0.00046924106122469753
+PF02965	Vitamin B12 dependent methionine synthase, activation domain	4.69236	0.00046923606122404525
+PF06458	MucBP domain	4.68729	0.00046872906115789383
+PF04383	KilA-N domain	4.66775	0.0004667750609029437
+PF06486	Protein of unknown function (DUF1093)	4.66326	0.00046632606084435997
+PF07484	Phage Tail Collar Domain	4.65959	0.0004659590607964752
+PF04468	PSP1 C-terminal conserved region	4.65927	0.0004659270607923001
+PF01012	Electron transfer flavoprotein domain	4.65721	0.00046572106076542204
+PF14684	Tricorn protease C1 domain	4.65721	0.00046572106076542204
+PF14685	Tricorn protease PDZ domain	4.65721	0.00046572106076542204
+PF00887	Acyl CoA binding protein	4.65106	0.00046510606068517923
+PF10400	Virulence activator alpha C-term	4.64416	0.0004644160605951508
+PF02719	Polysaccharide biosynthesis protein	4.62284	0.0004622840603169759
+PF02669	K+-transporting ATPase, c chain	4.62282	0.00046228206031671495
+PF02086	D12 class N6 adenine-specific DNA methyltransferase	4.62252	0.00046225206031280067
+PF00390	Malic enzyme, N-terminal domain	4.61777	0.0004617770602508246
+PF03949	Malic enzyme, NAD binding domain	4.61777	0.0004617770602508246
+PF08942	Domain of unknown function (DUF1919)	4.61126	0.00046112606016588466
+PF17037	Cellulose biosynthesis protein BcsO	4.61019	0.00046101906015192376
+PF10437	Bacterial lipoate protein ligase C-terminus	4.60979	0.00046097906014670476
+PF13331	Domain of unknown function (DUF4093)	4.60688	0.00046068806010873624
+PF06570	Protein of unknown function (DUF1129)	4.60198	0.000460198060044803
+PF01175	Urocanase Rossmann-like domain	4.59813	0.0004598130599945697
+PF17391	Urocanase N-terminal domain	4.59813	0.0004598130599945697
+PF17392	Urocanase C-terminal domain	4.59813	0.0004598130599945697
+PF02743	Cache domain	4.59342	0.0004593420599331155
+PF02322	Cytochrome bd terminal oxidase subunit II	4.58243	0.00045824305978972227
+PF04321	RmlD substrate binding domain	4.58013	0.0004580130597597128
+PF12276	Protein of unknown function (DUF3617)	4.57489	0.0004574890596913434
+PF02628	Cytochrome oxidase assembly protein	4.57199	0.0004571990596535054
+PF00773	RNB domain	4.56795	0.000456795059600793
+PF00258	Flavodoxin	4.54842	0.0004548420593459734
+PF10066	Uncharacterized conserved protein (DUF2304)	4.53876	0.00045387605921993357
+PF03928	Haem-degrading	4.52809	0.0004528090590807156
+PF08840	BAAT / Acyl-CoA thioester hydrolase C terminal	4.52493	0.00045249305903948526
+PF04325	Protein of unknown function (DUF465)	4.52069	0.0004520690589841634
+PF07429	4-alpha-L-fucosyltransferase glycosyl transferase group 56	4.52069	0.0004520690589841634
+PF13464	Domain of unknown function (DUF4115)	4.51331	0.0004513310588878721
+PF04241	Protein of unknown function (DUF423)	4.48933	0.0004489330585749906
+PF13098	Thioredoxin-like domain	4.4891	0.00044891005857198966
+PF02277	Phosphoribosyltransferase	4.48804	0.00044880405855815916
+PF03838	Recombination protein U	4.47997	0.00044799705845286505
+PF13395	HNH endonuclease	4.46635	0.0004466350582751567
+PF16592	REC lobe of CRISPR-associated endonuclease Cas9	4.46635	0.0004466350582751567
+PF16593	Bridge helix of CRISPR-associated endonuclease Cas9	4.46635	0.0004466350582751567
+PF16595	PAM-interacting domain of CRISPR-associated endonuclease Cas9	4.46635	0.0004466350582751567
+PF10996	Beta-Casp domain	4.46075	0.00044607505820209016
+PF16661	Metallo-beta-lactamase superfamily domain	4.46075	0.00044607505820209016
+PF01736	Polyomavirus agnoprotein	4.45916	0.00044591605818134443
+PF00491	Arginase family	4.44655	0.0004446550580168142
+PF11138	Protein of unknown function (DUF2911)	4.44165	0.00044416505795288094
+PF04816	tRNA (adenine(22)-N(1))-methyltransferase	4.44121	0.00044412105794713994
+PF08274	PhnA Zinc-Ribbon	4.43948	0.00044394805792456765
+PF06115	Domain of unknown function (DUF956)	4.42942	0.0004429420577933088
+PF03968	OstA-like protein	4.42137	0.00044213705768827554
+PF05936	Bacterial Type VI secretion, VC_A0110, EvfL, ImpJ, VasE	4.41305	0.00044130505757971955
+PF08858	IDEAL domain	4.41305	0.00044130505757971955
+PF13601	Winged helix DNA-binding domain	4.39005	0.00043900505727962464
+PF07288	Protein of unknown function (DUF1447)	4.38724	0.00043872405724296095
+PF09182	Bacterial purine repressor, N-terminal	4.37969	0.00043796905714445157
+PF01661	Macro domain	4.37537	0.00043753705708808594
+PF10003	Integral membrane protein (DUF2244)	4.35323	0.00043532305679921203
+PF02634	FdhD/NarQ family	4.34849	0.0004348490567373664
+PF11858	Domain of unknown function (DUF3378)	4.34331	0.00043433105666977975
+PF01643	Acyl-ACP thioesterase	4.33887	0.0004338870566118484
+PF02486	Replication initiation factor	4.3387	0.0004338700566096304
+PF04262	Glutamate-cysteine ligase	4.33563	0.0004335630565695742
+PF04277	Oxaloacetate decarboxylase, gamma chain	4.33563	0.0004335630565695742
+PF11276	Protein of unknown function (DUF3078)	4.33451	0.0004334510565549608
+PF09286	Pro-kumamolisin, activation domain	4.33068	0.00043306805650498856
+PF03786	D-mannonate dehydratase (UxuA)	4.33063	0.0004330630565043362
+PF03695	Uncharacterised protein family (UPF0149)	4.33006	0.00043300605649689906
+PF06508	Queuosine biosynthesis protein QueC	4.32509	0.00043250905643205253
+PF00595	PDZ domain	4.31927	0.00043192705635611544
+PF11818	C-terminal domain of tail specific protease (DUF3340)	4.31927	0.00043192705635611544
+PF11066	Protein of unknown function (DUF2867)	4.31598	0.0004315980563131888
+PF06794	Uncharacterised protein family (UPF0270)	4.31042	0.0004310420562406441
+PF11148	Protein of unknown function (DUF2922)	4.31042	0.0004310420562406441
+PF07659	Nucleotide modification associated domain 1	4.30437	0.00043043705616170613
+PF05147	Lanthionine synthetase C-like protein	4.29889	0.0004298890560902053
+PF13575	Domain of unknown function (DUF4135)	4.29889	0.0004298890560902053
+PF05853	beta-keto acid cleavage enzyme	4.29559	0.0004295590560471482
+PF06039	Malate:quinone oxidoreductase (Mqo)	4.28826	0.0004288260559515093
+PF03160	Calx-beta domain	4.28817	0.000428817055950335
+PF00657	GDSL-like Lipase/Acylhydrolase	4.27304	0.0004273040557529247
+PF12156	Putative metal-binding domain of cation transport ATPase	4.26448	0.0004264480556412373
+PF13844	Glycosyl transferase family 41	4.2609	0.0004260900555945269
+PF07007	Lysozyme inhibitor LprI	4.26088	0.000426088055594266
+PF07090	Putative glutamine amidotransferase	4.24411	0.0004244110553754577
+PF04102	SlyX	4.23653	0.00042365305527655684
+PF09360	Iron-binding zinc finger CDGSH type	4.23653	0.00042365305527655684
+PF02347	Glycine cleavage system P-protein	4.23444	0.00042344405524928733
+PF05709	Phage tail protein	4.22714	0.00042271405515403984
+PF09515	Thiamine transporter protein (Thia_YuaJ)	4.2259	0.00042259005513786083
+PF02391	MoaE protein	4.21262	0.0004212620549645887
+PF01340	Met Apo-repressor, MetJ	4.21246	0.0004212460549625011
+PF03069	Acetamidase/Formamidase family	4.2073	0.00042073005489517545
+PF10098	Uncharacterised protein conserved in bacteria (DUF2336)	4.2059	0.00042059005487690877
+PF09936	SAM-dependent RNA methyltransferase	4.19451	0.00041945105472829665
+PF07043	Protein of unknown function (DUF1328)	4.19338	0.00041933805471355286
+PF02753	Pili assembly chaperone PapD, C-terminal domain	4.18866	0.0004188660546519681
+PF04993	TfoX N-terminal domain	4.18866	0.0004188660546519681
+PF13997	YqjK-like protein	4.18866	0.0004188660546519681
+PF04965	Gene 25-like lysozyme	4.18283	0.0004182830545759006
+PF13638	PIN domain	4.1807	0.0004180700545481092
+PF14489	QueF-like protein	4.16513	0.0004165130543449581
+PF05913	Bacterial protein of unknown function (DUF871)	4.16406	0.0004164060543309971
+PF04070	Domain of unknown function (DUF378)	4.14186	0.00041418605404134045
+PF05818	Enterobacterial TraT complement resistance protein	4.14186	0.00041418605404134045
+PF05930	Prophage CP4-57 regulatory protein (AlpA)	4.14186	0.00041418605404134045
+PF13784	Fic/DOC family N-terminal	4.13194	0.00041319405391190817
+PF14903	WG containing repeat	4.1304	0.00041304005389181483
+PF13568	Outer membrane protein beta-barrel domain	4.12495	0.0004124950538207054
+PF03882	MukF winged-helix domain	4.11885	0.0004118850537411151
+PF11324	Protein of unknown function (DUF3126)	4.11885	0.0004118850537411151
+PF04222	Protein of unknown function (DUF416)	4.11631	0.0004116310537079742
+PF09365	Conserved hypothetical protein (DUF2461)	4.10775	0.0004107750535962867
+PF07907	YibE/F-like protein	4.10617	0.0004106170535756714
+PF03441	FAD binding domain of DNA photolyase	4.09921	0.00040992105348486014
+PF00350	Dynamin family	4.09863	0.00040986305347729253
+PF03411	Penicillin-insensitive murein endopeptidase	4.08643	0.0004086430533181118
+PF14349	Motility related/secretion protein	4.08115	0.0004081150532492205
+PF01975	Survival protein SurE	4.08113	0.00040811305324895954
+PF04297	Putative helix-turn-helix protein, YlxM / p13 like	4.07359	0.00040735905315058066
+PF13618	Gluconate 2-dehydrogenase subunit 3	4.0652	0.0004065200530411112
+PF12903	Protein of unknown function (DUF3830)	4.0627	0.00040627005300849226
+PF06415	BPG-independent PGAM N-terminus (iPGM_N)	4.03548	0.00040354805265333644
+PF03977	Na+-transporting oxaloacetate decarboxylase beta subunit	4.02931	0.0004029310525728328
+PF08497	Radical SAM N-terminal	4.02931	0.0004029310525728328
+PF02405	Permease MlaE	4.0147	0.00040147005238220737
+PF02571	Precorrin-6x reductase CbiJ/CobK	4.00626	0.00040062605227208554
+PF08463	EcoEI R protein C-terminal	4.00597	0.00040059705226830165
+PF13588	Type I restriction enzyme R protein N terminus (HSDR_N)	4.00597	0.00040059705226830165
+PF16654	Diaminopimelic acid dehydrogenase C-terminal domain	3.99213	0.00039921305208772296
+PF03472	Autoinducer binding domain	3.99008	0.00039900805206097533
+PF06078	Bacterial protein of unknown function (DUF937)	3.98652	0.0003986520520145259
+PF01011	PQQ enzyme repeat	3.98598	0.00039859805200748014
+PF02733	Dak1 domain	3.98598	0.00039859805200748014
+PF08406	CbbQ/NirQ/NorQ C-terminal	3.98006	0.0003980060519302384
+PF05985	Ethanolamine ammonia-lyase light chain (EutC)	3.97169	0.00039716905182103
+PF01232	Mannitol dehydrogenase Rossmann domain	3.96783	0.00039678305177066626
+PF04266	ASCH domain	3.96467	0.00039646705172943574
+PF06004	Bacterial protein of unknown function (DUF903)	3.96467	0.00039646705172943574
+PF13091	PLD-like domain	3.96128	0.0003961280516852044
+PF11195	Protein of unknown function (DUF2829)	3.96079	0.0003960790516788111
+PF10008	Uncharacterized protein conserved in bacteria (DUF2251)	3.95972	0.0003959720516648502
+PF09976	Tetratricopeptide repeat-like domain	3.93802	0.0003938020513817172
+PF01987	Mitochondrial biogenesis AIM24	3.93578	0.00039357805135249057
+PF03073	TspO/MBR family	3.92853	0.0003928530512578954
+PF05721	Phytanoyl-CoA dioxygenase (PhyH)	3.9282	0.00039282005125358975
+PF04341	Protein of unknown function, DUF485	3.92271	0.00039227105118195844
+PF09866	Uncharacterized protein conserved in bacteria (DUF2093)	3.91523	0.0003915230510843624
+PF06304	Protein of unknown function (DUF1048)	3.90976	0.00039097605101299197
+PF05816	Toxic anion resistance protein (TelA)	3.90442	0.0003904420509433178
+PF02586	SOS response associated peptidase (SRAP)	3.90207	0.0003902070509126559
+PF11565	Alpha helical Porin B	3.89207	0.0003892070507821799
+PF00101	Ribulose bisphosphate carboxylase, small chain	3.88785	0.000388785050727119
+PF04299	Putative FMN-binding domain	3.88186	0.0003881860506489639
+PF03618	Kinase/pyrophosphorylase	3.88178	0.00038817805064792003
+PF09939	Uncharacterized protein conserved in bacteria (DUF2171)	3.88164	0.00038816405064609336
+PF05573	NosL	3.87781	0.0003877810505961211
+PF14356	Domain of unknown function (DUF4403)	3.86577	0.000386577050439028
+PF03480	Bacterial extracellular solute-binding protein, family 7	3.86303	0.0003863030504032776
+PF03404	Mo-co oxidoreductase dimerisation domain	3.85698	0.00038569805032433955
+PF13380	CoA binding domain	3.85656	0.00038565605031885955
+PF07660	Secretin and TonB N terminus short domain	3.84876	0.0003848760502170882
+PF04986	Putative transposase	3.84869	0.0003848690502161749
+PF06170	Protein of unknown function (DUF983)	3.84645	0.0003846450501869483
+PF11390	NADH-dependant formate dehydrogenase delta subunit FdsD	3.84141	0.00038414105012118835
+PF14257	Domain of unknown function (DUF4349)	3.83594	0.000383594050049818
+PF02355	Protein export membrane protein	3.82167	0.00038216704986362873
+PF07549	SecD/SecF GG Motif	3.82167	0.00038216704986362873
+PF02700	Phosphoribosylformylglycinamidine (FGAM) synthase	3.81131	0.00038113104972845556
+PF02894	Oxidoreductase family, C-terminal alpha/beta domain	3.81087	0.0003810870497227146
+PF03611	PTS system sugar-specific permease component	3.80005	0.0003800050495815396
+PF11753	Protein of unknwon function (DUF3310)	3.7778	0.0003777800492912304
+PF16859	Tetracyclin repressor-like, C-terminal domain	3.76341	0.0003763410491034754
+PF12732	YtxH-like protein	3.76136	0.0003761360490767278
+PF03971	Monomeric isocitrate dehydrogenase	3.7491	0.00037491004891676425
+PF04198	Putative sugar-binding domain	3.74584	0.00037458404887422906
+PF04295	D-galactarate dehydratase / Altronate hydrolase, C terminus	3.74323	0.0003743230488401748
+PF10899	Putative abortive phage resistance protein AbiGi, antitoxin	3.74301	0.0003743010488373043
+PF06938	Protein of unknown function (DUF1285)	3.74042	0.00037404204880351103
+PF17191	RecG wedge domain	3.72991	0.00037299104866638075
+PF07167	Poly-beta-hydroxybutyrate polymerase (PhaC) N-terminus	3.71605	0.000371605048485541
+PF07584	Aerotolerance regulator N-terminal	3.71111	0.00037111104842108586
+PF00245	Alkaline phosphatase	3.70696	0.00037069604836693833
+PF13244	Domain of unknown function (DUF4040)	3.69228	0.00036922804817539947
+PF00699	Urease beta subunit	3.68852	0.0003688520481263405
+PF10282	Lactonase, 7-bladed beta-propeller	3.67922	0.00036792204800499784
+PF07606	Protein of unknown function (DUF1569)	3.66438	0.0003664380478113714
+PF03889	Alternative ribosome-rescue factor A	3.65218	0.0003652180476521907
+PF09954	Uncharacterized protein conserved in bacteria (DUF2188)	3.64945	0.0003649450476165707
+PF08919	F-actin binding	3.64823	0.00036482304760065265
+PF00420	NADH-ubiquinone/plastoquinone oxidoreductase chain 4L	3.61655	0.00036165504718730463
+PF01483	Proprotein convertase P-domain	3.60582	0.00036058204704730385
+PF01455	HupF/HypC family	3.58161	0.00035816104673142143
+PF00883	Cytosol aminopeptidase family, catalytic domain	3.57194	0.0003571940466052511
+PF02789	Cytosol aminopeptidase family, N-terminal domain	3.57194	0.0003571940466052511
+PF03479	Plants and Prokaryotes Conserved (PCC) domain	3.57004	0.00035700404658046064
+PF14588	YjgF/chorismate_mutase-like, putative endoribonuclease	3.55584	0.00035558404639518467
+PF03672	Uncharacterised protein family (UPF0154)	3.55358	0.00035535804636569715
+PF03445	Putative nucleotidyltransferase DUF294	3.55354	0.0003553540463651752
+PF10335	Putative nucleotidyltransferase substrate binding domain	3.55354	0.0003553540463651752
+PF06032	Protein of unknown function (DUF917)	3.53993	0.00035399304618759735
+PF03703	Bacterial PH domain	3.53465	0.00035346504611870604
+PF05360	yiaA/B two helix domain	3.53305	0.00035330504609782986
+PF09719	Putative redox-active protein (C_GCAxxG_C_C)	3.50761	0.0003507610457658989
+PF00768	D-alanyl-D-alanine carboxypeptidase	3.48493	0.00034849304546997925
+PF03319	Ethanolamine utilisation protein EutN/carboxysome	3.48146	0.0003481460454247041
+PF09849	Uncharacterized protein conserved in bacteria (DUF2076)	3.48072	0.00034807204541504883
+PF00067	Cytochrome P450	3.48067	0.0003480670454143965
+PF03459	TOBE domain	3.47792	0.00034779204537851554
+PF13400	Putative Flp pilus-assembly TadE/G-like	3.47127	0.000347127045291749
+PF13580	SIS domain	3.46259	0.00034625904517849584
+PF12796	Ankyrin repeats (3 copies)	3.45638	0.0003456380450974702
+PF01988	VIT family	3.44992	0.0003449920450131827
+PF02433	Cytochrome C oxidase, mono-heme subunit/FixO	3.4484	0.00034484004499335037
+PF12787	EcsC protein family	3.44339	0.00034433904492798184
+PF13924	Lipocalin-like domain	3.44041	0.00034404104488910004
+PF10796	Sigma-S stabilisation anti-adaptor protein	3.4344	0.00034344004481068395
+PF04209	homogentisate 1,2-dioxygenase	3.43237	0.0003432370447841973
+PF06961	Protein of unknown function (DUF1294)	3.43237	0.0003432370447841973
+PF02915	Rubrerythrin	3.42534	0.0003425340446924727
+PF04298	Putative neutral zinc metallopeptidase	3.41852	0.000341852044603488
+PF01967	MoaC family	3.41663	0.00034166304457882807
+PF08769	Sporulation initiation factor Spo0A C terminal	3.41656	0.00034165604457791473
+PF10923	P-loop Domain of unknown function (DUF2791)	3.41274	0.0003412740445280729
+PF06719	AraC-type transcriptional regulator N-terminus	3.40925	0.00034092504448253675
+PF13552	Protein of unknown function (DUF4127)	3.39575	0.0003395750443063941
+PF01990	ATP synthase (F/14-kDa) subunit	3.38535	0.00033853504417069905
+PF02308	MgtC family	3.38406	0.00033840604415386765
+PF08450	SMP-30/Gluconolactonase/LRE-like region	3.36563	0.0003365630439134004
+PF14526	Integron-associated effector binding protein	3.35756	0.0003357560438081062
+PF15980	Putative Competence protein ComGF	3.35699	0.00033569904380066905
+PF16387	Domain of unknown function	3.35332	0.0003353320437527844
+PF13567	Domain of unknown function (DUF4131)	3.34714	0.0003347140436721502
+PF04324	BFD-like [2Fe-2S] binding domain	3.33961	0.0003339610435739018
+PF11368	Protein of unknown function (DUF3169)	3.33961	0.0003339610435739018
+PF01980	tRNA-methyltransferase O	3.32847	0.00033284704342855144
+PF11217	Protein of unknown function (DUF3013)	3.3247	0.000332470043379362
+PF13088	BNR repeat-like domain	3.32317	0.0003323170433593992
+PF14873	N-terminal domain of BNR-repeat neuraminidase	3.32317	0.0003323170433593992
+PF07201	HrpJ-like domain	3.30243	0.0003302430430887919
+PF04439	Streptomycin adenylyltransferase	3.29595	0.00032959504300424347
+PF00771	FHIPEP family	3.29508	0.000329508042992892
+PF07537	CamS sex pheromone cAM373 precursor	3.29508	0.000329508042992892
+PF03331	UDP-3-O-acyl N-acetylglycosamine deacetylase	3.27998	0.00032799804279587326
+PF05256	Uncharacterised protein family (UPF0223)	3.26605	0.0003266050426141202
+PF02348	Cytidylyltransferase	3.25544	0.0003255440424756851
+PF00325	Bacterial regulatory proteins, crp family	3.25172	0.00032517204242714804
+PF13404	AsnC-type helix-turn-helix domain	3.24371	0.0003243710423226367
+PF11343	Protein of unknown function (DUF3145)	3.24116	0.00032411604228936537
+PF07369	Protein of unknown function (DUF1488)	3.23752	0.00032375204224187207
+PF15953	Putative propanediol utilisation	3.22369	0.00032236904206142376
+PF03062	MBOAT, membrane-bound O-acyltransferase family	3.22018	0.0003220180420156267
+PF07323	Protein of unknown function (DUF1465)	3.20949	0.0003209490418761478
+PF00353	RTX calcium-binding nonapeptide repeat (4 copies)	3.2061	0.00032061004183191644
+PF00529	HlyD membrane-fusion protein of T1SS	3.19409	0.00031940904167521476
+PF12229	Putative peptidoglycan binding domain	3.18898	0.0003188980416085415
+PF13478	XdhC Rossmann domain	3.18694	0.0003186940415819244
+PF06605	Prophage endopeptidase tail	3.18429	0.0003184290415473482
+PF03090	Replicase family	3.18139	0.0003181390415095102
+PF00127	Copper binding proteins, plastocyanin/azurin family	3.16834	0.000316834041339239
+PF16338	Domain of unknown function (DUF4968)	3.15776	0.0003157760412011954
+PF17137	Domain of unknown function (DUF5110)	3.15776	0.0003157760412011954
+PF02416	mttA/Hcf106 family	3.15486	0.0003154860411633573
+PF15580	Immunity protein 53	3.14149	0.00031414904098891084
+PF04077	DsrH like protein	3.12824	0.00031282404081603015
+PF12823	Domain of unknown function (DUF3817)	3.11764	0.0003117640406777256
+PF08386	TAP-like protein	3.11585	0.00031158504065437035
+PF03573	outer membrane porin, OprD family	3.10206	0.0003102060404744439
+PF06233	Usg-like family	3.10206	0.0003102060404744439
+PF09600	Cyd operon protein YbgE (Cyd_oper_YbgE)	3.10206	0.0003102060404744439
+PF00217	ATP:guanido phosphotransferase, C-terminal catalytic domain	3.09495	0.00030949504038167545
+PF13441	YMGG-like Gly-zipper	3.07648	0.00030764804014068623
+PF00722	Glycosyl hydrolases family 16	3.07313	0.0003073130400969768
+PF03444	Winged helix-turn-helix transcription repressor, HrcA DNA-binding	3.07115	0.00030711504007114253
+PF03808	Glycosyl transferase WecB/TagA/CpsF family	3.06666	0.00030666604001255884
+PF06411	HdeA/HdeB family	3.06361	0.00030636103997276365
+PF04650	YSIRK type signal peptide	3.02991	0.00030299103953305946
+PF09438	Domain of unknown function (DUF2017)	3.01686	0.0003016860393627882
+PF01471	Putative peptidoglycan binding domain	2.98666	0.0002986660389687507
+PF13471	Transglutaminase-like superfamily	2.9696	0.00029696003874615855
+PF02572	ATP:corrinoid adenosyltransferase BtuR/CobO/CobP	2.95701	0.00029570103858188925
+PF06821	Serine hydrolase	2.94496	0.0002944960384246656
+PF09585	Conserved hypothetical protein (Lin0512_fam)	2.93679	0.00029367903831806674
+PF02397	Bacterial sugar transferase	2.92933	0.0002929330382207317
+PF06691	Protein of unknown function (DUF1189)	2.92789	0.0002927890382019431
+PF03358	NADPH-dependent FMN reductase	2.92057	0.00029205703810643465
+PF05221	S-adenosyl-L-homocysteine hydrolase	2.91891	0.00029189103808477564
+PF07694	5TMR of 5TMR-LYT	2.91067	0.0002910670379772634
+PF04066	Multiple resistance and pH regulation protein F (MrpF / PhaF)	2.89038	0.0002890380377125275
+PF09992	Phosphodiester glycosidase	2.85801	0.00028580103729017667
+PF11741	AMIN domain	2.85801	0.00028580103729017667
+PF08770	Sulphur oxidation protein SoxZ	2.8526	0.00028526003721958914
+PF13501	Sulfur oxidation protein SoxY	2.8526	0.00028526003721958914
+PF02278	Polysaccharide lyase family 8, super-sandwich domain	2.84539	0.000284539037125516
+PF02884	Polysaccharide lyase family 8, C-terminal beta-sandwich domain	2.84539	0.000284539037125516
+PF10741	Type II secretion system (T2SS), protein M subtype b	2.83787	0.000283787037027398
+PF02358	Trehalose-phosphatase	2.837	0.0002837000370160466
+PF00080	Copper/zinc superoxide dismutase (SODC)	2.82705	0.00028270503688622293
+PF04794	YdjC-like protein	2.80831	0.0002808310366417109
+PF03390	2-hydroxycarboxylate transporter family	2.79584	0.0002795840364790073
+PF01914	MarC family integral membrane protein	2.79311	0.0002793110364433873
+PF02829	3H domain	2.78636	0.000278636036355316
+PF02675	S-adenosylmethionine decarboxylase	2.73725	0.0002737250357145483
+PF07081	Protein of unknown function (DUF1349)	2.71707	0.0002717070354512477
+PF14870	Photosynthesis system II assembly factor YCF48	2.70405	0.00027040503528136787
+PF13456	Reverse transcriptase-like	2.66288	0.00026628803474419813
+PF00490	Delta-aminolevulinic acid dehydratase	2.62233	0.00026223303421511783
+PF12832	MFS_1 like family	2.57133	0.0002571330335496902
+PF10947	Protein of unknown function (DUF2628)	2.53436	0.0002534360330673203
+PF01083	Cutinase	2.53009	0.00025300903301160707
+PF06971	Putative DNA-binding protein N-terminus	2.48316	0.0002483160323992831
+PF14123	Domain of unknown function (DUF4290)	2.43314	0.00024331403174664205
+PF08818	Domain of unknown function (DU1801)	2.42285	0.00024228503161238227
+PF13735	tRNA nucleotidyltransferase domain 2 putative	2.40331	0.0002403310313574321
+PF16103	Domain of unknown function (DUF4822)	2.38891	0.00023889103116954665
+PF10672	S-adenosylmethionine-dependent methyltransferase	2.37578	0.00023757803099823158
+PF07355	Glycine/sarcosine/betaine reductase selenoprotein B (GRDB)	2.37294	0.00023729403096117642
+PF01512	Respiratory-chain NADH dehydrogenase 51 Kd subunit	2.34481	0.00023448103059414737
+PF10531	SLBB domain	2.34481	0.00023448103059414737
+PF13237	4Fe-4S dicluster domain	2.34481	0.00023448103059414737
+PF13375	RnfC Barrel sandwich hybrid domain	2.34481	0.00023448103059414737
+PF06993	Protein of unknown function (DUF1304)	2.3182	0.0002318200302469507
+PF08830	Protein of unknown function (DUF1806)	2.31539	0.00023153903021028692
+PF14376	Haem-binding domain	2.30399	0.0002303990300615443
+PF01184	GPR1/FUN34/yaaH family	2.28598	0.00022859802982655696
+PF06144	DNA polymerase III, delta subunit	2.26614	0.00022661402956769254
+PF06737	Transglycosylase-like domain	2.25519	0.0002255190294248213
+PF08521	Two-component sensor kinase N-terminal	2.25248	0.00022524802938946232
+PF16069	Domain of unknown function (DUF4811)	2.22833	0.00022283302907436274
+PF14128	Domain of unknown function (DUF4295)	2.22043	0.0002220430289712867
+PF02211	Nitrile hydratase beta subunit	2.21988	0.00022198802896411046
+PF10552	ORF6C domain	2.21946	0.00022194602895863052
+PF12893	Putative lumazine-binding	2.20653	0.00022065302878992497
+PF08388	Group II intron, maturase-specific domain	2.16781	0.00021678102828472185
+PF02698	DUF218 domain	2.15945	0.0002159450281756439
+PF07457	Protein of unknown function (DUF1516)	2.09144	0.0002091440272882765
+PF16270	Lipocalin-like domain (DUF4923)	2.08297	0.0002082970271777633
+PF11687	Domain of unknown function (DUF3284)	2.03652	0.0002036520265717022
+PF13396	Phospholipase_D-nuclease N-terminal	2.00675	0.00020067502618327507
+PF04349	Periplasmic glucan biosynthesis protein, MdoG	1.9792	0.00019792002582381368
+PF00614	Phospholipase D Active site motif	1.95454	0.0001954540255020598
+PF04454	Encapsulating protein for peroxidase	1.93261	0.0001932610252159259
+PF08006	Protein of unknown function (DUF1700)	1.89859	0.00018985902477204646
+PF01149	Formamidopyrimidine-DNA glycosylase N-terminal domain	1.88951	0.00018895102465357427
+PF07105	Protein of unknown function (DUF1367)	1.84886	0.00018488602412318922
+PF06800	Sugar transport protein	1.82574	0.00018257402382152867
+PF01747	ATP-sulfurylase	1.8218	0.00018218002377012115
+PF17080	Multidrug Resistance efflux pump	1.77184	0.00017718402311826294
+PF04074	YhcH/YjgK/YiaL	1.76943	0.00017694302308681823
+PF00043	Glutathione S-transferase, C-terminal domain	1.71413	0.00017141302236528582
+PF03748	Flagellar basal body-associated protein FliL	1.68116	0.0001681160219351064
+PF04461	Protein of unknown function (DUF520)	1.67357	0.0001673570218360751
+PF09926	Uncharacterized small protein (DUF2158)	1.6587	0.00016587002164205727
+PF02738	Molybdopterin-binding domain of aldehyde dehydrogenase	1.64157	0.00016415702141855184
+PF14319	Transposase zinc-binding domain	1.58703	0.00015870302070693563
+PF04260	Protein of unknown function (DUF436)	1.55348	0.00015534802026918857
+PF09860	Uncharacterized protein conserved in bacteria (DUF2087)	1.53912	0.00015391202008182504
+PF01076	Plasmid recombination enzyme	1.29489	0.0001294890168952092
+PF00419	Fimbrial protein	0.583354	0.00005833540761137076

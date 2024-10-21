@@ -1,0 +1,512 @@
+[
+    {
+        "name": "SRR17798746",
+        "url": "/samples/bb228d07-8e89-4fab-a742-81a046438f69",
+        "folder": "Urinary Tract Infection Microbiome - Neugent et al 2022 - PRJNA801448 - KEPLER"
+    },
+    {
+        "name": "SRR17798748",
+        "url": "/samples/13af1a70-0ab2-4518-9609-5e097f79e17a",
+        "folder": "Urinary Tract Infection Microbiome - Neugent et al 2022 - PRJNA801448 - KEPLER"
+    },
+    {
+        "name": "SRR17798724",
+        "url": "/samples/5c3bb0cd-dd15-4903-aaa9-626681a8d910",
+        "folder": "Urinary Tract Infection Microbiome - Neugent et al 2022 - PRJNA801448 - KEPLER"
+    },
+    {
+        "name": "SRR17798752",
+        "url": "/samples/fee7ff24-70ef-4645-a072-28c563170ce5",
+        "folder": "Urinary Tract Infection Microbiome - Neugent et al 2022 - PRJNA801448 - KEPLER"
+    },
+    {
+        "name": "SRR17798713",
+        "url": "/samples/db03f42e-e353-484d-baf5-9efc786496e0",
+        "folder": "Urinary Tract Infection Microbiome - Neugent et al 2022 - PRJNA801448 - KEPLER"
+    },
+    {
+        "name": "SRR17798761",
+        "url": "/samples/8755097f-513a-47fc-8e80-7de463f12ff6",
+        "folder": "Urinary Tract Infection Microbiome - Neugent et al 2022 - PRJNA801448 - KEPLER"
+    },
+    {
+        "name": "SRR17798722",
+        "url": "/samples/3f73535f-eb85-43e1-85e9-1838a845a7f6",
+        "folder": "Urinary Tract Infection Microbiome - Neugent et al 2022 - PRJNA801448 - KEPLER"
+    },
+    {
+        "name": "SRR17798723",
+        "url": "/samples/a4d511e9-a570-4f7a-a632-b8d8d4ef4eef",
+        "folder": "Urinary Tract Infection Microbiome - Neugent et al 2022 - PRJNA801448 - KEPLER"
+    },
+    {
+        "name": "SRR17798736",
+        "url": "/samples/8bb68048-1228-4385-8998-5ff230fceae5",
+        "folder": "Urinary Tract Infection Microbiome - Neugent et al 2022 - PRJNA801448 - KEPLER"
+    },
+    {
+        "name": "SRR17798709",
+        "url": "/samples/c343f857-3519-4529-918b-ebfeda13f665",
+        "folder": "Urinary Tract Infection Microbiome - Neugent et al 2022 - PRJNA801448 - KEPLER"
+    },
+    {
+        "name": "SRR17798727",
+        "url": "/samples/7fa0b0d7-145c-4460-9115-5f02b41df310",
+        "folder": "Urinary Tract Infection Microbiome - Neugent et al 2022 - PRJNA801448 - KEPLER"
+    },
+    {
+        "name": "SRR17798732",
+        "url": "/samples/a701aaed-c0d7-4eb7-8a0e-e3289a56a104",
+        "folder": "Urinary Tract Infection Microbiome - Neugent et al 2022 - PRJNA801448 - KEPLER"
+    },
+    {
+        "name": "SRR17798760",
+        "url": "/samples/c8e00947-c453-4cf9-823e-c6a30576f8b0",
+        "folder": "Urinary Tract Infection Microbiome - Neugent et al 2022 - PRJNA801448 - KEPLER"
+    },
+    {
+        "name": "SRR17798744",
+        "url": "/samples/1d521176-6334-425b-8ad2-f2bd3d8deaba",
+        "folder": "Urinary Tract Infection Microbiome - Neugent et al 2022 - PRJNA801448 - KEPLER"
+    },
+    {
+        "name": "SRR17798741",
+        "url": "/samples/3ba59387-7ece-406c-bcb8-7d484d555e47",
+        "folder": "Urinary Tract Infection Microbiome - Neugent et al 2022 - PRJNA801448 - KEPLER"
+    },
+    {
+        "name": "SRR17798704",
+        "url": "/samples/dc5e2422-d3b5-4ccd-bb05-c55574928345",
+        "folder": "Urinary Tract Infection Microbiome - Neugent et al 2022 - PRJNA801448 - KEPLER"
+    },
+    {
+        "name": "SRR17798702",
+        "url": "/samples/0b00a234-4971-4801-9718-990ed231cf94",
+        "folder": "Urinary Tract Infection Microbiome - Neugent et al 2022 - PRJNA801448 - KEPLER"
+    },
+    {
+        "name": "SRR17798731",
+        "url": "/samples/c86413ab-f5eb-47a3-94a8-c02eb56bcbf7",
+        "folder": "Urinary Tract Infection Microbiome - Neugent et al 2022 - PRJNA801448 - KEPLER"
+    },
+    {
+        "name": "SRR17798759",
+        "url": "/samples/19a62107-f9fe-4622-92b3-25b97da67c15",
+        "folder": "Urinary Tract Infection Microbiome - Neugent et al 2022 - PRJNA801448 - KEPLER"
+    },
+    {
+        "name": "SRR17798707",
+        "url": "/samples/14f34828-aaa1-4609-9fc9-8203b951b26a",
+        "folder": "Urinary Tract Infection Microbiome - Neugent et al 2022 - PRJNA801448 - KEPLER"
+    },
+    {
+        "name": "SRR17798719",
+        "url": "/samples/191df5cb-528a-44f5-8d3e-1bc77fb234a3",
+        "folder": "Urinary Tract Infection Microbiome - Neugent et al 2022 - PRJNA801448 - KEPLER"
+    },
+    {
+        "name": "SRR17798728",
+        "url": "/samples/c11e3692-c371-4ecc-8123-7124c0214e5a",
+        "folder": "Urinary Tract Infection Microbiome - Neugent et al 2022 - PRJNA801448 - KEPLER"
+    },
+    {
+        "name": "SRR17798721",
+        "url": "/samples/21189f31-aa11-410a-8147-280563d39a93",
+        "folder": "Urinary Tract Infection Microbiome - Neugent et al 2022 - PRJNA801448 - KEPLER"
+    },
+    {
+        "name": "SRR17798706",
+        "url": "/samples/92c1429a-fdfb-41b0-a7e3-5223b57d8f3d",
+        "folder": "Urinary Tract Infection Microbiome - Neugent et al 2022 - PRJNA801448 - KEPLER"
+    },
+    {
+        "name": "SRR17798712",
+        "url": "/samples/b1b1bc32-689a-4714-a743-b27ab137656f",
+        "folder": "Urinary Tract Infection Microbiome - Neugent et al 2022 - PRJNA801448 - KEPLER"
+    },
+    {
+        "name": "SRR17798710",
+        "url": "/samples/16f7fc7b-d557-4b18-b146-6eb2d9611ece",
+        "folder": "Urinary Tract Infection Microbiome - Neugent et al 2022 - PRJNA801448 - KEPLER"
+    },
+    {
+        "name": "SRR17798742",
+        "url": "/samples/eb3d23f9-24d9-4d82-ba52-db5fb3904b04",
+        "folder": "Urinary Tract Infection Microbiome - Neugent et al 2022 - PRJNA801448 - KEPLER"
+    },
+    {
+        "name": "SRR17798739",
+        "url": "/samples/58a4ec0a-066c-42a3-b4f9-28031d4a4237",
+        "folder": "Urinary Tract Infection Microbiome - Neugent et al 2022 - PRJNA801448 - KEPLER"
+    },
+    {
+        "name": "SRR17798753",
+        "url": "/samples/326008aa-2ceb-4d96-933f-1d5809368772",
+        "folder": "Urinary Tract Infection Microbiome - Neugent et al 2022 - PRJNA801448 - KEPLER"
+    },
+    {
+        "name": "SRR17798768",
+        "url": "/samples/9e6425cc-6c21-4cd7-adfb-29a0a44a8362",
+        "folder": "Urinary Tract Infection Microbiome - Neugent et al 2022 - PRJNA801448 - KEPLER"
+    },
+    {
+        "name": "SRR17798757",
+        "url": "/samples/6e5801e5-4adc-42b0-bcaa-b82137c7b7d9",
+        "folder": "Urinary Tract Infection Microbiome - Neugent et al 2022 - PRJNA801448 - KEPLER"
+    },
+    {
+        "name": "SRR17798715",
+        "url": "/samples/971c475f-d13f-4096-8184-d84224f89d96",
+        "folder": "Urinary Tract Infection Microbiome - Neugent et al 2022 - PRJNA801448 - KEPLER"
+    },
+    {
+        "name": "SRR2005421_11_1_R-elb_0_30",
+        "url": "/samples/f873a3d7-71d1-4e60-9f53-849a2178b080",
+        "folder": "R-elb"
+    },
+    {
+        "name": "SRR2005669_15_0_R-elb_1_30",
+        "url": "/samples/22ffdf2c-0474-411e-9f99-e09c75440fa2",
+        "folder": "R-elb"
+    },
+    {
+        "name": "SRR2005673_16_0_R-elb_0_20",
+        "url": "/samples/5770e532-84f6-4099-8ff0-87afb5b0180f",
+        "folder": "R-elb"
+    },
+    {
+        "name": "SRR2005538_4_1_R-elb_0_50",
+        "url": "/samples/ab5e87bd-3e0e-4a01-afc2-b5d7060d07fb",
+        "folder": "R-elb"
+    },
+    {
+        "name": "SRR2005713_19_1_R-elb_0_5",
+        "url": "/samples/7856aa9c-ccea-4a98-b759-b5dce9caaea1",
+        "folder": "R-elb"
+    },
+    {
+        "name": "SRR2005638_5_1_R-elb_0_39",
+        "url": "/samples/89015672-4108-4593-9a38-57da103bbafb",
+        "folder": "R-elb"
+    },
+    {
+        "name": "SRR2005707_18_1_R-elb_0_42",
+        "url": "/samples/1f964fc8-df82-48e0-8e5c-7484e5291a23",
+        "folder": "R-elb"
+    },
+    {
+        "name": "SRR2005725_3_1_R-elb_1_41",
+        "url": "/samples/be609807-8f95-42a4-bbd7-9445c57840e4",
+        "folder": "R-elb"
+    },
+    {
+        "name": "SRR2005373_1_1_R-elb_0_50",
+        "url": "/samples/ef5335c1-41e6-4389-b553-2252fea86ed2",
+        "folder": "R-elb"
+    },
+    {
+        "name": "SRR2005647_7_1_R-elb_0_56",
+        "url": "/samples/69805154-35b7-423c-a084-082e2d7d8e55",
+        "folder": "R-elb"
+    },
+    {
+        "name": "SRR2005643_6_0_R-elb_0_33",
+        "url": "/samples/3693d42e-723d-4301-ae34-8e765bd5a941",
+        "folder": "R-elb"
+    },
+    {
+        "name": "SRR2005660_10_1_R-elb_0_40",
+        "url": "/samples/0cfdc082-c8e0-498f-9cfe-ed9c2e61bd6c",
+        "folder": "R-elb"
+    },
+    {
+        "name": "SRR2005721_21_0_R-elb_0_20",
+        "url": "/samples/c0d96834-b142-4a8d-b239-35c620975562",
+        "folder": "R-elb"
+    },
+    {
+        "name": "SRR2005656_9_1_R-elb_1_70",
+        "url": "/samples/d34c47fa-15ec-4d12-b069-962a504f752d",
+        "folder": "R-elb"
+    },
+    {
+        "name": "SRR2005697_17_1_R-elb_0_18",
+        "url": "/samples/54e41f0e-da56-49f2-be5a-808d659d811c",
+        "folder": "R-elb"
+    },
+    {
+        "name": "SRR2005663_13_0_R-elb_0_40",
+        "url": "/samples/a94b1c2d-7d23-47a6-ac4f-d8c84b23aa28",
+        "folder": "R-elb"
+    },
+    {
+        "name": "SRR2005650_8_1_R-elb_0_30",
+        "url": "/samples/3b2698b8-d13f-4c55-8b06-bad9b57e2bd6",
+        "folder": "R-elb"
+    },
+    {
+        "name": "SRR2005717_20_1_R-elb_0_35",
+        "url": "/samples/688dc4eb-9bfe-47e9-a3b9-2e49efc71028",
+        "folder": "R-elb"
+    },
+    {
+        "name": "SRR2005376_1_0_R-ear_0_50",
+        "url": "/samples/a69e2090-ee7b-4af8-b5ae-abd961150e1b",
+        "folder": "R-ear"
+    },
+    {
+        "name": "SRR2005658_10_0_R-ear_0_40",
+        "url": "/samples/3c6d4f95-daa1-4922-990e-cb1d458b2eb0",
+        "folder": "R-ear"
+    },
+    {
+        "name": "SRR2005652_2_0_R-ear_0_20",
+        "url": "/samples/e50408f0-636f-4b94-a753-28dce66beba1",
+        "folder": "R-ear"
+    },
+    {
+        "name": "SRR2005715_20_0_R-ear_0_35",
+        "url": "/samples/bd321977-21b3-467e-b663-38f8c3ca286d",
+        "folder": "R-ear"
+    },
+    {
+        "name": "SRR2005380_11_0_R-ear_0_30",
+        "url": "/samples/e8df10de-d868-4584-ac1e-807060e8981a",
+        "folder": "R-ear"
+    },
+    {
+        "name": "SRR2005676_17_0_R-ear_0_18",
+        "url": "/samples/64a26601-39f6-46e8-818d-b6b5cd0ab41f",
+        "folder": "R-ear"
+    },
+    {
+        "name": "SRR2005722_22_1_R-ear_0_45",
+        "url": "/samples/c494767b-c02b-4c75-8439-a550282f1f97",
+        "folder": "R-ear"
+    },
+    {
+        "name": "SRR2005636_5_0_R-ear_0_39",
+        "url": "/samples/25877f8b-6ba2-4bc5-9a2b-407265370d74",
+        "folder": "R-ear"
+    },
+    {
+        "name": "SRR2005654_9_0_R-ear_1_70",
+        "url": "/samples/7cf4e792-e95e-4214-a5e4-2f5b3faf1392",
+        "folder": "R-ear"
+    },
+    {
+        "name": "SRR2005455_4_0_R-ear_0_50",
+        "url": "/samples/c740c982-8a68-4ae9-a2d7-394385057951",
+        "folder": "R-ear"
+    },
+    {
+        "name": "SRR2005666_15_1_R-ear_1_30",
+        "url": "/samples/ad4a532d-07e5-446c-ba4e-e89793446cbb",
+        "folder": "R-ear"
+    },
+    {
+        "name": "SRR2005645_7_0_R-ear_0_56",
+        "url": "/samples/0ede9e4c-cdf3-48cc-8f9d-5c2af9472a07",
+        "folder": "R-ear"
+    },
+    {
+        "name": "SRR2005710_19_0_R-ear_0_5",
+        "url": "/samples/290a1ab4-390a-4dba-82c8-2d2752c5b162",
+        "folder": "R-ear"
+    },
+    {
+        "name": "SRR2005719_21_0_R-ear_0_20",
+        "url": "/samples/24bbc0bc-112a-4768-83d0-1079fc428af0",
+        "folder": "R-ear"
+    },
+    {
+        "name": "SRR2005718_3_0_R-ear_1_41",
+        "url": "/samples/68f7dae2-1560-46aa-be5f-f6fd551d56d6",
+        "folder": "R-ear"
+    },
+    {
+        "name": "SRR2005640_6_0_R-ear_0_33",
+        "url": "/samples/97201ffc-cc33-417c-8b69-13952a5c6638",
+        "folder": "R-ear"
+    },
+    {
+        "name": "SRR2005649_8_1_R-ear_0_30",
+        "url": "/samples/91afd07f-77c6-4a8b-a61f-230250b47607",
+        "folder": "R-ear"
+    },
+    {
+        "name": "SRR2005671_16_0_R-ear_0_20",
+        "url": "/samples/fb0aa086-65ae-40ed-8bc8-545858f8d907",
+        "folder": "R-ear"
+    },
+    {
+        "name": "SRR2005704_18_0_R-ear_0_42",
+        "url": "/samples/38580129-ee84-4257-96da-e53a2b610939",
+        "folder": "R-ear"
+    },
+    {
+        "name": "SRR2005639_6_1_L-ear_0_33",
+        "url": "/samples/03916bbc-20e7-4941-8ab8-e8581942119a",
+        "folder": "L-ear"
+    },
+    {
+        "name": "SRR2005698_18_0_L-ear_0_42",
+        "url": "/samples/c505d984-1a7b-403f-bab1-4b705ee3f5e0",
+        "folder": "L-ear"
+    },
+    {
+        "name": "SRR2005644_7_0_L-ear_0_56",
+        "url": "/samples/d76ffcf2-eb03-4e4a-97bc-0d12541d0f37",
+        "folder": "L-ear"
+    },
+    {
+        "name": "SRR2005709_19_0_L-ear_0_5",
+        "url": "/samples/5b64bbfe-2598-45ae-8d20-7d789880994f",
+        "folder": "L-ear"
+    },
+    {
+        "name": "SRR2005706_3_0_L-ear_1_41",
+        "url": "/samples/462a4fef-282a-4f60-bebe-8cd8d86b1984",
+        "folder": "L-ear"
+    },
+    {
+        "name": "SRR2005714_20_1_L-ear_0_35",
+        "url": "/samples/b2102bf6-4acc-4dda-a121-520f3c1b92f3",
+        "folder": "L-ear"
+    },
+    {
+        "name": "SRR2005670_16_1_L-ear_0_20",
+        "url": "/samples/3cbf2712-d420-44c0-aa19-df1a05ecc87d",
+        "folder": "L-ear"
+    },
+    {
+        "name": "SRR2005369_2_0_L-ear_0_20",
+        "url": "/samples/f6f950a0-66ed-43d8-bb5a-e800de718774",
+        "folder": "L-ear"
+    },
+    {
+        "name": "SRR2005674_17_1_L-ear_0_18",
+        "url": "/samples/7d0f9d98-e6bd-468b-bf81-9722a27d1858",
+        "folder": "L-ear"
+    },
+    {
+        "name": "SRR2005727_4_0_L-ear_0_50",
+        "url": "/samples/102731c7-b6e3-4bf8-aa1f-31b4ba99d9ce",
+        "folder": "L-ear"
+    },
+    {
+        "name": "SRR2005648_8_1_L-ear_0_30",
+        "url": "/samples/e9889f75-7250-41c1-848c-ec5ddbb5c18e",
+        "folder": "L-ear"
+    },
+    {
+        "name": "SRR2005651_9_0_L-ear_1_70",
+        "url": "/samples/38a9b548-283c-4d21-a54a-30c7bb0be2de",
+        "folder": "L-ear"
+    },
+    {
+        "name": "SRR2005378_1_0_L-ear_0_50",
+        "url": "/samples/6bc89ef9-74c1-4cf2-b9dd-ab17643f463b",
+        "folder": "L-ear"
+    },
+    {
+        "name": "SRR2005657_10_0_L-ear_0_40",
+        "url": "/samples/e71e19ec-cde8-4bb5-8618-d95ad1a0f6df",
+        "folder": "L-ear"
+    },
+    {
+        "name": "SRR2005379_11_0_L-ear_0_30",
+        "url": "/samples/18df918e-8161-4e9f-8def-3410956b2a9b",
+        "folder": "L-ear"
+    },
+    {
+        "name": "SRR2005665_15_1_L-ear_1_30",
+        "url": "/samples/b263729e-e7ab-447a-97a0-b578f1313a73",
+        "folder": "L-ear"
+    },
+    {
+        "name": "SRR2005635_5_0_L-ear_0_39",
+        "url": "/samples/4e95b675-842e-4f60-b3c3-529767a7e31e",
+        "folder": "L-ear"
+    },
+    {
+        "name": "SRR2005723_22_0_L-elb_0_45",
+        "url": "/samples/dd4a3840-a3f9-479a-8ca0-35633f053915",
+        "folder": "L-elb"
+    },
+    {
+        "name": "SRR2005712_19_1_L-elb_0_5",
+        "url": "/samples/1fecb94d-6a22-4eaf-beba-8a28c4637eb2",
+        "folder": "L-elb"
+    },
+    {
+        "name": "SRR2005381_11_1_L-elb_0_30",
+        "url": "/samples/4e973061-a583-428e-8d3e-d9b1f4d345e5",
+        "folder": "L-elb"
+    },
+    {
+        "name": "SRR2005646_7_1_L-elb_0_56",
+        "url": "/samples/3b444857-4955-43fb-8eb5-968c62eb5770",
+        "folder": "L-elb"
+    },
+    {
+        "name": "SRR2005655_9_1_L-elb_1_70",
+        "url": "/samples/3c2e6648-c3bc-48fc-9674-d1fde992eaa3",
+        "folder": "L-elb"
+    },
+    {
+        "name": "SRR2005664_14_1_L-elb_0_30",
+        "url": "/samples/cdee3ad7-68f7-4f05-8d31-4d315801747c",
+        "folder": "L-elb"
+    },
+    {
+        "name": "SRR2005724_3_1_L-elb_1_41",
+        "url": "/samples/afb0016e-bcde-405e-8ddd-f0a43cbbdd8e",
+        "folder": "L-elb"
+    },
+    {
+        "name": "SRR2005678_17_0_L-elb_0_18",
+        "url": "/samples/ca15d82e-322f-4eff-8647-e13c1882f858",
+        "folder": "L-elb"
+    },
+    {
+        "name": "SRR2005642_6_1_L-elb_0_33",
+        "url": "/samples/e99ee3eb-1fe3-465e-92e8-dfe54156b909",
+        "folder": "L-elb"
+    },
+    {
+        "name": "SRR2005662_2_1_L-elb_0_20",
+        "url": "/samples/426d59e0-4da3-4028-a50d-73d709ce5ffc",
+        "folder": "L-elb"
+    },
+    {
+        "name": "SRR2005637_5_1_L-elb_0_39",
+        "url": "/samples/314e07a9-f8fe-4da8-bee5-1fe5f2b44498",
+        "folder": "L-elb"
+    },
+    {
+        "name": "SRR2005720_21_1_L-elb_0_20",
+        "url": "/samples/e503c2ab-d4b7-4db5-84bc-461064666a53",
+        "folder": "L-elb"
+    },
+    {
+        "name": "SRR2005374_1_1_L-elb_0_50",
+        "url": "/samples/05c55964-bb59-448d-91aa-dd2577aa82e5",
+        "folder": "L-elb"
+    },
+    {
+        "name": "SRR2005661_13_1_L-elb_0_40",
+        "url": "/samples/cb8f72be-0c2b-4b2f-9eaf-fd613d6780e0",
+        "folder": "L-elb"
+    },
+    {
+        "name": "SRR2005667_15_1_L-elb_1_30",
+        "url": "/samples/7fd9f39e-80d1-484b-8c3a-aa2e924b742d",
+        "folder": "L-elb"
+    },
+    {
+        "name": "SRR2005672_16_1_L-elb_0_20",
+        "url": "/samples/60eeb083-6365-4594-968f-84bdcc503167",
+        "folder": "L-elb"
+    }
+]
