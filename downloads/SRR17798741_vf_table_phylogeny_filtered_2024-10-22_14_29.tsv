@@ -1,0 +1,77 @@
+Name	Accession ID	Class	Abundance Score	Relative Abundance	% Unique Matches	% Total Matches	Unique Matches Frequency
+Proteus mirabilis GENE tnpA		-	19179014.88	37.632	1	1	179007
+Salmonella Typhimurium GENE tetA		-	9434645.83	18.512	0.990769	0.990769	1213212
+Salmonella Typhimurium GI 46019645		-	8986436.77	17.633	0.965217	0.965217	1225664
+Klebsiella pneumoniae GENE tnp		-	4442108.59	8.716	1	1	373705
+Staphylococcus aureus GENE AACA-APHD		-	1359625.56	2.6679999999999997	1	1	337906
+Escherichia coli GENE lpfA		-	1324938.48	2.6	0.533333	0.533333	332053
+Escherichia coli GeneID ECK0577		-	1288199.8	2.528	1	1	3747
+Staphylococcus aureus GI 33390945		-	1101129.47	2.161	1	1	39242
+Escherichia coli GENE lacY		-	791271.03	1.553	0.52381	0.52381	52301
+Escherichia coli GENE ompA		-	535224	1.05	0.40339	0.40339	79265
+Escherichia coli GENE aphA7		-	442373.66	0.868	0.95	0.95	71000
+Enterococcus faecium GENE ermB		-	168821	0.331	1	1	31465
+Enterococcus faecium GENE aadE		-	166724.46	0.327	1	1	31256
+Enterococcus faecium GENE sat4		-	141393.63	0.27699999999999997	1	1	13602
+Enterococcus faecium GI 21886752		-	127409.7	0.25	1	1	23013
+Enterococcus faecium GI 21886746		-	105343.26	0.207	1	1	4011
+Staphylococcus aureus GI 33390919		-	97632.01	0.192	0.944724	0.964286	9705
+Enterococcus faecium GI 21886747		-	94369.63	0.185	0.814815	0.814815	1955
+Enterococcus hirae GENE ermB		-	73391.89	0.14400000000000002	1	1	251
+Enterococcus faecium GI 21886745		-	68842.2	0.135	1	1	834
+Parabacteroides distasonis GI 32395282		-	59448.92	0.117	0.826087	0.826087	3660
+Bacteroides fragilis GENE tetQ		-	57710.75	0.11299999999999999	1	1	20756
+Staphylococcus aureus GI 33390948		-	54615.49	0.107	0.729282	0.831034	3336
+Bacteroides vulgatus GI 33413459		-	53052.16	0.104	1	1	3311
+Parabacteroides distasonis GI 32395281		-	50907.17	0.1	1	1	924
+Enterococcus faecalis GI 48190		-	51211.3	0.1	0.40412	0.40412	18056
+Enterococcus faecium GI 21886751		-	45300.37	0.089	0.943089	0.943089	9211
+Enterobacter GENE cad		-	32376.01	0.064	0.778135	0.778135	10575
+Enterobacter GENE cCF10		-	28464.92	0.055999999999999994	0.845842	0.845842	7412
+Enterobacter GENE SrtA		-	26786.61	0.053	0.803838	0.803838	6725
+Staphylococcus lentus GENE tetK		-	27134.53	0.053	1	1	8688
+Enterobacter GENE tpx		-	24598.27	0.048	0.783172	0.783172	4320
+Enterobacter GENE ElrA		-	24040.48	0.047	0.799056	0.799056	16090
+Staphylococcus lentus GENE pre		-	23703.7	0.047	1	1	5751
+Staphylococcus lentus GENE repL		-	21874.34	0.043	1	1	2625
+Enterobacter GENE ebpC		-	19737.72	0.039	0.88087	0.82185	11279
+Enterobacter GENE espfs		-	19852.19	0.039	0.871128	0.877667	13212
+Enterobacter GENE ebpA		-	20024.16	0.039	0.846119	0.846119	17576
+Staphylococcus lentus GENE repC		-	19830.02	0.039	1	1	4138
+Enterococcus faecalis GeneID EF0954		-	19793.46	0.039	0.871287	0.871287	4121
+Enterobacter GENE efaAfs		-	18506.6	0.036000000000000004	0.445498	0.76783	1136
+Staphylococcus lentus GENE ermC		-	18271.24	0.036000000000000004	1	1	3019
+Enterobacter GENE cOB1		-	17321.91	0.034	0.862442	0.862442	5211
+Enterobacter GENE hylA		-	15941.17	0.031	0.728758	0.757639	9664
+Staphylococcus aureus GENE blaI		-	15660.37	0.031	0.920635	0.920635	1629
+Enterobacter GENE camE		-	14689.94	0.029	0.770588	0.770588	2614
+Staphylococcus aureus GENE blaZ		-	14784.7	0.029	0.954644	0.954644	3056
+Bacteroides fragilis GENE rteA		-	13703.9	0.027	0.57842	0.57842	6012
+Staphylococcus aureus GENE blaR1		-	12676.27	0.025	0.913774	0.913774	4245
+Enterococcus faecalis GENE mobB		-	11525.85	0.023	1	1	2386
+Enterobacter GENE ebpB		-	11269.63	0.022000000000000002	0.672414	0.736473	632
+Enterobacter GENE gelE		-	10608.53	0.021	0.4642	0.584444	2413
+Staphylococcus aureus GENE traF		-	10563.8	0.021	0.985455	0.985455	2011
+Enterobacter GENE hylB		-	10235.62	0.02	0.598529	0.635283	5184
+Staphylococcus aureus GENE thyA		-	10058.51	0.02	0.885496	0.885496	1982
+Enterococcus faecalis GENE repB		-	9735.15	0.019	0.939891	0.939891	1354
+Enterococcus faecalis GeneID EF1817		-	9685.33	0.019	0.75	0.75	1613
+Bacteroides fragilis GENE exc		-	9497.49	0.019	0.750336	0.750336	2730
+Enterococcus faecalis GENE ace		-	8951.07	0.018000000000000002	0.487665	0.487665	8183
+Staphylococcus aureus GENE traC		-	8775.28	0.017	1	1	702
+Staphylococcus aureus GENE traK		-	8527.29	0.017	0.966346	0.966346	1458
+Enterococcus faecalis GENE fsrC		-	8447.83	0.017	0.721184	0.721184	2083
+Staphylococcus aureus GENE traA		-	8183.97	0.016	0.970414	0.970414	1148
+Staphylococcus aureus GENE repA		-	7805.54	0.015	0.857447	0.857447	1188
+Staphylococcus aureus GENE traD		-	7432.09	0.015	0.97931	0.97931	633
+Staphylococcus aureus GENE topB		-	7341.07	0.013999999999999999	0.777376	0.777376	2163
+Staphylococcus aureus GENE traE		-	7314.27	0.013999999999999999	0.859893	0.859893	1604
+Staphylococcus aureus GI 33390959		-	6575.98	0.013	0.85	0.85	886
+Staphylococcus aureus GENE nes		-	6425.7	0.013	0.725131	0.725131	1819
+Bacteroides fragilis GI 46242799		-	6603.36	0.013	0.523529	0.523529	658
+Staphylococcus aureus GI 33390940		-	5999.65	0.012	0.789598	0.789598	700
+Staphylococcus aureus GENE traG		-	5716.07	0.011000000000000001	0.754875	0.754875	612
+Staphylococcus aureus GI 33390973		-	5351.51	0.011000000000000001	0.704225	0.704225	720
+Staphylococcus aureus GI 33390969		-	4730.32	0.009000000000000001	0.614355	0.614355	925
+Bacteroides fragilis GENE mobA		-	3962.89	0.008	0.530201	0.530201	275
+Vibrio cholerae GENE intI1		-	2788.09	0.005	1	1	13

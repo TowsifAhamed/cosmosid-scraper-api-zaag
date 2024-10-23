@@ -2736,3 +2736,1714 @@ Stacktrace:
 
 2024-10-20 14:32:54,509 - ERROR - Failed to locate the 'Export current results' button with any of the provided XPaths.
 2024-10-20 14:32:54,509 - INFO - Opening URL: https://app.cosmosid.com/samples/22ffdf2c-0474-411e-9f99-e09c75440fa2
+2024-10-22 14:20:58,706 - INFO - Opening URL: https://app.cosmosid.com/samples/a701aaed-c0d7-4eb7-8a0e-e3289a56a104
+2024-10-22 14:21:05,615 - INFO - Dropdown opened successfully.
+2024-10-22 14:21:05,636 - INFO - Dropdown options loaded successfully.
+2024-10-22 14:21:05,701 - INFO - Dropdown options collected: ['Bacteria', 'Viruses', 'Protists', 'Fungi', 'Combined Kingdom Results', 'Antimicrobial Resistance', 'GO Terms', 'Virulence Factors', 'Enzyme Commission', 'MetaCyc Pathways', 'Pfam', 'CAZy', 'FASTQC']
+2024-10-22 14:21:05,710 - INFO - Selecting option: Bacteria
+2024-10-22 14:21:06,755 - INFO - Export button found using XPath: //button[contains(., 'Export current results')]
+2024-10-22 14:21:07,776 - INFO - Clicked 'Export current results' for option: Bacteria
+2024-10-22 14:21:13,794 - INFO - Downloaded file: /home/tlabib/Documents/github/cosmosid-scraper-api-zaag/downloads/SRR17798732_kepler-taxonomy-tree_2024-10-22_14_21.tsv
+2024-10-22 14:21:13,895 - INFO - Clicked 'Taxonomy switcher' for Bacteria.
+2024-10-22 14:21:18,246 - INFO - Level dropdown opened successfully.
+2024-10-22 14:21:18,262 - INFO - Level dropdown options loaded successfully.
+2024-10-22 14:21:18,321 - INFO - Level dropdown options collected: ['domain', 'kingdom', 'phylum', 'class', 'order', 'family', 'genus', 'species', 'strain']
+2024-10-22 14:21:18,330 - INFO - Selecting Level: domain
+2024-10-22 14:21:20,457 - INFO - Clicked 'Export current results' for Level: domain
+2024-10-22 14:21:21,462 - INFO - Downloaded file: /home/tlabib/Documents/github/cosmosid-scraper-api-zaag/downloads/SRR17798732_kepler-biom_domain_2024-10-22_14_21.tsv
+2024-10-22 14:21:23,790 - INFO - Selecting Level: kingdom
+2024-10-22 14:21:25,919 - INFO - Clicked 'Export current results' for Level: kingdom
+2024-10-22 14:21:26,923 - INFO - Downloaded file: /home/tlabib/Documents/github/cosmosid-scraper-api-zaag/downloads/SRR17798732_kepler-biom_kingdom_2024-10-22_14_21.tsv
+2024-10-22 14:21:29,273 - INFO - Selecting Level: phylum
+2024-10-22 14:21:31,427 - INFO - Clicked 'Export current results' for Level: phylum
+2024-10-22 14:21:32,430 - INFO - Downloaded file: /home/tlabib/Documents/github/cosmosid-scraper-api-zaag/downloads/SRR17798732_kepler-biom_phylum_2024-10-22_14_21.tsv
+2024-10-22 14:21:34,726 - INFO - Selecting Level: class
+2024-10-22 14:21:36,879 - INFO - Clicked 'Export current results' for Level: class
+2024-10-22 14:21:37,882 - INFO - Downloaded file: /home/tlabib/Documents/github/cosmosid-scraper-api-zaag/downloads/SRR17798732_kepler-biom_class_2024-10-22_14_21.tsv
+2024-10-22 14:21:40,205 - INFO - Selecting Level: order
+2024-10-22 14:21:42,381 - INFO - Clicked 'Export current results' for Level: order
+2024-10-22 14:21:43,385 - INFO - Downloaded file: /home/tlabib/Documents/github/cosmosid-scraper-api-zaag/downloads/SRR17798732_kepler-biom_order_2024-10-22_14_21.tsv
+2024-10-22 14:21:45,723 - INFO - Selecting Level: family
+2024-10-22 14:21:47,895 - INFO - Clicked 'Export current results' for Level: family
+2024-10-22 14:21:48,899 - INFO - Downloaded file: /home/tlabib/Documents/github/cosmosid-scraper-api-zaag/downloads/SRR17798732_kepler-biom_family_2024-10-22_14_21.tsv
+2024-10-22 14:21:51,231 - INFO - Selecting Level: genus
+2024-10-22 14:21:53,465 - INFO - Clicked 'Export current results' for Level: genus
+2024-10-22 14:21:54,468 - INFO - Downloaded file: /home/tlabib/Documents/github/cosmosid-scraper-api-zaag/downloads/SRR17798732_kepler-biom_genus_2024-10-22_14_21.tsv
+2024-10-22 14:21:56,782 - INFO - Selecting Level: species
+2024-10-22 14:21:59,059 - INFO - Clicked 'Export current results' for Level: species
+2024-10-22 14:22:00,063 - INFO - Downloaded file: /home/tlabib/Documents/github/cosmosid-scraper-api-zaag/downloads/SRR17798732_kepler-biom_species_2024-10-22_14_21.tsv
+2024-10-22 14:22:02,383 - INFO - Selecting Level: strain
+2024-10-22 14:22:04,656 - INFO - Clicked 'Export current results' for Level: strain
+2024-10-22 14:22:05,658 - INFO - Downloaded file: /home/tlabib/Documents/github/cosmosid-scraper-api-zaag/downloads/SRR17798732_kepler-biom_strain_2024-10-22_14_22.tsv
+2024-10-22 14:22:07,994 - INFO - Selecting option: Viruses
+2024-10-22 14:22:14,238 - WARNING - Couldn't locate export button with XPath: //button[contains(., 'Export current results')] - Message: 
+Stacktrace:
+#0 0x55f77d7ee0ca <unknown>
+#1 0x55f77d4eca80 <unknown>
+#2 0x55f77d53add8 <unknown>
+#3 0x55f77d53b071 <unknown>
+#4 0x55f77d5817f4 <unknown>
+#5 0x55f77d55fbbd <unknown>
+#6 0x55f77d57eb8e <unknown>
+#7 0x55f77d55f933 <unknown>
+#8 0x55f77d52de3d <unknown>
+#9 0x55f77d52e92e <unknown>
+#10 0x55f77d7b9c8f <unknown>
+#11 0x55f77d7bdd50 <unknown>
+#12 0x55f77d7a7837 <unknown>
+#13 0x55f77d7be4c1 <unknown>
+#14 0x55f77d78ed1e <unknown>
+#15 0x55f77d7dd2b8 <unknown>
+#16 0x55f77d7dd4ba <unknown>
+#17 0x55f77d7ecd5d <unknown>
+#18 0x7f59cdc60ac3 <unknown>
+
+2024-10-22 14:22:14,244 - ERROR - Failed to locate the 'Export current results' button with any of the provided XPaths.
+2024-10-22 14:22:16,610 - INFO - Selecting option: Protists
+2024-10-22 14:22:17,706 - INFO - Export button found using XPath: //button[contains(., 'Export current results')]
+2024-10-22 14:22:18,721 - INFO - Clicked 'Export current results' for option: Protists
+2024-10-22 14:22:19,724 - INFO - Downloaded file: /home/tlabib/Documents/github/cosmosid-scraper-api-zaag/downloads/SRR17798732_kepler-taxonomy-tree_2024-10-22_14_22.tsv
+2024-10-22 14:22:22,050 - INFO - Selecting option: Fungi
+2024-10-22 14:22:23,145 - INFO - Export button found using XPath: //button[contains(., 'Export current results')]
+2024-10-22 14:22:24,160 - INFO - Clicked 'Export current results' for option: Fungi
+2024-10-22 14:22:25,165 - INFO - Downloaded file: /home/tlabib/Documents/github/cosmosid-scraper-api-zaag/downloads/SRR17798732_kepler-taxonomy-tree_2024-10-22_14_22 (1).tsv
+2024-10-22 14:22:27,495 - INFO - Selecting option: Combined Kingdom Results
+2024-10-22 14:22:29,095 - INFO - Export button found using XPath: //button[contains(., 'Export current results')]
+2024-10-22 14:22:30,103 - INFO - Clicked 'Export current results' for option: Combined Kingdom Results
+2024-10-22 14:22:31,107 - INFO - Downloaded file: /home/tlabib/Documents/github/cosmosid-scraper-api-zaag/downloads/SRR17798732_kepler-ck-taxonomy-tree_2024-10-22_14_22.tsv
+2024-10-22 14:22:33,438 - INFO - Selecting option: Antimicrobial Resistance
+2024-10-22 14:22:35,026 - INFO - Export button found using XPath: //button[contains(., 'Export current results')]
+2024-10-22 14:22:36,043 - INFO - Clicked 'Export current results' for option: Antimicrobial Resistance
+2024-10-22 14:22:37,046 - INFO - Downloaded file: /home/tlabib/Documents/github/cosmosid-scraper-api-zaag/downloads/SRR17798732_classes_filtered_2024-10-22_14_22.tsv
+2024-10-22 14:22:39,357 - INFO - Selecting option: GO Terms
+2024-10-22 14:22:40,624 - INFO - Export button found using XPath: //button[contains(., 'Export current results')]
+2024-10-22 14:22:41,661 - INFO - Clicked 'Export current results' for option: GO Terms
+2024-10-22 14:22:42,664 - INFO - Downloaded file: /home/tlabib/Documents/github/cosmosid-scraper-api-zaag/downloads/SRR17798732_functional-goterm_all_2024-10-22_14_22.tsv
+2024-10-22 14:22:45,002 - INFO - Selecting option: Virulence Factors
+2024-10-22 14:22:46,725 - INFO - Export button found using XPath: //button[contains(., 'Export current results')]
+2024-10-22 14:22:47,742 - INFO - Clicked 'Export current results' for option: Virulence Factors
+2024-10-22 14:22:48,746 - INFO - Downloaded file: /home/tlabib/Documents/github/cosmosid-scraper-api-zaag/downloads/SRR17798732_vf_table_phylogeny_filtered_2024-10-22_14_22.tsv
+2024-10-22 14:22:51,087 - INFO - Selecting option: Enzyme Commission
+2024-10-22 14:22:52,180 - INFO - Export button found using XPath: //button[contains(., 'Export current results')]
+2024-10-22 14:22:53,209 - INFO - Clicked 'Export current results' for option: Enzyme Commission
+2024-10-22 14:22:54,213 - INFO - Downloaded file: /home/tlabib/Documents/github/cosmosid-scraper-api-zaag/downloads/SRR17798732_functional-ec_2024-10-22_14_22.tsv
+2024-10-22 14:22:56,537 - INFO - Selecting option: MetaCyc Pathways
+2024-10-22 14:22:57,608 - INFO - Export button found using XPath: //button[contains(., 'Export current results')]
+2024-10-22 14:22:58,619 - INFO - Clicked 'Export current results' for option: MetaCyc Pathways
+2024-10-22 14:22:59,622 - INFO - Downloaded file: /home/tlabib/Documents/github/cosmosid-scraper-api-zaag/downloads/SRR17798732_functional-pathway_2024-10-22_14_22.tsv
+2024-10-22 14:23:01,971 - INFO - Selecting option: Pfam
+2024-10-22 14:23:03,272 - INFO - Export button found using XPath: //button[contains(., 'Export current results')]
+2024-10-22 14:23:04,307 - INFO - Clicked 'Export current results' for option: Pfam
+2024-10-22 14:23:05,311 - INFO - Downloaded file: /home/tlabib/Documents/github/cosmosid-scraper-api-zaag/downloads/SRR17798732_functional-pfam_2024-10-22_14_23.tsv
+2024-10-22 14:23:07,654 - INFO - Selecting option: CAZy
+2024-10-22 14:23:08,742 - INFO - Export button found using XPath: //button[contains(., 'Export current results')]
+2024-10-22 14:23:09,758 - INFO - Clicked 'Export current results' for option: CAZy
+2024-10-22 14:23:10,762 - INFO - Downloaded file: /home/tlabib/Documents/github/cosmosid-scraper-api-zaag/downloads/SRR17798732_functional-cazy_2024-10-22_14_23.tsv
+2024-10-22 14:23:13,110 - INFO - Selecting option: FASTQC
+2024-10-22 14:23:19,335 - WARNING - Couldn't locate export button with XPath: //button[contains(., 'Export current results')] - Message: 
+Stacktrace:
+#0 0x55f77d7ee0ca <unknown>
+#1 0x55f77d4eca80 <unknown>
+#2 0x55f77d53add8 <unknown>
+#3 0x55f77d53b071 <unknown>
+#4 0x55f77d5817f4 <unknown>
+#5 0x55f77d55fbbd <unknown>
+#6 0x55f77d57eb8e <unknown>
+#7 0x55f77d55f933 <unknown>
+#8 0x55f77d52de3d <unknown>
+#9 0x55f77d52e92e <unknown>
+#10 0x55f77d7b9c8f <unknown>
+#11 0x55f77d7bdd50 <unknown>
+#12 0x55f77d7a7837 <unknown>
+#13 0x55f77d7be4c1 <unknown>
+#14 0x55f77d78ed1e <unknown>
+#15 0x55f77d7dd2b8 <unknown>
+#16 0x55f77d7dd4ba <unknown>
+#17 0x55f77d7ecd5d <unknown>
+#18 0x7f59cdc60ac3 <unknown>
+
+2024-10-22 14:23:19,342 - ERROR - Failed to locate the 'Export current results' button with any of the provided XPaths.
+2024-10-22 14:23:19,343 - INFO - Opening URL: https://app.cosmosid.com/samples/c8e00947-c453-4cf9-823e-c6a30576f8b0
+2024-10-22 14:23:26,478 - INFO - Dropdown opened successfully.
+2024-10-22 14:23:26,483 - INFO - Dropdown options loaded successfully.
+2024-10-22 14:23:26,549 - INFO - Dropdown options collected: ['Bacteria', 'Viruses', 'Protists', 'Fungi', 'Combined Kingdom Results', 'Antimicrobial Resistance', 'GO Terms', 'Virulence Factors', 'Enzyme Commission', 'MetaCyc Pathways', 'Pfam', 'CAZy', 'FASTQC']
+2024-10-22 14:23:26,559 - INFO - Selecting option: Bacteria
+2024-10-22 14:23:27,587 - INFO - Export button found using XPath: //button[contains(., 'Export current results')]
+2024-10-22 14:23:28,605 - INFO - Clicked 'Export current results' for option: Bacteria
+2024-10-22 14:23:29,609 - INFO - Downloaded file: /home/tlabib/Documents/github/cosmosid-scraper-api-zaag/downloads/SRR17798760_kepler-taxonomy-tree_2024-10-22_14_23.tsv
+2024-10-22 14:23:29,724 - INFO - Clicked 'Taxonomy switcher' for Bacteria.
+2024-10-22 14:23:34,082 - INFO - Level dropdown opened successfully.
+2024-10-22 14:23:34,097 - INFO - Level dropdown options loaded successfully.
+2024-10-22 14:23:34,182 - INFO - Level dropdown options collected: ['domain', 'kingdom', 'phylum', 'class', 'order', 'family', 'genus', 'species', 'strain']
+2024-10-22 14:23:34,191 - INFO - Selecting Level: domain
+2024-10-22 14:23:36,323 - INFO - Clicked 'Export current results' for Level: domain
+2024-10-22 14:23:37,326 - INFO - Downloaded file: /home/tlabib/Documents/github/cosmosid-scraper-api-zaag/downloads/SRR17798760_kepler-biom_domain_2024-10-22_14_23.tsv
+2024-10-22 14:23:39,659 - INFO - Selecting Level: kingdom
+2024-10-22 14:23:41,822 - INFO - Clicked 'Export current results' for Level: kingdom
+2024-10-22 14:23:42,826 - INFO - Downloaded file: /home/tlabib/Documents/github/cosmosid-scraper-api-zaag/downloads/SRR17798760_kepler-biom_kingdom_2024-10-22_14_23.tsv
+2024-10-22 14:23:45,166 - INFO - Selecting Level: phylum
+2024-10-22 14:23:47,321 - INFO - Clicked 'Export current results' for Level: phylum
+2024-10-22 14:23:48,325 - INFO - Downloaded file: /home/tlabib/Documents/github/cosmosid-scraper-api-zaag/downloads/SRR17798760_kepler-biom_phylum_2024-10-22_14_23.tsv
+2024-10-22 14:23:50,659 - INFO - Selecting Level: class
+2024-10-22 14:23:52,813 - INFO - Clicked 'Export current results' for Level: class
+2024-10-22 14:23:53,816 - INFO - Downloaded file: /home/tlabib/Documents/github/cosmosid-scraper-api-zaag/downloads/SRR17798760_kepler-biom_class_2024-10-22_14_23.tsv
+2024-10-22 14:23:56,149 - INFO - Selecting Level: order
+2024-10-22 14:23:58,291 - INFO - Clicked 'Export current results' for Level: order
+2024-10-22 14:23:59,296 - INFO - Downloaded file: /home/tlabib/Documents/github/cosmosid-scraper-api-zaag/downloads/SRR17798760_kepler-biom_order_2024-10-22_14_23.tsv
+2024-10-22 14:24:01,633 - INFO - Selecting Level: family
+2024-10-22 14:24:03,832 - INFO - Clicked 'Export current results' for Level: family
+2024-10-22 14:24:04,836 - INFO - Downloaded file: /home/tlabib/Documents/github/cosmosid-scraper-api-zaag/downloads/SRR17798760_kepler-biom_family_2024-10-22_14_24.tsv
+2024-10-22 14:24:07,170 - INFO - Selecting Level: genus
+2024-10-22 14:24:09,336 - INFO - Clicked 'Export current results' for Level: genus
+2024-10-22 14:24:10,344 - INFO - Downloaded file: /home/tlabib/Documents/github/cosmosid-scraper-api-zaag/downloads/SRR17798760_kepler-biom_genus_2024-10-22_14_24.tsv
+2024-10-22 14:24:12,674 - INFO - Selecting Level: species
+2024-10-22 14:24:14,854 - INFO - Clicked 'Export current results' for Level: species
+2024-10-22 14:24:15,858 - INFO - Downloaded file: /home/tlabib/Documents/github/cosmosid-scraper-api-zaag/downloads/SRR17798760_kepler-biom_species_2024-10-22_14_24.tsv
+2024-10-22 14:24:18,195 - INFO - Selecting Level: strain
+2024-10-22 14:24:20,386 - INFO - Clicked 'Export current results' for Level: strain
+2024-10-22 14:24:21,390 - INFO - Downloaded file: /home/tlabib/Documents/github/cosmosid-scraper-api-zaag/downloads/SRR17798760_kepler-biom_strain_2024-10-22_14_24.tsv
+2024-10-22 14:24:23,726 - INFO - Selecting option: Viruses
+2024-10-22 14:24:29,951 - WARNING - Couldn't locate export button with XPath: //button[contains(., 'Export current results')] - Message: 
+Stacktrace:
+#0 0x55f77d7ee0ca <unknown>
+#1 0x55f77d4eca80 <unknown>
+#2 0x55f77d53add8 <unknown>
+#3 0x55f77d53b071 <unknown>
+#4 0x55f77d5817f4 <unknown>
+#5 0x55f77d55fbbd <unknown>
+#6 0x55f77d57eb8e <unknown>
+#7 0x55f77d55f933 <unknown>
+#8 0x55f77d52de3d <unknown>
+#9 0x55f77d52e92e <unknown>
+#10 0x55f77d7b9c8f <unknown>
+#11 0x55f77d7bdd50 <unknown>
+#12 0x55f77d7a7837 <unknown>
+#13 0x55f77d7be4c1 <unknown>
+#14 0x55f77d78ed1e <unknown>
+#15 0x55f77d7dd2b8 <unknown>
+#16 0x55f77d7dd4ba <unknown>
+#17 0x55f77d7ecd5d <unknown>
+#18 0x7f59cdc60ac3 <unknown>
+
+2024-10-22 14:24:29,958 - ERROR - Failed to locate the 'Export current results' button with any of the provided XPaths.
+2024-10-22 14:24:32,291 - INFO - Selecting option: Protists
+2024-10-22 14:24:38,523 - WARNING - Couldn't locate export button with XPath: //button[contains(., 'Export current results')] - Message: 
+Stacktrace:
+#0 0x55f77d7ee0ca <unknown>
+#1 0x55f77d4eca80 <unknown>
+#2 0x55f77d53add8 <unknown>
+#3 0x55f77d53b071 <unknown>
+#4 0x55f77d5817f4 <unknown>
+#5 0x55f77d55fbbd <unknown>
+#6 0x55f77d57eb8e <unknown>
+#7 0x55f77d55f933 <unknown>
+#8 0x55f77d52de3d <unknown>
+#9 0x55f77d52e92e <unknown>
+#10 0x55f77d7b9c8f <unknown>
+#11 0x55f77d7bdd50 <unknown>
+#12 0x55f77d7a7837 <unknown>
+#13 0x55f77d7be4c1 <unknown>
+#14 0x55f77d78ed1e <unknown>
+#15 0x55f77d7dd2b8 <unknown>
+#16 0x55f77d7dd4ba <unknown>
+#17 0x55f77d7ecd5d <unknown>
+#18 0x7f59cdc60ac3 <unknown>
+
+2024-10-22 14:24:38,530 - ERROR - Failed to locate the 'Export current results' button with any of the provided XPaths.
+2024-10-22 14:24:40,868 - INFO - Selecting option: Fungi
+2024-10-22 14:24:41,953 - INFO - Export button found using XPath: //button[contains(., 'Export current results')]
+2024-10-22 14:24:42,969 - INFO - Clicked 'Export current results' for option: Fungi
+2024-10-22 14:24:43,974 - INFO - Downloaded file: /home/tlabib/Documents/github/cosmosid-scraper-api-zaag/downloads/SRR17798760_kepler-taxonomy-tree_2024-10-22_14_24.tsv
+2024-10-22 14:24:46,292 - INFO - Selecting option: Combined Kingdom Results
+2024-10-22 14:24:47,390 - INFO - Export button found using XPath: //button[contains(., 'Export current results')]
+2024-10-22 14:24:48,402 - INFO - Clicked 'Export current results' for option: Combined Kingdom Results
+2024-10-22 14:24:49,407 - INFO - Downloaded file: /home/tlabib/Documents/github/cosmosid-scraper-api-zaag/downloads/SRR17798760_kepler-ck-taxonomy-tree_2024-10-22_14_24.tsv
+2024-10-22 14:24:51,745 - INFO - Selecting option: Antimicrobial Resistance
+2024-10-22 14:24:57,963 - WARNING - Couldn't locate export button with XPath: //button[contains(., 'Export current results')] - Message: 
+Stacktrace:
+#0 0x55f77d7ee0ca <unknown>
+#1 0x55f77d4eca80 <unknown>
+#2 0x55f77d53add8 <unknown>
+#3 0x55f77d53b071 <unknown>
+#4 0x55f77d5817f4 <unknown>
+#5 0x55f77d55fbbd <unknown>
+#6 0x55f77d57eb8e <unknown>
+#7 0x55f77d55f933 <unknown>
+#8 0x55f77d52de3d <unknown>
+#9 0x55f77d52e92e <unknown>
+#10 0x55f77d7b9c8f <unknown>
+#11 0x55f77d7bdd50 <unknown>
+#12 0x55f77d7a7837 <unknown>
+#13 0x55f77d7be4c1 <unknown>
+#14 0x55f77d78ed1e <unknown>
+#15 0x55f77d7dd2b8 <unknown>
+#16 0x55f77d7dd4ba <unknown>
+#17 0x55f77d7ecd5d <unknown>
+#18 0x7f59cdc60ac3 <unknown>
+
+2024-10-22 14:24:57,970 - ERROR - Failed to locate the 'Export current results' button with any of the provided XPaths.
+2024-10-22 14:25:00,301 - INFO - Selecting option: GO Terms
+2024-10-22 14:25:02,280 - INFO - Export button found using XPath: //button[contains(., 'Export current results')]
+2024-10-22 14:25:03,311 - INFO - Clicked 'Export current results' for option: GO Terms
+2024-10-22 14:25:04,315 - INFO - Downloaded file: /home/tlabib/Documents/github/cosmosid-scraper-api-zaag/downloads/SRR17798760_functional-goterm_all_2024-10-22_14_25.tsv
+2024-10-22 14:25:06,657 - INFO - Selecting option: Virulence Factors
+2024-10-22 14:25:08,270 - INFO - Export button found using XPath: //button[contains(., 'Export current results')]
+2024-10-22 14:25:09,286 - INFO - Clicked 'Export current results' for option: Virulence Factors
+2024-10-22 14:25:10,291 - INFO - Downloaded file: /home/tlabib/Documents/github/cosmosid-scraper-api-zaag/downloads/SRR17798760_vf_table_phylogeny_filtered_2024-10-22_14_25.tsv
+2024-10-22 14:25:12,603 - INFO - Selecting option: Enzyme Commission
+2024-10-22 14:25:14,279 - INFO - Export button found using XPath: //button[contains(., 'Export current results')]
+2024-10-22 14:25:15,295 - INFO - Clicked 'Export current results' for option: Enzyme Commission
+2024-10-22 14:25:16,297 - INFO - Downloaded file: /home/tlabib/Documents/github/cosmosid-scraper-api-zaag/downloads/SRR17798760_functional-ec_2024-10-22_14_25.tsv
+2024-10-22 14:25:18,598 - INFO - Selecting option: MetaCyc Pathways
+2024-10-22 14:25:19,669 - INFO - Export button found using XPath: //button[contains(., 'Export current results')]
+2024-10-22 14:25:20,686 - INFO - Clicked 'Export current results' for option: MetaCyc Pathways
+2024-10-22 14:25:21,690 - INFO - Downloaded file: /home/tlabib/Documents/github/cosmosid-scraper-api-zaag/downloads/SRR17798760_functional-pathway_2024-10-22_14_25.tsv
+2024-10-22 14:25:24,033 - INFO - Selecting option: Pfam
+2024-10-22 14:25:25,645 - INFO - Export button found using XPath: //button[contains(., 'Export current results')]
+2024-10-22 14:25:26,680 - INFO - Clicked 'Export current results' for option: Pfam
+2024-10-22 14:25:27,684 - INFO - Downloaded file: /home/tlabib/Documents/github/cosmosid-scraper-api-zaag/downloads/SRR17798760_functional-pfam_2024-10-22_14_25.tsv
+2024-10-22 14:25:30,027 - INFO - Selecting option: CAZy
+2024-10-22 14:25:31,113 - INFO - Export button found using XPath: //button[contains(., 'Export current results')]
+2024-10-22 14:25:32,126 - INFO - Clicked 'Export current results' for option: CAZy
+2024-10-22 14:25:33,131 - INFO - Downloaded file: /home/tlabib/Documents/github/cosmosid-scraper-api-zaag/downloads/SRR17798760_functional-cazy_2024-10-22_14_25.tsv
+2024-10-22 14:25:35,456 - INFO - Selecting option: FASTQC
+2024-10-22 14:25:41,712 - WARNING - Couldn't locate export button with XPath: //button[contains(., 'Export current results')] - Message: 
+Stacktrace:
+#0 0x55f77d7ee0ca <unknown>
+#1 0x55f77d4eca80 <unknown>
+#2 0x55f77d53add8 <unknown>
+#3 0x55f77d53b071 <unknown>
+#4 0x55f77d5817f4 <unknown>
+#5 0x55f77d55fbbd <unknown>
+#6 0x55f77d57eb8e <unknown>
+#7 0x55f77d55f933 <unknown>
+#8 0x55f77d52de3d <unknown>
+#9 0x55f77d52e92e <unknown>
+#10 0x55f77d7b9c8f <unknown>
+#11 0x55f77d7bdd50 <unknown>
+#12 0x55f77d7a7837 <unknown>
+#13 0x55f77d7be4c1 <unknown>
+#14 0x55f77d78ed1e <unknown>
+#15 0x55f77d7dd2b8 <unknown>
+#16 0x55f77d7dd4ba <unknown>
+#17 0x55f77d7ecd5d <unknown>
+#18 0x7f59cdc60ac3 <unknown>
+
+2024-10-22 14:25:41,717 - ERROR - Failed to locate the 'Export current results' button with any of the provided XPaths.
+2024-10-22 14:25:41,717 - INFO - Opening URL: https://app.cosmosid.com/samples/1d521176-6334-425b-8ad2-f2bd3d8deaba
+2024-10-22 14:25:49,084 - INFO - Dropdown opened successfully.
+2024-10-22 14:25:49,120 - INFO - Dropdown options loaded successfully.
+2024-10-22 14:25:49,191 - INFO - Dropdown options collected: ['Bacteria', 'Viruses', 'Protists', 'Fungi', 'Combined Kingdom Results', 'Antimicrobial Resistance', 'GO Terms', 'Virulence Factors', 'Enzyme Commission', 'MetaCyc Pathways', 'Pfam', 'CAZy', 'FASTQC']
+2024-10-22 14:25:49,200 - INFO - Selecting option: Bacteria
+2024-10-22 14:25:50,249 - INFO - Export button found using XPath: //button[contains(., 'Export current results')]
+2024-10-22 14:25:51,263 - INFO - Clicked 'Export current results' for option: Bacteria
+2024-10-22 14:25:52,267 - INFO - Downloaded file: /home/tlabib/Documents/github/cosmosid-scraper-api-zaag/downloads/SRR17798744_kepler-taxonomy-tree_2024-10-22_14_25.tsv
+2024-10-22 14:25:52,385 - INFO - Clicked 'Taxonomy switcher' for Bacteria.
+2024-10-22 14:25:56,745 - INFO - Level dropdown opened successfully.
+2024-10-22 14:25:56,750 - INFO - Level dropdown options loaded successfully.
+2024-10-22 14:25:56,789 - INFO - Level dropdown options collected: ['domain', 'kingdom', 'phylum', 'class', 'order', 'family', 'genus', 'species', 'strain']
+2024-10-22 14:25:56,799 - INFO - Selecting Level: domain
+2024-10-22 14:25:58,968 - INFO - Clicked 'Export current results' for Level: domain
+2024-10-22 14:25:59,971 - INFO - Downloaded file: /home/tlabib/Documents/github/cosmosid-scraper-api-zaag/downloads/SRR17798744_kepler-biom_domain_2024-10-22_14_25.tsv
+2024-10-22 14:26:02,286 - INFO - Selecting Level: kingdom
+2024-10-22 14:26:04,441 - INFO - Clicked 'Export current results' for Level: kingdom
+2024-10-22 14:26:05,443 - INFO - Downloaded file: /home/tlabib/Documents/github/cosmosid-scraper-api-zaag/downloads/SRR17798744_kepler-biom_kingdom_2024-10-22_14_26.tsv
+2024-10-22 14:26:07,781 - INFO - Selecting Level: phylum
+2024-10-22 14:26:09,958 - INFO - Clicked 'Export current results' for Level: phylum
+2024-10-22 14:26:10,963 - INFO - Downloaded file: /home/tlabib/Documents/github/cosmosid-scraper-api-zaag/downloads/SRR17798744_kepler-biom_phylum_2024-10-22_14_26.tsv
+2024-10-22 14:26:13,281 - INFO - Selecting Level: class
+2024-10-22 14:26:15,472 - INFO - Clicked 'Export current results' for Level: class
+2024-10-22 14:26:16,477 - INFO - Downloaded file: /home/tlabib/Documents/github/cosmosid-scraper-api-zaag/downloads/SRR17798744_kepler-biom_class_2024-10-22_14_26.tsv
+2024-10-22 14:26:18,814 - INFO - Selecting Level: order
+2024-10-22 14:26:21,160 - INFO - Clicked 'Export current results' for Level: order
+2024-10-22 14:26:22,164 - INFO - Downloaded file: /home/tlabib/Documents/github/cosmosid-scraper-api-zaag/downloads/SRR17798744_kepler-biom_order_2024-10-22_14_26.tsv
+2024-10-22 14:26:24,506 - INFO - Selecting Level: family
+2024-10-22 14:26:26,771 - INFO - Clicked 'Export current results' for Level: family
+2024-10-22 14:26:27,775 - INFO - Downloaded file: /home/tlabib/Documents/github/cosmosid-scraper-api-zaag/downloads/SRR17798744_kepler-biom_family_2024-10-22_14_26.tsv
+2024-10-22 14:26:30,077 - INFO - Selecting Level: genus
+2024-10-22 14:26:32,341 - INFO - Clicked 'Export current results' for Level: genus
+2024-10-22 14:26:33,345 - INFO - Downloaded file: /home/tlabib/Documents/github/cosmosid-scraper-api-zaag/downloads/SRR17798744_kepler-biom_genus_2024-10-22_14_26.tsv
+2024-10-22 14:26:35,681 - INFO - Selecting Level: species
+2024-10-22 14:26:38,015 - INFO - Clicked 'Export current results' for Level: species
+2024-10-22 14:26:39,017 - INFO - Downloaded file: /home/tlabib/Documents/github/cosmosid-scraper-api-zaag/downloads/SRR17798744_kepler-biom_species_2024-10-22_14_26.tsv
+2024-10-22 14:26:41,347 - INFO - Selecting Level: strain
+2024-10-22 14:26:43,685 - INFO - Clicked 'Export current results' for Level: strain
+2024-10-22 14:26:44,687 - INFO - Downloaded file: /home/tlabib/Documents/github/cosmosid-scraper-api-zaag/downloads/SRR17798744_kepler-biom_strain_2024-10-22_14_26.tsv
+2024-10-22 14:26:46,992 - INFO - Selecting option: Viruses
+2024-10-22 14:26:53,163 - WARNING - Couldn't locate export button with XPath: //button[contains(., 'Export current results')] - Message: 
+Stacktrace:
+#0 0x55f77d7ee0ca <unknown>
+#1 0x55f77d4eca80 <unknown>
+#2 0x55f77d53add8 <unknown>
+#3 0x55f77d53b071 <unknown>
+#4 0x55f77d5817f4 <unknown>
+#5 0x55f77d55fbbd <unknown>
+#6 0x55f77d57eb8e <unknown>
+#7 0x55f77d55f933 <unknown>
+#8 0x55f77d52de3d <unknown>
+#9 0x55f77d52e92e <unknown>
+#10 0x55f77d7b9c8f <unknown>
+#11 0x55f77d7bdd50 <unknown>
+#12 0x55f77d7a7837 <unknown>
+#13 0x55f77d7be4c1 <unknown>
+#14 0x55f77d78ed1e <unknown>
+#15 0x55f77d7dd2b8 <unknown>
+#16 0x55f77d7dd4ba <unknown>
+#17 0x55f77d7ecd5d <unknown>
+#18 0x7f59cdc60ac3 <unknown>
+
+2024-10-22 14:26:53,166 - ERROR - Failed to locate the 'Export current results' button with any of the provided XPaths.
+2024-10-22 14:26:55,476 - INFO - Selecting option: Protists
+2024-10-22 14:26:56,566 - INFO - Export button found using XPath: //button[contains(., 'Export current results')]
+2024-10-22 14:26:57,578 - INFO - Clicked 'Export current results' for option: Protists
+2024-10-22 14:26:58,582 - INFO - Downloaded file: /home/tlabib/Documents/github/cosmosid-scraper-api-zaag/downloads/SRR17798744_kepler-taxonomy-tree_2024-10-22_14_26.tsv
+2024-10-22 14:27:00,900 - INFO - Selecting option: Fungi
+2024-10-22 14:27:07,123 - WARNING - Couldn't locate export button with XPath: //button[contains(., 'Export current results')] - Message: 
+Stacktrace:
+#0 0x55f77d7ee0ca <unknown>
+#1 0x55f77d4eca80 <unknown>
+#2 0x55f77d53add8 <unknown>
+#3 0x55f77d53b071 <unknown>
+#4 0x55f77d5817f4 <unknown>
+#5 0x55f77d55fbbd <unknown>
+#6 0x55f77d57eb8e <unknown>
+#7 0x55f77d55f933 <unknown>
+#8 0x55f77d52de3d <unknown>
+#9 0x55f77d52e92e <unknown>
+#10 0x55f77d7b9c8f <unknown>
+#11 0x55f77d7bdd50 <unknown>
+#12 0x55f77d7a7837 <unknown>
+#13 0x55f77d7be4c1 <unknown>
+#14 0x55f77d78ed1e <unknown>
+#15 0x55f77d7dd2b8 <unknown>
+#16 0x55f77d7dd4ba <unknown>
+#17 0x55f77d7ecd5d <unknown>
+#18 0x7f59cdc60ac3 <unknown>
+
+2024-10-22 14:27:07,130 - ERROR - Failed to locate the 'Export current results' button with any of the provided XPaths.
+2024-10-22 14:27:09,449 - INFO - Selecting option: Combined Kingdom Results
+2024-10-22 14:27:10,790 - INFO - Export button found using XPath: //button[contains(., 'Export current results')]
+2024-10-22 14:27:11,806 - INFO - Clicked 'Export current results' for option: Combined Kingdom Results
+2024-10-22 14:27:12,811 - INFO - Downloaded file: /home/tlabib/Documents/github/cosmosid-scraper-api-zaag/downloads/SRR17798744_kepler-ck-taxonomy-tree_2024-10-22_14_27.tsv
+2024-10-22 14:27:15,145 - INFO - Selecting option: Antimicrobial Resistance
+2024-10-22 14:27:16,735 - INFO - Export button found using XPath: //button[contains(., 'Export current results')]
+2024-10-22 14:27:17,744 - INFO - Clicked 'Export current results' for option: Antimicrobial Resistance
+2024-10-22 14:27:18,746 - INFO - Downloaded file: /home/tlabib/Documents/github/cosmosid-scraper-api-zaag/downloads/SRR17798744_classes_filtered_2024-10-22_14_27.tsv
+2024-10-22 14:27:21,052 - INFO - Selecting option: GO Terms
+2024-10-22 14:27:22,407 - INFO - Export button found using XPath: //button[contains(., 'Export current results')]
+2024-10-22 14:27:23,426 - INFO - Clicked 'Export current results' for option: GO Terms
+2024-10-22 14:27:24,428 - INFO - Downloaded file: /home/tlabib/Documents/github/cosmosid-scraper-api-zaag/downloads/SRR17798744_functional-goterm_all_2024-10-22_14_27.tsv
+2024-10-22 14:27:26,751 - INFO - Selecting option: Virulence Factors
+2024-10-22 14:27:28,505 - INFO - Export button found using XPath: //button[contains(., 'Export current results')]
+2024-10-22 14:27:29,524 - INFO - Clicked 'Export current results' for option: Virulence Factors
+2024-10-22 14:27:30,528 - INFO - Downloaded file: /home/tlabib/Documents/github/cosmosid-scraper-api-zaag/downloads/SRR17798744_vf_table_phylogeny_filtered_2024-10-22_14_27.tsv
+2024-10-22 14:27:32,878 - INFO - Selecting option: Enzyme Commission
+2024-10-22 14:27:33,947 - INFO - Export button found using XPath: //button[contains(., 'Export current results')]
+2024-10-22 14:27:34,968 - INFO - Clicked 'Export current results' for option: Enzyme Commission
+2024-10-22 14:27:35,973 - INFO - Downloaded file: /home/tlabib/Documents/github/cosmosid-scraper-api-zaag/downloads/SRR17798744_functional-ec_2024-10-22_14_27.tsv
+2024-10-22 14:27:38,307 - INFO - Selecting option: MetaCyc Pathways
+2024-10-22 14:27:39,399 - INFO - Export button found using XPath: //button[contains(., 'Export current results')]
+2024-10-22 14:27:40,418 - INFO - Clicked 'Export current results' for option: MetaCyc Pathways
+2024-10-22 14:27:41,422 - INFO - Downloaded file: /home/tlabib/Documents/github/cosmosid-scraper-api-zaag/downloads/SRR17798744_functional-pathway_2024-10-22_14_27.tsv
+2024-10-22 14:27:43,739 - INFO - Selecting option: Pfam
+2024-10-22 14:27:45,025 - INFO - Export button found using XPath: //button[contains(., 'Export current results')]
+2024-10-22 14:27:46,047 - INFO - Clicked 'Export current results' for option: Pfam
+2024-10-22 14:27:47,051 - INFO - Downloaded file: /home/tlabib/Documents/github/cosmosid-scraper-api-zaag/downloads/SRR17798744_functional-pfam_2024-10-22_14_27.tsv
+2024-10-22 14:27:49,395 - INFO - Selecting option: CAZy
+2024-10-22 14:27:50,495 - INFO - Export button found using XPath: //button[contains(., 'Export current results')]
+2024-10-22 14:27:51,511 - INFO - Clicked 'Export current results' for option: CAZy
+2024-10-22 14:27:52,517 - INFO - Downloaded file: /home/tlabib/Documents/github/cosmosid-scraper-api-zaag/downloads/SRR17798744_functional-cazy_2024-10-22_14_27.tsv
+2024-10-22 14:27:54,845 - INFO - Selecting option: FASTQC
+2024-10-22 14:28:01,058 - WARNING - Couldn't locate export button with XPath: //button[contains(., 'Export current results')] - Message: 
+Stacktrace:
+#0 0x55f77d7ee0ca <unknown>
+#1 0x55f77d4eca80 <unknown>
+#2 0x55f77d53add8 <unknown>
+#3 0x55f77d53b071 <unknown>
+#4 0x55f77d5817f4 <unknown>
+#5 0x55f77d55fbbd <unknown>
+#6 0x55f77d57eb8e <unknown>
+#7 0x55f77d55f933 <unknown>
+#8 0x55f77d52de3d <unknown>
+#9 0x55f77d52e92e <unknown>
+#10 0x55f77d7b9c8f <unknown>
+#11 0x55f77d7bdd50 <unknown>
+#12 0x55f77d7a7837 <unknown>
+#13 0x55f77d7be4c1 <unknown>
+#14 0x55f77d78ed1e <unknown>
+#15 0x55f77d7dd2b8 <unknown>
+#16 0x55f77d7dd4ba <unknown>
+#17 0x55f77d7ecd5d <unknown>
+#18 0x7f59cdc60ac3 <unknown>
+
+2024-10-22 14:28:01,065 - ERROR - Failed to locate the 'Export current results' button with any of the provided XPaths.
+2024-10-22 14:28:01,066 - INFO - Opening URL: https://app.cosmosid.com/samples/3ba59387-7ece-406c-bcb8-7d484d555e47
+2024-10-22 14:28:09,577 - INFO - Dropdown opened successfully.
+2024-10-22 14:28:09,585 - INFO - Dropdown options loaded successfully.
+2024-10-22 14:28:09,681 - INFO - Dropdown options collected: ['Bacteria', 'Viruses', 'Protists', 'Fungi', 'Combined Kingdom Results', 'Antimicrobial Resistance', 'GO Terms', 'Virulence Factors', 'Enzyme Commission', 'MetaCyc Pathways', 'Pfam', 'CAZy', 'FASTQC']
+2024-10-22 14:28:09,697 - INFO - Selecting option: Bacteria
+2024-10-22 14:28:10,758 - INFO - Export button found using XPath: //button[contains(., 'Export current results')]
+2024-10-22 14:28:11,770 - INFO - Clicked 'Export current results' for option: Bacteria
+2024-10-22 14:28:12,774 - INFO - Downloaded file: /home/tlabib/Documents/github/cosmosid-scraper-api-zaag/downloads/SRR17798741_kepler-taxonomy-tree_2024-10-22_14_28.tsv
+2024-10-22 14:28:12,902 - INFO - Clicked 'Taxonomy switcher' for Bacteria.
+2024-10-22 14:28:17,241 - INFO - Level dropdown opened successfully.
+2024-10-22 14:28:17,246 - INFO - Level dropdown options loaded successfully.
+2024-10-22 14:28:17,292 - INFO - Level dropdown options collected: ['domain', 'kingdom', 'phylum', 'class', 'order', 'family', 'genus', 'species', 'strain']
+2024-10-22 14:28:17,301 - INFO - Selecting Level: domain
+2024-10-22 14:28:19,431 - INFO - Clicked 'Export current results' for Level: domain
+2024-10-22 14:28:20,434 - INFO - Downloaded file: /home/tlabib/Documents/github/cosmosid-scraper-api-zaag/downloads/SRR17798741_kepler-biom_domain_2024-10-22_14_28.tsv
+2024-10-22 14:28:22,759 - INFO - Selecting Level: kingdom
+2024-10-22 14:28:24,913 - INFO - Clicked 'Export current results' for Level: kingdom
+2024-10-22 14:28:25,918 - INFO - Downloaded file: /home/tlabib/Documents/github/cosmosid-scraper-api-zaag/downloads/SRR17798741_kepler-biom_kingdom_2024-10-22_14_28.tsv
+2024-10-22 14:28:28,256 - INFO - Selecting Level: phylum
+2024-10-22 14:28:30,407 - INFO - Clicked 'Export current results' for Level: phylum
+2024-10-22 14:28:31,412 - INFO - Downloaded file: /home/tlabib/Documents/github/cosmosid-scraper-api-zaag/downloads/SRR17798741_kepler-biom_phylum_2024-10-22_14_28.tsv
+2024-10-22 14:28:33,730 - INFO - Selecting Level: class
+2024-10-22 14:28:35,873 - INFO - Clicked 'Export current results' for Level: class
+2024-10-22 14:28:36,878 - INFO - Downloaded file: /home/tlabib/Documents/github/cosmosid-scraper-api-zaag/downloads/SRR17798741_kepler-biom_class_2024-10-22_14_28.tsv
+2024-10-22 14:28:39,209 - INFO - Selecting Level: order
+2024-10-22 14:28:41,368 - INFO - Clicked 'Export current results' for Level: order
+2024-10-22 14:28:42,372 - INFO - Downloaded file: /home/tlabib/Documents/github/cosmosid-scraper-api-zaag/downloads/SRR17798741_kepler-biom_order_2024-10-22_14_28.tsv
+2024-10-22 14:28:44,710 - INFO - Selecting Level: family
+2024-10-22 14:28:46,913 - INFO - Clicked 'Export current results' for Level: family
+2024-10-22 14:28:47,917 - INFO - Downloaded file: /home/tlabib/Documents/github/cosmosid-scraper-api-zaag/downloads/SRR17798741_kepler-biom_family_2024-10-22_14_28.tsv
+2024-10-22 14:28:50,252 - INFO - Selecting Level: genus
+2024-10-22 14:28:52,482 - INFO - Clicked 'Export current results' for Level: genus
+2024-10-22 14:28:53,487 - INFO - Downloaded file: /home/tlabib/Documents/github/cosmosid-scraper-api-zaag/downloads/SRR17798741_kepler-biom_genus_2024-10-22_14_28.tsv
+2024-10-22 14:28:55,842 - INFO - Selecting Level: species
+2024-10-22 14:28:58,143 - INFO - Clicked 'Export current results' for Level: species
+2024-10-22 14:28:59,148 - INFO - Downloaded file: /home/tlabib/Documents/github/cosmosid-scraper-api-zaag/downloads/SRR17798741_kepler-biom_species_2024-10-22_14_28.tsv
+2024-10-22 14:29:01,486 - INFO - Selecting Level: strain
+2024-10-22 14:29:03,905 - INFO - Clicked 'Export current results' for Level: strain
+2024-10-22 14:29:04,910 - INFO - Downloaded file: /home/tlabib/Documents/github/cosmosid-scraper-api-zaag/downloads/SRR17798741_kepler-biom_strain_2024-10-22_14_29.tsv
+2024-10-22 14:29:07,255 - INFO - Selecting option: Viruses
+2024-10-22 14:29:08,340 - INFO - Export button found using XPath: //button[contains(., 'Export current results')]
+2024-10-22 14:29:09,356 - INFO - Clicked 'Export current results' for option: Viruses
+2024-10-22 14:29:10,360 - INFO - Downloaded file: /home/tlabib/Documents/github/cosmosid-scraper-api-zaag/downloads/SRR17798741_kepler-taxonomy-tree_2024-10-22_14_29.tsv
+2024-10-22 14:29:12,695 - INFO - Selecting option: Protists
+2024-10-22 14:29:13,774 - INFO - Export button found using XPath: //button[contains(., 'Export current results')]
+2024-10-22 14:29:14,788 - INFO - Clicked 'Export current results' for option: Protists
+2024-10-22 14:29:15,793 - INFO - Downloaded file: /home/tlabib/Documents/github/cosmosid-scraper-api-zaag/downloads/SRR17798741_kepler-taxonomy-tree_2024-10-22_14_29 (1).tsv
+2024-10-22 14:29:18,118 - INFO - Selecting option: Fungi
+2024-10-22 14:29:24,332 - WARNING - Couldn't locate export button with XPath: //button[contains(., 'Export current results')] - Message: 
+Stacktrace:
+#0 0x55f77d7ee0ca <unknown>
+#1 0x55f77d4eca80 <unknown>
+#2 0x55f77d53add8 <unknown>
+#3 0x55f77d53b071 <unknown>
+#4 0x55f77d5817f4 <unknown>
+#5 0x55f77d55fbbd <unknown>
+#6 0x55f77d57eb8e <unknown>
+#7 0x55f77d55f933 <unknown>
+#8 0x55f77d52de3d <unknown>
+#9 0x55f77d52e92e <unknown>
+#10 0x55f77d7b9c8f <unknown>
+#11 0x55f77d7bdd50 <unknown>
+#12 0x55f77d7a7837 <unknown>
+#13 0x55f77d7be4c1 <unknown>
+#14 0x55f77d78ed1e <unknown>
+#15 0x55f77d7dd2b8 <unknown>
+#16 0x55f77d7dd4ba <unknown>
+#17 0x55f77d7ecd5d <unknown>
+#18 0x7f59cdc60ac3 <unknown>
+
+2024-10-22 14:29:24,339 - ERROR - Failed to locate the 'Export current results' button with any of the provided XPaths.
+2024-10-22 14:29:26,668 - INFO - Selecting option: Combined Kingdom Results
+2024-10-22 14:29:28,027 - INFO - Export button found using XPath: //button[contains(., 'Export current results')]
+2024-10-22 14:29:29,039 - INFO - Clicked 'Export current results' for option: Combined Kingdom Results
+2024-10-22 14:29:30,042 - INFO - Downloaded file: /home/tlabib/Documents/github/cosmosid-scraper-api-zaag/downloads/SRR17798741_kepler-ck-taxonomy-tree_2024-10-22_14_29.tsv
+2024-10-22 14:29:32,390 - INFO - Selecting option: Antimicrobial Resistance
+2024-10-22 14:29:33,983 - INFO - Export button found using XPath: //button[contains(., 'Export current results')]
+2024-10-22 14:29:34,999 - INFO - Clicked 'Export current results' for option: Antimicrobial Resistance
+2024-10-22 14:29:36,004 - INFO - Downloaded file: /home/tlabib/Documents/github/cosmosid-scraper-api-zaag/downloads/SRR17798741_classes_filtered_2024-10-22_14_29.tsv
+2024-10-22 14:29:38,346 - INFO - Selecting option: GO Terms
+2024-10-22 14:29:39,748 - INFO - Export button found using XPath: //button[contains(., 'Export current results')]
+2024-10-22 14:29:40,787 - INFO - Clicked 'Export current results' for option: GO Terms
+2024-10-22 14:29:41,790 - INFO - Downloaded file: /home/tlabib/Documents/github/cosmosid-scraper-api-zaag/downloads/SRR17798741_functional-goterm_all_2024-10-22_14_29.tsv
+2024-10-22 14:29:44,142 - INFO - Selecting option: Virulence Factors
+2024-10-22 14:29:46,254 - INFO - Export button found using XPath: //button[contains(., 'Export current results')]
+2024-10-22 14:29:47,274 - INFO - Clicked 'Export current results' for option: Virulence Factors
+2024-10-22 14:29:48,279 - INFO - Downloaded file: /home/tlabib/Documents/github/cosmosid-scraper-api-zaag/downloads/SRR17798741_vf_table_phylogeny_filtered_2024-10-22_14_29.tsv
+2024-10-22 14:29:50,626 - INFO - Selecting option: Enzyme Commission
+2024-10-22 14:29:51,849 - INFO - Export button found using XPath: //button[contains(., 'Export current results')]
+2024-10-22 14:29:52,875 - INFO - Clicked 'Export current results' for option: Enzyme Commission
+2024-10-22 14:29:53,880 - INFO - Downloaded file: /home/tlabib/Documents/github/cosmosid-scraper-api-zaag/downloads/SRR17798741_functional-ec_2024-10-22_14_29.tsv
+2024-10-22 14:29:56,222 - INFO - Selecting option: MetaCyc Pathways
+2024-10-22 14:29:57,304 - INFO - Export button found using XPath: //button[contains(., 'Export current results')]
+2024-10-22 14:29:58,324 - INFO - Clicked 'Export current results' for option: MetaCyc Pathways
+2024-10-22 14:29:59,329 - INFO - Downloaded file: /home/tlabib/Documents/github/cosmosid-scraper-api-zaag/downloads/SRR17798741_functional-pathway_2024-10-22_14_29.tsv
+2024-10-22 14:30:01,663 - INFO - Selecting option: Pfam
+2024-10-22 14:30:03,292 - INFO - Export button found using XPath: //button[contains(., 'Export current results')]
+2024-10-22 14:30:04,329 - INFO - Clicked 'Export current results' for option: Pfam
+2024-10-22 14:30:05,334 - INFO - Downloaded file: /home/tlabib/Documents/github/cosmosid-scraper-api-zaag/downloads/SRR17798741_functional-pfam_2024-10-22_14_30.tsv
+2024-10-22 14:30:07,673 - INFO - Selecting option: CAZy
+2024-10-22 14:30:08,766 - INFO - Export button found using XPath: //button[contains(., 'Export current results')]
+2024-10-22 14:30:09,783 - INFO - Clicked 'Export current results' for option: CAZy
+2024-10-22 14:30:10,787 - INFO - Downloaded file: /home/tlabib/Documents/github/cosmosid-scraper-api-zaag/downloads/SRR17798741_functional-cazy_2024-10-22_14_30.tsv
+2024-10-22 14:30:13,119 - INFO - Selecting option: FASTQC
+2024-10-22 14:30:19,342 - WARNING - Couldn't locate export button with XPath: //button[contains(., 'Export current results')] - Message: 
+Stacktrace:
+#0 0x55f77d7ee0ca <unknown>
+#1 0x55f77d4eca80 <unknown>
+#2 0x55f77d53add8 <unknown>
+#3 0x55f77d53b071 <unknown>
+#4 0x55f77d5817f4 <unknown>
+#5 0x55f77d55fbbd <unknown>
+#6 0x55f77d57eb8e <unknown>
+#7 0x55f77d55f933 <unknown>
+#8 0x55f77d52de3d <unknown>
+#9 0x55f77d52e92e <unknown>
+#10 0x55f77d7b9c8f <unknown>
+#11 0x55f77d7bdd50 <unknown>
+#12 0x55f77d7a7837 <unknown>
+#13 0x55f77d7be4c1 <unknown>
+#14 0x55f77d78ed1e <unknown>
+#15 0x55f77d7dd2b8 <unknown>
+#16 0x55f77d7dd4ba <unknown>
+#17 0x55f77d7ecd5d <unknown>
+#18 0x7f59cdc60ac3 <unknown>
+
+2024-10-22 14:30:19,350 - ERROR - Failed to locate the 'Export current results' button with any of the provided XPaths.
+2024-10-22 14:30:19,350 - INFO - Opening URL: https://app.cosmosid.com/samples/dc5e2422-d3b5-4ccd-bb05-c55574928345
+2024-10-22 14:30:27,410 - INFO - Dropdown opened successfully.
+2024-10-22 14:30:27,416 - INFO - Dropdown options loaded successfully.
+2024-10-22 14:30:27,480 - INFO - Dropdown options collected: ['Bacteria', 'Viruses', 'Protists', 'Fungi', 'Combined Kingdom Results', 'Antimicrobial Resistance', 'GO Terms', 'Virulence Factors', 'Enzyme Commission', 'MetaCyc Pathways', 'Pfam', 'CAZy', 'FASTQC']
+2024-10-22 14:30:27,489 - INFO - Selecting option: Bacteria
+2024-10-22 14:30:28,520 - INFO - Export button found using XPath: //button[contains(., 'Export current results')]
+2024-10-22 14:30:29,533 - INFO - Clicked 'Export current results' for option: Bacteria
+2024-10-22 14:30:30,538 - INFO - Downloaded file: /home/tlabib/Documents/github/cosmosid-scraper-api-zaag/downloads/SRR17798704_kepler-taxonomy-tree_2024-10-22_14_30.tsv
+2024-10-22 14:30:30,657 - INFO - Clicked 'Taxonomy switcher' for Bacteria.
+2024-10-22 14:30:35,006 - INFO - Level dropdown opened successfully.
+2024-10-22 14:30:35,023 - INFO - Level dropdown options loaded successfully.
+2024-10-22 14:30:35,096 - INFO - Level dropdown options collected: ['domain', 'kingdom', 'phylum', 'class', 'order', 'family', 'genus', 'species', 'strain']
+2024-10-22 14:30:35,104 - INFO - Selecting Level: domain
+2024-10-22 14:30:37,239 - INFO - Clicked 'Export current results' for Level: domain
+2024-10-22 14:30:38,244 - INFO - Downloaded file: /home/tlabib/Documents/github/cosmosid-scraper-api-zaag/downloads/SRR17798704_kepler-biom_domain_2024-10-22_14_30.tsv
+2024-10-22 14:30:40,574 - INFO - Selecting Level: kingdom
+2024-10-22 14:30:42,704 - INFO - Clicked 'Export current results' for Level: kingdom
+2024-10-22 14:30:43,707 - INFO - Downloaded file: /home/tlabib/Documents/github/cosmosid-scraper-api-zaag/downloads/SRR17798704_kepler-biom_kingdom_2024-10-22_14_30.tsv
+2024-10-22 14:30:46,034 - INFO - Selecting Level: phylum
+2024-10-22 14:30:48,188 - INFO - Clicked 'Export current results' for Level: phylum
+2024-10-22 14:30:49,193 - INFO - Downloaded file: /home/tlabib/Documents/github/cosmosid-scraper-api-zaag/downloads/SRR17798704_kepler-biom_phylum_2024-10-22_14_30.tsv
+2024-10-22 14:30:51,544 - INFO - Selecting Level: class
+2024-10-22 14:30:53,777 - INFO - Clicked 'Export current results' for Level: class
+2024-10-22 14:30:54,783 - INFO - Downloaded file: /home/tlabib/Documents/github/cosmosid-scraper-api-zaag/downloads/SRR17798704_kepler-biom_class_2024-10-22_14_30.tsv
+2024-10-22 14:30:57,097 - INFO - Selecting Level: order
+2024-10-22 14:30:59,245 - INFO - Clicked 'Export current results' for Level: order
+2024-10-22 14:31:00,250 - INFO - Downloaded file: /home/tlabib/Documents/github/cosmosid-scraper-api-zaag/downloads/SRR17798704_kepler-biom_order_2024-10-22_14_30.tsv
+2024-10-22 14:31:02,585 - INFO - Selecting Level: family
+2024-10-22 14:31:04,736 - INFO - Clicked 'Export current results' for Level: family
+2024-10-22 14:31:05,740 - INFO - Downloaded file: /home/tlabib/Documents/github/cosmosid-scraper-api-zaag/downloads/SRR17798704_kepler-biom_family_2024-10-22_14_31.tsv
+2024-10-22 14:31:08,079 - INFO - Selecting Level: genus
+2024-10-22 14:31:10,268 - INFO - Clicked 'Export current results' for Level: genus
+2024-10-22 14:31:11,273 - INFO - Downloaded file: /home/tlabib/Documents/github/cosmosid-scraper-api-zaag/downloads/SRR17798704_kepler-biom_genus_2024-10-22_14_31.tsv
+2024-10-22 14:31:13,575 - INFO - Selecting Level: species
+2024-10-22 14:31:15,815 - INFO - Clicked 'Export current results' for Level: species
+2024-10-22 14:31:16,819 - INFO - Downloaded file: /home/tlabib/Documents/github/cosmosid-scraper-api-zaag/downloads/SRR17798704_kepler-biom_species_2024-10-22_14_31.tsv
+2024-10-22 14:31:19,143 - INFO - Selecting Level: strain
+2024-10-22 14:31:21,289 - INFO - Clicked 'Export current results' for Level: strain
+2024-10-22 14:31:22,294 - INFO - Downloaded file: /home/tlabib/Documents/github/cosmosid-scraper-api-zaag/downloads/SRR17798704_kepler-biom_strain_2024-10-22_14_31.tsv
+2024-10-22 14:31:24,643 - INFO - Selecting option: Viruses
+2024-10-22 14:31:30,859 - WARNING - Couldn't locate export button with XPath: //button[contains(., 'Export current results')] - Message: 
+Stacktrace:
+#0 0x55f77d7ee0ca <unknown>
+#1 0x55f77d4eca80 <unknown>
+#2 0x55f77d53add8 <unknown>
+#3 0x55f77d53b071 <unknown>
+#4 0x55f77d5817f4 <unknown>
+#5 0x55f77d55fbbd <unknown>
+#6 0x55f77d57eb8e <unknown>
+#7 0x55f77d55f933 <unknown>
+#8 0x55f77d52de3d <unknown>
+#9 0x55f77d52e92e <unknown>
+#10 0x55f77d7b9c8f <unknown>
+#11 0x55f77d7bdd50 <unknown>
+#12 0x55f77d7a7837 <unknown>
+#13 0x55f77d7be4c1 <unknown>
+#14 0x55f77d78ed1e <unknown>
+#15 0x55f77d7dd2b8 <unknown>
+#16 0x55f77d7dd4ba <unknown>
+#17 0x55f77d7ecd5d <unknown>
+#18 0x7f59cdc60ac3 <unknown>
+
+2024-10-22 14:31:30,864 - ERROR - Failed to locate the 'Export current results' button with any of the provided XPaths.
+2024-10-22 14:31:33,194 - INFO - Selecting option: Protists
+2024-10-22 14:31:39,406 - WARNING - Couldn't locate export button with XPath: //button[contains(., 'Export current results')] - Message: 
+Stacktrace:
+#0 0x55f77d7ee0ca <unknown>
+#1 0x55f77d4eca80 <unknown>
+#2 0x55f77d53add8 <unknown>
+#3 0x55f77d53b071 <unknown>
+#4 0x55f77d5817f4 <unknown>
+#5 0x55f77d55fbbd <unknown>
+#6 0x55f77d57eb8e <unknown>
+#7 0x55f77d55f933 <unknown>
+#8 0x55f77d52de3d <unknown>
+#9 0x55f77d52e92e <unknown>
+#10 0x55f77d7b9c8f <unknown>
+#11 0x55f77d7bdd50 <unknown>
+#12 0x55f77d7a7837 <unknown>
+#13 0x55f77d7be4c1 <unknown>
+#14 0x55f77d78ed1e <unknown>
+#15 0x55f77d7dd2b8 <unknown>
+#16 0x55f77d7dd4ba <unknown>
+#17 0x55f77d7ecd5d <unknown>
+#18 0x7f59cdc60ac3 <unknown>
+
+2024-10-22 14:31:39,412 - ERROR - Failed to locate the 'Export current results' button with any of the provided XPaths.
+2024-10-22 14:31:41,727 - INFO - Selecting option: Fungi
+2024-10-22 14:31:47,939 - WARNING - Couldn't locate export button with XPath: //button[contains(., 'Export current results')] - Message: 
+Stacktrace:
+#0 0x55f77d7ee0ca <unknown>
+#1 0x55f77d4eca80 <unknown>
+#2 0x55f77d53add8 <unknown>
+#3 0x55f77d53b071 <unknown>
+#4 0x55f77d5817f4 <unknown>
+#5 0x55f77d55fbbd <unknown>
+#6 0x55f77d57eb8e <unknown>
+#7 0x55f77d55f933 <unknown>
+#8 0x55f77d52de3d <unknown>
+#9 0x55f77d52e92e <unknown>
+#10 0x55f77d7b9c8f <unknown>
+#11 0x55f77d7bdd50 <unknown>
+#12 0x55f77d7a7837 <unknown>
+#13 0x55f77d7be4c1 <unknown>
+#14 0x55f77d78ed1e <unknown>
+#15 0x55f77d7dd2b8 <unknown>
+#16 0x55f77d7dd4ba <unknown>
+#17 0x55f77d7ecd5d <unknown>
+#18 0x7f59cdc60ac3 <unknown>
+
+2024-10-22 14:31:47,947 - ERROR - Failed to locate the 'Export current results' button with any of the provided XPaths.
+2024-10-22 14:31:50,283 - INFO - Selecting option: Combined Kingdom Results
+2024-10-22 14:31:51,370 - INFO - Export button found using XPath: //button[contains(., 'Export current results')]
+2024-10-22 14:31:52,388 - INFO - Clicked 'Export current results' for option: Combined Kingdom Results
+2024-10-22 14:31:53,391 - INFO - Downloaded file: /home/tlabib/Documents/github/cosmosid-scraper-api-zaag/downloads/SRR17798704_kepler-ck-taxonomy-tree_2024-10-22_14_31.tsv
+2024-10-22 14:31:55,707 - INFO - Selecting option: Antimicrobial Resistance
+2024-10-22 14:31:57,321 - INFO - Export button found using XPath: //button[contains(., 'Export current results')]
+2024-10-22 14:31:58,341 - INFO - Clicked 'Export current results' for option: Antimicrobial Resistance
+2024-10-22 14:31:59,346 - INFO - Downloaded file: /home/tlabib/Documents/github/cosmosid-scraper-api-zaag/downloads/SRR17798704_classes_filtered_2024-10-22_14_31.tsv
+2024-10-22 14:32:01,687 - INFO - Selecting option: GO Terms
+2024-10-22 14:32:03,317 - INFO - Export button found using XPath: //button[contains(., 'Export current results')]
+2024-10-22 14:32:04,353 - INFO - Clicked 'Export current results' for option: GO Terms
+2024-10-22 14:32:05,358 - INFO - Downloaded file: /home/tlabib/Documents/github/cosmosid-scraper-api-zaag/downloads/SRR17798704_functional-goterm_all_2024-10-22_14_32.tsv
+2024-10-22 14:32:07,701 - INFO - Selecting option: Virulence Factors
+2024-10-22 14:32:09,311 - INFO - Export button found using XPath: //button[contains(., 'Export current results')]
+2024-10-22 14:32:10,329 - INFO - Clicked 'Export current results' for option: Virulence Factors
+2024-10-22 14:32:11,334 - INFO - Downloaded file: /home/tlabib/Documents/github/cosmosid-scraper-api-zaag/downloads/SRR17798704_vf_table_phylogeny_filtered_2024-10-22_14_32.tsv
+2024-10-22 14:32:13,697 - INFO - Selecting option: Enzyme Commission
+2024-10-22 14:32:14,790 - INFO - Export button found using XPath: //button[contains(., 'Export current results')]
+2024-10-22 14:32:15,817 - INFO - Clicked 'Export current results' for option: Enzyme Commission
+2024-10-22 14:32:16,821 - INFO - Downloaded file: /home/tlabib/Documents/github/cosmosid-scraper-api-zaag/downloads/SRR17798704_functional-ec_2024-10-22_14_32.tsv
+2024-10-22 14:32:19,175 - INFO - Selecting option: MetaCyc Pathways
+2024-10-22 14:32:20,266 - INFO - Export button found using XPath: //button[contains(., 'Export current results')]
+2024-10-22 14:32:21,287 - INFO - Clicked 'Export current results' for option: MetaCyc Pathways
+2024-10-22 14:32:22,292 - INFO - Downloaded file: /home/tlabib/Documents/github/cosmosid-scraper-api-zaag/downloads/SRR17798704_functional-pathway_2024-10-22_14_32.tsv
+2024-10-22 14:32:24,645 - INFO - Selecting option: Pfam
+2024-10-22 14:32:26,028 - INFO - Export button found using XPath: //button[contains(., 'Export current results')]
+2024-10-22 14:32:27,058 - INFO - Clicked 'Export current results' for option: Pfam
+2024-10-22 14:32:28,063 - INFO - Downloaded file: /home/tlabib/Documents/github/cosmosid-scraper-api-zaag/downloads/SRR17798704_functional-pfam_2024-10-22_14_32.tsv
+2024-10-22 14:32:30,405 - INFO - Selecting option: CAZy
+2024-10-22 14:32:31,501 - INFO - Export button found using XPath: //button[contains(., 'Export current results')]
+2024-10-22 14:32:32,517 - INFO - Clicked 'Export current results' for option: CAZy
+2024-10-22 14:32:33,521 - INFO - Downloaded file: /home/tlabib/Documents/github/cosmosid-scraper-api-zaag/downloads/SRR17798704_functional-cazy_2024-10-22_14_32.tsv
+2024-10-22 14:32:35,877 - INFO - Selecting option: FASTQC
+2024-10-22 14:32:42,081 - WARNING - Couldn't locate export button with XPath: //button[contains(., 'Export current results')] - Message: 
+Stacktrace:
+#0 0x55f77d7ee0ca <unknown>
+#1 0x55f77d4eca80 <unknown>
+#2 0x55f77d53add8 <unknown>
+#3 0x55f77d53b071 <unknown>
+#4 0x55f77d5817f4 <unknown>
+#5 0x55f77d55fbbd <unknown>
+#6 0x55f77d57eb8e <unknown>
+#7 0x55f77d55f933 <unknown>
+#8 0x55f77d52de3d <unknown>
+#9 0x55f77d52e92e <unknown>
+#10 0x55f77d7b9c8f <unknown>
+#11 0x55f77d7bdd50 <unknown>
+#12 0x55f77d7a7837 <unknown>
+#13 0x55f77d7be4c1 <unknown>
+#14 0x55f77d78ed1e <unknown>
+#15 0x55f77d7dd2b8 <unknown>
+#16 0x55f77d7dd4ba <unknown>
+#17 0x55f77d7ecd5d <unknown>
+#18 0x7f59cdc60ac3 <unknown>
+
+2024-10-22 14:32:42,089 - ERROR - Failed to locate the 'Export current results' button with any of the provided XPaths.
+2024-10-22 14:32:42,089 - INFO - Opening URL: https://app.cosmosid.com/samples/0b00a234-4971-4801-9718-990ed231cf94
+2024-10-22 14:32:49,316 - INFO - Dropdown opened successfully.
+2024-10-22 14:32:49,328 - INFO - Dropdown options loaded successfully.
+2024-10-22 14:32:49,384 - INFO - Dropdown options collected: ['Bacteria', 'Viruses', 'Protists', 'Fungi', 'Combined Kingdom Results', 'Antimicrobial Resistance', 'GO Terms', 'Virulence Factors', 'Enzyme Commission', 'MetaCyc Pathways', 'Pfam', 'CAZy', 'FASTQC']
+2024-10-22 14:32:49,395 - INFO - Selecting option: Bacteria
+2024-10-22 14:32:50,437 - INFO - Export button found using XPath: //button[contains(., 'Export current results')]
+2024-10-22 14:32:51,448 - INFO - Clicked 'Export current results' for option: Bacteria
+2024-10-22 14:32:52,452 - INFO - Downloaded file: /home/tlabib/Documents/github/cosmosid-scraper-api-zaag/downloads/SRR17798702_kepler-taxonomy-tree_2024-10-22_14_32.tsv
+2024-10-22 14:32:52,571 - INFO - Clicked 'Taxonomy switcher' for Bacteria.
+2024-10-22 14:32:56,913 - INFO - Level dropdown opened successfully.
+2024-10-22 14:32:56,920 - INFO - Level dropdown options loaded successfully.
+2024-10-22 14:32:56,958 - INFO - Level dropdown options collected: ['domain', 'kingdom', 'phylum', 'class', 'order', 'family', 'genus', 'species', 'strain']
+2024-10-22 14:32:56,967 - INFO - Selecting Level: domain
+2024-10-22 14:32:59,116 - INFO - Clicked 'Export current results' for Level: domain
+2024-10-22 14:33:00,121 - INFO - Downloaded file: /home/tlabib/Documents/github/cosmosid-scraper-api-zaag/downloads/SRR17798702_kepler-biom_domain_2024-10-22_14_32.tsv
+2024-10-22 14:33:02,443 - INFO - Selecting Level: kingdom
+2024-10-22 14:33:04,578 - INFO - Clicked 'Export current results' for Level: kingdom
+2024-10-22 14:33:05,581 - INFO - Downloaded file: /home/tlabib/Documents/github/cosmosid-scraper-api-zaag/downloads/SRR17798702_kepler-biom_kingdom_2024-10-22_14_33.tsv
+2024-10-22 14:33:07,927 - INFO - Selecting Level: phylum
+2024-10-22 14:33:10,094 - INFO - Clicked 'Export current results' for Level: phylum
+2024-10-22 14:33:11,099 - INFO - Downloaded file: /home/tlabib/Documents/github/cosmosid-scraper-api-zaag/downloads/SRR17798702_kepler-biom_phylum_2024-10-22_14_33.tsv
+2024-10-22 14:33:13,440 - INFO - Selecting Level: class
+2024-10-22 14:33:15,630 - INFO - Clicked 'Export current results' for Level: class
+2024-10-22 14:33:16,635 - INFO - Downloaded file: /home/tlabib/Documents/github/cosmosid-scraper-api-zaag/downloads/SRR17798702_kepler-biom_class_2024-10-22_14_33.tsv
+2024-10-22 14:33:18,974 - INFO - Selecting Level: order
+2024-10-22 14:33:21,167 - INFO - Clicked 'Export current results' for Level: order
+2024-10-22 14:33:22,172 - INFO - Downloaded file: /home/tlabib/Documents/github/cosmosid-scraper-api-zaag/downloads/SRR17798702_kepler-biom_order_2024-10-22_14_33.tsv
+2024-10-22 14:33:24,522 - INFO - Selecting Level: family
+2024-10-22 14:33:26,728 - INFO - Clicked 'Export current results' for Level: family
+2024-10-22 14:33:27,731 - INFO - Downloaded file: /home/tlabib/Documents/github/cosmosid-scraper-api-zaag/downloads/SRR17798702_kepler-biom_family_2024-10-22_14_33.tsv
+2024-10-22 14:33:30,089 - INFO - Selecting Level: genus
+2024-10-22 14:33:32,318 - INFO - Clicked 'Export current results' for Level: genus
+2024-10-22 14:33:33,323 - INFO - Downloaded file: /home/tlabib/Documents/github/cosmosid-scraper-api-zaag/downloads/SRR17798702_kepler-biom_genus_2024-10-22_14_33.tsv
+2024-10-22 14:33:35,656 - INFO - Selecting Level: species
+2024-10-22 14:33:37,960 - INFO - Clicked 'Export current results' for Level: species
+2024-10-22 14:33:38,966 - INFO - Downloaded file: /home/tlabib/Documents/github/cosmosid-scraper-api-zaag/downloads/SRR17798702_kepler-biom_species_2024-10-22_14_33.tsv
+2024-10-22 14:33:41,317 - INFO - Selecting Level: strain
+2024-10-22 14:33:43,599 - INFO - Clicked 'Export current results' for Level: strain
+2024-10-22 14:33:44,604 - INFO - Downloaded file: /home/tlabib/Documents/github/cosmosid-scraper-api-zaag/downloads/SRR17798702_kepler-biom_strain_2024-10-22_14_33.tsv
+2024-10-22 14:33:46,948 - INFO - Selecting option: Viruses
+2024-10-22 14:33:53,147 - WARNING - Couldn't locate export button with XPath: //button[contains(., 'Export current results')] - Message: 
+Stacktrace:
+#0 0x55f77d7ee0ca <unknown>
+#1 0x55f77d4eca80 <unknown>
+#2 0x55f77d53add8 <unknown>
+#3 0x55f77d53b071 <unknown>
+#4 0x55f77d5817f4 <unknown>
+#5 0x55f77d55fbbd <unknown>
+#6 0x55f77d57eb8e <unknown>
+#7 0x55f77d55f933 <unknown>
+#8 0x55f77d52de3d <unknown>
+#9 0x55f77d52e92e <unknown>
+#10 0x55f77d7b9c8f <unknown>
+#11 0x55f77d7bdd50 <unknown>
+#12 0x55f77d7a7837 <unknown>
+#13 0x55f77d7be4c1 <unknown>
+#14 0x55f77d78ed1e <unknown>
+#15 0x55f77d7dd2b8 <unknown>
+#16 0x55f77d7dd4ba <unknown>
+#17 0x55f77d7ecd5d <unknown>
+#18 0x7f59cdc60ac3 <unknown>
+
+2024-10-22 14:33:53,150 - ERROR - Failed to locate the 'Export current results' button with any of the provided XPaths.
+2024-10-22 14:33:55,481 - INFO - Selecting option: Protists
+2024-10-22 14:33:56,585 - INFO - Export button found using XPath: //button[contains(., 'Export current results')]
+2024-10-22 14:33:57,599 - INFO - Clicked 'Export current results' for option: Protists
+2024-10-22 14:33:58,604 - INFO - Downloaded file: /home/tlabib/Documents/github/cosmosid-scraper-api-zaag/downloads/SRR17798702_kepler-taxonomy-tree_2024-10-22_14_33.tsv
+2024-10-22 14:34:00,951 - INFO - Selecting option: Fungi
+2024-10-22 14:34:02,046 - INFO - Export button found using XPath: //button[contains(., 'Export current results')]
+2024-10-22 14:34:03,061 - INFO - Clicked 'Export current results' for option: Fungi
+2024-10-22 14:34:04,066 - INFO - Downloaded file: /home/tlabib/Documents/github/cosmosid-scraper-api-zaag/downloads/SRR17798702_kepler-taxonomy-tree_2024-10-22_14_34.tsv
+2024-10-22 14:34:06,409 - INFO - Selecting option: Combined Kingdom Results
+2024-10-22 14:34:07,886 - INFO - Export button found using XPath: //button[contains(., 'Export current results')]
+2024-10-22 14:34:08,901 - INFO - Clicked 'Export current results' for option: Combined Kingdom Results
+2024-10-22 14:34:09,906 - INFO - Downloaded file: /home/tlabib/Documents/github/cosmosid-scraper-api-zaag/downloads/SRR17798702_kepler-ck-taxonomy-tree_2024-10-22_14_34.tsv
+2024-10-22 14:34:12,220 - INFO - Selecting option: Antimicrobial Resistance
+2024-10-22 14:34:13,818 - INFO - Export button found using XPath: //button[contains(., 'Export current results')]
+2024-10-22 14:34:14,834 - INFO - Clicked 'Export current results' for option: Antimicrobial Resistance
+2024-10-22 14:34:15,839 - INFO - Downloaded file: /home/tlabib/Documents/github/cosmosid-scraper-api-zaag/downloads/SRR17798702_classes_filtered_2024-10-22_14_34.tsv
+2024-10-22 14:34:18,183 - INFO - Selecting option: GO Terms
+2024-10-22 14:34:19,447 - INFO - Export button found using XPath: //button[contains(., 'Export current results')]
+2024-10-22 14:34:20,477 - INFO - Clicked 'Export current results' for option: GO Terms
+2024-10-22 14:34:21,480 - INFO - Downloaded file: /home/tlabib/Documents/github/cosmosid-scraper-api-zaag/downloads/SRR17798702_functional-goterm_all_2024-10-22_14_34.tsv
+2024-10-22 14:34:23,792 - INFO - Selecting option: Virulence Factors
+2024-10-22 14:34:25,389 - INFO - Export button found using XPath: //button[contains(., 'Export current results')]
+2024-10-22 14:34:26,400 - INFO - Clicked 'Export current results' for option: Virulence Factors
+2024-10-22 14:34:27,403 - INFO - Downloaded file: /home/tlabib/Documents/github/cosmosid-scraper-api-zaag/downloads/SRR17798702_vf_table_phylogeny_filtered_2024-10-22_14_34.tsv
+2024-10-22 14:34:29,750 - INFO - Selecting option: Enzyme Commission
+2024-10-22 14:34:30,854 - INFO - Export button found using XPath: //button[contains(., 'Export current results')]
+2024-10-22 14:34:31,870 - INFO - Clicked 'Export current results' for option: Enzyme Commission
+2024-10-22 14:34:32,873 - INFO - Downloaded file: /home/tlabib/Documents/github/cosmosid-scraper-api-zaag/downloads/SRR17798702_functional-ec_2024-10-22_14_34.tsv
+2024-10-22 14:34:35,199 - INFO - Selecting option: MetaCyc Pathways
+2024-10-22 14:34:36,275 - INFO - Export button found using XPath: //button[contains(., 'Export current results')]
+2024-10-22 14:34:37,292 - INFO - Clicked 'Export current results' for option: MetaCyc Pathways
+2024-10-22 14:34:38,296 - INFO - Downloaded file: /home/tlabib/Documents/github/cosmosid-scraper-api-zaag/downloads/SRR17798702_functional-pathway_2024-10-22_14_34.tsv
+2024-10-22 14:34:40,630 - INFO - Selecting option: Pfam
+2024-10-22 14:34:42,023 - INFO - Export button found using XPath: //button[contains(., 'Export current results')]
+2024-10-22 14:34:43,039 - INFO - Clicked 'Export current results' for option: Pfam
+2024-10-22 14:34:44,043 - INFO - Downloaded file: /home/tlabib/Documents/github/cosmosid-scraper-api-zaag/downloads/SRR17798702_functional-pfam_2024-10-22_14_34.tsv
+2024-10-22 14:34:46,385 - INFO - Selecting option: CAZy
+2024-10-22 14:34:47,467 - INFO - Export button found using XPath: //button[contains(., 'Export current results')]
+2024-10-22 14:34:48,480 - INFO - Clicked 'Export current results' for option: CAZy
+2024-10-22 14:34:49,484 - INFO - Downloaded file: /home/tlabib/Documents/github/cosmosid-scraper-api-zaag/downloads/SRR17798702_functional-cazy_2024-10-22_14_34.tsv
+2024-10-22 14:34:51,834 - INFO - Selecting option: FASTQC
+2024-10-22 14:34:58,048 - WARNING - Couldn't locate export button with XPath: //button[contains(., 'Export current results')] - Message: 
+Stacktrace:
+#0 0x55f77d7ee0ca <unknown>
+#1 0x55f77d4eca80 <unknown>
+#2 0x55f77d53add8 <unknown>
+#3 0x55f77d53b071 <unknown>
+#4 0x55f77d5817f4 <unknown>
+#5 0x55f77d55fbbd <unknown>
+#6 0x55f77d57eb8e <unknown>
+#7 0x55f77d55f933 <unknown>
+#8 0x55f77d52de3d <unknown>
+#9 0x55f77d52e92e <unknown>
+#10 0x55f77d7b9c8f <unknown>
+#11 0x55f77d7bdd50 <unknown>
+#12 0x55f77d7a7837 <unknown>
+#13 0x55f77d7be4c1 <unknown>
+#14 0x55f77d78ed1e <unknown>
+#15 0x55f77d7dd2b8 <unknown>
+#16 0x55f77d7dd4ba <unknown>
+#17 0x55f77d7ecd5d <unknown>
+#18 0x7f59cdc60ac3 <unknown>
+
+2024-10-22 14:34:58,056 - ERROR - Failed to locate the 'Export current results' button with any of the provided XPaths.
+2024-10-22 14:34:58,056 - INFO - Opening URL: https://app.cosmosid.com/samples/c86413ab-f5eb-47a3-94a8-c02eb56bcbf7
+2024-10-22 14:35:05,539 - INFO - Dropdown opened successfully.
+2024-10-22 14:35:05,546 - INFO - Dropdown options loaded successfully.
+2024-10-22 14:35:05,656 - INFO - Dropdown options collected: ['Bacteria', 'Viruses', 'Protists', 'Fungi', 'Combined Kingdom Results', 'Antimicrobial Resistance', 'GO Terms', 'Virulence Factors', 'Enzyme Commission', 'MetaCyc Pathways', 'Pfam', 'CAZy', 'FASTQC']
+2024-10-22 14:35:05,672 - INFO - Selecting option: Bacteria
+2024-10-22 14:35:06,738 - INFO - Export button found using XPath: //button[contains(., 'Export current results')]
+2024-10-22 14:35:07,750 - INFO - Clicked 'Export current results' for option: Bacteria
+2024-10-22 14:35:08,755 - INFO - Downloaded file: /home/tlabib/Documents/github/cosmosid-scraper-api-zaag/downloads/SRR17798731_kepler-taxonomy-tree_2024-10-22_14_35.tsv
+2024-10-22 14:35:08,883 - INFO - Clicked 'Taxonomy switcher' for Bacteria.
+2024-10-22 14:35:13,235 - INFO - Level dropdown opened successfully.
+2024-10-22 14:35:13,247 - INFO - Level dropdown options loaded successfully.
+2024-10-22 14:35:13,298 - INFO - Level dropdown options collected: ['domain', 'kingdom', 'phylum', 'class', 'order', 'family', 'genus', 'species', 'strain']
+2024-10-22 14:35:13,307 - INFO - Selecting Level: domain
+2024-10-22 14:35:15,469 - INFO - Clicked 'Export current results' for Level: domain
+2024-10-22 14:35:16,472 - INFO - Downloaded file: /home/tlabib/Documents/github/cosmosid-scraper-api-zaag/downloads/SRR17798731_kepler-biom_domain_2024-10-22_14_35.tsv
+2024-10-22 14:35:18,805 - INFO - Selecting Level: kingdom
+2024-10-22 14:35:20,938 - INFO - Clicked 'Export current results' for Level: kingdom
+2024-10-22 14:35:21,943 - INFO - Downloaded file: /home/tlabib/Documents/github/cosmosid-scraper-api-zaag/downloads/SRR17798731_kepler-biom_kingdom_2024-10-22_14_35.tsv
+2024-10-22 14:35:24,288 - INFO - Selecting Level: phylum
+2024-10-22 14:35:26,462 - INFO - Clicked 'Export current results' for Level: phylum
+2024-10-22 14:35:27,467 - INFO - Downloaded file: /home/tlabib/Documents/github/cosmosid-scraper-api-zaag/downloads/SRR17798731_kepler-biom_phylum_2024-10-22_14_35.tsv
+2024-10-22 14:35:29,794 - INFO - Selecting Level: class
+2024-10-22 14:35:31,976 - INFO - Clicked 'Export current results' for Level: class
+2024-10-22 14:35:32,981 - INFO - Downloaded file: /home/tlabib/Documents/github/cosmosid-scraper-api-zaag/downloads/SRR17798731_kepler-biom_class_2024-10-22_14_35.tsv
+2024-10-22 14:35:35,313 - INFO - Selecting Level: order
+2024-10-22 14:35:37,517 - INFO - Clicked 'Export current results' for Level: order
+2024-10-22 14:35:38,520 - INFO - Downloaded file: /home/tlabib/Documents/github/cosmosid-scraper-api-zaag/downloads/SRR17798731_kepler-biom_order_2024-10-22_14_35.tsv
+2024-10-22 14:35:40,832 - INFO - Selecting Level: family
+2024-10-22 14:35:43,078 - INFO - Clicked 'Export current results' for Level: family
+2024-10-22 14:35:44,083 - INFO - Downloaded file: /home/tlabib/Documents/github/cosmosid-scraper-api-zaag/downloads/SRR17798731_kepler-biom_family_2024-10-22_14_35.tsv
+2024-10-22 14:35:46,429 - INFO - Selecting Level: genus
+2024-10-22 14:35:48,743 - INFO - Clicked 'Export current results' for Level: genus
+2024-10-22 14:35:49,747 - INFO - Downloaded file: /home/tlabib/Documents/github/cosmosid-scraper-api-zaag/downloads/SRR17798731_kepler-biom_genus_2024-10-22_14_35.tsv
+2024-10-22 14:35:52,097 - INFO - Selecting Level: species
+2024-10-22 14:35:54,391 - INFO - Clicked 'Export current results' for Level: species
+2024-10-22 14:35:55,396 - INFO - Downloaded file: /home/tlabib/Documents/github/cosmosid-scraper-api-zaag/downloads/SRR17798731_kepler-biom_species_2024-10-22_14_35.tsv
+2024-10-22 14:35:57,718 - INFO - Selecting Level: strain
+2024-10-22 14:36:00,090 - INFO - Clicked 'Export current results' for Level: strain
+2024-10-22 14:36:01,096 - INFO - Downloaded file: /home/tlabib/Documents/github/cosmosid-scraper-api-zaag/downloads/SRR17798731_kepler-biom_strain_2024-10-22_14_36.tsv
+2024-10-22 14:36:03,422 - INFO - Selecting option: Viruses
+2024-10-22 14:36:09,630 - WARNING - Couldn't locate export button with XPath: //button[contains(., 'Export current results')] - Message: 
+Stacktrace:
+#0 0x55f77d7ee0ca <unknown>
+#1 0x55f77d4eca80 <unknown>
+#2 0x55f77d53add8 <unknown>
+#3 0x55f77d53b071 <unknown>
+#4 0x55f77d5817f4 <unknown>
+#5 0x55f77d55fbbd <unknown>
+#6 0x55f77d57eb8e <unknown>
+#7 0x55f77d55f933 <unknown>
+#8 0x55f77d52de3d <unknown>
+#9 0x55f77d52e92e <unknown>
+#10 0x55f77d7b9c8f <unknown>
+#11 0x55f77d7bdd50 <unknown>
+#12 0x55f77d7a7837 <unknown>
+#13 0x55f77d7be4c1 <unknown>
+#14 0x55f77d78ed1e <unknown>
+#15 0x55f77d7dd2b8 <unknown>
+#16 0x55f77d7dd4ba <unknown>
+#17 0x55f77d7ecd5d <unknown>
+#18 0x7f59cdc60ac3 <unknown>
+
+2024-10-22 14:36:09,634 - ERROR - Failed to locate the 'Export current results' button with any of the provided XPaths.
+2024-10-22 14:36:11,980 - INFO - Selecting option: Protists
+2024-10-22 14:36:13,064 - INFO - Export button found using XPath: //button[contains(., 'Export current results')]
+2024-10-22 14:36:14,080 - INFO - Clicked 'Export current results' for option: Protists
+2024-10-22 14:36:15,086 - INFO - Downloaded file: /home/tlabib/Documents/github/cosmosid-scraper-api-zaag/downloads/SRR17798731_kepler-taxonomy-tree_2024-10-22_14_36.tsv
+2024-10-22 14:36:17,445 - INFO - Selecting option: Fungi
+2024-10-22 14:36:18,532 - INFO - Export button found using XPath: //button[contains(., 'Export current results')]
+2024-10-22 14:36:19,541 - INFO - Clicked 'Export current results' for option: Fungi
+2024-10-22 14:36:20,546 - INFO - Downloaded file: /home/tlabib/Documents/github/cosmosid-scraper-api-zaag/downloads/SRR17798731_kepler-taxonomy-tree_2024-10-22_14_36 (1).tsv
+2024-10-22 14:36:22,882 - INFO - Selecting option: Combined Kingdom Results
+2024-10-22 14:36:24,246 - INFO - Export button found using XPath: //button[contains(., 'Export current results')]
+2024-10-22 14:36:25,265 - INFO - Clicked 'Export current results' for option: Combined Kingdom Results
+2024-10-22 14:36:26,270 - INFO - Downloaded file: /home/tlabib/Documents/github/cosmosid-scraper-api-zaag/downloads/SRR17798731_kepler-ck-taxonomy-tree_2024-10-22_14_36.tsv
+2024-10-22 14:36:28,604 - INFO - Selecting option: Antimicrobial Resistance
+2024-10-22 14:36:30,222 - INFO - Export button found using XPath: //button[contains(., 'Export current results')]
+2024-10-22 14:36:31,238 - INFO - Clicked 'Export current results' for option: Antimicrobial Resistance
+2024-10-22 14:36:32,243 - INFO - Downloaded file: /home/tlabib/Documents/github/cosmosid-scraper-api-zaag/downloads/SRR17798731_classes_filtered_2024-10-22_14_36.tsv
+2024-10-22 14:36:34,589 - INFO - Selecting option: GO Terms
+2024-10-22 14:36:36,002 - INFO - Export button found using XPath: //button[contains(., 'Export current results')]
+2024-10-22 14:36:37,045 - INFO - Clicked 'Export current results' for option: GO Terms
+2024-10-22 14:36:38,050 - INFO - Downloaded file: /home/tlabib/Documents/github/cosmosid-scraper-api-zaag/downloads/SRR17798731_functional-goterm_all_2024-10-22_14_36.tsv
+2024-10-22 14:36:40,398 - INFO - Selecting option: Virulence Factors
+2024-10-22 14:36:42,205 - INFO - Export button found using XPath: //button[contains(., 'Export current results')]
+2024-10-22 14:36:43,221 - INFO - Clicked 'Export current results' for option: Virulence Factors
+2024-10-22 14:36:44,226 - INFO - Downloaded file: /home/tlabib/Documents/github/cosmosid-scraper-api-zaag/downloads/SRR17798731_vf_table_phylogeny_filtered_2024-10-22_14_36.tsv
+2024-10-22 14:36:46,573 - INFO - Selecting option: Enzyme Commission
+2024-10-22 14:36:47,770 - INFO - Export button found using XPath: //button[contains(., 'Export current results')]
+2024-10-22 14:36:48,798 - INFO - Clicked 'Export current results' for option: Enzyme Commission
+2024-10-22 14:36:49,803 - INFO - Downloaded file: /home/tlabib/Documents/github/cosmosid-scraper-api-zaag/downloads/SRR17798731_functional-ec_2024-10-22_14_36.tsv
+2024-10-22 14:36:52,154 - INFO - Selecting option: MetaCyc Pathways
+2024-10-22 14:36:53,231 - INFO - Export button found using XPath: //button[contains(., 'Export current results')]
+2024-10-22 14:36:54,249 - INFO - Clicked 'Export current results' for option: MetaCyc Pathways
+2024-10-22 14:36:55,254 - INFO - Downloaded file: /home/tlabib/Documents/github/cosmosid-scraper-api-zaag/downloads/SRR17798731_functional-pathway_2024-10-22_14_36.tsv
+2024-10-22 14:36:57,583 - INFO - Selecting option: Pfam
+2024-10-22 14:36:59,247 - INFO - Export button found using XPath: //button[contains(., 'Export current results')]
+2024-10-22 14:37:00,291 - INFO - Clicked 'Export current results' for option: Pfam
+2024-10-22 14:37:01,296 - INFO - Downloaded file: /home/tlabib/Documents/github/cosmosid-scraper-api-zaag/downloads/SRR17798731_functional-pfam_2024-10-22_14_37.tsv
+2024-10-22 14:37:03,613 - INFO - Selecting option: CAZy
+2024-10-22 14:37:04,729 - INFO - Export button found using XPath: //button[contains(., 'Export current results')]
+2024-10-22 14:37:05,739 - INFO - Clicked 'Export current results' for option: CAZy
+2024-10-22 14:37:06,743 - INFO - Downloaded file: /home/tlabib/Documents/github/cosmosid-scraper-api-zaag/downloads/SRR17798731_functional-cazy_2024-10-22_14_37.tsv
+2024-10-22 14:37:09,083 - INFO - Selecting option: FASTQC
+2024-10-22 14:37:15,288 - WARNING - Couldn't locate export button with XPath: //button[contains(., 'Export current results')] - Message: 
+Stacktrace:
+#0 0x55f77d7ee0ca <unknown>
+#1 0x55f77d4eca80 <unknown>
+#2 0x55f77d53add8 <unknown>
+#3 0x55f77d53b071 <unknown>
+#4 0x55f77d5817f4 <unknown>
+#5 0x55f77d55fbbd <unknown>
+#6 0x55f77d57eb8e <unknown>
+#7 0x55f77d55f933 <unknown>
+#8 0x55f77d52de3d <unknown>
+#9 0x55f77d52e92e <unknown>
+#10 0x55f77d7b9c8f <unknown>
+#11 0x55f77d7bdd50 <unknown>
+#12 0x55f77d7a7837 <unknown>
+#13 0x55f77d7be4c1 <unknown>
+#14 0x55f77d78ed1e <unknown>
+#15 0x55f77d7dd2b8 <unknown>
+#16 0x55f77d7dd4ba <unknown>
+#17 0x55f77d7ecd5d <unknown>
+#18 0x7f59cdc60ac3 <unknown>
+
+2024-10-22 14:37:15,299 - ERROR - Failed to locate the 'Export current results' button with any of the provided XPaths.
+2024-10-22 14:37:15,299 - INFO - Opening URL: https://app.cosmosid.com/samples/19a62107-f9fe-4622-92b3-25b97da67c15
+2024-10-22 14:37:22,918 - INFO - Dropdown opened successfully.
+2024-10-22 14:37:22,935 - INFO - Dropdown options loaded successfully.
+2024-10-22 14:37:23,034 - INFO - Dropdown options collected: ['Bacteria', 'Viruses', 'Protists', 'Fungi', 'Combined Kingdom Results', 'Antimicrobial Resistance', 'GO Terms', 'Virulence Factors', 'Enzyme Commission', 'MetaCyc Pathways', 'Pfam', 'CAZy', 'FASTQC']
+2024-10-22 14:37:23,043 - INFO - Selecting option: Bacteria
+2024-10-22 14:37:24,087 - INFO - Export button found using XPath: //button[contains(., 'Export current results')]
+2024-10-22 14:37:25,100 - INFO - Clicked 'Export current results' for option: Bacteria
+2024-10-22 14:37:26,105 - INFO - Downloaded file: /home/tlabib/Documents/github/cosmosid-scraper-api-zaag/downloads/SRR17798759_kepler-taxonomy-tree_2024-10-22_14_37.tsv
+2024-10-22 14:37:26,230 - INFO - Clicked 'Taxonomy switcher' for Bacteria.
+2024-10-22 14:37:30,578 - INFO - Level dropdown opened successfully.
+2024-10-22 14:37:30,594 - INFO - Level dropdown options loaded successfully.
+2024-10-22 14:37:30,658 - INFO - Level dropdown options collected: ['domain', 'kingdom', 'phylum', 'class', 'order', 'family', 'genus', 'species', 'strain']
+2024-10-22 14:37:30,667 - INFO - Selecting Level: domain
+2024-10-22 14:37:32,823 - INFO - Clicked 'Export current results' for Level: domain
+2024-10-22 14:37:33,828 - INFO - Downloaded file: /home/tlabib/Documents/github/cosmosid-scraper-api-zaag/downloads/SRR17798759_kepler-biom_domain_2024-10-22_14_37.tsv
+2024-10-22 14:37:36,158 - INFO - Selecting Level: kingdom
+2024-10-22 14:37:38,309 - INFO - Clicked 'Export current results' for Level: kingdom
+2024-10-22 14:37:39,314 - INFO - Downloaded file: /home/tlabib/Documents/github/cosmosid-scraper-api-zaag/downloads/SRR17798759_kepler-biom_kingdom_2024-10-22_14_37.tsv
+2024-10-22 14:37:41,638 - INFO - Selecting Level: phylum
+2024-10-22 14:37:43,826 - INFO - Clicked 'Export current results' for Level: phylum
+2024-10-22 14:37:44,831 - INFO - Downloaded file: /home/tlabib/Documents/github/cosmosid-scraper-api-zaag/downloads/SRR17798759_kepler-biom_phylum_2024-10-22_14_37.tsv
+2024-10-22 14:37:47,170 - INFO - Selecting Level: class
+2024-10-22 14:37:49,329 - INFO - Clicked 'Export current results' for Level: class
+2024-10-22 14:37:50,335 - INFO - Downloaded file: /home/tlabib/Documents/github/cosmosid-scraper-api-zaag/downloads/SRR17798759_kepler-biom_class_2024-10-22_14_37.tsv
+2024-10-22 14:37:52,660 - INFO - Selecting Level: order
+2024-10-22 14:37:54,860 - INFO - Clicked 'Export current results' for Level: order
+2024-10-22 14:37:55,866 - INFO - Downloaded file: /home/tlabib/Documents/github/cosmosid-scraper-api-zaag/downloads/SRR17798759_kepler-biom_order_2024-10-22_14_37.tsv
+2024-10-22 14:37:58,221 - INFO - Selecting Level: family
+2024-10-22 14:38:00,468 - INFO - Clicked 'Export current results' for Level: family
+2024-10-22 14:38:01,474 - INFO - Downloaded file: /home/tlabib/Documents/github/cosmosid-scraper-api-zaag/downloads/SRR17798759_kepler-biom_family_2024-10-22_14_38.tsv
+2024-10-22 14:38:03,828 - INFO - Selecting Level: genus
+2024-10-22 14:38:06,084 - INFO - Clicked 'Export current results' for Level: genus
+2024-10-22 14:38:07,089 - INFO - Downloaded file: /home/tlabib/Documents/github/cosmosid-scraper-api-zaag/downloads/SRR17798759_kepler-biom_genus_2024-10-22_14_38.tsv
+2024-10-22 14:38:09,435 - INFO - Selecting Level: species
+2024-10-22 14:38:11,820 - INFO - Clicked 'Export current results' for Level: species
+2024-10-22 14:38:12,826 - INFO - Downloaded file: /home/tlabib/Documents/github/cosmosid-scraper-api-zaag/downloads/SRR17798759_kepler-biom_species_2024-10-22_14_38.tsv
+2024-10-22 14:38:15,163 - INFO - Selecting Level: strain
+2024-10-22 14:38:17,454 - INFO - Clicked 'Export current results' for Level: strain
+2024-10-22 14:38:18,459 - INFO - Downloaded file: /home/tlabib/Documents/github/cosmosid-scraper-api-zaag/downloads/SRR17798759_kepler-biom_strain_2024-10-22_14_38.tsv
+2024-10-22 14:38:20,804 - INFO - Selecting option: Viruses
+2024-10-22 14:38:27,067 - WARNING - Couldn't locate export button with XPath: //button[contains(., 'Export current results')] - Message: 
+Stacktrace:
+#0 0x55f77d7ee0ca <unknown>
+#1 0x55f77d4eca80 <unknown>
+#2 0x55f77d53add8 <unknown>
+#3 0x55f77d53b071 <unknown>
+#4 0x55f77d5817f4 <unknown>
+#5 0x55f77d55fbbd <unknown>
+#6 0x55f77d57eb8e <unknown>
+#7 0x55f77d55f933 <unknown>
+#8 0x55f77d52de3d <unknown>
+#9 0x55f77d52e92e <unknown>
+#10 0x55f77d7b9c8f <unknown>
+#11 0x55f77d7bdd50 <unknown>
+#12 0x55f77d7a7837 <unknown>
+#13 0x55f77d7be4c1 <unknown>
+#14 0x55f77d78ed1e <unknown>
+#15 0x55f77d7dd2b8 <unknown>
+#16 0x55f77d7dd4ba <unknown>
+#17 0x55f77d7ecd5d <unknown>
+#18 0x7f59cdc60ac3 <unknown>
+
+2024-10-22 14:38:27,072 - ERROR - Failed to locate the 'Export current results' button with any of the provided XPaths.
+2024-10-22 14:38:29,378 - INFO - Selecting option: Protists
+2024-10-22 14:38:30,490 - INFO - Export button found using XPath: //button[contains(., 'Export current results')]
+2024-10-22 14:38:31,510 - INFO - Clicked 'Export current results' for option: Protists
+2024-10-22 14:38:32,516 - INFO - Downloaded file: /home/tlabib/Documents/github/cosmosid-scraper-api-zaag/downloads/SRR17798759_kepler-taxonomy-tree_2024-10-22_14_38.tsv
+2024-10-22 14:38:34,856 - INFO - Selecting option: Fungi
+2024-10-22 14:38:35,966 - INFO - Export button found using XPath: //button[contains(., 'Export current results')]
+2024-10-22 14:38:36,981 - INFO - Clicked 'Export current results' for option: Fungi
+2024-10-22 14:38:37,986 - INFO - Downloaded file: /home/tlabib/Documents/github/cosmosid-scraper-api-zaag/downloads/SRR17798759_kepler-taxonomy-tree_2024-10-22_14_38 (1).tsv
+2024-10-22 14:38:40,291 - INFO - Selecting option: Combined Kingdom Results
+2024-10-22 14:38:41,480 - INFO - Export button found using XPath: //button[contains(., 'Export current results')]
+2024-10-22 14:38:42,505 - INFO - Clicked 'Export current results' for option: Combined Kingdom Results
+2024-10-22 14:38:43,510 - INFO - Downloaded file: /home/tlabib/Documents/github/cosmosid-scraper-api-zaag/downloads/SRR17798759_kepler-ck-taxonomy-tree_2024-10-22_14_38.tsv
+2024-10-22 14:38:45,878 - INFO - Selecting option: Antimicrobial Resistance
+2024-10-22 14:38:47,495 - INFO - Export button found using XPath: //button[contains(., 'Export current results')]
+2024-10-22 14:38:48,514 - INFO - Clicked 'Export current results' for option: Antimicrobial Resistance
+2024-10-22 14:38:49,521 - INFO - Downloaded file: /home/tlabib/Documents/github/cosmosid-scraper-api-zaag/downloads/SRR17798759_classes_filtered_2024-10-22_14_38.tsv
+2024-10-22 14:38:51,849 - INFO - Selecting option: GO Terms
+2024-10-22 14:38:53,073 - INFO - Export button found using XPath: //button[contains(., 'Export current results')]
+2024-10-22 14:38:54,091 - INFO - Clicked 'Export current results' for option: GO Terms
+2024-10-22 14:38:55,094 - INFO - Downloaded file: /home/tlabib/Documents/github/cosmosid-scraper-api-zaag/downloads/SRR17798759_functional-goterm_all_2024-10-22_14_38.tsv
+2024-10-22 14:38:57,411 - INFO - Selecting option: Virulence Factors
+2024-10-22 14:38:59,023 - INFO - Export button found using XPath: //button[contains(., 'Export current results')]
+2024-10-22 14:39:00,039 - INFO - Clicked 'Export current results' for option: Virulence Factors
+2024-10-22 14:39:01,044 - INFO - Downloaded file: /home/tlabib/Documents/github/cosmosid-scraper-api-zaag/downloads/SRR17798759_vf_table_phylogeny_filtered_2024-10-22_14_39.tsv
+2024-10-22 14:39:03,387 - INFO - Selecting option: Enzyme Commission
+2024-10-22 14:39:04,463 - INFO - Export button found using XPath: //button[contains(., 'Export current results')]
+2024-10-22 14:39:05,478 - INFO - Clicked 'Export current results' for option: Enzyme Commission
+2024-10-22 14:39:06,481 - INFO - Downloaded file: /home/tlabib/Documents/github/cosmosid-scraper-api-zaag/downloads/SRR17798759_functional-ec_2024-10-22_14_39.tsv
+2024-10-22 14:39:08,818 - INFO - Selecting option: MetaCyc Pathways
+2024-10-22 14:39:09,896 - INFO - Export button found using XPath: //button[contains(., 'Export current results')]
+2024-10-22 14:39:10,912 - INFO - Clicked 'Export current results' for option: MetaCyc Pathways
+2024-10-22 14:39:11,917 - INFO - Downloaded file: /home/tlabib/Documents/github/cosmosid-scraper-api-zaag/downloads/SRR17798759_functional-pathway_2024-10-22_14_39.tsv
+2024-10-22 14:39:14,237 - INFO - Selecting option: Pfam
+2024-10-22 14:39:15,528 - INFO - Export button found using XPath: //button[contains(., 'Export current results')]
+2024-10-22 14:39:16,547 - INFO - Clicked 'Export current results' for option: Pfam
+2024-10-22 14:39:17,549 - INFO - Downloaded file: /home/tlabib/Documents/github/cosmosid-scraper-api-zaag/downloads/SRR17798759_functional-pfam_2024-10-22_14_39.tsv
+2024-10-22 14:39:19,914 - INFO - Selecting option: CAZy
+2024-10-22 14:39:20,994 - INFO - Export button found using XPath: //button[contains(., 'Export current results')]
+2024-10-22 14:39:22,011 - INFO - Clicked 'Export current results' for option: CAZy
+2024-10-22 14:39:23,016 - INFO - Downloaded file: /home/tlabib/Documents/github/cosmosid-scraper-api-zaag/downloads/SRR17798759_functional-cazy_2024-10-22_14_39.tsv
+2024-10-22 14:39:25,352 - INFO - Selecting option: FASTQC
+2024-10-22 14:39:31,563 - WARNING - Couldn't locate export button with XPath: //button[contains(., 'Export current results')] - Message: 
+Stacktrace:
+#0 0x55f77d7ee0ca <unknown>
+#1 0x55f77d4eca80 <unknown>
+#2 0x55f77d53add8 <unknown>
+#3 0x55f77d53b071 <unknown>
+#4 0x55f77d5817f4 <unknown>
+#5 0x55f77d55fbbd <unknown>
+#6 0x55f77d57eb8e <unknown>
+#7 0x55f77d55f933 <unknown>
+#8 0x55f77d52de3d <unknown>
+#9 0x55f77d52e92e <unknown>
+#10 0x55f77d7b9c8f <unknown>
+#11 0x55f77d7bdd50 <unknown>
+#12 0x55f77d7a7837 <unknown>
+#13 0x55f77d7be4c1 <unknown>
+#14 0x55f77d78ed1e <unknown>
+#15 0x55f77d7dd2b8 <unknown>
+#16 0x55f77d7dd4ba <unknown>
+#17 0x55f77d7ecd5d <unknown>
+#18 0x7f59cdc60ac3 <unknown>
+
+2024-10-22 14:39:31,566 - ERROR - Failed to locate the 'Export current results' button with any of the provided XPaths.
+2024-10-22 14:39:31,566 - INFO - Opening URL: https://app.cosmosid.com/samples/14f34828-aaa1-4609-9fc9-8203b951b26a
+2024-10-22 14:39:38,780 - INFO - Dropdown opened successfully.
+2024-10-22 14:39:38,795 - INFO - Dropdown options loaded successfully.
+2024-10-22 14:39:38,876 - INFO - Dropdown options collected: ['Bacteria', 'Viruses', 'Protists', 'Fungi', 'Combined Kingdom Results', 'Antimicrobial Resistance', 'GO Terms', 'Virulence Factors', 'Enzyme Commission', 'MetaCyc Pathways', 'Pfam', 'CAZy', 'FASTQC']
+2024-10-22 14:39:38,886 - INFO - Selecting option: Bacteria
+2024-10-22 14:41:22,434 - INFO - Opening URL: https://app.cosmosid.com/samples/14f34828-aaa1-4609-9fc9-8203b951b26a
+2024-10-22 14:41:29,333 - INFO - Dropdown opened successfully.
+2024-10-22 14:41:29,344 - INFO - Dropdown options loaded successfully.
+2024-10-22 14:41:29,418 - INFO - Dropdown options collected: ['Bacteria', 'Viruses', 'Protists', 'Fungi', 'Combined Kingdom Results', 'Antimicrobial Resistance', 'GO Terms', 'Virulence Factors', 'Enzyme Commission', 'MetaCyc Pathways', 'Pfam', 'CAZy', 'FASTQC']
+2024-10-22 14:41:29,430 - INFO - Selecting option: Bacteria
+2024-10-22 14:41:30,465 - INFO - Export button found using XPath: //button[contains(., 'Export current results')]
+2024-10-22 14:41:31,478 - INFO - Clicked 'Export current results' for option: Bacteria
+2024-10-22 14:41:32,483 - INFO - Downloaded file: /home/tlabib/Documents/github/cosmosid-scraper-api-zaag/downloads/SRR17798707_kepler-taxonomy-tree_2024-10-22_14_41.tsv
+2024-10-22 14:41:32,591 - INFO - Clicked 'Taxonomy switcher' for Bacteria.
+2024-10-22 14:41:36,925 - INFO - Level dropdown opened successfully.
+2024-10-22 14:41:36,940 - INFO - Level dropdown options loaded successfully.
+2024-10-22 14:41:36,984 - INFO - Level dropdown options collected: ['domain', 'kingdom', 'phylum', 'class', 'order', 'family', 'genus', 'species', 'strain']
+2024-10-22 14:41:36,993 - INFO - Selecting Level: domain
+2024-10-22 14:41:39,097 - INFO - Clicked 'Export current results' for Level: domain
+2024-10-22 14:41:40,103 - INFO - Downloaded file: /home/tlabib/Documents/github/cosmosid-scraper-api-zaag/downloads/SRR17798707_kepler-biom_domain_2024-10-22_14_41.tsv
+2024-10-22 14:41:42,421 - INFO - Selecting Level: kingdom
+2024-10-22 14:41:44,554 - INFO - Clicked 'Export current results' for Level: kingdom
+2024-10-22 14:41:45,556 - INFO - Downloaded file: /home/tlabib/Documents/github/cosmosid-scraper-api-zaag/downloads/SRR17798707_kepler-biom_kingdom_2024-10-22_14_41.tsv
+2024-10-22 14:41:47,896 - INFO - Selecting Level: phylum
+2024-10-22 14:41:50,067 - INFO - Clicked 'Export current results' for Level: phylum
+2024-10-22 14:41:51,073 - INFO - Downloaded file: /home/tlabib/Documents/github/cosmosid-scraper-api-zaag/downloads/SRR17798707_kepler-biom_phylum_2024-10-22_14_41.tsv
+2024-10-22 14:41:53,415 - INFO - Selecting Level: class
+2024-10-22 14:41:55,534 - INFO - Clicked 'Export current results' for Level: class
+2024-10-22 14:41:56,539 - INFO - Downloaded file: /home/tlabib/Documents/github/cosmosid-scraper-api-zaag/downloads/SRR17798707_kepler-biom_class_2024-10-22_14_41.tsv
+2024-10-22 14:41:58,847 - INFO - Selecting Level: order
+2024-10-22 14:42:01,030 - INFO - Clicked 'Export current results' for Level: order
+2024-10-22 14:42:02,035 - INFO - Downloaded file: /home/tlabib/Documents/github/cosmosid-scraper-api-zaag/downloads/SRR17798707_kepler-biom_order_2024-10-22_14_42.tsv
+2024-10-22 14:42:04,379 - INFO - Selecting Level: family
+2024-10-22 14:42:06,576 - INFO - Clicked 'Export current results' for Level: family
+2024-10-22 14:42:07,579 - INFO - Downloaded file: /home/tlabib/Documents/github/cosmosid-scraper-api-zaag/downloads/SRR17798707_kepler-biom_family_2024-10-22_14_42.tsv
+2024-10-22 14:42:09,946 - INFO - Selecting Level: genus
+2024-10-22 14:42:12,161 - INFO - Clicked 'Export current results' for Level: genus
+2024-10-22 14:42:13,167 - INFO - Downloaded file: /home/tlabib/Documents/github/cosmosid-scraper-api-zaag/downloads/SRR17798707_kepler-biom_genus_2024-10-22_14_42.tsv
+2024-10-22 14:42:15,484 - INFO - Selecting Level: species
+2024-10-22 14:42:17,844 - INFO - Clicked 'Export current results' for Level: species
+2024-10-22 14:42:18,849 - INFO - Downloaded file: /home/tlabib/Documents/github/cosmosid-scraper-api-zaag/downloads/SRR17798707_kepler-biom_species_2024-10-22_14_42.tsv
+2024-10-22 14:42:21,176 - INFO - Selecting Level: strain
+2024-10-22 14:42:23,414 - INFO - Clicked 'Export current results' for Level: strain
+2024-10-22 14:42:24,419 - INFO - Downloaded file: /home/tlabib/Documents/github/cosmosid-scraper-api-zaag/downloads/SRR17798707_kepler-biom_strain_2024-10-22_14_42.tsv
+2024-10-22 14:42:26,758 - INFO - Selecting option: Viruses
+2024-10-22 14:42:32,990 - WARNING - Couldn't locate export button with XPath: //button[contains(., 'Export current results')] - Message: 
+Stacktrace:
+#0 0x55b13f7090ca <unknown>
+#1 0x55b13f407a80 <unknown>
+#2 0x55b13f455dd8 <unknown>
+#3 0x55b13f456071 <unknown>
+#4 0x55b13f49c7f4 <unknown>
+#5 0x55b13f47abbd <unknown>
+#6 0x55b13f499b8e <unknown>
+#7 0x55b13f47a933 <unknown>
+#8 0x55b13f448e3d <unknown>
+#9 0x55b13f44992e <unknown>
+#10 0x55b13f6d4c8f <unknown>
+#11 0x55b13f6d8d50 <unknown>
+#12 0x55b13f6c2837 <unknown>
+#13 0x55b13f6d94c1 <unknown>
+#14 0x55b13f6a9d1e <unknown>
+#15 0x55b13f6f82b8 <unknown>
+#16 0x55b13f6f84ba <unknown>
+#17 0x55b13f707d5d <unknown>
+#18 0x7fe113396ac3 <unknown>
+
+2024-10-22 14:42:33,001 - ERROR - Failed to locate the 'Export current results' button with any of the provided XPaths.
+2024-10-22 14:42:35,374 - INFO - Selecting option: Protists
+2024-10-22 14:42:41,608 - WARNING - Couldn't locate export button with XPath: //button[contains(., 'Export current results')] - Message: 
+Stacktrace:
+#0 0x55b13f7090ca <unknown>
+#1 0x55b13f407a80 <unknown>
+#2 0x55b13f455dd8 <unknown>
+#3 0x55b13f456071 <unknown>
+#4 0x55b13f49c7f4 <unknown>
+#5 0x55b13f47abbd <unknown>
+#6 0x55b13f499b8e <unknown>
+#7 0x55b13f47a933 <unknown>
+#8 0x55b13f448e3d <unknown>
+#9 0x55b13f44992e <unknown>
+#10 0x55b13f6d4c8f <unknown>
+#11 0x55b13f6d8d50 <unknown>
+#12 0x55b13f6c2837 <unknown>
+#13 0x55b13f6d94c1 <unknown>
+#14 0x55b13f6a9d1e <unknown>
+#15 0x55b13f6f82b8 <unknown>
+#16 0x55b13f6f84ba <unknown>
+#17 0x55b13f707d5d <unknown>
+#18 0x7fe113396ac3 <unknown>
+
+2024-10-22 14:42:41,617 - ERROR - Failed to locate the 'Export current results' button with any of the provided XPaths.
+2024-10-22 14:42:43,947 - INFO - Selecting option: Fungi
+2024-10-22 14:42:45,027 - INFO - Export button found using XPath: //button[contains(., 'Export current results')]
+2024-10-22 14:42:46,039 - INFO - Clicked 'Export current results' for option: Fungi
+2024-10-22 14:42:47,044 - INFO - Downloaded file: /home/tlabib/Documents/github/cosmosid-scraper-api-zaag/downloads/SRR17798707_kepler-taxonomy-tree_2024-10-22_14_42.tsv
+2024-10-22 14:42:49,414 - INFO - Selecting option: Combined Kingdom Results
+2024-10-22 14:42:51,025 - INFO - Export button found using XPath: //button[contains(., 'Export current results')]
+2024-10-22 14:42:52,042 - INFO - Clicked 'Export current results' for option: Combined Kingdom Results
+2024-10-22 14:42:53,047 - INFO - Downloaded file: /home/tlabib/Documents/github/cosmosid-scraper-api-zaag/downloads/SRR17798707_kepler-ck-taxonomy-tree_2024-10-22_14_42.tsv
+2024-10-22 14:42:55,389 - INFO - Selecting option: Antimicrobial Resistance
+2024-10-22 14:42:56,997 - INFO - Export button found using XPath: //button[contains(., 'Export current results')]
+2024-10-22 14:42:58,013 - INFO - Clicked 'Export current results' for option: Antimicrobial Resistance
+2024-10-22 14:42:59,018 - INFO - Downloaded file: /home/tlabib/Documents/github/cosmosid-scraper-api-zaag/downloads/SRR17798707_classes_filtered_2024-10-22_14_42.tsv
+2024-10-22 14:43:01,343 - INFO - Selecting option: GO Terms
+2024-10-22 14:43:02,639 - INFO - Export button found using XPath: //button[contains(., 'Export current results')]
+2024-10-22 14:43:03,674 - INFO - Clicked 'Export current results' for option: GO Terms
+2024-10-22 14:43:04,680 - INFO - Downloaded file: /home/tlabib/Documents/github/cosmosid-scraper-api-zaag/downloads/SRR17798707_functional-goterm_all_2024-10-22_14_43.tsv
+2024-10-22 14:43:07,019 - INFO - Selecting option: Virulence Factors
+2024-10-22 14:43:09,108 - INFO - Export button found using XPath: //button[contains(., 'Export current results')]
+2024-10-22 14:43:10,128 - INFO - Clicked 'Export current results' for option: Virulence Factors
+2024-10-22 14:43:11,133 - INFO - Downloaded file: /home/tlabib/Documents/github/cosmosid-scraper-api-zaag/downloads/SRR17798707_vf_table_phylogeny_filtered_2024-10-22_14_43.tsv
+2024-10-22 14:43:13,470 - INFO - Selecting option: Enzyme Commission
+2024-10-22 14:43:14,542 - INFO - Export button found using XPath: //button[contains(., 'Export current results')]
+2024-10-22 14:43:15,568 - INFO - Clicked 'Export current results' for option: Enzyme Commission
+2024-10-22 14:43:16,574 - INFO - Downloaded file: /home/tlabib/Documents/github/cosmosid-scraper-api-zaag/downloads/SRR17798707_functional-ec_2024-10-22_14_43.tsv
+2024-10-22 14:43:18,920 - INFO - Selecting option: MetaCyc Pathways
+2024-10-22 14:43:20,120 - INFO - Export button found using XPath: //button[contains(., 'Export current results')]
+2024-10-22 14:43:21,139 - INFO - Clicked 'Export current results' for option: MetaCyc Pathways
+2024-10-22 14:43:22,144 - INFO - Downloaded file: /home/tlabib/Documents/github/cosmosid-scraper-api-zaag/downloads/SRR17798707_functional-pathway_2024-10-22_14_43.tsv
+2024-10-22 14:43:24,481 - INFO - Selecting option: Pfam
+2024-10-22 14:43:26,096 - INFO - Export button found using XPath: //button[contains(., 'Export current results')]
+2024-10-22 14:43:27,134 - INFO - Clicked 'Export current results' for option: Pfam
+2024-10-22 14:43:28,140 - INFO - Downloaded file: /home/tlabib/Documents/github/cosmosid-scraper-api-zaag/downloads/SRR17798707_functional-pfam_2024-10-22_14_43.tsv
+2024-10-22 14:43:30,487 - INFO - Selecting option: CAZy
+2024-10-22 14:43:31,569 - INFO - Export button found using XPath: //button[contains(., 'Export current results')]
+2024-10-22 14:43:32,584 - INFO - Clicked 'Export current results' for option: CAZy
+2024-10-22 14:43:33,590 - INFO - Downloaded file: /home/tlabib/Documents/github/cosmosid-scraper-api-zaag/downloads/SRR17798707_functional-cazy_2024-10-22_14_43.tsv
+2024-10-22 14:43:35,932 - INFO - Selecting option: FASTQC
+2024-10-22 14:43:42,169 - WARNING - Couldn't locate export button with XPath: //button[contains(., 'Export current results')] - Message: 
+Stacktrace:
+#0 0x55b13f7090ca <unknown>
+#1 0x55b13f407a80 <unknown>
+#2 0x55b13f455dd8 <unknown>
+#3 0x55b13f456071 <unknown>
+#4 0x55b13f49c7f4 <unknown>
+#5 0x55b13f47abbd <unknown>
+#6 0x55b13f499b8e <unknown>
+#7 0x55b13f47a933 <unknown>
+#8 0x55b13f448e3d <unknown>
+#9 0x55b13f44992e <unknown>
+#10 0x55b13f6d4c8f <unknown>
+#11 0x55b13f6d8d50 <unknown>
+#12 0x55b13f6c2837 <unknown>
+#13 0x55b13f6d94c1 <unknown>
+#14 0x55b13f6a9d1e <unknown>
+#15 0x55b13f6f82b8 <unknown>
+#16 0x55b13f6f84ba <unknown>
+#17 0x55b13f707d5d <unknown>
+#18 0x7fe113396ac3 <unknown>
+
+2024-10-22 14:43:42,176 - ERROR - Failed to locate the 'Export current results' button with any of the provided XPaths.
+2024-10-22 14:43:42,176 - INFO - Opening URL: https://app.cosmosid.com/samples/191df5cb-528a-44f5-8d3e-1bc77fb234a3
+2024-10-22 14:43:50,234 - INFO - Dropdown opened successfully.
+2024-10-22 14:43:50,243 - INFO - Dropdown options loaded successfully.
+2024-10-22 14:43:50,298 - INFO - Dropdown options collected: ['Bacteria', 'Viruses', 'Protists', 'Fungi', 'Combined Kingdom Results', 'Antimicrobial Resistance', 'GO Terms', 'Virulence Factors', 'Enzyme Commission', 'MetaCyc Pathways', 'Pfam', 'CAZy', 'FASTQC']
+2024-10-22 14:43:50,307 - INFO - Selecting option: Bacteria
+2024-10-22 14:43:51,353 - INFO - Export button found using XPath: //button[contains(., 'Export current results')]
+2024-10-22 14:43:52,364 - INFO - Clicked 'Export current results' for option: Bacteria
+2024-10-22 14:43:53,370 - INFO - Downloaded file: /home/tlabib/Documents/github/cosmosid-scraper-api-zaag/downloads/SRR17798719_kepler-taxonomy-tree_2024-10-22_14_43.tsv
+2024-10-22 14:43:53,485 - INFO - Clicked 'Taxonomy switcher' for Bacteria.
+2024-10-22 14:43:57,830 - INFO - Level dropdown opened successfully.
+2024-10-22 14:43:57,843 - INFO - Level dropdown options loaded successfully.
+2024-10-22 14:43:57,897 - INFO - Level dropdown options collected: ['domain', 'kingdom', 'phylum', 'class', 'order', 'family', 'genus', 'species', 'strain']
+2024-10-22 14:43:57,907 - INFO - Selecting Level: domain
+2024-10-22 14:44:00,050 - INFO - Clicked 'Export current results' for Level: domain
+2024-10-22 14:44:01,056 - INFO - Downloaded file: /home/tlabib/Documents/github/cosmosid-scraper-api-zaag/downloads/SRR17798719_kepler-biom_domain_2024-10-22_14_44.tsv
+2024-10-22 14:44:03,395 - INFO - Selecting Level: kingdom
+2024-10-22 14:44:05,527 - INFO - Clicked 'Export current results' for Level: kingdom
+2024-10-22 14:44:06,532 - INFO - Downloaded file: /home/tlabib/Documents/github/cosmosid-scraper-api-zaag/downloads/SRR17798719_kepler-biom_kingdom_2024-10-22_14_44.tsv
+2024-10-22 14:44:08,862 - INFO - Selecting Level: phylum
+2024-10-22 14:44:11,043 - INFO - Clicked 'Export current results' for Level: phylum
+2024-10-22 14:44:12,049 - INFO - Downloaded file: /home/tlabib/Documents/github/cosmosid-scraper-api-zaag/downloads/SRR17798719_kepler-biom_phylum_2024-10-22_14_44.tsv
+2024-10-22 14:44:14,391 - INFO - Selecting Level: class
+2024-10-22 14:44:16,563 - INFO - Clicked 'Export current results' for Level: class
+2024-10-22 14:44:17,569 - INFO - Downloaded file: /home/tlabib/Documents/github/cosmosid-scraper-api-zaag/downloads/SRR17798719_kepler-biom_class_2024-10-22_14_44.tsv
+2024-10-22 14:44:19,912 - INFO - Selecting Level: order
+2024-10-22 14:44:22,071 - INFO - Clicked 'Export current results' for Level: order
+2024-10-22 14:44:23,076 - INFO - Downloaded file: /home/tlabib/Documents/github/cosmosid-scraper-api-zaag/downloads/SRR17798719_kepler-biom_order_2024-10-22_14_44.tsv
+2024-10-22 14:44:25,414 - INFO - Selecting Level: family
+2024-10-22 14:44:27,568 - INFO - Clicked 'Export current results' for Level: family
+2024-10-22 14:44:28,574 - INFO - Downloaded file: /home/tlabib/Documents/github/cosmosid-scraper-api-zaag/downloads/SRR17798719_kepler-biom_family_2024-10-22_14_44.tsv
+2024-10-22 14:44:30,906 - INFO - Selecting Level: genus
+2024-10-22 14:44:33,070 - INFO - Clicked 'Export current results' for Level: genus
+2024-10-22 14:44:34,075 - INFO - Downloaded file: /home/tlabib/Documents/github/cosmosid-scraper-api-zaag/downloads/SRR17798719_kepler-biom_genus_2024-10-22_14_44.tsv
+2024-10-22 14:44:36,419 - INFO - Selecting Level: species
+2024-10-22 14:44:38,587 - INFO - Clicked 'Export current results' for Level: species
+2024-10-22 14:44:39,593 - INFO - Downloaded file: /home/tlabib/Documents/github/cosmosid-scraper-api-zaag/downloads/SRR17798719_kepler-biom_species_2024-10-22_14_44.tsv
+2024-10-22 14:44:41,928 - INFO - Selecting Level: strain
+2024-10-22 14:44:44,116 - INFO - Clicked 'Export current results' for Level: strain
+2024-10-22 14:44:45,122 - INFO - Downloaded file: /home/tlabib/Documents/github/cosmosid-scraper-api-zaag/downloads/SRR17798719_kepler-biom_strain_2024-10-22_14_44.tsv
+2024-10-22 14:44:47,463 - INFO - Selecting option: Viruses
+2024-10-22 14:44:53,714 - WARNING - Couldn't locate export button with XPath: //button[contains(., 'Export current results')] - Message: 
+Stacktrace:
+#0 0x55b13f7090ca <unknown>
+#1 0x55b13f407a80 <unknown>
+#2 0x55b13f455dd8 <unknown>
+#3 0x55b13f456071 <unknown>
+#4 0x55b13f49c7f4 <unknown>
+#5 0x55b13f47abbd <unknown>
+#6 0x55b13f499b8e <unknown>
+#7 0x55b13f47a933 <unknown>
+#8 0x55b13f448e3d <unknown>
+#9 0x55b13f44992e <unknown>
+#10 0x55b13f6d4c8f <unknown>
+#11 0x55b13f6d8d50 <unknown>
+#12 0x55b13f6c2837 <unknown>
+#13 0x55b13f6d94c1 <unknown>
+#14 0x55b13f6a9d1e <unknown>
+#15 0x55b13f6f82b8 <unknown>
+#16 0x55b13f6f84ba <unknown>
+#17 0x55b13f707d5d <unknown>
+#18 0x7fe113396ac3 <unknown>
+
+2024-10-22 14:44:53,724 - ERROR - Failed to locate the 'Export current results' button with any of the provided XPaths.
+2024-10-22 14:44:56,063 - INFO - Selecting option: Protists
+2024-10-22 14:45:02,273 - WARNING - Couldn't locate export button with XPath: //button[contains(., 'Export current results')] - Message: 
+Stacktrace:
+#0 0x55b13f7090ca <unknown>
+#1 0x55b13f407a80 <unknown>
+#2 0x55b13f455dd8 <unknown>
+#3 0x55b13f456071 <unknown>
+#4 0x55b13f49c7f4 <unknown>
+#5 0x55b13f47abbd <unknown>
+#6 0x55b13f499b8e <unknown>
+#7 0x55b13f47a933 <unknown>
+#8 0x55b13f448e3d <unknown>
+#9 0x55b13f44992e <unknown>
+#10 0x55b13f6d4c8f <unknown>
+#11 0x55b13f6d8d50 <unknown>
+#12 0x55b13f6c2837 <unknown>
+#13 0x55b13f6d94c1 <unknown>
+#14 0x55b13f6a9d1e <unknown>
+#15 0x55b13f6f82b8 <unknown>
+#16 0x55b13f6f84ba <unknown>
+#17 0x55b13f707d5d <unknown>
+#18 0x7fe113396ac3 <unknown>
+
+2024-10-22 14:45:02,278 - ERROR - Failed to locate the 'Export current results' button with any of the provided XPaths.
+2024-10-22 14:45:04,592 - INFO - Selecting option: Fungi
+2024-10-22 14:45:05,677 - INFO - Export button found using XPath: //button[contains(., 'Export current results')]
+2024-10-22 14:45:06,692 - INFO - Clicked 'Export current results' for option: Fungi
+2024-10-22 14:45:07,698 - INFO - Downloaded file: /home/tlabib/Documents/github/cosmosid-scraper-api-zaag/downloads/SRR17798719_kepler-taxonomy-tree_2024-10-22_14_45.tsv
+2024-10-22 14:45:10,040 - INFO - Selecting option: Combined Kingdom Results
+2024-10-22 14:45:11,122 - INFO - Export button found using XPath: //button[contains(., 'Export current results')]
+2024-10-22 14:45:12,135 - INFO - Clicked 'Export current results' for option: Combined Kingdom Results
+2024-10-22 14:45:13,141 - INFO - Downloaded file: /home/tlabib/Documents/github/cosmosid-scraper-api-zaag/downloads/SRR17798719_kepler-ck-taxonomy-tree_2024-10-22_14_45.tsv
+2024-10-22 14:45:15,483 - INFO - Selecting option: Antimicrobial Resistance
+2024-10-22 14:45:17,073 - INFO - Export button found using XPath: //button[contains(., 'Export current results')]
+2024-10-22 14:45:18,090 - INFO - Clicked 'Export current results' for option: Antimicrobial Resistance
+2024-10-22 14:45:19,097 - INFO - Downloaded file: /home/tlabib/Documents/github/cosmosid-scraper-api-zaag/downloads/SRR17798719_classes_filtered_2024-10-22_14_45.tsv
+2024-10-22 14:45:21,433 - INFO - Selecting option: GO Terms
+2024-10-22 14:45:23,051 - INFO - Export button found using XPath: //button[contains(., 'Export current results')]
+2024-10-22 14:45:24,080 - INFO - Clicked 'Export current results' for option: GO Terms
+2024-10-22 14:45:25,086 - INFO - Downloaded file: /home/tlabib/Documents/github/cosmosid-scraper-api-zaag/downloads/SRR17798719_functional-goterm_all_2024-10-22_14_45.tsv
+2024-10-22 14:45:27,428 - INFO - Selecting option: Virulence Factors
+2024-10-22 14:45:29,022 - INFO - Export button found using XPath: //button[contains(., 'Export current results')]
+2024-10-22 14:45:30,039 - INFO - Clicked 'Export current results' for option: Virulence Factors
+2024-10-22 14:45:31,045 - INFO - Downloaded file: /home/tlabib/Documents/github/cosmosid-scraper-api-zaag/downloads/SRR17798719_vf_table_phylogeny_filtered_2024-10-22_14_45.tsv
+2024-10-22 14:45:33,385 - INFO - Selecting option: Enzyme Commission
+2024-10-22 14:45:34,513 - INFO - Export button found using XPath: //button[contains(., 'Export current results')]
+2024-10-22 14:45:35,535 - INFO - Clicked 'Export current results' for option: Enzyme Commission
+2024-10-22 14:45:36,540 - INFO - Downloaded file: /home/tlabib/Documents/github/cosmosid-scraper-api-zaag/downloads/SRR17798719_functional-ec_2024-10-22_14_45.tsv
+2024-10-22 14:45:38,885 - INFO - Selecting option: MetaCyc Pathways
+2024-10-22 14:45:40,478 - INFO - Export button found using XPath: //button[contains(., 'Export current results')]
+2024-10-22 14:45:41,495 - INFO - Clicked 'Export current results' for option: MetaCyc Pathways
+2024-10-22 14:45:42,501 - INFO - Downloaded file: /home/tlabib/Documents/github/cosmosid-scraper-api-zaag/downloads/SRR17798719_functional-pathway_2024-10-22_14_45.tsv
+2024-10-22 14:45:44,830 - INFO - Selecting option: Pfam
+2024-10-22 14:45:46,459 - INFO - Export button found using XPath: //button[contains(., 'Export current results')]
+2024-10-22 14:45:47,490 - INFO - Clicked 'Export current results' for option: Pfam
+2024-10-22 14:45:48,496 - INFO - Downloaded file: /home/tlabib/Documents/github/cosmosid-scraper-api-zaag/downloads/SRR17798719_functional-pfam_2024-10-22_14_45.tsv
+2024-10-22 14:45:50,838 - INFO - Selecting option: CAZy
+2024-10-22 14:45:51,927 - INFO - Export button found using XPath: //button[contains(., 'Export current results')]
+2024-10-22 14:45:52,943 - INFO - Clicked 'Export current results' for option: CAZy
+2024-10-22 14:45:53,947 - INFO - Downloaded file: /home/tlabib/Documents/github/cosmosid-scraper-api-zaag/downloads/SRR17798719_functional-cazy_2024-10-22_14_45.tsv
+2024-10-22 14:45:56,302 - INFO - Selecting option: FASTQC
+2024-10-22 14:46:02,519 - WARNING - Couldn't locate export button with XPath: //button[contains(., 'Export current results')] - Message: 
+Stacktrace:
+#0 0x55b13f7090ca <unknown>
+#1 0x55b13f407a80 <unknown>
+#2 0x55b13f455dd8 <unknown>
+#3 0x55b13f456071 <unknown>
+#4 0x55b13f49c7f4 <unknown>
+#5 0x55b13f47abbd <unknown>
+#6 0x55b13f499b8e <unknown>
+#7 0x55b13f47a933 <unknown>
+#8 0x55b13f448e3d <unknown>
+#9 0x55b13f44992e <unknown>
+#10 0x55b13f6d4c8f <unknown>
+#11 0x55b13f6d8d50 <unknown>
+#12 0x55b13f6c2837 <unknown>
+#13 0x55b13f6d94c1 <unknown>
+#14 0x55b13f6a9d1e <unknown>
+#15 0x55b13f6f82b8 <unknown>
+#16 0x55b13f6f84ba <unknown>
+#17 0x55b13f707d5d <unknown>
+#18 0x7fe113396ac3 <unknown>
+
+2024-10-22 14:46:02,528 - ERROR - Failed to locate the 'Export current results' button with any of the provided XPaths.
+2024-10-22 14:46:02,528 - INFO - Opening URL: https://app.cosmosid.com/samples/c11e3692-c371-4ecc-8123-7124c0214e5a
+2024-10-22 14:46:10,046 - INFO - Dropdown opened successfully.
+2024-10-22 14:46:10,051 - INFO - Dropdown options loaded successfully.
+2024-10-22 14:46:10,106 - INFO - Dropdown options collected: ['Bacteria', 'Viruses', 'Protists', 'Fungi', 'Combined Kingdom Results', 'Antimicrobial Resistance', 'GO Terms', 'Virulence Factors', 'Enzyme Commission', 'MetaCyc Pathways', 'Pfam', 'CAZy', 'FASTQC']
+2024-10-22 14:46:10,115 - INFO - Selecting option: Bacteria
+2024-10-22 14:46:11,171 - INFO - Export button found using XPath: //button[contains(., 'Export current results')]
+2024-10-22 14:46:12,190 - INFO - Clicked 'Export current results' for option: Bacteria
+2024-10-22 14:46:13,193 - INFO - Downloaded file: /home/tlabib/Documents/github/cosmosid-scraper-api-zaag/downloads/SRR17798728_kepler-taxonomy-tree_2024-10-22_14_46.tsv
+2024-10-22 14:46:13,375 - INFO - Clicked 'Taxonomy switcher' for Bacteria.
+2024-10-22 14:46:17,728 - INFO - Level dropdown opened successfully.
+2024-10-22 14:46:17,738 - INFO - Level dropdown options loaded successfully.
+2024-10-22 14:46:17,813 - INFO - Level dropdown options collected: ['domain', 'kingdom', 'phylum', 'class', 'order', 'family', 'genus', 'species', 'strain']
+2024-10-22 14:46:17,828 - INFO - Selecting Level: domain
+2024-10-22 14:46:19,991 - INFO - Clicked 'Export current results' for Level: domain
+2024-10-22 14:46:20,996 - INFO - Downloaded file: /home/tlabib/Documents/github/cosmosid-scraper-api-zaag/downloads/SRR17798728_kepler-biom_domain_2024-10-22_14_46.tsv
+2024-10-22 14:46:23,334 - INFO - Selecting Level: kingdom
+2024-10-22 14:46:25,492 - INFO - Clicked 'Export current results' for Level: kingdom
+2024-10-22 14:46:26,497 - INFO - Downloaded file: /home/tlabib/Documents/github/cosmosid-scraper-api-zaag/downloads/SRR17798728_kepler-biom_kingdom_2024-10-22_14_46.tsv
+2024-10-22 14:46:28,841 - INFO - Selecting Level: phylum
+2024-10-22 14:46:31,025 - INFO - Clicked 'Export current results' for Level: phylum
+2024-10-22 14:46:32,031 - INFO - Downloaded file: /home/tlabib/Documents/github/cosmosid-scraper-api-zaag/downloads/SRR17798728_kepler-biom_phylum_2024-10-22_14_46.tsv
+2024-10-22 14:46:34,350 - INFO - Selecting Level: class
+2024-10-22 14:46:36,530 - INFO - Clicked 'Export current results' for Level: class
+2024-10-22 14:46:37,536 - INFO - Downloaded file: /home/tlabib/Documents/github/cosmosid-scraper-api-zaag/downloads/SRR17798728_kepler-biom_class_2024-10-22_14_46.tsv
+2024-10-22 14:46:39,878 - INFO - Selecting Level: order
+2024-10-22 14:46:42,071 - INFO - Clicked 'Export current results' for Level: order
+2024-10-22 14:46:43,077 - INFO - Downloaded file: /home/tlabib/Documents/github/cosmosid-scraper-api-zaag/downloads/SRR17798728_kepler-biom_order_2024-10-22_14_46.tsv
+2024-10-22 14:46:45,408 - INFO - Selecting Level: family
+2024-10-22 14:46:47,655 - INFO - Clicked 'Export current results' for Level: family
+2024-10-22 14:46:48,660 - INFO - Downloaded file: /home/tlabib/Documents/github/cosmosid-scraper-api-zaag/downloads/SRR17798728_kepler-biom_family_2024-10-22_14_46.tsv
+2024-10-22 14:46:50,999 - INFO - Selecting Level: genus
+2024-10-22 14:46:53,306 - INFO - Clicked 'Export current results' for Level: genus
+2024-10-22 14:46:54,308 - INFO - Downloaded file: /home/tlabib/Documents/github/cosmosid-scraper-api-zaag/downloads/SRR17798728_kepler-biom_genus_2024-10-22_14_46.tsv
+2024-10-22 14:46:56,614 - INFO - Selecting Level: species
+2024-10-22 14:46:58,986 - INFO - Clicked 'Export current results' for Level: species
+2024-10-22 14:46:59,992 - INFO - Downloaded file: /home/tlabib/Documents/github/cosmosid-scraper-api-zaag/downloads/SRR17798728_kepler-biom_species_2024-10-22_14_46.tsv
+2024-10-22 14:47:02,341 - INFO - Selecting Level: strain
+2024-10-22 14:47:04,685 - INFO - Clicked 'Export current results' for Level: strain
+2024-10-22 14:47:05,690 - INFO - Downloaded file: /home/tlabib/Documents/github/cosmosid-scraper-api-zaag/downloads/SRR17798728_kepler-biom_strain_2024-10-22_14_47.tsv
+2024-10-22 14:47:08,038 - INFO - Selecting option: Viruses
+2024-10-22 14:47:14,247 - WARNING - Couldn't locate export button with XPath: //button[contains(., 'Export current results')] - Message: 
+Stacktrace:
+#0 0x55b13f7090ca <unknown>
+#1 0x55b13f407a80 <unknown>
+#2 0x55b13f455dd8 <unknown>
+#3 0x55b13f456071 <unknown>
+#4 0x55b13f49c7f4 <unknown>
+#5 0x55b13f47abbd <unknown>
+#6 0x55b13f499b8e <unknown>
+#7 0x55b13f47a933 <unknown>
+#8 0x55b13f448e3d <unknown>
+#9 0x55b13f44992e <unknown>
+#10 0x55b13f6d4c8f <unknown>
+#11 0x55b13f6d8d50 <unknown>
+#12 0x55b13f6c2837 <unknown>
+#13 0x55b13f6d94c1 <unknown>
+#14 0x55b13f6a9d1e <unknown>
+#15 0x55b13f6f82b8 <unknown>
+#16 0x55b13f6f84ba <unknown>
+#17 0x55b13f707d5d <unknown>
+#18 0x7fe113396ac3 <unknown>
+
+2024-10-22 14:47:14,253 - ERROR - Failed to locate the 'Export current results' button with any of the provided XPaths.
+2024-10-22 14:47:16,560 - INFO - Selecting option: Protists
+2024-10-22 14:47:22,811 - WARNING - Couldn't locate export button with XPath: //button[contains(., 'Export current results')] - Message: 
+Stacktrace:
+#0 0x55b13f7090ca <unknown>
+#1 0x55b13f407a80 <unknown>
+#2 0x55b13f455dd8 <unknown>
+#3 0x55b13f456071 <unknown>
+#4 0x55b13f49c7f4 <unknown>
+#5 0x55b13f47abbd <unknown>
+#6 0x55b13f499b8e <unknown>
+#7 0x55b13f47a933 <unknown>
+#8 0x55b13f448e3d <unknown>
+#9 0x55b13f44992e <unknown>
+#10 0x55b13f6d4c8f <unknown>
+#11 0x55b13f6d8d50 <unknown>
+#12 0x55b13f6c2837 <unknown>
+#13 0x55b13f6d94c1 <unknown>
+#14 0x55b13f6a9d1e <unknown>
+#15 0x55b13f6f82b8 <unknown>
+#16 0x55b13f6f84ba <unknown>
+#17 0x55b13f707d5d <unknown>
+#18 0x7fe113396ac3 <unknown>
+
+2024-10-22 14:47:22,822 - ERROR - Failed to locate the 'Export current results' button with any of the provided XPaths.
+2024-10-22 14:47:25,151 - INFO - Selecting option: Fungi
+2024-10-22 14:47:26,232 - INFO - Export button found using XPath: //button[contains(., 'Export current results')]
+2024-10-22 14:47:27,247 - INFO - Clicked 'Export current results' for option: Fungi
+2024-10-22 14:47:28,253 - INFO - Downloaded file: /home/tlabib/Documents/github/cosmosid-scraper-api-zaag/downloads/SRR17798728_kepler-taxonomy-tree_2024-10-22_14_47.tsv
+2024-10-22 14:47:30,594 - INFO - Selecting option: Combined Kingdom Results
+2024-10-22 14:47:32,251 - INFO - Export button found using XPath: //button[contains(., 'Export current results')]
+2024-10-22 14:47:33,269 - INFO - Clicked 'Export current results' for option: Combined Kingdom Results
+2024-10-22 14:47:34,275 - INFO - Downloaded file: /home/tlabib/Documents/github/cosmosid-scraper-api-zaag/downloads/SRR17798728_kepler-ck-taxonomy-tree_2024-10-22_14_47.tsv
+2024-10-22 14:47:36,585 - INFO - Selecting option: Antimicrobial Resistance
+2024-10-22 14:47:38,249 - INFO - Export button found using XPath: //button[contains(., 'Export current results')]
+2024-10-22 14:47:39,265 - INFO - Clicked 'Export current results' for option: Antimicrobial Resistance
+2024-10-22 14:47:40,271 - INFO - Downloaded file: /home/tlabib/Documents/github/cosmosid-scraper-api-zaag/downloads/SRR17798728_classes_filtered_2024-10-22_14_47.tsv
+2024-10-22 14:47:42,586 - INFO - Selecting option: GO Terms
+2024-10-22 14:47:43,797 - INFO - Export button found using XPath: //button[contains(., 'Export current results')]
+2024-10-22 14:47:44,833 - INFO - Clicked 'Export current results' for option: GO Terms
+2024-10-22 14:47:45,836 - INFO - Downloaded file: /home/tlabib/Documents/github/cosmosid-scraper-api-zaag/downloads/SRR17798728_functional-goterm_all_2024-10-22_14_47.tsv
+2024-10-22 14:47:48,172 - INFO - Selecting option: Virulence Factors
+2024-10-22 14:47:49,803 - INFO - Export button found using XPath: //button[contains(., 'Export current results')]
+2024-10-22 14:47:50,816 - INFO - Clicked 'Export current results' for option: Virulence Factors
+2024-10-22 14:47:51,823 - INFO - Downloaded file: /home/tlabib/Documents/github/cosmosid-scraper-api-zaag/downloads/SRR17798728_vf_table_phylogeny_filtered_2024-10-22_14_47.tsv
+2024-10-22 14:47:54,140 - INFO - Selecting option: Enzyme Commission
+2024-10-22 14:47:55,306 - INFO - Export button found using XPath: //button[contains(., 'Export current results')]
+2024-10-22 14:47:56,337 - INFO - Clicked 'Export current results' for option: Enzyme Commission
+2024-10-22 14:47:57,342 - INFO - Downloaded file: /home/tlabib/Documents/github/cosmosid-scraper-api-zaag/downloads/SRR17798728_functional-ec_2024-10-22_14_47.tsv
+2024-10-22 14:47:59,661 - INFO - Selecting option: MetaCyc Pathways
+2024-10-22 14:48:00,848 - INFO - Export button found using XPath: //button[contains(., 'Export current results')]
+2024-10-22 14:48:01,861 - INFO - Clicked 'Export current results' for option: MetaCyc Pathways
+2024-10-22 14:48:02,868 - INFO - Downloaded file: /home/tlabib/Documents/github/cosmosid-scraper-api-zaag/downloads/SRR17798728_functional-pathway_2024-10-22_14_48.tsv
+2024-10-22 14:48:05,195 - INFO - Selecting option: Pfam
+2024-10-22 14:48:06,499 - INFO - Export button found using XPath: //button[contains(., 'Export current results')]
+2024-10-22 14:48:07,516 - INFO - Clicked 'Export current results' for option: Pfam
+2024-10-22 14:48:08,518 - INFO - Downloaded file: /home/tlabib/Documents/github/cosmosid-scraper-api-zaag/downloads/SRR17798728_functional-pfam_2024-10-22_14_48.tsv
+2024-10-22 14:48:10,882 - INFO - Selecting option: CAZy
+2024-10-22 14:48:11,948 - INFO - Export button found using XPath: //button[contains(., 'Export current results')]
+2024-10-22 14:48:12,965 - INFO - Clicked 'Export current results' for option: CAZy
+2024-10-22 14:48:13,971 - INFO - Downloaded file: /home/tlabib/Documents/github/cosmosid-scraper-api-zaag/downloads/SRR17798728_functional-cazy_2024-10-22_14_48.tsv
+2024-10-22 14:48:16,314 - INFO - Selecting option: FASTQC
+2024-10-22 14:48:22,532 - WARNING - Couldn't locate export button with XPath: //button[contains(., 'Export current results')] - Message: 
+Stacktrace:
+#0 0x55b13f7090ca <unknown>
+#1 0x55b13f407a80 <unknown>
+#2 0x55b13f455dd8 <unknown>
+#3 0x55b13f456071 <unknown>
+#4 0x55b13f49c7f4 <unknown>
+#5 0x55b13f47abbd <unknown>
+#6 0x55b13f499b8e <unknown>
+#7 0x55b13f47a933 <unknown>
+#8 0x55b13f448e3d <unknown>
+#9 0x55b13f44992e <unknown>
+#10 0x55b13f6d4c8f <unknown>
+#11 0x55b13f6d8d50 <unknown>
+#12 0x55b13f6c2837 <unknown>
+#13 0x55b13f6d94c1 <unknown>
+#14 0x55b13f6a9d1e <unknown>
+#15 0x55b13f6f82b8 <unknown>
+#16 0x55b13f6f84ba <unknown>
+#17 0x55b13f707d5d <unknown>
+#18 0x7fe113396ac3 <unknown>
+
+2024-10-22 14:48:22,536 - ERROR - Failed to locate the 'Export current results' button with any of the provided XPaths.
+2024-10-22 14:48:22,536 - INFO - Opening URL: https://app.cosmosid.com/samples/21189f31-aa11-410a-8147-280563d39a93
+2024-10-22 14:48:30,021 - INFO - Dropdown opened successfully.
+2024-10-22 14:48:30,027 - INFO - Dropdown options loaded successfully.
+2024-10-22 14:48:30,082 - INFO - Dropdown options collected: ['Bacteria', 'Viruses', 'Protists', 'Fungi', 'Combined Kingdom Results', 'Antimicrobial Resistance', 'GO Terms', 'Virulence Factors', 'Enzyme Commission', 'MetaCyc Pathways', 'Pfam', 'CAZy', 'FASTQC']
+2024-10-22 14:48:30,092 - INFO - Selecting option: Bacteria
+2024-10-22 14:48:31,136 - INFO - Export button found using XPath: //button[contains(., 'Export current results')]
+2024-10-22 14:48:32,148 - INFO - Clicked 'Export current results' for option: Bacteria
+2024-10-22 14:48:33,151 - INFO - Downloaded file: /home/tlabib/Documents/github/cosmosid-scraper-api-zaag/downloads/SRR17798721_kepler-taxonomy-tree_2024-10-22_14_48.tsv
+2024-10-22 14:48:33,257 - INFO - Clicked 'Taxonomy switcher' for Bacteria.
+2024-10-22 14:48:37,574 - INFO - Level dropdown opened successfully.
+2024-10-22 14:48:37,580 - INFO - Level dropdown options loaded successfully.
+2024-10-22 14:48:37,620 - INFO - Level dropdown options collected: ['domain', 'kingdom', 'phylum', 'class', 'order', 'family', 'genus', 'species', 'strain']
+2024-10-22 14:48:37,629 - INFO - Selecting Level: domain
+2024-10-22 14:48:39,757 - INFO - Clicked 'Export current results' for Level: domain
+2024-10-22 14:48:40,762 - INFO - Downloaded file: /home/tlabib/Documents/github/cosmosid-scraper-api-zaag/downloads/SRR17798721_kepler-biom_domain_2024-10-22_14_48.tsv
+2024-10-22 14:48:43,097 - INFO - Selecting Level: kingdom
+2024-10-22 14:48:45,262 - INFO - Clicked 'Export current results' for Level: kingdom
+2024-10-22 14:48:46,268 - INFO - Downloaded file: /home/tlabib/Documents/github/cosmosid-scraper-api-zaag/downloads/SRR17798721_kepler-biom_kingdom_2024-10-22_14_48.tsv
+2024-10-22 14:48:48,567 - INFO - Selecting Level: phylum
+2024-10-22 14:48:50,776 - INFO - Clicked 'Export current results' for Level: phylum
+2024-10-22 14:48:51,782 - INFO - Downloaded file: /home/tlabib/Documents/github/cosmosid-scraper-api-zaag/downloads/SRR17798721_kepler-biom_phylum_2024-10-22_14_48.tsv
+2024-10-22 14:48:54,091 - INFO - Selecting Level: class
+2024-10-22 14:48:56,262 - INFO - Clicked 'Export current results' for Level: class
+2024-10-22 14:48:57,264 - INFO - Downloaded file: /home/tlabib/Documents/github/cosmosid-scraper-api-zaag/downloads/SRR17798721_kepler-biom_class_2024-10-22_14_48.tsv
+2024-10-22 14:48:59,567 - INFO - Selecting Level: order
+2024-10-22 14:49:01,745 - INFO - Clicked 'Export current results' for Level: order
+2024-10-22 14:49:02,747 - INFO - Downloaded file: /home/tlabib/Documents/github/cosmosid-scraper-api-zaag/downloads/SRR17798721_kepler-biom_order_2024-10-22_14_49.tsv
+2024-10-22 14:49:05,063 - INFO - Selecting Level: family
+2024-10-22 14:49:07,266 - INFO - Clicked 'Export current results' for Level: family
+2024-10-22 14:49:08,272 - INFO - Downloaded file: /home/tlabib/Documents/github/cosmosid-scraper-api-zaag/downloads/SRR17798721_kepler-biom_family_2024-10-22_14_49.tsv
+2024-10-22 14:49:10,583 - INFO - Selecting Level: genus
+2024-10-22 14:49:12,898 - INFO - Clicked 'Export current results' for Level: genus
+2024-10-22 14:49:13,904 - INFO - Downloaded file: /home/tlabib/Documents/github/cosmosid-scraper-api-zaag/downloads/SRR17798721_kepler-biom_genus_2024-10-22_14_49.tsv
+2024-10-22 14:49:16,245 - INFO - Selecting Level: species
+2024-10-22 14:49:18,543 - INFO - Clicked 'Export current results' for Level: species
+2024-10-22 14:49:19,548 - INFO - Downloaded file: /home/tlabib/Documents/github/cosmosid-scraper-api-zaag/downloads/SRR17798721_kepler-biom_species_2024-10-22_14_49.tsv
+2024-10-22 14:49:21,887 - INFO - Selecting Level: strain
+2024-10-22 14:49:24,173 - INFO - Clicked 'Export current results' for Level: strain
+2024-10-22 14:49:25,179 - INFO - Downloaded file: /home/tlabib/Documents/github/cosmosid-scraper-api-zaag/downloads/SRR17798721_kepler-biom_strain_2024-10-22_14_49.tsv
+2024-10-22 14:49:27,502 - INFO - Selecting option: Viruses
+2024-10-22 14:49:33,690 - WARNING - Couldn't locate export button with XPath: //button[contains(., 'Export current results')] - Message: 
+Stacktrace:
+#0 0x55b13f7090ca <unknown>
+#1 0x55b13f407a80 <unknown>
+#2 0x55b13f455dd8 <unknown>
+#3 0x55b13f456071 <unknown>
+#4 0x55b13f49c7f4 <unknown>
+#5 0x55b13f47abbd <unknown>
+#6 0x55b13f499b8e <unknown>
+#7 0x55b13f47a933 <unknown>
+#8 0x55b13f448e3d <unknown>
+#9 0x55b13f44992e <unknown>
+#10 0x55b13f6d4c8f <unknown>
+#11 0x55b13f6d8d50 <unknown>
+#12 0x55b13f6c2837 <unknown>
+#13 0x55b13f6d94c1 <unknown>
+#14 0x55b13f6a9d1e <unknown>
+#15 0x55b13f6f82b8 <unknown>
+#16 0x55b13f6f84ba <unknown>
+#17 0x55b13f707d5d <unknown>
+#18 0x7fe113396ac3 <unknown>
+
+2024-10-22 14:49:33,700 - ERROR - Failed to locate the 'Export current results' button with any of the provided XPaths.
+2024-10-22 14:49:36,029 - INFO - Selecting option: Protists
+2024-10-22 14:49:37,110 - INFO - Export button found using XPath: //button[contains(., 'Export current results')]
+2024-10-22 14:49:38,129 - INFO - Clicked 'Export current results' for option: Protists
+2024-10-22 14:49:39,134 - INFO - Downloaded file: /home/tlabib/Documents/github/cosmosid-scraper-api-zaag/downloads/SRR17798721_kepler-taxonomy-tree_2024-10-22_14_49.tsv
+2024-10-22 14:49:41,473 - INFO - Selecting option: Fungi
+2024-10-22 14:49:47,680 - WARNING - Couldn't locate export button with XPath: //button[contains(., 'Export current results')] - Message: 
+Stacktrace:
+#0 0x55b13f7090ca <unknown>
+#1 0x55b13f407a80 <unknown>
+#2 0x55b13f455dd8 <unknown>
+#3 0x55b13f456071 <unknown>
+#4 0x55b13f49c7f4 <unknown>
+#5 0x55b13f47abbd <unknown>
+#6 0x55b13f499b8e <unknown>
+#7 0x55b13f47a933 <unknown>
+#8 0x55b13f448e3d <unknown>
+#9 0x55b13f44992e <unknown>
+#10 0x55b13f6d4c8f <unknown>
+#11 0x55b13f6d8d50 <unknown>
+#12 0x55b13f6c2837 <unknown>
+#13 0x55b13f6d94c1 <unknown>
+#14 0x55b13f6a9d1e <unknown>
+#15 0x55b13f6f82b8 <unknown>
+#16 0x55b13f6f84ba <unknown>
+#17 0x55b13f707d5d <unknown>
+#18 0x7fe113396ac3 <unknown>
+
+2024-10-22 14:49:47,690 - ERROR - Failed to locate the 'Export current results' button with any of the provided XPaths.
+2024-10-22 14:49:50,006 - INFO - Selecting option: Combined Kingdom Results
+2024-10-22 14:49:51,346 - INFO - Export button found using XPath: //button[contains(., 'Export current results')]
+2024-10-22 14:49:52,365 - INFO - Clicked 'Export current results' for option: Combined Kingdom Results
+2024-10-22 14:49:53,371 - INFO - Downloaded file: /home/tlabib/Documents/github/cosmosid-scraper-api-zaag/downloads/SRR17798721_kepler-ck-taxonomy-tree_2024-10-22_14_49.tsv
+2024-10-22 14:49:55,724 - INFO - Selecting option: Antimicrobial Resistance
+2024-10-22 14:49:57,323 - INFO - Export button found using XPath: //button[contains(., 'Export current results')]
+2024-10-22 14:49:58,338 - INFO - Clicked 'Export current results' for option: Antimicrobial Resistance
+2024-10-22 14:49:59,344 - INFO - Downloaded file: /home/tlabib/Documents/github/cosmosid-scraper-api-zaag/downloads/SRR17798721_classes_filtered_2024-10-22_14_49.tsv
+2024-10-22 14:50:01,659 - INFO - Selecting option: GO Terms
+2024-10-22 14:50:02,978 - INFO - Export button found using XPath: //button[contains(., 'Export current results')]
+2024-10-22 14:50:04,002 - INFO - Clicked 'Export current results' for option: GO Terms
+2024-10-22 14:50:05,007 - INFO - Downloaded file: /home/tlabib/Documents/github/cosmosid-scraper-api-zaag/downloads/SRR17798721_functional-goterm_all_2024-10-22_14_50.tsv
+2024-10-22 14:50:07,313 - INFO - Selecting option: Virulence Factors
+2024-10-22 14:50:08,937 - INFO - Export button found using XPath: //button[contains(., 'Export current results')]
+2024-10-22 14:50:09,954 - INFO - Clicked 'Export current results' for option: Virulence Factors
+2024-10-22 14:50:10,960 - INFO - Downloaded file: /home/tlabib/Documents/github/cosmosid-scraper-api-zaag/downloads/SRR17798721_vf_table_phylogeny_filtered_2024-10-22_14_50.tsv
+2024-10-22 14:50:13,302 - INFO - Selecting option: Enzyme Commission
+2024-10-22 14:50:14,461 - INFO - Export button found using XPath: //button[contains(., 'Export current results')]
+2024-10-22 14:50:15,473 - INFO - Clicked 'Export current results' for option: Enzyme Commission
+2024-10-22 14:50:16,479 - INFO - Downloaded file: /home/tlabib/Documents/github/cosmosid-scraper-api-zaag/downloads/SRR17798721_functional-ec_2024-10-22_14_50.tsv
+2024-10-22 14:50:18,798 - INFO - Selecting option: MetaCyc Pathways
+2024-10-22 14:50:19,900 - INFO - Export button found using XPath: //button[contains(., 'Export current results')]
+2024-10-22 14:50:20,919 - INFO - Clicked 'Export current results' for option: MetaCyc Pathways
+2024-10-22 14:50:21,925 - INFO - Downloaded file: /home/tlabib/Documents/github/cosmosid-scraper-api-zaag/downloads/SRR17798721_functional-pathway_2024-10-22_14_50.tsv
+2024-10-22 14:50:24,246 - INFO - Selecting option: Pfam
+2024-10-22 14:50:25,469 - INFO - Export button found using XPath: //button[contains(., 'Export current results')]
+2024-10-22 14:50:26,500 - INFO - Clicked 'Export current results' for option: Pfam
+2024-10-22 14:50:27,506 - INFO - Downloaded file: /home/tlabib/Documents/github/cosmosid-scraper-api-zaag/downloads/SRR17798721_functional-pfam_2024-10-22_14_50.tsv
+2024-10-22 14:50:29,850 - INFO - Selecting option: CAZy
+2024-10-22 14:50:30,937 - INFO - Export button found using XPath: //button[contains(., 'Export current results')]
+2024-10-22 14:50:31,951 - INFO - Clicked 'Export current results' for option: CAZy
+2024-10-22 14:50:32,956 - INFO - Downloaded file: /home/tlabib/Documents/github/cosmosid-scraper-api-zaag/downloads/SRR17798721_functional-cazy_2024-10-22_14_50.tsv
+2024-10-22 14:50:35,299 - INFO - Selecting option: FASTQC
+2024-10-22 14:50:41,507 - WARNING - Couldn't locate export button with XPath: //button[contains(., 'Export current results')] - Message: 
+Stacktrace:
+#0 0x55b13f7090ca <unknown>
+#1 0x55b13f407a80 <unknown>
+#2 0x55b13f455dd8 <unknown>
+#3 0x55b13f456071 <unknown>
+#4 0x55b13f49c7f4 <unknown>
+#5 0x55b13f47abbd <unknown>
+#6 0x55b13f499b8e <unknown>
+#7 0x55b13f47a933 <unknown>
+#8 0x55b13f448e3d <unknown>
+#9 0x55b13f44992e <unknown>
+#10 0x55b13f6d4c8f <unknown>
+#11 0x55b13f6d8d50 <unknown>
+#12 0x55b13f6c2837 <unknown>
+#13 0x55b13f6d94c1 <unknown>
+#14 0x55b13f6a9d1e <unknown>
+#15 0x55b13f6f82b8 <unknown>
+#16 0x55b13f6f84ba <unknown>
+#17 0x55b13f707d5d <unknown>
+#18 0x7fe113396ac3 <unknown>
+
+2024-10-22 14:50:41,514 - ERROR - Failed to locate the 'Export current results' button with any of the provided XPaths.
+2024-10-22 14:50:41,514 - INFO - Opening URL: https://app.cosmosid.com/samples/92c1429a-fdfb-41b0-a7e3-5223b57d8f3d
+2024-10-22 14:51:02,355 - INFO - Opening URL: https://app.cosmosid.com/samples/92c1429a-fdfb-41b0-a7e3-5223b57d8f3d

@@ -1,0 +1,6 @@
+Name	Tax ID	GTDB ID	Domain	Relative Abundance	% Total Matches	% Unique Matches	Reads Frequency	Normalized Reads Frequency
+s__Escherichia coli GCA_002846135.1	562	GCA_002846135.1	Bacteria	97.78	0.704293	0.517745	13655975	13516276
+s__Allobacillus halotolerans GCA_007559355.1	1955271	GCA_007559355.1	Bacteria	1.01	0.654282	0.652375	72971	139614
+s__Imtechella halotolerans GCA_000260835.1	946077	GCA_000260835.1	Bacteria	0.86	0.987247	0.987247	76050	118879
+s__Streptococcus anginosus GCA_001835825.1	1715089	GCA_001835825.1	Bacteria	0.31	0.702433	0.558824	15946	42852
+s__Allobacillus salarius GCA_007559425.1	1955272	GCA_007559425.1	Bacteria	0.03	0.051105	0.014022	2208	4147

@@ -1887,5 +1887,1433 @@
         "link_url": "/samples/f873a3d7-71d1-4e60-9f53-849a2178b080",
         "result": "Virulence Factors",
         "downloaded_file": null
+    },
+    {
+        "link_url": "/samples/a701aaed-c0d7-4eb7-8a0e-e3289a56a104",
+        "result": "Bacteria",
+        "downloaded_file": "/home/tlabib/Documents/github/cosmosid-scraper-api-zaag/downloads/SRR17798732_kepler-taxonomy-tree_2024-10-22_14_21.tsv"
+    },
+    {
+        "link_url": "/samples/a701aaed-c0d7-4eb7-8a0e-e3289a56a104",
+        "result": "Bacteria",
+        "taxonomy_level": "domain",
+        "downloaded_file": "/home/tlabib/Documents/github/cosmosid-scraper-api-zaag/downloads/SRR17798732_kepler-biom_domain_2024-10-22_14_21.tsv"
+    },
+    {
+        "link_url": "/samples/a701aaed-c0d7-4eb7-8a0e-e3289a56a104",
+        "result": "Bacteria",
+        "taxonomy_level": "kingdom",
+        "downloaded_file": "/home/tlabib/Documents/github/cosmosid-scraper-api-zaag/downloads/SRR17798732_kepler-biom_kingdom_2024-10-22_14_21.tsv"
+    },
+    {
+        "link_url": "/samples/a701aaed-c0d7-4eb7-8a0e-e3289a56a104",
+        "result": "Bacteria",
+        "taxonomy_level": "phylum",
+        "downloaded_file": "/home/tlabib/Documents/github/cosmosid-scraper-api-zaag/downloads/SRR17798732_kepler-biom_phylum_2024-10-22_14_21.tsv"
+    },
+    {
+        "link_url": "/samples/a701aaed-c0d7-4eb7-8a0e-e3289a56a104",
+        "result": "Bacteria",
+        "taxonomy_level": "class",
+        "downloaded_file": "/home/tlabib/Documents/github/cosmosid-scraper-api-zaag/downloads/SRR17798732_kepler-biom_class_2024-10-22_14_21.tsv"
+    },
+    {
+        "link_url": "/samples/a701aaed-c0d7-4eb7-8a0e-e3289a56a104",
+        "result": "Bacteria",
+        "taxonomy_level": "order",
+        "downloaded_file": "/home/tlabib/Documents/github/cosmosid-scraper-api-zaag/downloads/SRR17798732_kepler-biom_order_2024-10-22_14_21.tsv"
+    },
+    {
+        "link_url": "/samples/a701aaed-c0d7-4eb7-8a0e-e3289a56a104",
+        "result": "Bacteria",
+        "taxonomy_level": "family",
+        "downloaded_file": "/home/tlabib/Documents/github/cosmosid-scraper-api-zaag/downloads/SRR17798732_kepler-biom_family_2024-10-22_14_21.tsv"
+    },
+    {
+        "link_url": "/samples/a701aaed-c0d7-4eb7-8a0e-e3289a56a104",
+        "result": "Bacteria",
+        "taxonomy_level": "genus",
+        "downloaded_file": "/home/tlabib/Documents/github/cosmosid-scraper-api-zaag/downloads/SRR17798732_kepler-biom_genus_2024-10-22_14_21.tsv"
+    },
+    {
+        "link_url": "/samples/a701aaed-c0d7-4eb7-8a0e-e3289a56a104",
+        "result": "Bacteria",
+        "taxonomy_level": "species",
+        "downloaded_file": "/home/tlabib/Documents/github/cosmosid-scraper-api-zaag/downloads/SRR17798732_kepler-biom_species_2024-10-22_14_21.tsv"
+    },
+    {
+        "link_url": "/samples/a701aaed-c0d7-4eb7-8a0e-e3289a56a104",
+        "result": "Bacteria",
+        "taxonomy_level": "strain",
+        "downloaded_file": "/home/tlabib/Documents/github/cosmosid-scraper-api-zaag/downloads/SRR17798732_kepler-biom_strain_2024-10-22_14_22.tsv"
+    },
+    {
+        "link_url": "/samples/a701aaed-c0d7-4eb7-8a0e-e3289a56a104",
+        "result": "Viruses",
+        "downloaded_file": null
+    },
+    {
+        "link_url": "/samples/a701aaed-c0d7-4eb7-8a0e-e3289a56a104",
+        "result": "Protists",
+        "downloaded_file": "/home/tlabib/Documents/github/cosmosid-scraper-api-zaag/downloads/SRR17798732_kepler-taxonomy-tree_2024-10-22_14_22.tsv"
+    },
+    {
+        "link_url": "/samples/a701aaed-c0d7-4eb7-8a0e-e3289a56a104",
+        "result": "Fungi",
+        "downloaded_file": "/home/tlabib/Documents/github/cosmosid-scraper-api-zaag/downloads/SRR17798732_kepler-taxonomy-tree_2024-10-22_14_22 (1).tsv"
+    },
+    {
+        "link_url": "/samples/a701aaed-c0d7-4eb7-8a0e-e3289a56a104",
+        "result": "Combined Kingdom Results",
+        "downloaded_file": "/home/tlabib/Documents/github/cosmosid-scraper-api-zaag/downloads/SRR17798732_kepler-ck-taxonomy-tree_2024-10-22_14_22.tsv"
+    },
+    {
+        "link_url": "/samples/a701aaed-c0d7-4eb7-8a0e-e3289a56a104",
+        "result": "Antimicrobial Resistance",
+        "downloaded_file": "/home/tlabib/Documents/github/cosmosid-scraper-api-zaag/downloads/SRR17798732_classes_filtered_2024-10-22_14_22.tsv"
+    },
+    {
+        "link_url": "/samples/a701aaed-c0d7-4eb7-8a0e-e3289a56a104",
+        "result": "GO Terms",
+        "downloaded_file": "/home/tlabib/Documents/github/cosmosid-scraper-api-zaag/downloads/SRR17798732_functional-goterm_all_2024-10-22_14_22.tsv"
+    },
+    {
+        "link_url": "/samples/a701aaed-c0d7-4eb7-8a0e-e3289a56a104",
+        "result": "Virulence Factors",
+        "downloaded_file": "/home/tlabib/Documents/github/cosmosid-scraper-api-zaag/downloads/SRR17798732_vf_table_phylogeny_filtered_2024-10-22_14_22.tsv"
+    },
+    {
+        "link_url": "/samples/a701aaed-c0d7-4eb7-8a0e-e3289a56a104",
+        "result": "Enzyme Commission",
+        "downloaded_file": "/home/tlabib/Documents/github/cosmosid-scraper-api-zaag/downloads/SRR17798732_functional-ec_2024-10-22_14_22.tsv"
+    },
+    {
+        "link_url": "/samples/a701aaed-c0d7-4eb7-8a0e-e3289a56a104",
+        "result": "MetaCyc Pathways",
+        "downloaded_file": "/home/tlabib/Documents/github/cosmosid-scraper-api-zaag/downloads/SRR17798732_functional-pathway_2024-10-22_14_22.tsv"
+    },
+    {
+        "link_url": "/samples/a701aaed-c0d7-4eb7-8a0e-e3289a56a104",
+        "result": "Pfam",
+        "downloaded_file": "/home/tlabib/Documents/github/cosmosid-scraper-api-zaag/downloads/SRR17798732_functional-pfam_2024-10-22_14_23.tsv"
+    },
+    {
+        "link_url": "/samples/a701aaed-c0d7-4eb7-8a0e-e3289a56a104",
+        "result": "CAZy",
+        "downloaded_file": "/home/tlabib/Documents/github/cosmosid-scraper-api-zaag/downloads/SRR17798732_functional-cazy_2024-10-22_14_23.tsv"
+    },
+    {
+        "link_url": "/samples/a701aaed-c0d7-4eb7-8a0e-e3289a56a104",
+        "result": "FASTQC",
+        "downloaded_file": null
+    },
+    {
+        "link_url": "/samples/c8e00947-c453-4cf9-823e-c6a30576f8b0",
+        "result": "Bacteria",
+        "downloaded_file": "/home/tlabib/Documents/github/cosmosid-scraper-api-zaag/downloads/SRR17798760_kepler-taxonomy-tree_2024-10-22_14_23.tsv"
+    },
+    {
+        "link_url": "/samples/c8e00947-c453-4cf9-823e-c6a30576f8b0",
+        "result": "Bacteria",
+        "taxonomy_level": "domain",
+        "downloaded_file": "/home/tlabib/Documents/github/cosmosid-scraper-api-zaag/downloads/SRR17798760_kepler-biom_domain_2024-10-22_14_23.tsv"
+    },
+    {
+        "link_url": "/samples/c8e00947-c453-4cf9-823e-c6a30576f8b0",
+        "result": "Bacteria",
+        "taxonomy_level": "kingdom",
+        "downloaded_file": "/home/tlabib/Documents/github/cosmosid-scraper-api-zaag/downloads/SRR17798760_kepler-biom_kingdom_2024-10-22_14_23.tsv"
+    },
+    {
+        "link_url": "/samples/c8e00947-c453-4cf9-823e-c6a30576f8b0",
+        "result": "Bacteria",
+        "taxonomy_level": "phylum",
+        "downloaded_file": "/home/tlabib/Documents/github/cosmosid-scraper-api-zaag/downloads/SRR17798760_kepler-biom_phylum_2024-10-22_14_23.tsv"
+    },
+    {
+        "link_url": "/samples/c8e00947-c453-4cf9-823e-c6a30576f8b0",
+        "result": "Bacteria",
+        "taxonomy_level": "class",
+        "downloaded_file": "/home/tlabib/Documents/github/cosmosid-scraper-api-zaag/downloads/SRR17798760_kepler-biom_class_2024-10-22_14_23.tsv"
+    },
+    {
+        "link_url": "/samples/c8e00947-c453-4cf9-823e-c6a30576f8b0",
+        "result": "Bacteria",
+        "taxonomy_level": "order",
+        "downloaded_file": "/home/tlabib/Documents/github/cosmosid-scraper-api-zaag/downloads/SRR17798760_kepler-biom_order_2024-10-22_14_23.tsv"
+    },
+    {
+        "link_url": "/samples/c8e00947-c453-4cf9-823e-c6a30576f8b0",
+        "result": "Bacteria",
+        "taxonomy_level": "family",
+        "downloaded_file": "/home/tlabib/Documents/github/cosmosid-scraper-api-zaag/downloads/SRR17798760_kepler-biom_family_2024-10-22_14_24.tsv"
+    },
+    {
+        "link_url": "/samples/c8e00947-c453-4cf9-823e-c6a30576f8b0",
+        "result": "Bacteria",
+        "taxonomy_level": "genus",
+        "downloaded_file": "/home/tlabib/Documents/github/cosmosid-scraper-api-zaag/downloads/SRR17798760_kepler-biom_genus_2024-10-22_14_24.tsv"
+    },
+    {
+        "link_url": "/samples/c8e00947-c453-4cf9-823e-c6a30576f8b0",
+        "result": "Bacteria",
+        "taxonomy_level": "species",
+        "downloaded_file": "/home/tlabib/Documents/github/cosmosid-scraper-api-zaag/downloads/SRR17798760_kepler-biom_species_2024-10-22_14_24.tsv"
+    },
+    {
+        "link_url": "/samples/c8e00947-c453-4cf9-823e-c6a30576f8b0",
+        "result": "Bacteria",
+        "taxonomy_level": "strain",
+        "downloaded_file": "/home/tlabib/Documents/github/cosmosid-scraper-api-zaag/downloads/SRR17798760_kepler-biom_strain_2024-10-22_14_24.tsv"
+    },
+    {
+        "link_url": "/samples/c8e00947-c453-4cf9-823e-c6a30576f8b0",
+        "result": "Viruses",
+        "downloaded_file": null
+    },
+    {
+        "link_url": "/samples/c8e00947-c453-4cf9-823e-c6a30576f8b0",
+        "result": "Protists",
+        "downloaded_file": null
+    },
+    {
+        "link_url": "/samples/c8e00947-c453-4cf9-823e-c6a30576f8b0",
+        "result": "Fungi",
+        "downloaded_file": "/home/tlabib/Documents/github/cosmosid-scraper-api-zaag/downloads/SRR17798760_kepler-taxonomy-tree_2024-10-22_14_24.tsv"
+    },
+    {
+        "link_url": "/samples/c8e00947-c453-4cf9-823e-c6a30576f8b0",
+        "result": "Combined Kingdom Results",
+        "downloaded_file": "/home/tlabib/Documents/github/cosmosid-scraper-api-zaag/downloads/SRR17798760_kepler-ck-taxonomy-tree_2024-10-22_14_24.tsv"
+    },
+    {
+        "link_url": "/samples/c8e00947-c453-4cf9-823e-c6a30576f8b0",
+        "result": "Antimicrobial Resistance",
+        "downloaded_file": null
+    },
+    {
+        "link_url": "/samples/c8e00947-c453-4cf9-823e-c6a30576f8b0",
+        "result": "GO Terms",
+        "downloaded_file": "/home/tlabib/Documents/github/cosmosid-scraper-api-zaag/downloads/SRR17798760_functional-goterm_all_2024-10-22_14_25.tsv"
+    },
+    {
+        "link_url": "/samples/c8e00947-c453-4cf9-823e-c6a30576f8b0",
+        "result": "Virulence Factors",
+        "downloaded_file": "/home/tlabib/Documents/github/cosmosid-scraper-api-zaag/downloads/SRR17798760_vf_table_phylogeny_filtered_2024-10-22_14_25.tsv"
+    },
+    {
+        "link_url": "/samples/c8e00947-c453-4cf9-823e-c6a30576f8b0",
+        "result": "Enzyme Commission",
+        "downloaded_file": "/home/tlabib/Documents/github/cosmosid-scraper-api-zaag/downloads/SRR17798760_functional-ec_2024-10-22_14_25.tsv"
+    },
+    {
+        "link_url": "/samples/c8e00947-c453-4cf9-823e-c6a30576f8b0",
+        "result": "MetaCyc Pathways",
+        "downloaded_file": "/home/tlabib/Documents/github/cosmosid-scraper-api-zaag/downloads/SRR17798760_functional-pathway_2024-10-22_14_25.tsv"
+    },
+    {
+        "link_url": "/samples/c8e00947-c453-4cf9-823e-c6a30576f8b0",
+        "result": "Pfam",
+        "downloaded_file": "/home/tlabib/Documents/github/cosmosid-scraper-api-zaag/downloads/SRR17798760_functional-pfam_2024-10-22_14_25.tsv"
+    },
+    {
+        "link_url": "/samples/c8e00947-c453-4cf9-823e-c6a30576f8b0",
+        "result": "CAZy",
+        "downloaded_file": "/home/tlabib/Documents/github/cosmosid-scraper-api-zaag/downloads/SRR17798760_functional-cazy_2024-10-22_14_25.tsv"
+    },
+    {
+        "link_url": "/samples/c8e00947-c453-4cf9-823e-c6a30576f8b0",
+        "result": "FASTQC",
+        "downloaded_file": null
+    },
+    {
+        "link_url": "/samples/1d521176-6334-425b-8ad2-f2bd3d8deaba",
+        "result": "Bacteria",
+        "downloaded_file": "/home/tlabib/Documents/github/cosmosid-scraper-api-zaag/downloads/SRR17798744_kepler-taxonomy-tree_2024-10-22_14_25.tsv"
+    },
+    {
+        "link_url": "/samples/1d521176-6334-425b-8ad2-f2bd3d8deaba",
+        "result": "Bacteria",
+        "taxonomy_level": "domain",
+        "downloaded_file": "/home/tlabib/Documents/github/cosmosid-scraper-api-zaag/downloads/SRR17798744_kepler-biom_domain_2024-10-22_14_25.tsv"
+    },
+    {
+        "link_url": "/samples/1d521176-6334-425b-8ad2-f2bd3d8deaba",
+        "result": "Bacteria",
+        "taxonomy_level": "kingdom",
+        "downloaded_file": "/home/tlabib/Documents/github/cosmosid-scraper-api-zaag/downloads/SRR17798744_kepler-biom_kingdom_2024-10-22_14_26.tsv"
+    },
+    {
+        "link_url": "/samples/1d521176-6334-425b-8ad2-f2bd3d8deaba",
+        "result": "Bacteria",
+        "taxonomy_level": "phylum",
+        "downloaded_file": "/home/tlabib/Documents/github/cosmosid-scraper-api-zaag/downloads/SRR17798744_kepler-biom_phylum_2024-10-22_14_26.tsv"
+    },
+    {
+        "link_url": "/samples/1d521176-6334-425b-8ad2-f2bd3d8deaba",
+        "result": "Bacteria",
+        "taxonomy_level": "class",
+        "downloaded_file": "/home/tlabib/Documents/github/cosmosid-scraper-api-zaag/downloads/SRR17798744_kepler-biom_class_2024-10-22_14_26.tsv"
+    },
+    {
+        "link_url": "/samples/1d521176-6334-425b-8ad2-f2bd3d8deaba",
+        "result": "Bacteria",
+        "taxonomy_level": "order",
+        "downloaded_file": "/home/tlabib/Documents/github/cosmosid-scraper-api-zaag/downloads/SRR17798744_kepler-biom_order_2024-10-22_14_26.tsv"
+    },
+    {
+        "link_url": "/samples/1d521176-6334-425b-8ad2-f2bd3d8deaba",
+        "result": "Bacteria",
+        "taxonomy_level": "family",
+        "downloaded_file": "/home/tlabib/Documents/github/cosmosid-scraper-api-zaag/downloads/SRR17798744_kepler-biom_family_2024-10-22_14_26.tsv"
+    },
+    {
+        "link_url": "/samples/1d521176-6334-425b-8ad2-f2bd3d8deaba",
+        "result": "Bacteria",
+        "taxonomy_level": "genus",
+        "downloaded_file": "/home/tlabib/Documents/github/cosmosid-scraper-api-zaag/downloads/SRR17798744_kepler-biom_genus_2024-10-22_14_26.tsv"
+    },
+    {
+        "link_url": "/samples/1d521176-6334-425b-8ad2-f2bd3d8deaba",
+        "result": "Bacteria",
+        "taxonomy_level": "species",
+        "downloaded_file": "/home/tlabib/Documents/github/cosmosid-scraper-api-zaag/downloads/SRR17798744_kepler-biom_species_2024-10-22_14_26.tsv"
+    },
+    {
+        "link_url": "/samples/1d521176-6334-425b-8ad2-f2bd3d8deaba",
+        "result": "Bacteria",
+        "taxonomy_level": "strain",
+        "downloaded_file": "/home/tlabib/Documents/github/cosmosid-scraper-api-zaag/downloads/SRR17798744_kepler-biom_strain_2024-10-22_14_26.tsv"
+    },
+    {
+        "link_url": "/samples/1d521176-6334-425b-8ad2-f2bd3d8deaba",
+        "result": "Viruses",
+        "downloaded_file": null
+    },
+    {
+        "link_url": "/samples/1d521176-6334-425b-8ad2-f2bd3d8deaba",
+        "result": "Protists",
+        "downloaded_file": "/home/tlabib/Documents/github/cosmosid-scraper-api-zaag/downloads/SRR17798744_kepler-taxonomy-tree_2024-10-22_14_26.tsv"
+    },
+    {
+        "link_url": "/samples/1d521176-6334-425b-8ad2-f2bd3d8deaba",
+        "result": "Fungi",
+        "downloaded_file": null
+    },
+    {
+        "link_url": "/samples/1d521176-6334-425b-8ad2-f2bd3d8deaba",
+        "result": "Combined Kingdom Results",
+        "downloaded_file": "/home/tlabib/Documents/github/cosmosid-scraper-api-zaag/downloads/SRR17798744_kepler-ck-taxonomy-tree_2024-10-22_14_27.tsv"
+    },
+    {
+        "link_url": "/samples/1d521176-6334-425b-8ad2-f2bd3d8deaba",
+        "result": "Antimicrobial Resistance",
+        "downloaded_file": "/home/tlabib/Documents/github/cosmosid-scraper-api-zaag/downloads/SRR17798744_classes_filtered_2024-10-22_14_27.tsv"
+    },
+    {
+        "link_url": "/samples/1d521176-6334-425b-8ad2-f2bd3d8deaba",
+        "result": "GO Terms",
+        "downloaded_file": "/home/tlabib/Documents/github/cosmosid-scraper-api-zaag/downloads/SRR17798744_functional-goterm_all_2024-10-22_14_27.tsv"
+    },
+    {
+        "link_url": "/samples/1d521176-6334-425b-8ad2-f2bd3d8deaba",
+        "result": "Virulence Factors",
+        "downloaded_file": "/home/tlabib/Documents/github/cosmosid-scraper-api-zaag/downloads/SRR17798744_vf_table_phylogeny_filtered_2024-10-22_14_27.tsv"
+    },
+    {
+        "link_url": "/samples/1d521176-6334-425b-8ad2-f2bd3d8deaba",
+        "result": "Enzyme Commission",
+        "downloaded_file": "/home/tlabib/Documents/github/cosmosid-scraper-api-zaag/downloads/SRR17798744_functional-ec_2024-10-22_14_27.tsv"
+    },
+    {
+        "link_url": "/samples/1d521176-6334-425b-8ad2-f2bd3d8deaba",
+        "result": "MetaCyc Pathways",
+        "downloaded_file": "/home/tlabib/Documents/github/cosmosid-scraper-api-zaag/downloads/SRR17798744_functional-pathway_2024-10-22_14_27.tsv"
+    },
+    {
+        "link_url": "/samples/1d521176-6334-425b-8ad2-f2bd3d8deaba",
+        "result": "Pfam",
+        "downloaded_file": "/home/tlabib/Documents/github/cosmosid-scraper-api-zaag/downloads/SRR17798744_functional-pfam_2024-10-22_14_27.tsv"
+    },
+    {
+        "link_url": "/samples/1d521176-6334-425b-8ad2-f2bd3d8deaba",
+        "result": "CAZy",
+        "downloaded_file": "/home/tlabib/Documents/github/cosmosid-scraper-api-zaag/downloads/SRR17798744_functional-cazy_2024-10-22_14_27.tsv"
+    },
+    {
+        "link_url": "/samples/1d521176-6334-425b-8ad2-f2bd3d8deaba",
+        "result": "FASTQC",
+        "downloaded_file": null
+    },
+    {
+        "link_url": "/samples/3ba59387-7ece-406c-bcb8-7d484d555e47",
+        "result": "Bacteria",
+        "downloaded_file": "/home/tlabib/Documents/github/cosmosid-scraper-api-zaag/downloads/SRR17798741_kepler-taxonomy-tree_2024-10-22_14_28.tsv"
+    },
+    {
+        "link_url": "/samples/3ba59387-7ece-406c-bcb8-7d484d555e47",
+        "result": "Bacteria",
+        "taxonomy_level": "domain",
+        "downloaded_file": "/home/tlabib/Documents/github/cosmosid-scraper-api-zaag/downloads/SRR17798741_kepler-biom_domain_2024-10-22_14_28.tsv"
+    },
+    {
+        "link_url": "/samples/3ba59387-7ece-406c-bcb8-7d484d555e47",
+        "result": "Bacteria",
+        "taxonomy_level": "kingdom",
+        "downloaded_file": "/home/tlabib/Documents/github/cosmosid-scraper-api-zaag/downloads/SRR17798741_kepler-biom_kingdom_2024-10-22_14_28.tsv"
+    },
+    {
+        "link_url": "/samples/3ba59387-7ece-406c-bcb8-7d484d555e47",
+        "result": "Bacteria",
+        "taxonomy_level": "phylum",
+        "downloaded_file": "/home/tlabib/Documents/github/cosmosid-scraper-api-zaag/downloads/SRR17798741_kepler-biom_phylum_2024-10-22_14_28.tsv"
+    },
+    {
+        "link_url": "/samples/3ba59387-7ece-406c-bcb8-7d484d555e47",
+        "result": "Bacteria",
+        "taxonomy_level": "class",
+        "downloaded_file": "/home/tlabib/Documents/github/cosmosid-scraper-api-zaag/downloads/SRR17798741_kepler-biom_class_2024-10-22_14_28.tsv"
+    },
+    {
+        "link_url": "/samples/3ba59387-7ece-406c-bcb8-7d484d555e47",
+        "result": "Bacteria",
+        "taxonomy_level": "order",
+        "downloaded_file": "/home/tlabib/Documents/github/cosmosid-scraper-api-zaag/downloads/SRR17798741_kepler-biom_order_2024-10-22_14_28.tsv"
+    },
+    {
+        "link_url": "/samples/3ba59387-7ece-406c-bcb8-7d484d555e47",
+        "result": "Bacteria",
+        "taxonomy_level": "family",
+        "downloaded_file": "/home/tlabib/Documents/github/cosmosid-scraper-api-zaag/downloads/SRR17798741_kepler-biom_family_2024-10-22_14_28.tsv"
+    },
+    {
+        "link_url": "/samples/3ba59387-7ece-406c-bcb8-7d484d555e47",
+        "result": "Bacteria",
+        "taxonomy_level": "genus",
+        "downloaded_file": "/home/tlabib/Documents/github/cosmosid-scraper-api-zaag/downloads/SRR17798741_kepler-biom_genus_2024-10-22_14_28.tsv"
+    },
+    {
+        "link_url": "/samples/3ba59387-7ece-406c-bcb8-7d484d555e47",
+        "result": "Bacteria",
+        "taxonomy_level": "species",
+        "downloaded_file": "/home/tlabib/Documents/github/cosmosid-scraper-api-zaag/downloads/SRR17798741_kepler-biom_species_2024-10-22_14_28.tsv"
+    },
+    {
+        "link_url": "/samples/3ba59387-7ece-406c-bcb8-7d484d555e47",
+        "result": "Bacteria",
+        "taxonomy_level": "strain",
+        "downloaded_file": "/home/tlabib/Documents/github/cosmosid-scraper-api-zaag/downloads/SRR17798741_kepler-biom_strain_2024-10-22_14_29.tsv"
+    },
+    {
+        "link_url": "/samples/3ba59387-7ece-406c-bcb8-7d484d555e47",
+        "result": "Viruses",
+        "downloaded_file": "/home/tlabib/Documents/github/cosmosid-scraper-api-zaag/downloads/SRR17798741_kepler-taxonomy-tree_2024-10-22_14_29.tsv"
+    },
+    {
+        "link_url": "/samples/3ba59387-7ece-406c-bcb8-7d484d555e47",
+        "result": "Protists",
+        "downloaded_file": "/home/tlabib/Documents/github/cosmosid-scraper-api-zaag/downloads/SRR17798741_kepler-taxonomy-tree_2024-10-22_14_29 (1).tsv"
+    },
+    {
+        "link_url": "/samples/3ba59387-7ece-406c-bcb8-7d484d555e47",
+        "result": "Fungi",
+        "downloaded_file": null
+    },
+    {
+        "link_url": "/samples/3ba59387-7ece-406c-bcb8-7d484d555e47",
+        "result": "Combined Kingdom Results",
+        "downloaded_file": "/home/tlabib/Documents/github/cosmosid-scraper-api-zaag/downloads/SRR17798741_kepler-ck-taxonomy-tree_2024-10-22_14_29.tsv"
+    },
+    {
+        "link_url": "/samples/3ba59387-7ece-406c-bcb8-7d484d555e47",
+        "result": "Antimicrobial Resistance",
+        "downloaded_file": "/home/tlabib/Documents/github/cosmosid-scraper-api-zaag/downloads/SRR17798741_classes_filtered_2024-10-22_14_29.tsv"
+    },
+    {
+        "link_url": "/samples/3ba59387-7ece-406c-bcb8-7d484d555e47",
+        "result": "GO Terms",
+        "downloaded_file": "/home/tlabib/Documents/github/cosmosid-scraper-api-zaag/downloads/SRR17798741_functional-goterm_all_2024-10-22_14_29.tsv"
+    },
+    {
+        "link_url": "/samples/3ba59387-7ece-406c-bcb8-7d484d555e47",
+        "result": "Virulence Factors",
+        "downloaded_file": "/home/tlabib/Documents/github/cosmosid-scraper-api-zaag/downloads/SRR17798741_vf_table_phylogeny_filtered_2024-10-22_14_29.tsv"
+    },
+    {
+        "link_url": "/samples/3ba59387-7ece-406c-bcb8-7d484d555e47",
+        "result": "Enzyme Commission",
+        "downloaded_file": "/home/tlabib/Documents/github/cosmosid-scraper-api-zaag/downloads/SRR17798741_functional-ec_2024-10-22_14_29.tsv"
+    },
+    {
+        "link_url": "/samples/3ba59387-7ece-406c-bcb8-7d484d555e47",
+        "result": "MetaCyc Pathways",
+        "downloaded_file": "/home/tlabib/Documents/github/cosmosid-scraper-api-zaag/downloads/SRR17798741_functional-pathway_2024-10-22_14_29.tsv"
+    },
+    {
+        "link_url": "/samples/3ba59387-7ece-406c-bcb8-7d484d555e47",
+        "result": "Pfam",
+        "downloaded_file": "/home/tlabib/Documents/github/cosmosid-scraper-api-zaag/downloads/SRR17798741_functional-pfam_2024-10-22_14_30.tsv"
+    },
+    {
+        "link_url": "/samples/3ba59387-7ece-406c-bcb8-7d484d555e47",
+        "result": "CAZy",
+        "downloaded_file": "/home/tlabib/Documents/github/cosmosid-scraper-api-zaag/downloads/SRR17798741_functional-cazy_2024-10-22_14_30.tsv"
+    },
+    {
+        "link_url": "/samples/3ba59387-7ece-406c-bcb8-7d484d555e47",
+        "result": "FASTQC",
+        "downloaded_file": null
+    },
+    {
+        "link_url": "/samples/dc5e2422-d3b5-4ccd-bb05-c55574928345",
+        "result": "Bacteria",
+        "downloaded_file": "/home/tlabib/Documents/github/cosmosid-scraper-api-zaag/downloads/SRR17798704_kepler-taxonomy-tree_2024-10-22_14_30.tsv"
+    },
+    {
+        "link_url": "/samples/dc5e2422-d3b5-4ccd-bb05-c55574928345",
+        "result": "Bacteria",
+        "taxonomy_level": "domain",
+        "downloaded_file": "/home/tlabib/Documents/github/cosmosid-scraper-api-zaag/downloads/SRR17798704_kepler-biom_domain_2024-10-22_14_30.tsv"
+    },
+    {
+        "link_url": "/samples/dc5e2422-d3b5-4ccd-bb05-c55574928345",
+        "result": "Bacteria",
+        "taxonomy_level": "kingdom",
+        "downloaded_file": "/home/tlabib/Documents/github/cosmosid-scraper-api-zaag/downloads/SRR17798704_kepler-biom_kingdom_2024-10-22_14_30.tsv"
+    },
+    {
+        "link_url": "/samples/dc5e2422-d3b5-4ccd-bb05-c55574928345",
+        "result": "Bacteria",
+        "taxonomy_level": "phylum",
+        "downloaded_file": "/home/tlabib/Documents/github/cosmosid-scraper-api-zaag/downloads/SRR17798704_kepler-biom_phylum_2024-10-22_14_30.tsv"
+    },
+    {
+        "link_url": "/samples/dc5e2422-d3b5-4ccd-bb05-c55574928345",
+        "result": "Bacteria",
+        "taxonomy_level": "class",
+        "downloaded_file": "/home/tlabib/Documents/github/cosmosid-scraper-api-zaag/downloads/SRR17798704_kepler-biom_class_2024-10-22_14_30.tsv"
+    },
+    {
+        "link_url": "/samples/dc5e2422-d3b5-4ccd-bb05-c55574928345",
+        "result": "Bacteria",
+        "taxonomy_level": "order",
+        "downloaded_file": "/home/tlabib/Documents/github/cosmosid-scraper-api-zaag/downloads/SRR17798704_kepler-biom_order_2024-10-22_14_30.tsv"
+    },
+    {
+        "link_url": "/samples/dc5e2422-d3b5-4ccd-bb05-c55574928345",
+        "result": "Bacteria",
+        "taxonomy_level": "family",
+        "downloaded_file": "/home/tlabib/Documents/github/cosmosid-scraper-api-zaag/downloads/SRR17798704_kepler-biom_family_2024-10-22_14_31.tsv"
+    },
+    {
+        "link_url": "/samples/dc5e2422-d3b5-4ccd-bb05-c55574928345",
+        "result": "Bacteria",
+        "taxonomy_level": "genus",
+        "downloaded_file": "/home/tlabib/Documents/github/cosmosid-scraper-api-zaag/downloads/SRR17798704_kepler-biom_genus_2024-10-22_14_31.tsv"
+    },
+    {
+        "link_url": "/samples/dc5e2422-d3b5-4ccd-bb05-c55574928345",
+        "result": "Bacteria",
+        "taxonomy_level": "species",
+        "downloaded_file": "/home/tlabib/Documents/github/cosmosid-scraper-api-zaag/downloads/SRR17798704_kepler-biom_species_2024-10-22_14_31.tsv"
+    },
+    {
+        "link_url": "/samples/dc5e2422-d3b5-4ccd-bb05-c55574928345",
+        "result": "Bacteria",
+        "taxonomy_level": "strain",
+        "downloaded_file": "/home/tlabib/Documents/github/cosmosid-scraper-api-zaag/downloads/SRR17798704_kepler-biom_strain_2024-10-22_14_31.tsv"
+    },
+    {
+        "link_url": "/samples/dc5e2422-d3b5-4ccd-bb05-c55574928345",
+        "result": "Viruses",
+        "downloaded_file": null
+    },
+    {
+        "link_url": "/samples/dc5e2422-d3b5-4ccd-bb05-c55574928345",
+        "result": "Protists",
+        "downloaded_file": null
+    },
+    {
+        "link_url": "/samples/dc5e2422-d3b5-4ccd-bb05-c55574928345",
+        "result": "Fungi",
+        "downloaded_file": null
+    },
+    {
+        "link_url": "/samples/dc5e2422-d3b5-4ccd-bb05-c55574928345",
+        "result": "Combined Kingdom Results",
+        "downloaded_file": "/home/tlabib/Documents/github/cosmosid-scraper-api-zaag/downloads/SRR17798704_kepler-ck-taxonomy-tree_2024-10-22_14_31.tsv"
+    },
+    {
+        "link_url": "/samples/dc5e2422-d3b5-4ccd-bb05-c55574928345",
+        "result": "Antimicrobial Resistance",
+        "downloaded_file": "/home/tlabib/Documents/github/cosmosid-scraper-api-zaag/downloads/SRR17798704_classes_filtered_2024-10-22_14_31.tsv"
+    },
+    {
+        "link_url": "/samples/dc5e2422-d3b5-4ccd-bb05-c55574928345",
+        "result": "GO Terms",
+        "downloaded_file": "/home/tlabib/Documents/github/cosmosid-scraper-api-zaag/downloads/SRR17798704_functional-goterm_all_2024-10-22_14_32.tsv"
+    },
+    {
+        "link_url": "/samples/dc5e2422-d3b5-4ccd-bb05-c55574928345",
+        "result": "Virulence Factors",
+        "downloaded_file": "/home/tlabib/Documents/github/cosmosid-scraper-api-zaag/downloads/SRR17798704_vf_table_phylogeny_filtered_2024-10-22_14_32.tsv"
+    },
+    {
+        "link_url": "/samples/dc5e2422-d3b5-4ccd-bb05-c55574928345",
+        "result": "Enzyme Commission",
+        "downloaded_file": "/home/tlabib/Documents/github/cosmosid-scraper-api-zaag/downloads/SRR17798704_functional-ec_2024-10-22_14_32.tsv"
+    },
+    {
+        "link_url": "/samples/dc5e2422-d3b5-4ccd-bb05-c55574928345",
+        "result": "MetaCyc Pathways",
+        "downloaded_file": "/home/tlabib/Documents/github/cosmosid-scraper-api-zaag/downloads/SRR17798704_functional-pathway_2024-10-22_14_32.tsv"
+    },
+    {
+        "link_url": "/samples/dc5e2422-d3b5-4ccd-bb05-c55574928345",
+        "result": "Pfam",
+        "downloaded_file": "/home/tlabib/Documents/github/cosmosid-scraper-api-zaag/downloads/SRR17798704_functional-pfam_2024-10-22_14_32.tsv"
+    },
+    {
+        "link_url": "/samples/dc5e2422-d3b5-4ccd-bb05-c55574928345",
+        "result": "CAZy",
+        "downloaded_file": "/home/tlabib/Documents/github/cosmosid-scraper-api-zaag/downloads/SRR17798704_functional-cazy_2024-10-22_14_32.tsv"
+    },
+    {
+        "link_url": "/samples/dc5e2422-d3b5-4ccd-bb05-c55574928345",
+        "result": "FASTQC",
+        "downloaded_file": null
+    },
+    {
+        "link_url": "/samples/0b00a234-4971-4801-9718-990ed231cf94",
+        "result": "Bacteria",
+        "downloaded_file": "/home/tlabib/Documents/github/cosmosid-scraper-api-zaag/downloads/SRR17798702_kepler-taxonomy-tree_2024-10-22_14_32.tsv"
+    },
+    {
+        "link_url": "/samples/0b00a234-4971-4801-9718-990ed231cf94",
+        "result": "Bacteria",
+        "taxonomy_level": "domain",
+        "downloaded_file": "/home/tlabib/Documents/github/cosmosid-scraper-api-zaag/downloads/SRR17798702_kepler-biom_domain_2024-10-22_14_32.tsv"
+    },
+    {
+        "link_url": "/samples/0b00a234-4971-4801-9718-990ed231cf94",
+        "result": "Bacteria",
+        "taxonomy_level": "kingdom",
+        "downloaded_file": "/home/tlabib/Documents/github/cosmosid-scraper-api-zaag/downloads/SRR17798702_kepler-biom_kingdom_2024-10-22_14_33.tsv"
+    },
+    {
+        "link_url": "/samples/0b00a234-4971-4801-9718-990ed231cf94",
+        "result": "Bacteria",
+        "taxonomy_level": "phylum",
+        "downloaded_file": "/home/tlabib/Documents/github/cosmosid-scraper-api-zaag/downloads/SRR17798702_kepler-biom_phylum_2024-10-22_14_33.tsv"
+    },
+    {
+        "link_url": "/samples/0b00a234-4971-4801-9718-990ed231cf94",
+        "result": "Bacteria",
+        "taxonomy_level": "class",
+        "downloaded_file": "/home/tlabib/Documents/github/cosmosid-scraper-api-zaag/downloads/SRR17798702_kepler-biom_class_2024-10-22_14_33.tsv"
+    },
+    {
+        "link_url": "/samples/0b00a234-4971-4801-9718-990ed231cf94",
+        "result": "Bacteria",
+        "taxonomy_level": "order",
+        "downloaded_file": "/home/tlabib/Documents/github/cosmosid-scraper-api-zaag/downloads/SRR17798702_kepler-biom_order_2024-10-22_14_33.tsv"
+    },
+    {
+        "link_url": "/samples/0b00a234-4971-4801-9718-990ed231cf94",
+        "result": "Bacteria",
+        "taxonomy_level": "family",
+        "downloaded_file": "/home/tlabib/Documents/github/cosmosid-scraper-api-zaag/downloads/SRR17798702_kepler-biom_family_2024-10-22_14_33.tsv"
+    },
+    {
+        "link_url": "/samples/0b00a234-4971-4801-9718-990ed231cf94",
+        "result": "Bacteria",
+        "taxonomy_level": "genus",
+        "downloaded_file": "/home/tlabib/Documents/github/cosmosid-scraper-api-zaag/downloads/SRR17798702_kepler-biom_genus_2024-10-22_14_33.tsv"
+    },
+    {
+        "link_url": "/samples/0b00a234-4971-4801-9718-990ed231cf94",
+        "result": "Bacteria",
+        "taxonomy_level": "species",
+        "downloaded_file": "/home/tlabib/Documents/github/cosmosid-scraper-api-zaag/downloads/SRR17798702_kepler-biom_species_2024-10-22_14_33.tsv"
+    },
+    {
+        "link_url": "/samples/0b00a234-4971-4801-9718-990ed231cf94",
+        "result": "Bacteria",
+        "taxonomy_level": "strain",
+        "downloaded_file": "/home/tlabib/Documents/github/cosmosid-scraper-api-zaag/downloads/SRR17798702_kepler-biom_strain_2024-10-22_14_33.tsv"
+    },
+    {
+        "link_url": "/samples/0b00a234-4971-4801-9718-990ed231cf94",
+        "result": "Viruses",
+        "downloaded_file": null
+    },
+    {
+        "link_url": "/samples/0b00a234-4971-4801-9718-990ed231cf94",
+        "result": "Protists",
+        "downloaded_file": "/home/tlabib/Documents/github/cosmosid-scraper-api-zaag/downloads/SRR17798702_kepler-taxonomy-tree_2024-10-22_14_33.tsv"
+    },
+    {
+        "link_url": "/samples/0b00a234-4971-4801-9718-990ed231cf94",
+        "result": "Fungi",
+        "downloaded_file": "/home/tlabib/Documents/github/cosmosid-scraper-api-zaag/downloads/SRR17798702_kepler-taxonomy-tree_2024-10-22_14_34.tsv"
+    },
+    {
+        "link_url": "/samples/0b00a234-4971-4801-9718-990ed231cf94",
+        "result": "Combined Kingdom Results",
+        "downloaded_file": "/home/tlabib/Documents/github/cosmosid-scraper-api-zaag/downloads/SRR17798702_kepler-ck-taxonomy-tree_2024-10-22_14_34.tsv"
+    },
+    {
+        "link_url": "/samples/0b00a234-4971-4801-9718-990ed231cf94",
+        "result": "Antimicrobial Resistance",
+        "downloaded_file": "/home/tlabib/Documents/github/cosmosid-scraper-api-zaag/downloads/SRR17798702_classes_filtered_2024-10-22_14_34.tsv"
+    },
+    {
+        "link_url": "/samples/0b00a234-4971-4801-9718-990ed231cf94",
+        "result": "GO Terms",
+        "downloaded_file": "/home/tlabib/Documents/github/cosmosid-scraper-api-zaag/downloads/SRR17798702_functional-goterm_all_2024-10-22_14_34.tsv"
+    },
+    {
+        "link_url": "/samples/0b00a234-4971-4801-9718-990ed231cf94",
+        "result": "Virulence Factors",
+        "downloaded_file": "/home/tlabib/Documents/github/cosmosid-scraper-api-zaag/downloads/SRR17798702_vf_table_phylogeny_filtered_2024-10-22_14_34.tsv"
+    },
+    {
+        "link_url": "/samples/0b00a234-4971-4801-9718-990ed231cf94",
+        "result": "Enzyme Commission",
+        "downloaded_file": "/home/tlabib/Documents/github/cosmosid-scraper-api-zaag/downloads/SRR17798702_functional-ec_2024-10-22_14_34.tsv"
+    },
+    {
+        "link_url": "/samples/0b00a234-4971-4801-9718-990ed231cf94",
+        "result": "MetaCyc Pathways",
+        "downloaded_file": "/home/tlabib/Documents/github/cosmosid-scraper-api-zaag/downloads/SRR17798702_functional-pathway_2024-10-22_14_34.tsv"
+    },
+    {
+        "link_url": "/samples/0b00a234-4971-4801-9718-990ed231cf94",
+        "result": "Pfam",
+        "downloaded_file": "/home/tlabib/Documents/github/cosmosid-scraper-api-zaag/downloads/SRR17798702_functional-pfam_2024-10-22_14_34.tsv"
+    },
+    {
+        "link_url": "/samples/0b00a234-4971-4801-9718-990ed231cf94",
+        "result": "CAZy",
+        "downloaded_file": "/home/tlabib/Documents/github/cosmosid-scraper-api-zaag/downloads/SRR17798702_functional-cazy_2024-10-22_14_34.tsv"
+    },
+    {
+        "link_url": "/samples/0b00a234-4971-4801-9718-990ed231cf94",
+        "result": "FASTQC",
+        "downloaded_file": null
+    },
+    {
+        "link_url": "/samples/c86413ab-f5eb-47a3-94a8-c02eb56bcbf7",
+        "result": "Bacteria",
+        "downloaded_file": "/home/tlabib/Documents/github/cosmosid-scraper-api-zaag/downloads/SRR17798731_kepler-taxonomy-tree_2024-10-22_14_35.tsv"
+    },
+    {
+        "link_url": "/samples/c86413ab-f5eb-47a3-94a8-c02eb56bcbf7",
+        "result": "Bacteria",
+        "taxonomy_level": "domain",
+        "downloaded_file": "/home/tlabib/Documents/github/cosmosid-scraper-api-zaag/downloads/SRR17798731_kepler-biom_domain_2024-10-22_14_35.tsv"
+    },
+    {
+        "link_url": "/samples/c86413ab-f5eb-47a3-94a8-c02eb56bcbf7",
+        "result": "Bacteria",
+        "taxonomy_level": "kingdom",
+        "downloaded_file": "/home/tlabib/Documents/github/cosmosid-scraper-api-zaag/downloads/SRR17798731_kepler-biom_kingdom_2024-10-22_14_35.tsv"
+    },
+    {
+        "link_url": "/samples/c86413ab-f5eb-47a3-94a8-c02eb56bcbf7",
+        "result": "Bacteria",
+        "taxonomy_level": "phylum",
+        "downloaded_file": "/home/tlabib/Documents/github/cosmosid-scraper-api-zaag/downloads/SRR17798731_kepler-biom_phylum_2024-10-22_14_35.tsv"
+    },
+    {
+        "link_url": "/samples/c86413ab-f5eb-47a3-94a8-c02eb56bcbf7",
+        "result": "Bacteria",
+        "taxonomy_level": "class",
+        "downloaded_file": "/home/tlabib/Documents/github/cosmosid-scraper-api-zaag/downloads/SRR17798731_kepler-biom_class_2024-10-22_14_35.tsv"
+    },
+    {
+        "link_url": "/samples/c86413ab-f5eb-47a3-94a8-c02eb56bcbf7",
+        "result": "Bacteria",
+        "taxonomy_level": "order",
+        "downloaded_file": "/home/tlabib/Documents/github/cosmosid-scraper-api-zaag/downloads/SRR17798731_kepler-biom_order_2024-10-22_14_35.tsv"
+    },
+    {
+        "link_url": "/samples/c86413ab-f5eb-47a3-94a8-c02eb56bcbf7",
+        "result": "Bacteria",
+        "taxonomy_level": "family",
+        "downloaded_file": "/home/tlabib/Documents/github/cosmosid-scraper-api-zaag/downloads/SRR17798731_kepler-biom_family_2024-10-22_14_35.tsv"
+    },
+    {
+        "link_url": "/samples/c86413ab-f5eb-47a3-94a8-c02eb56bcbf7",
+        "result": "Bacteria",
+        "taxonomy_level": "genus",
+        "downloaded_file": "/home/tlabib/Documents/github/cosmosid-scraper-api-zaag/downloads/SRR17798731_kepler-biom_genus_2024-10-22_14_35.tsv"
+    },
+    {
+        "link_url": "/samples/c86413ab-f5eb-47a3-94a8-c02eb56bcbf7",
+        "result": "Bacteria",
+        "taxonomy_level": "species",
+        "downloaded_file": "/home/tlabib/Documents/github/cosmosid-scraper-api-zaag/downloads/SRR17798731_kepler-biom_species_2024-10-22_14_35.tsv"
+    },
+    {
+        "link_url": "/samples/c86413ab-f5eb-47a3-94a8-c02eb56bcbf7",
+        "result": "Bacteria",
+        "taxonomy_level": "strain",
+        "downloaded_file": "/home/tlabib/Documents/github/cosmosid-scraper-api-zaag/downloads/SRR17798731_kepler-biom_strain_2024-10-22_14_36.tsv"
+    },
+    {
+        "link_url": "/samples/c86413ab-f5eb-47a3-94a8-c02eb56bcbf7",
+        "result": "Viruses",
+        "downloaded_file": null
+    },
+    {
+        "link_url": "/samples/c86413ab-f5eb-47a3-94a8-c02eb56bcbf7",
+        "result": "Protists",
+        "downloaded_file": "/home/tlabib/Documents/github/cosmosid-scraper-api-zaag/downloads/SRR17798731_kepler-taxonomy-tree_2024-10-22_14_36.tsv"
+    },
+    {
+        "link_url": "/samples/c86413ab-f5eb-47a3-94a8-c02eb56bcbf7",
+        "result": "Fungi",
+        "downloaded_file": "/home/tlabib/Documents/github/cosmosid-scraper-api-zaag/downloads/SRR17798731_kepler-taxonomy-tree_2024-10-22_14_36 (1).tsv"
+    },
+    {
+        "link_url": "/samples/c86413ab-f5eb-47a3-94a8-c02eb56bcbf7",
+        "result": "Combined Kingdom Results",
+        "downloaded_file": "/home/tlabib/Documents/github/cosmosid-scraper-api-zaag/downloads/SRR17798731_kepler-ck-taxonomy-tree_2024-10-22_14_36.tsv"
+    },
+    {
+        "link_url": "/samples/c86413ab-f5eb-47a3-94a8-c02eb56bcbf7",
+        "result": "Antimicrobial Resistance",
+        "downloaded_file": "/home/tlabib/Documents/github/cosmosid-scraper-api-zaag/downloads/SRR17798731_classes_filtered_2024-10-22_14_36.tsv"
+    },
+    {
+        "link_url": "/samples/c86413ab-f5eb-47a3-94a8-c02eb56bcbf7",
+        "result": "GO Terms",
+        "downloaded_file": "/home/tlabib/Documents/github/cosmosid-scraper-api-zaag/downloads/SRR17798731_functional-goterm_all_2024-10-22_14_36.tsv"
+    },
+    {
+        "link_url": "/samples/c86413ab-f5eb-47a3-94a8-c02eb56bcbf7",
+        "result": "Virulence Factors",
+        "downloaded_file": "/home/tlabib/Documents/github/cosmosid-scraper-api-zaag/downloads/SRR17798731_vf_table_phylogeny_filtered_2024-10-22_14_36.tsv"
+    },
+    {
+        "link_url": "/samples/c86413ab-f5eb-47a3-94a8-c02eb56bcbf7",
+        "result": "Enzyme Commission",
+        "downloaded_file": "/home/tlabib/Documents/github/cosmosid-scraper-api-zaag/downloads/SRR17798731_functional-ec_2024-10-22_14_36.tsv"
+    },
+    {
+        "link_url": "/samples/c86413ab-f5eb-47a3-94a8-c02eb56bcbf7",
+        "result": "MetaCyc Pathways",
+        "downloaded_file": "/home/tlabib/Documents/github/cosmosid-scraper-api-zaag/downloads/SRR17798731_functional-pathway_2024-10-22_14_36.tsv"
+    },
+    {
+        "link_url": "/samples/c86413ab-f5eb-47a3-94a8-c02eb56bcbf7",
+        "result": "Pfam",
+        "downloaded_file": "/home/tlabib/Documents/github/cosmosid-scraper-api-zaag/downloads/SRR17798731_functional-pfam_2024-10-22_14_37.tsv"
+    },
+    {
+        "link_url": "/samples/c86413ab-f5eb-47a3-94a8-c02eb56bcbf7",
+        "result": "CAZy",
+        "downloaded_file": "/home/tlabib/Documents/github/cosmosid-scraper-api-zaag/downloads/SRR17798731_functional-cazy_2024-10-22_14_37.tsv"
+    },
+    {
+        "link_url": "/samples/c86413ab-f5eb-47a3-94a8-c02eb56bcbf7",
+        "result": "FASTQC",
+        "downloaded_file": null
+    },
+    {
+        "link_url": "/samples/19a62107-f9fe-4622-92b3-25b97da67c15",
+        "result": "Bacteria",
+        "downloaded_file": "/home/tlabib/Documents/github/cosmosid-scraper-api-zaag/downloads/SRR17798759_kepler-taxonomy-tree_2024-10-22_14_37.tsv"
+    },
+    {
+        "link_url": "/samples/19a62107-f9fe-4622-92b3-25b97da67c15",
+        "result": "Bacteria",
+        "taxonomy_level": "domain",
+        "downloaded_file": "/home/tlabib/Documents/github/cosmosid-scraper-api-zaag/downloads/SRR17798759_kepler-biom_domain_2024-10-22_14_37.tsv"
+    },
+    {
+        "link_url": "/samples/19a62107-f9fe-4622-92b3-25b97da67c15",
+        "result": "Bacteria",
+        "taxonomy_level": "kingdom",
+        "downloaded_file": "/home/tlabib/Documents/github/cosmosid-scraper-api-zaag/downloads/SRR17798759_kepler-biom_kingdom_2024-10-22_14_37.tsv"
+    },
+    {
+        "link_url": "/samples/19a62107-f9fe-4622-92b3-25b97da67c15",
+        "result": "Bacteria",
+        "taxonomy_level": "phylum",
+        "downloaded_file": "/home/tlabib/Documents/github/cosmosid-scraper-api-zaag/downloads/SRR17798759_kepler-biom_phylum_2024-10-22_14_37.tsv"
+    },
+    {
+        "link_url": "/samples/19a62107-f9fe-4622-92b3-25b97da67c15",
+        "result": "Bacteria",
+        "taxonomy_level": "class",
+        "downloaded_file": "/home/tlabib/Documents/github/cosmosid-scraper-api-zaag/downloads/SRR17798759_kepler-biom_class_2024-10-22_14_37.tsv"
+    },
+    {
+        "link_url": "/samples/19a62107-f9fe-4622-92b3-25b97da67c15",
+        "result": "Bacteria",
+        "taxonomy_level": "order",
+        "downloaded_file": "/home/tlabib/Documents/github/cosmosid-scraper-api-zaag/downloads/SRR17798759_kepler-biom_order_2024-10-22_14_37.tsv"
+    },
+    {
+        "link_url": "/samples/19a62107-f9fe-4622-92b3-25b97da67c15",
+        "result": "Bacteria",
+        "taxonomy_level": "family",
+        "downloaded_file": "/home/tlabib/Documents/github/cosmosid-scraper-api-zaag/downloads/SRR17798759_kepler-biom_family_2024-10-22_14_38.tsv"
+    },
+    {
+        "link_url": "/samples/19a62107-f9fe-4622-92b3-25b97da67c15",
+        "result": "Bacteria",
+        "taxonomy_level": "genus",
+        "downloaded_file": "/home/tlabib/Documents/github/cosmosid-scraper-api-zaag/downloads/SRR17798759_kepler-biom_genus_2024-10-22_14_38.tsv"
+    },
+    {
+        "link_url": "/samples/19a62107-f9fe-4622-92b3-25b97da67c15",
+        "result": "Bacteria",
+        "taxonomy_level": "species",
+        "downloaded_file": "/home/tlabib/Documents/github/cosmosid-scraper-api-zaag/downloads/SRR17798759_kepler-biom_species_2024-10-22_14_38.tsv"
+    },
+    {
+        "link_url": "/samples/19a62107-f9fe-4622-92b3-25b97da67c15",
+        "result": "Bacteria",
+        "taxonomy_level": "strain",
+        "downloaded_file": "/home/tlabib/Documents/github/cosmosid-scraper-api-zaag/downloads/SRR17798759_kepler-biom_strain_2024-10-22_14_38.tsv"
+    },
+    {
+        "link_url": "/samples/19a62107-f9fe-4622-92b3-25b97da67c15",
+        "result": "Viruses",
+        "downloaded_file": null
+    },
+    {
+        "link_url": "/samples/19a62107-f9fe-4622-92b3-25b97da67c15",
+        "result": "Protists",
+        "downloaded_file": "/home/tlabib/Documents/github/cosmosid-scraper-api-zaag/downloads/SRR17798759_kepler-taxonomy-tree_2024-10-22_14_38.tsv"
+    },
+    {
+        "link_url": "/samples/19a62107-f9fe-4622-92b3-25b97da67c15",
+        "result": "Fungi",
+        "downloaded_file": "/home/tlabib/Documents/github/cosmosid-scraper-api-zaag/downloads/SRR17798759_kepler-taxonomy-tree_2024-10-22_14_38 (1).tsv"
+    },
+    {
+        "link_url": "/samples/19a62107-f9fe-4622-92b3-25b97da67c15",
+        "result": "Combined Kingdom Results",
+        "downloaded_file": "/home/tlabib/Documents/github/cosmosid-scraper-api-zaag/downloads/SRR17798759_kepler-ck-taxonomy-tree_2024-10-22_14_38.tsv"
+    },
+    {
+        "link_url": "/samples/19a62107-f9fe-4622-92b3-25b97da67c15",
+        "result": "Antimicrobial Resistance",
+        "downloaded_file": "/home/tlabib/Documents/github/cosmosid-scraper-api-zaag/downloads/SRR17798759_classes_filtered_2024-10-22_14_38.tsv"
+    },
+    {
+        "link_url": "/samples/19a62107-f9fe-4622-92b3-25b97da67c15",
+        "result": "GO Terms",
+        "downloaded_file": "/home/tlabib/Documents/github/cosmosid-scraper-api-zaag/downloads/SRR17798759_functional-goterm_all_2024-10-22_14_38.tsv"
+    },
+    {
+        "link_url": "/samples/19a62107-f9fe-4622-92b3-25b97da67c15",
+        "result": "Virulence Factors",
+        "downloaded_file": "/home/tlabib/Documents/github/cosmosid-scraper-api-zaag/downloads/SRR17798759_vf_table_phylogeny_filtered_2024-10-22_14_39.tsv"
+    },
+    {
+        "link_url": "/samples/19a62107-f9fe-4622-92b3-25b97da67c15",
+        "result": "Enzyme Commission",
+        "downloaded_file": "/home/tlabib/Documents/github/cosmosid-scraper-api-zaag/downloads/SRR17798759_functional-ec_2024-10-22_14_39.tsv"
+    },
+    {
+        "link_url": "/samples/19a62107-f9fe-4622-92b3-25b97da67c15",
+        "result": "MetaCyc Pathways",
+        "downloaded_file": "/home/tlabib/Documents/github/cosmosid-scraper-api-zaag/downloads/SRR17798759_functional-pathway_2024-10-22_14_39.tsv"
+    },
+    {
+        "link_url": "/samples/19a62107-f9fe-4622-92b3-25b97da67c15",
+        "result": "Pfam",
+        "downloaded_file": "/home/tlabib/Documents/github/cosmosid-scraper-api-zaag/downloads/SRR17798759_functional-pfam_2024-10-22_14_39.tsv"
+    },
+    {
+        "link_url": "/samples/19a62107-f9fe-4622-92b3-25b97da67c15",
+        "result": "CAZy",
+        "downloaded_file": "/home/tlabib/Documents/github/cosmosid-scraper-api-zaag/downloads/SRR17798759_functional-cazy_2024-10-22_14_39.tsv"
+    },
+    {
+        "link_url": "/samples/19a62107-f9fe-4622-92b3-25b97da67c15",
+        "result": "FASTQC",
+        "downloaded_file": null
+    },
+    {
+        "link_url": "/samples/14f34828-aaa1-4609-9fc9-8203b951b26a",
+        "result": "Bacteria",
+        "downloaded_file": "/home/tlabib/Documents/github/cosmosid-scraper-api-zaag/downloads/SRR17798707_kepler-taxonomy-tree_2024-10-22_14_41.tsv"
+    },
+    {
+        "link_url": "/samples/14f34828-aaa1-4609-9fc9-8203b951b26a",
+        "result": "Bacteria",
+        "taxonomy_level": "domain",
+        "downloaded_file": "/home/tlabib/Documents/github/cosmosid-scraper-api-zaag/downloads/SRR17798707_kepler-biom_domain_2024-10-22_14_41.tsv"
+    },
+    {
+        "link_url": "/samples/14f34828-aaa1-4609-9fc9-8203b951b26a",
+        "result": "Bacteria",
+        "taxonomy_level": "kingdom",
+        "downloaded_file": "/home/tlabib/Documents/github/cosmosid-scraper-api-zaag/downloads/SRR17798707_kepler-biom_kingdom_2024-10-22_14_41.tsv"
+    },
+    {
+        "link_url": "/samples/14f34828-aaa1-4609-9fc9-8203b951b26a",
+        "result": "Bacteria",
+        "taxonomy_level": "phylum",
+        "downloaded_file": "/home/tlabib/Documents/github/cosmosid-scraper-api-zaag/downloads/SRR17798707_kepler-biom_phylum_2024-10-22_14_41.tsv"
+    },
+    {
+        "link_url": "/samples/14f34828-aaa1-4609-9fc9-8203b951b26a",
+        "result": "Bacteria",
+        "taxonomy_level": "class",
+        "downloaded_file": "/home/tlabib/Documents/github/cosmosid-scraper-api-zaag/downloads/SRR17798707_kepler-biom_class_2024-10-22_14_41.tsv"
+    },
+    {
+        "link_url": "/samples/14f34828-aaa1-4609-9fc9-8203b951b26a",
+        "result": "Bacteria",
+        "taxonomy_level": "order",
+        "downloaded_file": "/home/tlabib/Documents/github/cosmosid-scraper-api-zaag/downloads/SRR17798707_kepler-biom_order_2024-10-22_14_42.tsv"
+    },
+    {
+        "link_url": "/samples/14f34828-aaa1-4609-9fc9-8203b951b26a",
+        "result": "Bacteria",
+        "taxonomy_level": "family",
+        "downloaded_file": "/home/tlabib/Documents/github/cosmosid-scraper-api-zaag/downloads/SRR17798707_kepler-biom_family_2024-10-22_14_42.tsv"
+    },
+    {
+        "link_url": "/samples/14f34828-aaa1-4609-9fc9-8203b951b26a",
+        "result": "Bacteria",
+        "taxonomy_level": "genus",
+        "downloaded_file": "/home/tlabib/Documents/github/cosmosid-scraper-api-zaag/downloads/SRR17798707_kepler-biom_genus_2024-10-22_14_42.tsv"
+    },
+    {
+        "link_url": "/samples/14f34828-aaa1-4609-9fc9-8203b951b26a",
+        "result": "Bacteria",
+        "taxonomy_level": "species",
+        "downloaded_file": "/home/tlabib/Documents/github/cosmosid-scraper-api-zaag/downloads/SRR17798707_kepler-biom_species_2024-10-22_14_42.tsv"
+    },
+    {
+        "link_url": "/samples/14f34828-aaa1-4609-9fc9-8203b951b26a",
+        "result": "Bacteria",
+        "taxonomy_level": "strain",
+        "downloaded_file": "/home/tlabib/Documents/github/cosmosid-scraper-api-zaag/downloads/SRR17798707_kepler-biom_strain_2024-10-22_14_42.tsv"
+    },
+    {
+        "link_url": "/samples/14f34828-aaa1-4609-9fc9-8203b951b26a",
+        "result": "Viruses",
+        "downloaded_file": null
+    },
+    {
+        "link_url": "/samples/14f34828-aaa1-4609-9fc9-8203b951b26a",
+        "result": "Protists",
+        "downloaded_file": null
+    },
+    {
+        "link_url": "/samples/14f34828-aaa1-4609-9fc9-8203b951b26a",
+        "result": "Fungi",
+        "downloaded_file": "/home/tlabib/Documents/github/cosmosid-scraper-api-zaag/downloads/SRR17798707_kepler-taxonomy-tree_2024-10-22_14_42.tsv"
+    },
+    {
+        "link_url": "/samples/14f34828-aaa1-4609-9fc9-8203b951b26a",
+        "result": "Combined Kingdom Results",
+        "downloaded_file": "/home/tlabib/Documents/github/cosmosid-scraper-api-zaag/downloads/SRR17798707_kepler-ck-taxonomy-tree_2024-10-22_14_42.tsv"
+    },
+    {
+        "link_url": "/samples/14f34828-aaa1-4609-9fc9-8203b951b26a",
+        "result": "Antimicrobial Resistance",
+        "downloaded_file": "/home/tlabib/Documents/github/cosmosid-scraper-api-zaag/downloads/SRR17798707_classes_filtered_2024-10-22_14_42.tsv"
+    },
+    {
+        "link_url": "/samples/14f34828-aaa1-4609-9fc9-8203b951b26a",
+        "result": "GO Terms",
+        "downloaded_file": "/home/tlabib/Documents/github/cosmosid-scraper-api-zaag/downloads/SRR17798707_functional-goterm_all_2024-10-22_14_43.tsv"
+    },
+    {
+        "link_url": "/samples/14f34828-aaa1-4609-9fc9-8203b951b26a",
+        "result": "Virulence Factors",
+        "downloaded_file": "/home/tlabib/Documents/github/cosmosid-scraper-api-zaag/downloads/SRR17798707_vf_table_phylogeny_filtered_2024-10-22_14_43.tsv"
+    },
+    {
+        "link_url": "/samples/14f34828-aaa1-4609-9fc9-8203b951b26a",
+        "result": "Enzyme Commission",
+        "downloaded_file": "/home/tlabib/Documents/github/cosmosid-scraper-api-zaag/downloads/SRR17798707_functional-ec_2024-10-22_14_43.tsv"
+    },
+    {
+        "link_url": "/samples/14f34828-aaa1-4609-9fc9-8203b951b26a",
+        "result": "MetaCyc Pathways",
+        "downloaded_file": "/home/tlabib/Documents/github/cosmosid-scraper-api-zaag/downloads/SRR17798707_functional-pathway_2024-10-22_14_43.tsv"
+    },
+    {
+        "link_url": "/samples/14f34828-aaa1-4609-9fc9-8203b951b26a",
+        "result": "Pfam",
+        "downloaded_file": "/home/tlabib/Documents/github/cosmosid-scraper-api-zaag/downloads/SRR17798707_functional-pfam_2024-10-22_14_43.tsv"
+    },
+    {
+        "link_url": "/samples/14f34828-aaa1-4609-9fc9-8203b951b26a",
+        "result": "CAZy",
+        "downloaded_file": "/home/tlabib/Documents/github/cosmosid-scraper-api-zaag/downloads/SRR17798707_functional-cazy_2024-10-22_14_43.tsv"
+    },
+    {
+        "link_url": "/samples/14f34828-aaa1-4609-9fc9-8203b951b26a",
+        "result": "FASTQC",
+        "downloaded_file": null
+    },
+    {
+        "link_url": "/samples/191df5cb-528a-44f5-8d3e-1bc77fb234a3",
+        "result": "Bacteria",
+        "downloaded_file": "/home/tlabib/Documents/github/cosmosid-scraper-api-zaag/downloads/SRR17798719_kepler-taxonomy-tree_2024-10-22_14_43.tsv"
+    },
+    {
+        "link_url": "/samples/191df5cb-528a-44f5-8d3e-1bc77fb234a3",
+        "result": "Bacteria",
+        "taxonomy_level": "domain",
+        "downloaded_file": "/home/tlabib/Documents/github/cosmosid-scraper-api-zaag/downloads/SRR17798719_kepler-biom_domain_2024-10-22_14_44.tsv"
+    },
+    {
+        "link_url": "/samples/191df5cb-528a-44f5-8d3e-1bc77fb234a3",
+        "result": "Bacteria",
+        "taxonomy_level": "kingdom",
+        "downloaded_file": "/home/tlabib/Documents/github/cosmosid-scraper-api-zaag/downloads/SRR17798719_kepler-biom_kingdom_2024-10-22_14_44.tsv"
+    },
+    {
+        "link_url": "/samples/191df5cb-528a-44f5-8d3e-1bc77fb234a3",
+        "result": "Bacteria",
+        "taxonomy_level": "phylum",
+        "downloaded_file": "/home/tlabib/Documents/github/cosmosid-scraper-api-zaag/downloads/SRR17798719_kepler-biom_phylum_2024-10-22_14_44.tsv"
+    },
+    {
+        "link_url": "/samples/191df5cb-528a-44f5-8d3e-1bc77fb234a3",
+        "result": "Bacteria",
+        "taxonomy_level": "class",
+        "downloaded_file": "/home/tlabib/Documents/github/cosmosid-scraper-api-zaag/downloads/SRR17798719_kepler-biom_class_2024-10-22_14_44.tsv"
+    },
+    {
+        "link_url": "/samples/191df5cb-528a-44f5-8d3e-1bc77fb234a3",
+        "result": "Bacteria",
+        "taxonomy_level": "order",
+        "downloaded_file": "/home/tlabib/Documents/github/cosmosid-scraper-api-zaag/downloads/SRR17798719_kepler-biom_order_2024-10-22_14_44.tsv"
+    },
+    {
+        "link_url": "/samples/191df5cb-528a-44f5-8d3e-1bc77fb234a3",
+        "result": "Bacteria",
+        "taxonomy_level": "family",
+        "downloaded_file": "/home/tlabib/Documents/github/cosmosid-scraper-api-zaag/downloads/SRR17798719_kepler-biom_family_2024-10-22_14_44.tsv"
+    },
+    {
+        "link_url": "/samples/191df5cb-528a-44f5-8d3e-1bc77fb234a3",
+        "result": "Bacteria",
+        "taxonomy_level": "genus",
+        "downloaded_file": "/home/tlabib/Documents/github/cosmosid-scraper-api-zaag/downloads/SRR17798719_kepler-biom_genus_2024-10-22_14_44.tsv"
+    },
+    {
+        "link_url": "/samples/191df5cb-528a-44f5-8d3e-1bc77fb234a3",
+        "result": "Bacteria",
+        "taxonomy_level": "species",
+        "downloaded_file": "/home/tlabib/Documents/github/cosmosid-scraper-api-zaag/downloads/SRR17798719_kepler-biom_species_2024-10-22_14_44.tsv"
+    },
+    {
+        "link_url": "/samples/191df5cb-528a-44f5-8d3e-1bc77fb234a3",
+        "result": "Bacteria",
+        "taxonomy_level": "strain",
+        "downloaded_file": "/home/tlabib/Documents/github/cosmosid-scraper-api-zaag/downloads/SRR17798719_kepler-biom_strain_2024-10-22_14_44.tsv"
+    },
+    {
+        "link_url": "/samples/191df5cb-528a-44f5-8d3e-1bc77fb234a3",
+        "result": "Viruses",
+        "downloaded_file": null
+    },
+    {
+        "link_url": "/samples/191df5cb-528a-44f5-8d3e-1bc77fb234a3",
+        "result": "Protists",
+        "downloaded_file": null
+    },
+    {
+        "link_url": "/samples/191df5cb-528a-44f5-8d3e-1bc77fb234a3",
+        "result": "Fungi",
+        "downloaded_file": "/home/tlabib/Documents/github/cosmosid-scraper-api-zaag/downloads/SRR17798719_kepler-taxonomy-tree_2024-10-22_14_45.tsv"
+    },
+    {
+        "link_url": "/samples/191df5cb-528a-44f5-8d3e-1bc77fb234a3",
+        "result": "Combined Kingdom Results",
+        "downloaded_file": "/home/tlabib/Documents/github/cosmosid-scraper-api-zaag/downloads/SRR17798719_kepler-ck-taxonomy-tree_2024-10-22_14_45.tsv"
+    },
+    {
+        "link_url": "/samples/191df5cb-528a-44f5-8d3e-1bc77fb234a3",
+        "result": "Antimicrobial Resistance",
+        "downloaded_file": "/home/tlabib/Documents/github/cosmosid-scraper-api-zaag/downloads/SRR17798719_classes_filtered_2024-10-22_14_45.tsv"
+    },
+    {
+        "link_url": "/samples/191df5cb-528a-44f5-8d3e-1bc77fb234a3",
+        "result": "GO Terms",
+        "downloaded_file": "/home/tlabib/Documents/github/cosmosid-scraper-api-zaag/downloads/SRR17798719_functional-goterm_all_2024-10-22_14_45.tsv"
+    },
+    {
+        "link_url": "/samples/191df5cb-528a-44f5-8d3e-1bc77fb234a3",
+        "result": "Virulence Factors",
+        "downloaded_file": "/home/tlabib/Documents/github/cosmosid-scraper-api-zaag/downloads/SRR17798719_vf_table_phylogeny_filtered_2024-10-22_14_45.tsv"
+    },
+    {
+        "link_url": "/samples/191df5cb-528a-44f5-8d3e-1bc77fb234a3",
+        "result": "Enzyme Commission",
+        "downloaded_file": "/home/tlabib/Documents/github/cosmosid-scraper-api-zaag/downloads/SRR17798719_functional-ec_2024-10-22_14_45.tsv"
+    },
+    {
+        "link_url": "/samples/191df5cb-528a-44f5-8d3e-1bc77fb234a3",
+        "result": "MetaCyc Pathways",
+        "downloaded_file": "/home/tlabib/Documents/github/cosmosid-scraper-api-zaag/downloads/SRR17798719_functional-pathway_2024-10-22_14_45.tsv"
+    },
+    {
+        "link_url": "/samples/191df5cb-528a-44f5-8d3e-1bc77fb234a3",
+        "result": "Pfam",
+        "downloaded_file": "/home/tlabib/Documents/github/cosmosid-scraper-api-zaag/downloads/SRR17798719_functional-pfam_2024-10-22_14_45.tsv"
+    },
+    {
+        "link_url": "/samples/191df5cb-528a-44f5-8d3e-1bc77fb234a3",
+        "result": "CAZy",
+        "downloaded_file": "/home/tlabib/Documents/github/cosmosid-scraper-api-zaag/downloads/SRR17798719_functional-cazy_2024-10-22_14_45.tsv"
+    },
+    {
+        "link_url": "/samples/191df5cb-528a-44f5-8d3e-1bc77fb234a3",
+        "result": "FASTQC",
+        "downloaded_file": null
+    },
+    {
+        "link_url": "/samples/c11e3692-c371-4ecc-8123-7124c0214e5a",
+        "result": "Bacteria",
+        "downloaded_file": "/home/tlabib/Documents/github/cosmosid-scraper-api-zaag/downloads/SRR17798728_kepler-taxonomy-tree_2024-10-22_14_46.tsv"
+    },
+    {
+        "link_url": "/samples/c11e3692-c371-4ecc-8123-7124c0214e5a",
+        "result": "Bacteria",
+        "taxonomy_level": "domain",
+        "downloaded_file": "/home/tlabib/Documents/github/cosmosid-scraper-api-zaag/downloads/SRR17798728_kepler-biom_domain_2024-10-22_14_46.tsv"
+    },
+    {
+        "link_url": "/samples/c11e3692-c371-4ecc-8123-7124c0214e5a",
+        "result": "Bacteria",
+        "taxonomy_level": "kingdom",
+        "downloaded_file": "/home/tlabib/Documents/github/cosmosid-scraper-api-zaag/downloads/SRR17798728_kepler-biom_kingdom_2024-10-22_14_46.tsv"
+    },
+    {
+        "link_url": "/samples/c11e3692-c371-4ecc-8123-7124c0214e5a",
+        "result": "Bacteria",
+        "taxonomy_level": "phylum",
+        "downloaded_file": "/home/tlabib/Documents/github/cosmosid-scraper-api-zaag/downloads/SRR17798728_kepler-biom_phylum_2024-10-22_14_46.tsv"
+    },
+    {
+        "link_url": "/samples/c11e3692-c371-4ecc-8123-7124c0214e5a",
+        "result": "Bacteria",
+        "taxonomy_level": "class",
+        "downloaded_file": "/home/tlabib/Documents/github/cosmosid-scraper-api-zaag/downloads/SRR17798728_kepler-biom_class_2024-10-22_14_46.tsv"
+    },
+    {
+        "link_url": "/samples/c11e3692-c371-4ecc-8123-7124c0214e5a",
+        "result": "Bacteria",
+        "taxonomy_level": "order",
+        "downloaded_file": "/home/tlabib/Documents/github/cosmosid-scraper-api-zaag/downloads/SRR17798728_kepler-biom_order_2024-10-22_14_46.tsv"
+    },
+    {
+        "link_url": "/samples/c11e3692-c371-4ecc-8123-7124c0214e5a",
+        "result": "Bacteria",
+        "taxonomy_level": "family",
+        "downloaded_file": "/home/tlabib/Documents/github/cosmosid-scraper-api-zaag/downloads/SRR17798728_kepler-biom_family_2024-10-22_14_46.tsv"
+    },
+    {
+        "link_url": "/samples/c11e3692-c371-4ecc-8123-7124c0214e5a",
+        "result": "Bacteria",
+        "taxonomy_level": "genus",
+        "downloaded_file": "/home/tlabib/Documents/github/cosmosid-scraper-api-zaag/downloads/SRR17798728_kepler-biom_genus_2024-10-22_14_46.tsv"
+    },
+    {
+        "link_url": "/samples/c11e3692-c371-4ecc-8123-7124c0214e5a",
+        "result": "Bacteria",
+        "taxonomy_level": "species",
+        "downloaded_file": "/home/tlabib/Documents/github/cosmosid-scraper-api-zaag/downloads/SRR17798728_kepler-biom_species_2024-10-22_14_46.tsv"
+    },
+    {
+        "link_url": "/samples/c11e3692-c371-4ecc-8123-7124c0214e5a",
+        "result": "Bacteria",
+        "taxonomy_level": "strain",
+        "downloaded_file": "/home/tlabib/Documents/github/cosmosid-scraper-api-zaag/downloads/SRR17798728_kepler-biom_strain_2024-10-22_14_47.tsv"
+    },
+    {
+        "link_url": "/samples/c11e3692-c371-4ecc-8123-7124c0214e5a",
+        "result": "Viruses",
+        "downloaded_file": null
+    },
+    {
+        "link_url": "/samples/c11e3692-c371-4ecc-8123-7124c0214e5a",
+        "result": "Protists",
+        "downloaded_file": null
+    },
+    {
+        "link_url": "/samples/c11e3692-c371-4ecc-8123-7124c0214e5a",
+        "result": "Fungi",
+        "downloaded_file": "/home/tlabib/Documents/github/cosmosid-scraper-api-zaag/downloads/SRR17798728_kepler-taxonomy-tree_2024-10-22_14_47.tsv"
+    },
+    {
+        "link_url": "/samples/c11e3692-c371-4ecc-8123-7124c0214e5a",
+        "result": "Combined Kingdom Results",
+        "downloaded_file": "/home/tlabib/Documents/github/cosmosid-scraper-api-zaag/downloads/SRR17798728_kepler-ck-taxonomy-tree_2024-10-22_14_47.tsv"
+    },
+    {
+        "link_url": "/samples/c11e3692-c371-4ecc-8123-7124c0214e5a",
+        "result": "Antimicrobial Resistance",
+        "downloaded_file": "/home/tlabib/Documents/github/cosmosid-scraper-api-zaag/downloads/SRR17798728_classes_filtered_2024-10-22_14_47.tsv"
+    },
+    {
+        "link_url": "/samples/c11e3692-c371-4ecc-8123-7124c0214e5a",
+        "result": "GO Terms",
+        "downloaded_file": "/home/tlabib/Documents/github/cosmosid-scraper-api-zaag/downloads/SRR17798728_functional-goterm_all_2024-10-22_14_47.tsv"
+    },
+    {
+        "link_url": "/samples/c11e3692-c371-4ecc-8123-7124c0214e5a",
+        "result": "Virulence Factors",
+        "downloaded_file": "/home/tlabib/Documents/github/cosmosid-scraper-api-zaag/downloads/SRR17798728_vf_table_phylogeny_filtered_2024-10-22_14_47.tsv"
+    },
+    {
+        "link_url": "/samples/c11e3692-c371-4ecc-8123-7124c0214e5a",
+        "result": "Enzyme Commission",
+        "downloaded_file": "/home/tlabib/Documents/github/cosmosid-scraper-api-zaag/downloads/SRR17798728_functional-ec_2024-10-22_14_47.tsv"
+    },
+    {
+        "link_url": "/samples/c11e3692-c371-4ecc-8123-7124c0214e5a",
+        "result": "MetaCyc Pathways",
+        "downloaded_file": "/home/tlabib/Documents/github/cosmosid-scraper-api-zaag/downloads/SRR17798728_functional-pathway_2024-10-22_14_48.tsv"
+    },
+    {
+        "link_url": "/samples/c11e3692-c371-4ecc-8123-7124c0214e5a",
+        "result": "Pfam",
+        "downloaded_file": "/home/tlabib/Documents/github/cosmosid-scraper-api-zaag/downloads/SRR17798728_functional-pfam_2024-10-22_14_48.tsv"
+    },
+    {
+        "link_url": "/samples/c11e3692-c371-4ecc-8123-7124c0214e5a",
+        "result": "CAZy",
+        "downloaded_file": "/home/tlabib/Documents/github/cosmosid-scraper-api-zaag/downloads/SRR17798728_functional-cazy_2024-10-22_14_48.tsv"
+    },
+    {
+        "link_url": "/samples/c11e3692-c371-4ecc-8123-7124c0214e5a",
+        "result": "FASTQC",
+        "downloaded_file": null
+    },
+    {
+        "link_url": "/samples/21189f31-aa11-410a-8147-280563d39a93",
+        "result": "Bacteria",
+        "downloaded_file": "/home/tlabib/Documents/github/cosmosid-scraper-api-zaag/downloads/SRR17798721_kepler-taxonomy-tree_2024-10-22_14_48.tsv"
+    },
+    {
+        "link_url": "/samples/21189f31-aa11-410a-8147-280563d39a93",
+        "result": "Bacteria",
+        "taxonomy_level": "domain",
+        "downloaded_file": "/home/tlabib/Documents/github/cosmosid-scraper-api-zaag/downloads/SRR17798721_kepler-biom_domain_2024-10-22_14_48.tsv"
+    },
+    {
+        "link_url": "/samples/21189f31-aa11-410a-8147-280563d39a93",
+        "result": "Bacteria",
+        "taxonomy_level": "kingdom",
+        "downloaded_file": "/home/tlabib/Documents/github/cosmosid-scraper-api-zaag/downloads/SRR17798721_kepler-biom_kingdom_2024-10-22_14_48.tsv"
+    },
+    {
+        "link_url": "/samples/21189f31-aa11-410a-8147-280563d39a93",
+        "result": "Bacteria",
+        "taxonomy_level": "phylum",
+        "downloaded_file": "/home/tlabib/Documents/github/cosmosid-scraper-api-zaag/downloads/SRR17798721_kepler-biom_phylum_2024-10-22_14_48.tsv"
+    },
+    {
+        "link_url": "/samples/21189f31-aa11-410a-8147-280563d39a93",
+        "result": "Bacteria",
+        "taxonomy_level": "class",
+        "downloaded_file": "/home/tlabib/Documents/github/cosmosid-scraper-api-zaag/downloads/SRR17798721_kepler-biom_class_2024-10-22_14_48.tsv"
+    },
+    {
+        "link_url": "/samples/21189f31-aa11-410a-8147-280563d39a93",
+        "result": "Bacteria",
+        "taxonomy_level": "order",
+        "downloaded_file": "/home/tlabib/Documents/github/cosmosid-scraper-api-zaag/downloads/SRR17798721_kepler-biom_order_2024-10-22_14_49.tsv"
+    },
+    {
+        "link_url": "/samples/21189f31-aa11-410a-8147-280563d39a93",
+        "result": "Bacteria",
+        "taxonomy_level": "family",
+        "downloaded_file": "/home/tlabib/Documents/github/cosmosid-scraper-api-zaag/downloads/SRR17798721_kepler-biom_family_2024-10-22_14_49.tsv"
+    },
+    {
+        "link_url": "/samples/21189f31-aa11-410a-8147-280563d39a93",
+        "result": "Bacteria",
+        "taxonomy_level": "genus",
+        "downloaded_file": "/home/tlabib/Documents/github/cosmosid-scraper-api-zaag/downloads/SRR17798721_kepler-biom_genus_2024-10-22_14_49.tsv"
+    },
+    {
+        "link_url": "/samples/21189f31-aa11-410a-8147-280563d39a93",
+        "result": "Bacteria",
+        "taxonomy_level": "species",
+        "downloaded_file": "/home/tlabib/Documents/github/cosmosid-scraper-api-zaag/downloads/SRR17798721_kepler-biom_species_2024-10-22_14_49.tsv"
+    },
+    {
+        "link_url": "/samples/21189f31-aa11-410a-8147-280563d39a93",
+        "result": "Bacteria",
+        "taxonomy_level": "strain",
+        "downloaded_file": "/home/tlabib/Documents/github/cosmosid-scraper-api-zaag/downloads/SRR17798721_kepler-biom_strain_2024-10-22_14_49.tsv"
+    },
+    {
+        "link_url": "/samples/21189f31-aa11-410a-8147-280563d39a93",
+        "result": "Viruses",
+        "downloaded_file": null
+    },
+    {
+        "link_url": "/samples/21189f31-aa11-410a-8147-280563d39a93",
+        "result": "Protists",
+        "downloaded_file": "/home/tlabib/Documents/github/cosmosid-scraper-api-zaag/downloads/SRR17798721_kepler-taxonomy-tree_2024-10-22_14_49.tsv"
+    },
+    {
+        "link_url": "/samples/21189f31-aa11-410a-8147-280563d39a93",
+        "result": "Fungi",
+        "downloaded_file": null
+    },
+    {
+        "link_url": "/samples/21189f31-aa11-410a-8147-280563d39a93",
+        "result": "Combined Kingdom Results",
+        "downloaded_file": "/home/tlabib/Documents/github/cosmosid-scraper-api-zaag/downloads/SRR17798721_kepler-ck-taxonomy-tree_2024-10-22_14_49.tsv"
+    },
+    {
+        "link_url": "/samples/21189f31-aa11-410a-8147-280563d39a93",
+        "result": "Antimicrobial Resistance",
+        "downloaded_file": "/home/tlabib/Documents/github/cosmosid-scraper-api-zaag/downloads/SRR17798721_classes_filtered_2024-10-22_14_49.tsv"
+    },
+    {
+        "link_url": "/samples/21189f31-aa11-410a-8147-280563d39a93",
+        "result": "GO Terms",
+        "downloaded_file": "/home/tlabib/Documents/github/cosmosid-scraper-api-zaag/downloads/SRR17798721_functional-goterm_all_2024-10-22_14_50.tsv"
+    },
+    {
+        "link_url": "/samples/21189f31-aa11-410a-8147-280563d39a93",
+        "result": "Virulence Factors",
+        "downloaded_file": "/home/tlabib/Documents/github/cosmosid-scraper-api-zaag/downloads/SRR17798721_vf_table_phylogeny_filtered_2024-10-22_14_50.tsv"
+    },
+    {
+        "link_url": "/samples/21189f31-aa11-410a-8147-280563d39a93",
+        "result": "Enzyme Commission",
+        "downloaded_file": "/home/tlabib/Documents/github/cosmosid-scraper-api-zaag/downloads/SRR17798721_functional-ec_2024-10-22_14_50.tsv"
+    },
+    {
+        "link_url": "/samples/21189f31-aa11-410a-8147-280563d39a93",
+        "result": "MetaCyc Pathways",
+        "downloaded_file": "/home/tlabib/Documents/github/cosmosid-scraper-api-zaag/downloads/SRR17798721_functional-pathway_2024-10-22_14_50.tsv"
+    },
+    {
+        "link_url": "/samples/21189f31-aa11-410a-8147-280563d39a93",
+        "result": "Pfam",
+        "downloaded_file": "/home/tlabib/Documents/github/cosmosid-scraper-api-zaag/downloads/SRR17798721_functional-pfam_2024-10-22_14_50.tsv"
+    },
+    {
+        "link_url": "/samples/21189f31-aa11-410a-8147-280563d39a93",
+        "result": "CAZy",
+        "downloaded_file": "/home/tlabib/Documents/github/cosmosid-scraper-api-zaag/downloads/SRR17798721_functional-cazy_2024-10-22_14_50.tsv"
+    },
+    {
+        "link_url": "/samples/21189f31-aa11-410a-8147-280563d39a93",
+        "result": "FASTQC",
+        "downloaded_file": null
     }
 ]

@@ -310,12 +310,35 @@ def interact_with_level_dropdown(driver, lurl):
         logging.error(f"An error occurred while interacting with the 'Level' dropdown: {e}")
 
 # Function to get sample data using the collected links and interact with the dropdown
-def get_sample_data():
+def get_sample_data(update_prev_links):
     base_url = "https://app.cosmosid.com"
 
     # Load the collected links data from the JSON file
     with open('collected_links.json', 'r') as json_file:
         collected_links = json.load(json_file)
+
+    print("collected links length : ", len(collected_links))
+
+    if update_prev_links == False:
+        # Load the already scraped links from the exported_results.json file
+        if os.path.exists('exported_results.json'):
+            with open('exported_results.json', 'r') as json_file:
+                try:
+                    scraped_data = json.load(json_file)
+                except json.JSONDecodeError:
+                    scraped_data = []
+        else:
+            scraped_data = []
+
+        # Create a set of already scraped URLs to easily check if a link has been processed
+        scraped_urls = set()
+        for data in scraped_data:
+            scraped_urls.add(data['link_url'])
+
+        # Remove already scraped links from collected_links
+        collected_links = [link for link in collected_links if link['url'] not in scraped_urls]
+
+    print("collected links length : ", len(collected_links))
 
     try:
         for link in collected_links:
@@ -411,7 +434,7 @@ def get_sample_data():
                                 )
                                 # If we find the export button using any XPath, break out of the loop
                                 if export_button:
-                                    print(xpath)
+                                    # print(xpath)
                                     logging.info(f"Export button found using XPath: {xpath}")
                                     break
                             except Exception as e:
@@ -460,7 +483,7 @@ def get_sample_data():
                             logging.error("Failed to locate the 'Export current results' button with any of the provided XPaths.")
 
                         if (option_text=="Bacteria"):
-                            print("found bacteria")
+                            print("expanding bacteria")
                             # Click the "Taxonomy switcher" button after finding "Bacteria"
                             taxonomy_switcher_button_xpath = "//button[@id='artifact-select-button-kepler-biom' and @data-name='kepler-biom']"
 
@@ -516,9 +539,10 @@ def wait_for_download(download_dir, timeout=30):
 # Execution sequence
 config = {}
 config["get_samples"] = False
+config["update_prev_links"] = False
 signin()
 get_sample_links(config["get_samples"])
-get_sample_data()
+get_sample_data(config["update_prev_links"])
 # Close the browser
 input("Press Enter to close the browser...")
 driver.quit()

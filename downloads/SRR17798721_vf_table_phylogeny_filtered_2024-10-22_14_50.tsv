@@ -1,0 +1,25 @@
+Name	Accession ID	Class	Abundance Score	Relative Abundance	% Unique Matches	% Total Matches	Unique Matches Frequency
+Klebsiella pneumoniae GENE tnpA		-	130057.21	31.155	1	1	15640
+Pseudomonas aeruginosa GENE intI1		-	60523.64	14.499	1	1	2170
+Streptococcus pyogenes GENE msrD		-	46779.09	11.206000000000001	0.623853	0.623853	14076
+Proteus mirabilis GENE sul1		-	40474.84	9.696	0.80303	0.80303	1916
+Escherichia coli GENE lpfA		-	15475.03	3.707	0.415789	0.415789	5079
+Bacteroides vulgatus GI 33413459		-	13453.99	3.2230000000000003	1	1	752
+Escherichia coli GENE traA		-	12529.2	3.001	0.771739	0.771739	753
+Enterococcus faecalis GI 48190		-	11471.18	2.748	0.912837	0.912837	2762
+Bacteroides fragilis GENE tetQ		-	11160.78	2.674	0.964789	0.964789	2745
+Escherichia coli GENE ompA		-	10493.86	2.514	0.630508	0.630508	1673
+Enterococcus faecium GENE ermB		-	9327.55	2.234	0.934473	0.934473	1225
+Bacteroides fragilis GENE rteA		-	5960.89	1.428	0.483871	0.483871	2154
+Enterococcus hirae GENE ermB		-	5273.33	1.2630000000000001	1	1	24
+Parabacteroides distasonis GI 32395281		-	5238.02	1.2550000000000001	1	1	69
+Bacteroides fragilis GENE bmhA		-	5135.4	1.23	0.518008	0.518008	1612
+Enterococcus faecium GI 21886751		-	4702.43	1.126	0.747967	0.747967	365
+Enterococcus faecium GI 21886747		-	4406.76	1.056	0.814815	0.814815	73
+Staphylococcus aureus GENE qacC		-	4291.74	1.028	0.780822	0.780822	165
+Bacteroides fragilis GENE mobA		-	4270.31	1.023	0.42953	0.42953	373
+Parabacteroides distasonis GI 32395282		-	4261.56	1.0210000000000001	0.73913	0.73913	149
+Bacteroides fragilis GI 46242799		-	3957.43	0.9480000000000001	0.588235	0.588235	259
+Bacteroides fragilis GI 46242808		-	2971.33	0.712	0.407407	0.407407	209
+Enterococcus faecium GENE sat4		-	2827.59	0.677	0.563636	0.563636	114
+Enterococcus faecalis GENE mobB		-	2403.55	0.5760000000000001	0.402439	0.402439	284
