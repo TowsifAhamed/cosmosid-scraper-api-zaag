@@ -101,6 +101,7 @@ WSGI_APPLICATION = 'cosmosidscrpproject.wsgi.application'
 #         'NAME': BASE_DIR / 'db.sqlite3',
 #     }
 # }
+
 DATABASES = {
     'default': {
         'ENGINE': 'django.db.backends.postgresql',
@@ -111,6 +112,17 @@ DATABASES = {
         # 'PORT': '',  # default port is 5432
     }
 }
+
+import sys
+
+# Check if the tests are running
+if 'test' in sys.argv:
+    DATABASES = {
+        'default': {
+            'ENGINE': 'django.db.backends.sqlite3',
+            'NAME': ':memory:',
+        }
+    }
 
 # Password validation
 # https://docs.djangoproject.com/en/4.2/ref/settings/#auth-password-validators
