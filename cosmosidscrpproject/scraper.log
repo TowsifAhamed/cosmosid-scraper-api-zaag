@@ -1983,3 +1983,387 @@ ProcessLookupError: [Errno 3] No such process
 2024-10-26 19:39:15,636 - WARNING - Retrying (Retry(total=2, connect=None, read=None, redirect=None, status=None)) after connection broken by 'NewConnectionError('<urllib3.connection.HTTPConnection object at 0x7f81705dae20>: Failed to establish a new connection: [Errno 111] Connection refused')': /session/5c38bc51b50ff18f601c1bd4919c1aa2
 2024-10-26 19:39:15,636 - WARNING - Retrying (Retry(total=1, connect=None, read=None, redirect=None, status=None)) after connection broken by 'NewConnectionError('<urllib3.connection.HTTPConnection object at 0x7f81705da280>: Failed to establish a new connection: [Errno 111] Connection refused')': /session/5c38bc51b50ff18f601c1bd4919c1aa2
 2024-10-26 19:39:15,636 - WARNING - Retrying (Retry(total=0, connect=None, read=None, redirect=None, status=None)) after connection broken by 'NewConnectionError('<urllib3.connection.HTTPConnection object at 0x7f81705daca0>: Failed to establish a new connection: [Errno 111] Connection refused')': /session/5c38bc51b50ff18f601c1bd4919c1aa2
+2024-10-26 19:51:06,908 - INFO - collected links length : 71
+2024-10-26 19:51:13,881 - INFO - Dropdown opened successfully.
+2024-10-26 19:51:13,898 - INFO - Dropdown options loaded successfully.
+2024-10-26 19:51:13,931 - INFO - Dropdown options collected: ['Bacteria', 'Viruses', 'Protists', 'Fungi', 'Combined Kingdom Results', 'Antimicrobial Resistance', 'GO Terms', 'Virulence Factors', 'Enzyme Commission', 'MetaCyc Pathways', 'Pfam', 'CAZy', 'FASTQC']
+2024-10-26 19:51:13,939 - INFO - /samples/16f7fc7b-d557-4b18-b146-6eb2d9611ece - Selecting option: Bacteria
+2024-10-26 19:51:16,006 - INFO - Clicked 'Export current results' for option: Bacteria
+2024-10-26 19:51:17,009 - INFO - Downloaded file: /home/tlabib/Documents/github/cosmosid-scraper-api-zaag/downloads/SRR17798710_kepler-taxonomy-tree_2024-10-26_19_51.tsv
+2024-10-26 19:51:17,009 - INFO - Exported Data: {'link_url': '/samples/16f7fc7b-d557-4b18-b146-6eb2d9611ece', 'result': 'Bacteria', 'downloaded_file': '/home/tlabib/Documents/github/cosmosid-scraper-api-zaag/downloads/SRR17798710_kepler-taxonomy-tree_2024-10-26_19_51.tsv'}
+2024-10-26 19:51:17,009 - INFO - Upsert: Exported Data for Upsert: {'link_url': '/samples/16f7fc7b-d557-4b18-b146-6eb2d9611ece', 'result': 'Bacteria', 'taxonomy_level': 'N/A', 'downloaded_file': '/home/tlabib/Documents/github/cosmosid-scraper-api-zaag/downloads/SRR17798710_kepler-taxonomy-tree_2024-10-26_19_51.tsv', 'job_id': '89fe21f8-8b8f-46a5-a6df-c1a666f28acb'}
+2024-10-26 19:51:17,012 - INFO - CollectedLinks count for URL /samples/16f7fc7b-d557-4b18-b146-6eb2d9611ece: 1
+2024-10-26 19:51:17,012 - INFO - CollectedLinks instance details: {'name': 'SRR17798710', 'url': '/samples/16f7fc7b-d557-4b18-b146-6eb2d9611ece', 'folder': 'Urinary Tract Infection Microbiome - Neugent et al 2022 - PRJNA801448 - KEPLER', 'job_id': None}
+2024-10-26 19:51:17,024 - INFO - Expanding Bacteria
+2024-10-26 19:51:17,122 - INFO - Clicked 'Taxonomy switcher' for Bacteria.
+2024-10-26 19:51:21,455 - INFO - Level dropdown opened successfully.
+2024-10-26 19:51:21,470 - INFO - Level dropdown options loaded successfully.
+2024-10-26 19:51:21,499 - INFO - Level dropdown options collected: ['domain', 'kingdom', 'phylum', 'class', 'order', 'family', 'genus', 'species', 'strain']
+2024-10-26 19:51:21,507 - INFO - Selecting Level: domain
+2024-10-26 19:51:23,647 - INFO - Clicked 'Export current results' for Level: domain
+2024-10-26 19:51:24,653 - INFO - Downloaded file: /home/tlabib/Documents/github/cosmosid-scraper-api-zaag/downloads/SRR17798710_kepler-biom_domain_2024-10-26_19_51.tsv
+2024-10-26 19:51:24,654 - INFO - Upsert: Exported Data for Upsert: {'link_url': '/samples/16f7fc7b-d557-4b18-b146-6eb2d9611ece', 'result': 'Bacteria', 'taxonomy_level': 'domain', 'downloaded_file': '/home/tlabib/Documents/github/cosmosid-scraper-api-zaag/downloads/SRR17798710_kepler-biom_domain_2024-10-26_19_51.tsv', 'job_id': '89fe21f8-8b8f-46a5-a6df-c1a666f28acb'}
+2024-10-26 19:51:24,659 - INFO - CollectedLinks count for URL /samples/16f7fc7b-d557-4b18-b146-6eb2d9611ece: 1
+2024-10-26 19:51:24,659 - INFO - CollectedLinks instance details: {'name': 'SRR17798710', 'url': '/samples/16f7fc7b-d557-4b18-b146-6eb2d9611ece', 'folder': 'Urinary Tract Infection Microbiome - Neugent et al 2022 - PRJNA801448 - KEPLER', 'job_id': None}
+2024-10-26 19:51:26,997 - INFO - Selecting Level: kingdom
+2024-10-26 19:51:29,112 - INFO - Clicked 'Export current results' for Level: kingdom
+2024-10-26 19:51:30,117 - INFO - Downloaded file: /home/tlabib/Documents/github/cosmosid-scraper-api-zaag/downloads/SRR17798710_kepler-biom_kingdom_2024-10-26_19_51.tsv
+2024-10-26 19:51:30,117 - INFO - Upsert: Exported Data for Upsert: {'link_url': '/samples/16f7fc7b-d557-4b18-b146-6eb2d9611ece', 'result': 'Bacteria', 'taxonomy_level': 'kingdom', 'downloaded_file': '/home/tlabib/Documents/github/cosmosid-scraper-api-zaag/downloads/SRR17798710_kepler-biom_kingdom_2024-10-26_19_51.tsv', 'job_id': '89fe21f8-8b8f-46a5-a6df-c1a666f28acb'}
+2024-10-26 19:51:30,123 - INFO - CollectedLinks count for URL /samples/16f7fc7b-d557-4b18-b146-6eb2d9611ece: 1
+2024-10-26 19:51:30,124 - INFO - CollectedLinks instance details: {'name': 'SRR17798710', 'url': '/samples/16f7fc7b-d557-4b18-b146-6eb2d9611ece', 'folder': 'Urinary Tract Infection Microbiome - Neugent et al 2022 - PRJNA801448 - KEPLER', 'job_id': None}
+2024-10-26 19:51:32,467 - INFO - Selecting Level: phylum
+2024-10-26 19:51:34,612 - INFO - Clicked 'Export current results' for Level: phylum
+2024-10-26 19:51:35,619 - INFO - Downloaded file: /home/tlabib/Documents/github/cosmosid-scraper-api-zaag/downloads/SRR17798710_kepler-biom_phylum_2024-10-26_19_51.tsv
+2024-10-26 19:51:35,619 - INFO - Upsert: Exported Data for Upsert: {'link_url': '/samples/16f7fc7b-d557-4b18-b146-6eb2d9611ece', 'result': 'Bacteria', 'taxonomy_level': 'phylum', 'downloaded_file': '/home/tlabib/Documents/github/cosmosid-scraper-api-zaag/downloads/SRR17798710_kepler-biom_phylum_2024-10-26_19_51.tsv', 'job_id': '89fe21f8-8b8f-46a5-a6df-c1a666f28acb'}
+2024-10-26 19:51:35,624 - INFO - CollectedLinks count for URL /samples/16f7fc7b-d557-4b18-b146-6eb2d9611ece: 1
+2024-10-26 19:51:35,625 - INFO - CollectedLinks instance details: {'name': 'SRR17798710', 'url': '/samples/16f7fc7b-d557-4b18-b146-6eb2d9611ece', 'folder': 'Urinary Tract Infection Microbiome - Neugent et al 2022 - PRJNA801448 - KEPLER', 'job_id': None}
+2024-10-26 19:51:37,953 - INFO - Selecting Level: class
+2024-10-26 19:51:40,123 - INFO - Clicked 'Export current results' for Level: class
+2024-10-26 19:51:41,127 - INFO - Downloaded file: /home/tlabib/Documents/github/cosmosid-scraper-api-zaag/downloads/SRR17798710_kepler-biom_class_2024-10-26_19_51.tsv
+2024-10-26 19:51:41,128 - INFO - Upsert: Exported Data for Upsert: {'link_url': '/samples/16f7fc7b-d557-4b18-b146-6eb2d9611ece', 'result': 'Bacteria', 'taxonomy_level': 'class', 'downloaded_file': '/home/tlabib/Documents/github/cosmosid-scraper-api-zaag/downloads/SRR17798710_kepler-biom_class_2024-10-26_19_51.tsv', 'job_id': '89fe21f8-8b8f-46a5-a6df-c1a666f28acb'}
+2024-10-26 19:51:41,130 - INFO - CollectedLinks count for URL /samples/16f7fc7b-d557-4b18-b146-6eb2d9611ece: 1
+2024-10-26 19:51:41,131 - INFO - CollectedLinks instance details: {'name': 'SRR17798710', 'url': '/samples/16f7fc7b-d557-4b18-b146-6eb2d9611ece', 'folder': 'Urinary Tract Infection Microbiome - Neugent et al 2022 - PRJNA801448 - KEPLER', 'job_id': None}
+2024-10-26 19:51:43,449 - INFO - Selecting Level: order
+2024-10-26 19:51:45,599 - INFO - Clicked 'Export current results' for Level: order
+2024-10-26 19:51:46,602 - INFO - Downloaded file: /home/tlabib/Documents/github/cosmosid-scraper-api-zaag/downloads/SRR17798710_kepler-biom_order_2024-10-26_19_51.tsv
+2024-10-26 19:51:46,602 - INFO - Upsert: Exported Data for Upsert: {'link_url': '/samples/16f7fc7b-d557-4b18-b146-6eb2d9611ece', 'result': 'Bacteria', 'taxonomy_level': 'order', 'downloaded_file': '/home/tlabib/Documents/github/cosmosid-scraper-api-zaag/downloads/SRR17798710_kepler-biom_order_2024-10-26_19_51.tsv', 'job_id': '89fe21f8-8b8f-46a5-a6df-c1a666f28acb'}
+2024-10-26 19:51:46,604 - INFO - CollectedLinks count for URL /samples/16f7fc7b-d557-4b18-b146-6eb2d9611ece: 1
+2024-10-26 19:51:46,604 - INFO - CollectedLinks instance details: {'name': 'SRR17798710', 'url': '/samples/16f7fc7b-d557-4b18-b146-6eb2d9611ece', 'folder': 'Urinary Tract Infection Microbiome - Neugent et al 2022 - PRJNA801448 - KEPLER', 'job_id': None}
+2024-10-26 19:51:48,914 - INFO - Selecting Level: family
+2024-10-26 19:51:51,085 - INFO - Clicked 'Export current results' for Level: family
+2024-10-26 19:51:52,092 - INFO - Downloaded file: /home/tlabib/Documents/github/cosmosid-scraper-api-zaag/downloads/SRR17798710_kepler-biom_family_2024-10-26_19_51.tsv
+2024-10-26 19:51:52,092 - INFO - Upsert: Exported Data for Upsert: {'link_url': '/samples/16f7fc7b-d557-4b18-b146-6eb2d9611ece', 'result': 'Bacteria', 'taxonomy_level': 'family', 'downloaded_file': '/home/tlabib/Documents/github/cosmosid-scraper-api-zaag/downloads/SRR17798710_kepler-biom_family_2024-10-26_19_51.tsv', 'job_id': '89fe21f8-8b8f-46a5-a6df-c1a666f28acb'}
+2024-10-26 19:51:52,098 - INFO - CollectedLinks count for URL /samples/16f7fc7b-d557-4b18-b146-6eb2d9611ece: 1
+2024-10-26 19:51:52,098 - INFO - CollectedLinks instance details: {'name': 'SRR17798710', 'url': '/samples/16f7fc7b-d557-4b18-b146-6eb2d9611ece', 'folder': 'Urinary Tract Infection Microbiome - Neugent et al 2022 - PRJNA801448 - KEPLER', 'job_id': None}
+2024-10-26 19:51:54,432 - INFO - Selecting Level: genus
+2024-10-26 19:51:56,637 - INFO - Clicked 'Export current results' for Level: genus
+2024-10-26 19:51:57,640 - INFO - Downloaded file: /home/tlabib/Documents/github/cosmosid-scraper-api-zaag/downloads/SRR17798710_kepler-biom_genus_2024-10-26_19_51.tsv
+2024-10-26 19:51:57,640 - INFO - Upsert: Exported Data for Upsert: {'link_url': '/samples/16f7fc7b-d557-4b18-b146-6eb2d9611ece', 'result': 'Bacteria', 'taxonomy_level': 'genus', 'downloaded_file': '/home/tlabib/Documents/github/cosmosid-scraper-api-zaag/downloads/SRR17798710_kepler-biom_genus_2024-10-26_19_51.tsv', 'job_id': '89fe21f8-8b8f-46a5-a6df-c1a666f28acb'}
+2024-10-26 19:51:57,643 - INFO - CollectedLinks count for URL /samples/16f7fc7b-d557-4b18-b146-6eb2d9611ece: 1
+2024-10-26 19:51:57,643 - INFO - CollectedLinks instance details: {'name': 'SRR17798710', 'url': '/samples/16f7fc7b-d557-4b18-b146-6eb2d9611ece', 'folder': 'Urinary Tract Infection Microbiome - Neugent et al 2022 - PRJNA801448 - KEPLER', 'job_id': None}
+2024-10-26 19:51:59,980 - INFO - Selecting Level: species
+2024-10-26 19:52:02,271 - INFO - Clicked 'Export current results' for Level: species
+2024-10-26 19:52:03,277 - INFO - Downloaded file: /home/tlabib/Documents/github/cosmosid-scraper-api-zaag/downloads/SRR17798710_kepler-biom_species_2024-10-26_19_52.tsv
+2024-10-26 19:52:03,277 - INFO - Upsert: Exported Data for Upsert: {'link_url': '/samples/16f7fc7b-d557-4b18-b146-6eb2d9611ece', 'result': 'Bacteria', 'taxonomy_level': 'species', 'downloaded_file': '/home/tlabib/Documents/github/cosmosid-scraper-api-zaag/downloads/SRR17798710_kepler-biom_species_2024-10-26_19_52.tsv', 'job_id': '89fe21f8-8b8f-46a5-a6df-c1a666f28acb'}
+2024-10-26 19:52:03,283 - INFO - CollectedLinks count for URL /samples/16f7fc7b-d557-4b18-b146-6eb2d9611ece: 1
+2024-10-26 19:52:03,283 - INFO - CollectedLinks instance details: {'name': 'SRR17798710', 'url': '/samples/16f7fc7b-d557-4b18-b146-6eb2d9611ece', 'folder': 'Urinary Tract Infection Microbiome - Neugent et al 2022 - PRJNA801448 - KEPLER', 'job_id': None}
+2024-10-26 19:52:05,635 - INFO - Selecting Level: strain
+2024-10-26 19:52:07,914 - INFO - Clicked 'Export current results' for Level: strain
+2024-10-26 19:52:08,921 - INFO - Downloaded file: /home/tlabib/Documents/github/cosmosid-scraper-api-zaag/downloads/SRR17798710_kepler-biom_strain_2024-10-26_19_52.tsv
+2024-10-26 19:52:08,921 - INFO - Upsert: Exported Data for Upsert: {'link_url': '/samples/16f7fc7b-d557-4b18-b146-6eb2d9611ece', 'result': 'Bacteria', 'taxonomy_level': 'strain', 'downloaded_file': '/home/tlabib/Documents/github/cosmosid-scraper-api-zaag/downloads/SRR17798710_kepler-biom_strain_2024-10-26_19_52.tsv', 'job_id': '89fe21f8-8b8f-46a5-a6df-c1a666f28acb'}
+2024-10-26 19:52:08,926 - INFO - CollectedLinks count for URL /samples/16f7fc7b-d557-4b18-b146-6eb2d9611ece: 1
+2024-10-26 19:52:08,927 - INFO - CollectedLinks instance details: {'name': 'SRR17798710', 'url': '/samples/16f7fc7b-d557-4b18-b146-6eb2d9611ece', 'folder': 'Urinary Tract Infection Microbiome - Neugent et al 2022 - PRJNA801448 - KEPLER', 'job_id': None}
+2024-10-26 19:52:11,279 - INFO - /samples/16f7fc7b-d557-4b18-b146-6eb2d9611ece - Selecting option: Viruses
+2024-10-26 19:52:22,627 - ERROR - Failed to click 'Export current results': Message: 
+Stacktrace:
+#0 0x5584d6f6949a <unknown>
+#1 0x5584d6a99d90 <unknown>
+#2 0x5584d6ae5bf6 <unknown>
+#3 0x5584d6ae5e91 <unknown>
+#4 0x5584d6b2ac74 <unknown>
+#5 0x5584d6b09acd <unknown>
+#6 0x5584d6b28077 <unknown>
+#7 0x5584d6b09843 <unknown>
+#8 0x5584d6ad8942 <unknown>
+#9 0x5584d6ad991e <unknown>
+#10 0x5584d6f3713f <unknown>
+#11 0x5584d6f3b0c2 <unknown>
+#12 0x5584d6f25627 <unknown>
+#13 0x5584d6f3b841 <unknown>
+#14 0x5584d6f0c72e <unknown>
+#15 0x5584d6f57c08 <unknown>
+#16 0x5584d6f57e0a <unknown>
+#17 0x5584d6f6814c <unknown>
+#18 0x7f2369a3aac3 <unknown>
+
+2024-10-26 19:52:22,627 - INFO - Upsert: Exported Data for Upsert: {'link_url': '/samples/16f7fc7b-d557-4b18-b146-6eb2d9611ece', 'result': 'Viruses', 'taxonomy_level': 'N/A', 'downloaded_file': None, 'job_id': '89fe21f8-8b8f-46a5-a6df-c1a666f28acb'}
+2024-10-26 19:52:22,630 - INFO - CollectedLinks count for URL /samples/16f7fc7b-d557-4b18-b146-6eb2d9611ece: 1
+2024-10-26 19:52:22,630 - INFO - CollectedLinks instance details: {'name': 'SRR17798710', 'url': '/samples/16f7fc7b-d557-4b18-b146-6eb2d9611ece', 'folder': 'Urinary Tract Infection Microbiome - Neugent et al 2022 - PRJNA801448 - KEPLER', 'job_id': None}
+2024-10-26 19:52:24,958 - INFO - /samples/16f7fc7b-d557-4b18-b146-6eb2d9611ece - Selecting option: Protists
+2024-10-26 19:52:36,309 - ERROR - Failed to click 'Export current results': Message: 
+Stacktrace:
+#0 0x5584d6f6949a <unknown>
+#1 0x5584d6a99d90 <unknown>
+#2 0x5584d6ae5bf6 <unknown>
+#3 0x5584d6ae5e91 <unknown>
+#4 0x5584d6b2ac74 <unknown>
+#5 0x5584d6b09acd <unknown>
+#6 0x5584d6b28077 <unknown>
+#7 0x5584d6b09843 <unknown>
+#8 0x5584d6ad8942 <unknown>
+#9 0x5584d6ad991e <unknown>
+#10 0x5584d6f3713f <unknown>
+#11 0x5584d6f3b0c2 <unknown>
+#12 0x5584d6f25627 <unknown>
+#13 0x5584d6f3b841 <unknown>
+#14 0x5584d6f0c72e <unknown>
+#15 0x5584d6f57c08 <unknown>
+#16 0x5584d6f57e0a <unknown>
+#17 0x5584d6f6814c <unknown>
+#18 0x7f2369a3aac3 <unknown>
+
+2024-10-26 19:52:36,309 - INFO - Upsert: Exported Data for Upsert: {'link_url': '/samples/16f7fc7b-d557-4b18-b146-6eb2d9611ece', 'result': 'Protists', 'taxonomy_level': 'N/A', 'downloaded_file': None, 'job_id': '89fe21f8-8b8f-46a5-a6df-c1a666f28acb'}
+2024-10-26 19:52:36,316 - INFO - CollectedLinks count for URL /samples/16f7fc7b-d557-4b18-b146-6eb2d9611ece: 1
+2024-10-26 19:52:36,316 - INFO - CollectedLinks instance details: {'name': 'SRR17798710', 'url': '/samples/16f7fc7b-d557-4b18-b146-6eb2d9611ece', 'folder': 'Urinary Tract Infection Microbiome - Neugent et al 2022 - PRJNA801448 - KEPLER', 'job_id': None}
+2024-10-26 19:52:38,632 - INFO - /samples/16f7fc7b-d557-4b18-b146-6eb2d9611ece - Selecting option: Fungi
+2024-10-26 19:52:49,915 - ERROR - Failed to click 'Export current results': Message: 
+Stacktrace:
+#0 0x5584d6f6949a <unknown>
+#1 0x5584d6a99d90 <unknown>
+#2 0x5584d6ae5bf6 <unknown>
+#3 0x5584d6ae5e91 <unknown>
+#4 0x5584d6b2ac74 <unknown>
+#5 0x5584d6b09acd <unknown>
+#6 0x5584d6b28077 <unknown>
+#7 0x5584d6b09843 <unknown>
+#8 0x5584d6ad8942 <unknown>
+#9 0x5584d6ad991e <unknown>
+#10 0x5584d6f3713f <unknown>
+#11 0x5584d6f3b0c2 <unknown>
+#12 0x5584d6f25627 <unknown>
+#13 0x5584d6f3b841 <unknown>
+#14 0x5584d6f0c72e <unknown>
+#15 0x5584d6f57c08 <unknown>
+#16 0x5584d6f57e0a <unknown>
+#17 0x5584d6f6814c <unknown>
+#18 0x7f2369a3aac3 <unknown>
+
+2024-10-26 19:52:49,915 - INFO - Upsert: Exported Data for Upsert: {'link_url': '/samples/16f7fc7b-d557-4b18-b146-6eb2d9611ece', 'result': 'Fungi', 'taxonomy_level': 'N/A', 'downloaded_file': None, 'job_id': '89fe21f8-8b8f-46a5-a6df-c1a666f28acb'}
+2024-10-26 19:52:49,917 - INFO - CollectedLinks count for URL /samples/16f7fc7b-d557-4b18-b146-6eb2d9611ece: 1
+2024-10-26 19:52:49,917 - INFO - CollectedLinks instance details: {'name': 'SRR17798710', 'url': '/samples/16f7fc7b-d557-4b18-b146-6eb2d9611ece', 'folder': 'Urinary Tract Infection Microbiome - Neugent et al 2022 - PRJNA801448 - KEPLER', 'job_id': None}
+2024-10-26 19:52:52,241 - INFO - /samples/16f7fc7b-d557-4b18-b146-6eb2d9611ece - Selecting option: Combined Kingdom Results
+2024-10-26 19:52:54,521 - INFO - Clicked 'Export current results' for option: Combined Kingdom Results
+2024-10-26 19:52:55,528 - INFO - Downloaded file: /home/tlabib/Documents/github/cosmosid-scraper-api-zaag/downloads/SRR17798710_kepler-ck-taxonomy-tree_2024-10-26_19_52.tsv
+2024-10-26 19:52:55,529 - INFO - Exported Data: {'link_url': '/samples/16f7fc7b-d557-4b18-b146-6eb2d9611ece', 'result': 'Combined Kingdom Results', 'downloaded_file': '/home/tlabib/Documents/github/cosmosid-scraper-api-zaag/downloads/SRR17798710_kepler-ck-taxonomy-tree_2024-10-26_19_52.tsv'}
+2024-10-26 19:52:55,529 - INFO - Upsert: Exported Data for Upsert: {'link_url': '/samples/16f7fc7b-d557-4b18-b146-6eb2d9611ece', 'result': 'Combined Kingdom Results', 'taxonomy_level': 'N/A', 'downloaded_file': '/home/tlabib/Documents/github/cosmosid-scraper-api-zaag/downloads/SRR17798710_kepler-ck-taxonomy-tree_2024-10-26_19_52.tsv', 'job_id': '89fe21f8-8b8f-46a5-a6df-c1a666f28acb'}
+2024-10-26 19:52:55,534 - INFO - CollectedLinks count for URL /samples/16f7fc7b-d557-4b18-b146-6eb2d9611ece: 1
+2024-10-26 19:52:55,535 - INFO - CollectedLinks instance details: {'name': 'SRR17798710', 'url': '/samples/16f7fc7b-d557-4b18-b146-6eb2d9611ece', 'folder': 'Urinary Tract Infection Microbiome - Neugent et al 2022 - PRJNA801448 - KEPLER', 'job_id': None}
+2024-10-26 19:52:57,866 - INFO - /samples/16f7fc7b-d557-4b18-b146-6eb2d9611ece - Selecting option: Antimicrobial Resistance
+2024-10-26 19:53:00,439 - INFO - Clicked 'Export current results' for option: Antimicrobial Resistance
+2024-10-26 19:53:01,442 - INFO - Downloaded file: /home/tlabib/Documents/github/cosmosid-scraper-api-zaag/downloads/SRR17798710_classes_filtered_2024-10-26_19_53.tsv
+2024-10-26 19:53:01,442 - INFO - Exported Data: {'link_url': '/samples/16f7fc7b-d557-4b18-b146-6eb2d9611ece', 'result': 'Antimicrobial Resistance', 'downloaded_file': '/home/tlabib/Documents/github/cosmosid-scraper-api-zaag/downloads/SRR17798710_classes_filtered_2024-10-26_19_53.tsv'}
+2024-10-26 19:53:01,442 - INFO - Upsert: Exported Data for Upsert: {'link_url': '/samples/16f7fc7b-d557-4b18-b146-6eb2d9611ece', 'result': 'Antimicrobial Resistance', 'taxonomy_level': 'N/A', 'downloaded_file': '/home/tlabib/Documents/github/cosmosid-scraper-api-zaag/downloads/SRR17798710_classes_filtered_2024-10-26_19_53.tsv', 'job_id': '89fe21f8-8b8f-46a5-a6df-c1a666f28acb'}
+2024-10-26 19:53:01,445 - INFO - CollectedLinks count for URL /samples/16f7fc7b-d557-4b18-b146-6eb2d9611ece: 1
+2024-10-26 19:53:01,445 - INFO - CollectedLinks instance details: {'name': 'SRR17798710', 'url': '/samples/16f7fc7b-d557-4b18-b146-6eb2d9611ece', 'folder': 'Urinary Tract Infection Microbiome - Neugent et al 2022 - PRJNA801448 - KEPLER', 'job_id': None}
+2024-10-26 19:53:03,741 - INFO - /samples/16f7fc7b-d557-4b18-b146-6eb2d9611ece - Selecting option: GO Terms
+2024-10-26 19:53:06,356 - INFO - Clicked 'Export current results' for option: GO Terms
+2024-10-26 19:53:07,358 - INFO - Downloaded file: /home/tlabib/Documents/github/cosmosid-scraper-api-zaag/downloads/SRR17798710_functional-goterm_all_2024-10-26_19_53.tsv
+2024-10-26 19:53:07,358 - INFO - Exported Data: {'link_url': '/samples/16f7fc7b-d557-4b18-b146-6eb2d9611ece', 'result': 'GO Terms', 'downloaded_file': '/home/tlabib/Documents/github/cosmosid-scraper-api-zaag/downloads/SRR17798710_functional-goterm_all_2024-10-26_19_53.tsv'}
+2024-10-26 19:53:07,358 - INFO - Upsert: Exported Data for Upsert: {'link_url': '/samples/16f7fc7b-d557-4b18-b146-6eb2d9611ece', 'result': 'GO Terms', 'taxonomy_level': 'N/A', 'downloaded_file': '/home/tlabib/Documents/github/cosmosid-scraper-api-zaag/downloads/SRR17798710_functional-goterm_all_2024-10-26_19_53.tsv', 'job_id': '89fe21f8-8b8f-46a5-a6df-c1a666f28acb'}
+2024-10-26 19:53:07,361 - INFO - CollectedLinks count for URL /samples/16f7fc7b-d557-4b18-b146-6eb2d9611ece: 1
+2024-10-26 19:53:07,361 - INFO - CollectedLinks instance details: {'name': 'SRR17798710', 'url': '/samples/16f7fc7b-d557-4b18-b146-6eb2d9611ece', 'folder': 'Urinary Tract Infection Microbiome - Neugent et al 2022 - PRJNA801448 - KEPLER', 'job_id': None}
+2024-10-26 19:53:09,680 - INFO - /samples/16f7fc7b-d557-4b18-b146-6eb2d9611ece - Selecting option: Virulence Factors
+2024-10-26 19:53:12,279 - INFO - Clicked 'Export current results' for option: Virulence Factors
+2024-10-26 19:53:13,286 - INFO - Downloaded file: /home/tlabib/Documents/github/cosmosid-scraper-api-zaag/downloads/SRR17798710_vf_table_phylogeny_filtered_2024-10-26_19_53.tsv
+2024-10-26 19:53:13,286 - INFO - Exported Data: {'link_url': '/samples/16f7fc7b-d557-4b18-b146-6eb2d9611ece', 'result': 'Virulence Factors', 'downloaded_file': '/home/tlabib/Documents/github/cosmosid-scraper-api-zaag/downloads/SRR17798710_vf_table_phylogeny_filtered_2024-10-26_19_53.tsv'}
+2024-10-26 19:53:13,286 - INFO - Upsert: Exported Data for Upsert: {'link_url': '/samples/16f7fc7b-d557-4b18-b146-6eb2d9611ece', 'result': 'Virulence Factors', 'taxonomy_level': 'N/A', 'downloaded_file': '/home/tlabib/Documents/github/cosmosid-scraper-api-zaag/downloads/SRR17798710_vf_table_phylogeny_filtered_2024-10-26_19_53.tsv', 'job_id': '89fe21f8-8b8f-46a5-a6df-c1a666f28acb'}
+2024-10-26 19:53:13,292 - INFO - CollectedLinks count for URL /samples/16f7fc7b-d557-4b18-b146-6eb2d9611ece: 1
+2024-10-26 19:53:13,292 - INFO - CollectedLinks instance details: {'name': 'SRR17798710', 'url': '/samples/16f7fc7b-d557-4b18-b146-6eb2d9611ece', 'folder': 'Urinary Tract Infection Microbiome - Neugent et al 2022 - PRJNA801448 - KEPLER', 'job_id': None}
+2024-10-26 19:53:15,644 - INFO - /samples/16f7fc7b-d557-4b18-b146-6eb2d9611ece - Selecting option: Enzyme Commission
+2024-10-26 19:53:18,494 - INFO - Clicked 'Export current results' for option: Enzyme Commission
+2024-10-26 19:53:19,497 - INFO - Downloaded file: /home/tlabib/Documents/github/cosmosid-scraper-api-zaag/downloads/SRR17798710_functional-ec_2024-10-26_19_53.tsv
+2024-10-26 19:53:19,498 - INFO - Exported Data: {'link_url': '/samples/16f7fc7b-d557-4b18-b146-6eb2d9611ece', 'result': 'Enzyme Commission', 'downloaded_file': '/home/tlabib/Documents/github/cosmosid-scraper-api-zaag/downloads/SRR17798710_functional-ec_2024-10-26_19_53.tsv'}
+2024-10-26 19:53:19,498 - INFO - Upsert: Exported Data for Upsert: {'link_url': '/samples/16f7fc7b-d557-4b18-b146-6eb2d9611ece', 'result': 'Enzyme Commission', 'taxonomy_level': 'N/A', 'downloaded_file': '/home/tlabib/Documents/github/cosmosid-scraper-api-zaag/downloads/SRR17798710_functional-ec_2024-10-26_19_53.tsv', 'job_id': '89fe21f8-8b8f-46a5-a6df-c1a666f28acb'}
+2024-10-26 19:53:19,501 - INFO - CollectedLinks count for URL /samples/16f7fc7b-d557-4b18-b146-6eb2d9611ece: 1
+2024-10-26 19:53:19,501 - INFO - CollectedLinks instance details: {'name': 'SRR17798710', 'url': '/samples/16f7fc7b-d557-4b18-b146-6eb2d9611ece', 'folder': 'Urinary Tract Infection Microbiome - Neugent et al 2022 - PRJNA801448 - KEPLER', 'job_id': None}
+2024-10-26 19:53:21,815 - INFO - /samples/16f7fc7b-d557-4b18-b146-6eb2d9611ece - Selecting option: MetaCyc Pathways
+2024-10-26 19:53:23,897 - INFO - Clicked 'Export current results' for option: MetaCyc Pathways
+2024-10-26 19:53:24,900 - INFO - Downloaded file: /home/tlabib/Documents/github/cosmosid-scraper-api-zaag/downloads/SRR17798710_functional-pathway_2024-10-26_19_53.tsv
+2024-10-26 19:53:24,900 - INFO - Exported Data: {'link_url': '/samples/16f7fc7b-d557-4b18-b146-6eb2d9611ece', 'result': 'MetaCyc Pathways', 'downloaded_file': '/home/tlabib/Documents/github/cosmosid-scraper-api-zaag/downloads/SRR17798710_functional-pathway_2024-10-26_19_53.tsv'}
+2024-10-26 19:53:24,900 - INFO - Upsert: Exported Data for Upsert: {'link_url': '/samples/16f7fc7b-d557-4b18-b146-6eb2d9611ece', 'result': 'MetaCyc Pathways', 'taxonomy_level': 'N/A', 'downloaded_file': '/home/tlabib/Documents/github/cosmosid-scraper-api-zaag/downloads/SRR17798710_functional-pathway_2024-10-26_19_53.tsv', 'job_id': '89fe21f8-8b8f-46a5-a6df-c1a666f28acb'}
+2024-10-26 19:53:24,903 - INFO - CollectedLinks count for URL /samples/16f7fc7b-d557-4b18-b146-6eb2d9611ece: 1
+2024-10-26 19:53:24,903 - INFO - CollectedLinks instance details: {'name': 'SRR17798710', 'url': '/samples/16f7fc7b-d557-4b18-b146-6eb2d9611ece', 'folder': 'Urinary Tract Infection Microbiome - Neugent et al 2022 - PRJNA801448 - KEPLER', 'job_id': None}
+2024-10-26 19:53:27,206 - INFO - /samples/16f7fc7b-d557-4b18-b146-6eb2d9611ece - Selecting option: Pfam
+2024-10-26 19:53:29,820 - INFO - Clicked 'Export current results' for option: Pfam
+2024-10-26 19:53:30,826 - INFO - Downloaded file: /home/tlabib/Documents/github/cosmosid-scraper-api-zaag/downloads/SRR17798710_functional-pfam_2024-10-26_19_53.tsv
+2024-10-26 19:53:30,826 - INFO - Exported Data: {'link_url': '/samples/16f7fc7b-d557-4b18-b146-6eb2d9611ece', 'result': 'Pfam', 'downloaded_file': '/home/tlabib/Documents/github/cosmosid-scraper-api-zaag/downloads/SRR17798710_functional-pfam_2024-10-26_19_53.tsv'}
+2024-10-26 19:53:30,826 - INFO - Upsert: Exported Data for Upsert: {'link_url': '/samples/16f7fc7b-d557-4b18-b146-6eb2d9611ece', 'result': 'Pfam', 'taxonomy_level': 'N/A', 'downloaded_file': '/home/tlabib/Documents/github/cosmosid-scraper-api-zaag/downloads/SRR17798710_functional-pfam_2024-10-26_19_53.tsv', 'job_id': '89fe21f8-8b8f-46a5-a6df-c1a666f28acb'}
+2024-10-26 19:53:30,832 - INFO - CollectedLinks count for URL /samples/16f7fc7b-d557-4b18-b146-6eb2d9611ece: 1
+2024-10-26 19:53:30,832 - INFO - CollectedLinks instance details: {'name': 'SRR17798710', 'url': '/samples/16f7fc7b-d557-4b18-b146-6eb2d9611ece', 'folder': 'Urinary Tract Infection Microbiome - Neugent et al 2022 - PRJNA801448 - KEPLER', 'job_id': None}
+2024-10-26 19:53:33,181 - INFO - /samples/16f7fc7b-d557-4b18-b146-6eb2d9611ece - Selecting option: CAZy
+2024-10-26 19:53:35,266 - INFO - Clicked 'Export current results' for option: CAZy
+2024-10-26 19:53:36,273 - INFO - Downloaded file: /home/tlabib/Documents/github/cosmosid-scraper-api-zaag/downloads/SRR17798710_functional-cazy_2024-10-26_19_53.tsv
+2024-10-26 19:53:36,273 - INFO - Exported Data: {'link_url': '/samples/16f7fc7b-d557-4b18-b146-6eb2d9611ece', 'result': 'CAZy', 'downloaded_file': '/home/tlabib/Documents/github/cosmosid-scraper-api-zaag/downloads/SRR17798710_functional-cazy_2024-10-26_19_53.tsv'}
+2024-10-26 19:53:36,274 - INFO - Upsert: Exported Data for Upsert: {'link_url': '/samples/16f7fc7b-d557-4b18-b146-6eb2d9611ece', 'result': 'CAZy', 'taxonomy_level': 'N/A', 'downloaded_file': '/home/tlabib/Documents/github/cosmosid-scraper-api-zaag/downloads/SRR17798710_functional-cazy_2024-10-26_19_53.tsv', 'job_id': '89fe21f8-8b8f-46a5-a6df-c1a666f28acb'}
+2024-10-26 19:53:36,279 - INFO - CollectedLinks count for URL /samples/16f7fc7b-d557-4b18-b146-6eb2d9611ece: 1
+2024-10-26 19:53:36,279 - INFO - CollectedLinks instance details: {'name': 'SRR17798710', 'url': '/samples/16f7fc7b-d557-4b18-b146-6eb2d9611ece', 'folder': 'Urinary Tract Infection Microbiome - Neugent et al 2022 - PRJNA801448 - KEPLER', 'job_id': None}
+2024-10-26 19:53:38,646 - INFO - /samples/16f7fc7b-d557-4b18-b146-6eb2d9611ece - Selecting option: FASTQC
+2024-10-26 19:53:49,976 - ERROR - Failed to click 'Export current results': Message: 
+Stacktrace:
+#0 0x5584d6f6949a <unknown>
+#1 0x5584d6a99d90 <unknown>
+#2 0x5584d6ae5bf6 <unknown>
+#3 0x5584d6ae5e91 <unknown>
+#4 0x5584d6b2ac74 <unknown>
+#5 0x5584d6b09acd <unknown>
+#6 0x5584d6b28077 <unknown>
+#7 0x5584d6b09843 <unknown>
+#8 0x5584d6ad8942 <unknown>
+#9 0x5584d6ad991e <unknown>
+#10 0x5584d6f3713f <unknown>
+#11 0x5584d6f3b0c2 <unknown>
+#12 0x5584d6f25627 <unknown>
+#13 0x5584d6f3b841 <unknown>
+#14 0x5584d6f0c72e <unknown>
+#15 0x5584d6f57c08 <unknown>
+#16 0x5584d6f57e0a <unknown>
+#17 0x5584d6f6814c <unknown>
+#18 0x7f2369a3aac3 <unknown>
+
+2024-10-26 19:53:49,976 - INFO - Upsert: Exported Data for Upsert: {'link_url': '/samples/16f7fc7b-d557-4b18-b146-6eb2d9611ece', 'result': 'FASTQC', 'taxonomy_level': 'N/A', 'downloaded_file': None, 'job_id': '89fe21f8-8b8f-46a5-a6df-c1a666f28acb'}
+2024-10-26 19:53:49,982 - INFO - CollectedLinks count for URL /samples/16f7fc7b-d557-4b18-b146-6eb2d9611ece: 1
+2024-10-26 19:53:49,982 - INFO - CollectedLinks instance details: {'name': 'SRR17798710', 'url': '/samples/16f7fc7b-d557-4b18-b146-6eb2d9611ece', 'folder': 'Urinary Tract Infection Microbiome - Neugent et al 2022 - PRJNA801448 - KEPLER', 'job_id': None}
+2024-10-26 19:53:57,178 - INFO - Dropdown opened successfully.
+2024-10-26 19:53:57,185 - INFO - Dropdown options loaded successfully.
+2024-10-26 19:53:57,215 - INFO - Dropdown options collected: ['Bacteria', 'Viruses', 'Protists', 'Fungi', 'Combined Kingdom Results', 'Antimicrobial Resistance', 'GO Terms', 'Virulence Factors', 'Enzyme Commission', 'MetaCyc Pathways', 'Pfam', 'CAZy', 'FASTQC']
+2024-10-26 19:53:57,224 - INFO - /samples/eb3d23f9-24d9-4d82-ba52-db5fb3904b04 - Selecting option: Bacteria
+2024-10-26 19:53:59,298 - INFO - Clicked 'Export current results' for option: Bacteria
+2024-10-26 19:54:00,305 - INFO - Downloaded file: /home/tlabib/Documents/github/cosmosid-scraper-api-zaag/downloads/SRR17798742_kepler-taxonomy-tree_2024-10-26_19_53.tsv
+2024-10-26 19:54:00,305 - INFO - Exported Data: {'link_url': '/samples/eb3d23f9-24d9-4d82-ba52-db5fb3904b04', 'result': 'Bacteria', 'downloaded_file': '/home/tlabib/Documents/github/cosmosid-scraper-api-zaag/downloads/SRR17798742_kepler-taxonomy-tree_2024-10-26_19_53.tsv'}
+2024-10-26 19:54:00,305 - INFO - Upsert: Exported Data for Upsert: {'link_url': '/samples/eb3d23f9-24d9-4d82-ba52-db5fb3904b04', 'result': 'Bacteria', 'taxonomy_level': 'N/A', 'downloaded_file': '/home/tlabib/Documents/github/cosmosid-scraper-api-zaag/downloads/SRR17798742_kepler-taxonomy-tree_2024-10-26_19_53.tsv', 'job_id': '89fe21f8-8b8f-46a5-a6df-c1a666f28acb'}
+2024-10-26 19:54:00,311 - INFO - CollectedLinks count for URL /samples/eb3d23f9-24d9-4d82-ba52-db5fb3904b04: 1
+2024-10-26 19:54:00,311 - INFO - CollectedLinks instance details: {'name': 'SRR17798742', 'url': '/samples/eb3d23f9-24d9-4d82-ba52-db5fb3904b04', 'folder': 'Urinary Tract Infection Microbiome - Neugent et al 2022 - PRJNA801448 - KEPLER', 'job_id': None}
+2024-10-26 19:54:00,322 - INFO - Expanding Bacteria
+2024-10-26 19:54:00,470 - INFO - Clicked 'Taxonomy switcher' for Bacteria.
+2024-10-26 19:54:04,806 - INFO - Level dropdown opened successfully.
+2024-10-26 19:54:04,811 - INFO - Level dropdown options loaded successfully.
+2024-10-26 19:54:04,834 - INFO - Level dropdown options collected: ['domain', 'kingdom', 'phylum', 'class', 'order', 'family', 'genus', 'species', 'strain']
+2024-10-26 19:54:04,842 - INFO - Selecting Level: domain
+2024-10-26 19:54:06,960 - INFO - Clicked 'Export current results' for Level: domain
+2024-10-26 19:54:07,968 - INFO - Downloaded file: /home/tlabib/Documents/github/cosmosid-scraper-api-zaag/downloads/SRR17798742_kepler-biom_domain_2024-10-26_19_54.tsv
+2024-10-26 19:54:07,968 - INFO - Upsert: Exported Data for Upsert: {'link_url': '/samples/eb3d23f9-24d9-4d82-ba52-db5fb3904b04', 'result': 'Bacteria', 'taxonomy_level': 'domain', 'downloaded_file': '/home/tlabib/Documents/github/cosmosid-scraper-api-zaag/downloads/SRR17798742_kepler-biom_domain_2024-10-26_19_54.tsv', 'job_id': '89fe21f8-8b8f-46a5-a6df-c1a666f28acb'}
+2024-10-26 19:54:07,975 - INFO - CollectedLinks count for URL /samples/eb3d23f9-24d9-4d82-ba52-db5fb3904b04: 1
+2024-10-26 19:54:07,975 - INFO - CollectedLinks instance details: {'name': 'SRR17798742', 'url': '/samples/eb3d23f9-24d9-4d82-ba52-db5fb3904b04', 'folder': 'Urinary Tract Infection Microbiome - Neugent et al 2022 - PRJNA801448 - KEPLER', 'job_id': None}
+2024-10-26 19:54:10,318 - INFO - Selecting Level: kingdom
+2024-10-26 19:54:12,419 - INFO - Clicked 'Export current results' for Level: kingdom
+2024-10-26 19:54:13,425 - INFO - Downloaded file: /home/tlabib/Documents/github/cosmosid-scraper-api-zaag/downloads/SRR17798742_kepler-biom_kingdom_2024-10-26_19_54.tsv
+2024-10-26 19:54:13,426 - INFO - Upsert: Exported Data for Upsert: {'link_url': '/samples/eb3d23f9-24d9-4d82-ba52-db5fb3904b04', 'result': 'Bacteria', 'taxonomy_level': 'kingdom', 'downloaded_file': '/home/tlabib/Documents/github/cosmosid-scraper-api-zaag/downloads/SRR17798742_kepler-biom_kingdom_2024-10-26_19_54.tsv', 'job_id': '89fe21f8-8b8f-46a5-a6df-c1a666f28acb'}
+2024-10-26 19:54:13,431 - INFO - CollectedLinks count for URL /samples/eb3d23f9-24d9-4d82-ba52-db5fb3904b04: 1
+2024-10-26 19:54:13,431 - INFO - CollectedLinks instance details: {'name': 'SRR17798742', 'url': '/samples/eb3d23f9-24d9-4d82-ba52-db5fb3904b04', 'folder': 'Urinary Tract Infection Microbiome - Neugent et al 2022 - PRJNA801448 - KEPLER', 'job_id': None}
+2024-10-26 19:54:15,759 - INFO - Selecting Level: phylum
+2024-10-26 19:54:17,912 - INFO - Clicked 'Export current results' for Level: phylum
+2024-10-26 19:54:53,486 - INFO - collected links length : 69
+2024-10-26 19:54:53,880 - INFO - collected links length : 69
+2024-10-26 19:55:00,400 - INFO - Dropdown opened successfully.
+2024-10-26 19:55:00,413 - INFO - Dropdown options loaded successfully.
+2024-10-26 19:55:00,453 - INFO - Dropdown options collected: ['Bacteria', 'Viruses', 'Protists', 'Fungi', 'Antimicrobial Resistance', 'Respiratory Virus', 'Virulence Factors']
+2024-10-26 19:55:00,462 - INFO - /samples/22ffdf2c-0474-411e-9f99-e09c75440fa2 - Selecting option: Bacteria
+2024-10-26 19:55:01,068 - INFO - Dropdown opened successfully.
+2024-10-26 19:55:01,085 - INFO - Dropdown options loaded successfully.
+2024-10-26 19:55:01,104 - INFO - Dropdown options collected: ['Bacteria', 'Viruses', 'Protists', 'Fungi', 'Antimicrobial Resistance', 'Respiratory Virus', 'Virulence Factors']
+2024-10-26 19:55:01,110 - INFO - /samples/22ffdf2c-0474-411e-9f99-e09c75440fa2 - Selecting option: Bacteria
+2024-10-26 19:55:01,479 - ERROR - Failed to click 'Export current results': Message: no such window: target window already closed
+from unknown error: web view not found
+  (Session info: chrome=130.0.6723.58)
+Stacktrace:
+#0 0x56222c5d849a <unknown>
+#1 0x56222c108d90 <unknown>
+#2 0x56222c0df65f <unknown>
+#3 0x56222c180c5d <unknown>
+#4 0x56222c196a72 <unknown>
+#5 0x56222c178843 <unknown>
+#6 0x56222c147942 <unknown>
+#7 0x56222c14891e <unknown>
+#8 0x56222c5a613f <unknown>
+#9 0x56222c5aa0c2 <unknown>
+#10 0x56222c594627 <unknown>
+#11 0x56222c5aa841 <unknown>
+#12 0x56222c57b72e <unknown>
+#13 0x56222c5c6c08 <unknown>
+#14 0x56222c5c6e0a <unknown>
+#15 0x56222c5d714c <unknown>
+#16 0x7fb07dad2ac3 <unknown>
+
+2024-10-26 19:55:01,479 - INFO - Upsert: Exported Data for Upsert: {'link_url': '/samples/22ffdf2c-0474-411e-9f99-e09c75440fa2', 'result': 'Bacteria', 'taxonomy_level': 'N/A', 'downloaded_file': None, 'job_id': '4e67d5d2-ca5e-44d6-93cf-60bf3e1815eb'}
+2024-10-26 19:55:01,482 - INFO - CollectedLinks count for URL /samples/22ffdf2c-0474-411e-9f99-e09c75440fa2: 1
+2024-10-26 19:55:01,482 - INFO - CollectedLinks instance details: {'name': 'SRR2005669_15_0_R-elb_1_30', 'url': '/samples/22ffdf2c-0474-411e-9f99-e09c75440fa2', 'folder': 'R-elb', 'job_id': None}
+2024-10-26 19:55:01,490 - INFO - Expanding Bacteria
+2024-10-26 19:55:01,491 - ERROR - Failed to click 'Taxonomy switcher' button: Message: no such window: target window already closed
+from unknown error: web view not found
+  (Session info: chrome=130.0.6723.58)
+Stacktrace:
+#0 0x56222c5d849a <unknown>
+#1 0x56222c108d90 <unknown>
+#2 0x56222c0df65f <unknown>
+#3 0x56222c180c5d <unknown>
+#4 0x56222c196a72 <unknown>
+#5 0x56222c178843 <unknown>
+#6 0x56222c147942 <unknown>
+#7 0x56222c14891e <unknown>
+#8 0x56222c5a613f <unknown>
+#9 0x56222c5aa0c2 <unknown>
+#10 0x56222c594627 <unknown>
+#11 0x56222c5aa841 <unknown>
+#12 0x56222c57b72e <unknown>
+#13 0x56222c5c6c08 <unknown>
+#14 0x56222c5c6e0a <unknown>
+#15 0x56222c5d714c <unknown>
+#16 0x7fb07dad2ac3 <unknown>
+
+2024-10-26 19:55:01,492 - ERROR - Failed to load or interact with dropdown options: Message: no such window: target window already closed
+from unknown error: web view not found
+  (Session info: chrome=130.0.6723.58)
+Stacktrace:
+#0 0x56222c5d849a <unknown>
+#1 0x56222c108d90 <unknown>
+#2 0x56222c0df65f <unknown>
+#3 0x56222c180c5d <unknown>
+#4 0x56222c196a72 <unknown>
+#5 0x56222c178843 <unknown>
+#6 0x56222c147942 <unknown>
+#7 0x56222c14891e <unknown>
+#8 0x56222c5a613f <unknown>
+#9 0x56222c5aa0c2 <unknown>
+#10 0x56222c594627 <unknown>
+#11 0x56222c5aa841 <unknown>
+#12 0x56222c57b72e <unknown>
+#13 0x56222c5c6c08 <unknown>
+#14 0x56222c5c6e0a <unknown>
+#15 0x56222c5d714c <unknown>
+#16 0x7fb07dad2ac3 <unknown>
+
+2024-10-26 19:55:01,492 - CRITICAL - An error occurred during get_sample_data(): Message: no such window: target window already closed
+from unknown error: web view not found
+  (Session info: chrome=130.0.6723.58)
+Stacktrace:
+#0 0x56222c5d849a <unknown>
+#1 0x56222c108d90 <unknown>
+#2 0x56222c0df65f <unknown>
+#3 0x56222c180c5d <unknown>
+#4 0x56222c196a72 <unknown>
+#5 0x56222c178843 <unknown>
+#6 0x56222c147942 <unknown>
+#7 0x56222c14891e <unknown>
+#8 0x56222c5a613f <unknown>
+#9 0x56222c5aa0c2 <unknown>
+#10 0x56222c594627 <unknown>
+#11 0x56222c5aa841 <unknown>
+#12 0x56222c57b72e <unknown>
+#13 0x56222c5c6c08 <unknown>
+#14 0x56222c5c6e0a <unknown>
+#15 0x56222c5d714c <unknown>
+#16 0x7fb07dad2ac3 <unknown>
+
+2024-10-26 19:55:02,125 - WARNING - Retrying (Retry(total=2, connect=None, read=None, redirect=None, status=None)) after connection broken by 'NewConnectionError('<urllib3.connection.HTTPConnection object at 0x7f301c088f10>: Failed to establish a new connection: [Errno 111] Connection refused')': /session/aecc5cd57c1b61b855c3e8c78192cd3c/element
+2024-10-26 19:55:02,126 - WARNING - Retrying (Retry(total=1, connect=None, read=None, redirect=None, status=None)) after connection broken by 'NewConnectionError('<urllib3.connection.HTTPConnection object at 0x7f301c0c7430>: Failed to establish a new connection: [Errno 111] Connection refused')': /session/aecc5cd57c1b61b855c3e8c78192cd3c/element
+2024-10-26 19:55:02,126 - WARNING - Retrying (Retry(total=0, connect=None, read=None, redirect=None, status=None)) after connection broken by 'NewConnectionError('<urllib3.connection.HTTPConnection object at 0x7f301c0c75b0>: Failed to establish a new connection: [Errno 111] Connection refused')': /session/aecc5cd57c1b61b855c3e8c78192cd3c/element
+2024-10-26 19:55:02,126 - ERROR - Failed to click 'Export current results': HTTPConnectionPool(host='localhost', port=60709): Max retries exceeded with url: /session/aecc5cd57c1b61b855c3e8c78192cd3c/element (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x7f301c0c7760>: Failed to establish a new connection: [Errno 111] Connection refused'))
+2024-10-26 19:55:02,126 - INFO - Upsert: Exported Data for Upsert: {'link_url': '/samples/22ffdf2c-0474-411e-9f99-e09c75440fa2', 'result': 'Bacteria', 'taxonomy_level': 'N/A', 'downloaded_file': None, 'job_id': '4e67d5d2-ca5e-44d6-93cf-60bf3e1815eb'}
+2024-10-26 19:55:02,130 - INFO - CollectedLinks count for URL /samples/22ffdf2c-0474-411e-9f99-e09c75440fa2: 1
+2024-10-26 19:55:02,130 - INFO - CollectedLinks instance details: {'name': 'SRR2005669_15_0_R-elb_1_30', 'url': '/samples/22ffdf2c-0474-411e-9f99-e09c75440fa2', 'folder': 'R-elb', 'job_id': None}
+2024-10-26 19:55:02,136 - INFO - Expanding Bacteria
+2024-10-26 19:55:02,137 - WARNING - Retrying (Retry(total=2, connect=None, read=None, redirect=None, status=None)) after connection broken by 'NewConnectionError('<urllib3.connection.HTTPConnection object at 0x7f301c0c29a0>: Failed to establish a new connection: [Errno 111] Connection refused')': /session/aecc5cd57c1b61b855c3e8c78192cd3c/element
+2024-10-26 19:55:02,137 - WARNING - Retrying (Retry(total=1, connect=None, read=None, redirect=None, status=None)) after connection broken by 'NewConnectionError('<urllib3.connection.HTTPConnection object at 0x7f301c0c2b50>: Failed to establish a new connection: [Errno 111] Connection refused')': /session/aecc5cd57c1b61b855c3e8c78192cd3c/element
+2024-10-26 19:55:02,137 - WARNING - Retrying (Retry(total=0, connect=None, read=None, redirect=None, status=None)) after connection broken by 'NewConnectionError('<urllib3.connection.HTTPConnection object at 0x7f301c0c2e20>: Failed to establish a new connection: [Errno 111] Connection refused')': /session/aecc5cd57c1b61b855c3e8c78192cd3c/element
+2024-10-26 19:55:02,138 - ERROR - Failed to click 'Taxonomy switcher' button: HTTPConnectionPool(host='localhost', port=60709): Max retries exceeded with url: /session/aecc5cd57c1b61b855c3e8c78192cd3c/element (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x7f301c0c2d90>: Failed to establish a new connection: [Errno 111] Connection refused'))
+2024-10-26 19:55:02,139 - WARNING - Retrying (Retry(total=2, connect=None, read=None, redirect=None, status=None)) after connection broken by 'NewConnectionError('<urllib3.connection.HTTPConnection object at 0x7f301c06acd0>: Failed to establish a new connection: [Errno 111] Connection refused')': /session/aecc5cd57c1b61b855c3e8c78192cd3c/actions
+2024-10-26 19:55:02,139 - WARNING - Retrying (Retry(total=1, connect=None, read=None, redirect=None, status=None)) after connection broken by 'NewConnectionError('<urllib3.connection.HTTPConnection object at 0x7f301c0c2be0>: Failed to establish a new connection: [Errno 111] Connection refused')': /session/aecc5cd57c1b61b855c3e8c78192cd3c/actions
+2024-10-26 19:55:02,139 - WARNING - Retrying (Retry(total=0, connect=None, read=None, redirect=None, status=None)) after connection broken by 'NewConnectionError('<urllib3.connection.HTTPConnection object at 0x7f301c0c2190>: Failed to establish a new connection: [Errno 111] Connection refused')': /session/aecc5cd57c1b61b855c3e8c78192cd3c/actions
+2024-10-26 19:55:02,139 - ERROR - Failed to load or interact with dropdown options: HTTPConnectionPool(host='localhost', port=60709): Max retries exceeded with url: /session/aecc5cd57c1b61b855c3e8c78192cd3c/actions (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x7f301c0c2340>: Failed to establish a new connection: [Errno 111] Connection refused'))
+2024-10-26 19:55:02,140 - WARNING - Retrying (Retry(total=2, connect=None, read=None, redirect=None, status=None)) after connection broken by 'NewConnectionError('<urllib3.connection.HTTPConnection object at 0x7f301e821670>: Failed to establish a new connection: [Errno 111] Connection refused')': /session/aecc5cd57c1b61b855c3e8c78192cd3c/url
+2024-10-26 19:55:02,140 - WARNING - Retrying (Retry(total=1, connect=None, read=None, redirect=None, status=None)) after connection broken by 'NewConnectionError('<urllib3.connection.HTTPConnection object at 0x7f301c0ed5b0>: Failed to establish a new connection: [Errno 111] Connection refused')': /session/aecc5cd57c1b61b855c3e8c78192cd3c/url
+2024-10-26 19:55:02,140 - WARNING - Retrying (Retry(total=0, connect=None, read=None, redirect=None, status=None)) after connection broken by 'NewConnectionError('<urllib3.connection.HTTPConnection object at 0x7f301c0eda00>: Failed to establish a new connection: [Errno 111] Connection refused')': /session/aecc5cd57c1b61b855c3e8c78192cd3c/url
+2024-10-26 19:55:02,140 - CRITICAL - An error occurred during get_sample_data(): HTTPConnectionPool(host='localhost', port=60709): Max retries exceeded with url: /session/aecc5cd57c1b61b855c3e8c78192cd3c/url (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x7f301c0ed310>: Failed to establish a new connection: [Errno 111] Connection refused'))
+2024-10-26 19:55:02,142 - WARNING - Retrying (Retry(total=2, connect=None, read=None, redirect=None, status=None)) after connection broken by 'NewConnectionError('<urllib3.connection.HTTPConnection object at 0x7f301c0c23d0>: Failed to establish a new connection: [Errno 111] Connection refused')': /session/aecc5cd57c1b61b855c3e8c78192cd3c
+2024-10-26 19:55:02,142 - WARNING - Retrying (Retry(total=1, connect=None, read=None, redirect=None, status=None)) after connection broken by 'NewConnectionError('<urllib3.connection.HTTPConnection object at 0x7f301c0ed2e0>: Failed to establish a new connection: [Errno 111] Connection refused')': /session/aecc5cd57c1b61b855c3e8c78192cd3c
+2024-10-26 19:55:02,142 - WARNING - Retrying (Retry(total=0, connect=None, read=None, redirect=None, status=None)) after connection broken by 'NewConnectionError('<urllib3.connection.HTTPConnection object at 0x7f301c0c7670>: Failed to establish a new connection: [Errno 111] Connection refused')': /session/aecc5cd57c1b61b855c3e8c78192cd3c
